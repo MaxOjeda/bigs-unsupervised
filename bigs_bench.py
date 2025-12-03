@@ -15,10 +15,8 @@ from nltk.tokenize import sent_tokenize
 from scipy.spatial.distance import cdist
 from sentence_transformers import SentenceTransformer
 
-# ---- tiny memory helpers (simple & cross-platform-ish) ----
 def _ru_maxrss_mb() -> float:
     ru = resource.getrusage(resource.RUSAGE_SELF)
-    # Linux: KB, macOS/BSD: bytes
     if sys.platform.startswith("linux"):
         return ru.ru_maxrss / 1024.0
     return ru.ru_maxrss / (1024.0 * 1024.0)
@@ -151,12 +149,6 @@ def bigs_scores_hnsw(
     print("X min/max:", X.min(), X.max(), "Y min/max:", Y.min(), Y.max())
 
     d = X.shape[1]
-
-    # en macbook m1 necesitaba agregar esto o daba error:
-    #try:
-    #    faiss.omp_set_num_threads(1)
-    #except Exception:
-    #    pass
 
     print("Calculating BIGS -> ...")
 

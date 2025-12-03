@@ -154,10 +154,8 @@ def bigs_scores_hnsw(
 
 
 
-# ---- tiny memory helpers (simple & cross-platform-ish) ----
 def _ru_maxrss_mb() -> float:
     ru = resource.getrusage(resource.RUSAGE_SELF)
-    # Linux: KB, macOS/BSD: bytes
     if sys.platform.startswith("linux"):
         return ru.ru_maxrss / 1024.0
     return ru.ru_maxrss / (1024.0 * 1024.0)

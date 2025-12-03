@@ -13,9 +13,9 @@ MODELS = ["sentence-transformers/all-mpnet-base-v2", "paraphrase-multilingual-mp
 SPLITS = ["sentences", "chunks"]
 
 CONFIG = {
-    # "japan": ["textualization/japan/langchain/gpt-4o-mini","textualization/japan/langchain/gpt-5", "textualization/japan/langchain/gpt-4-1","textualization/japan/langchain/gpt-5-nano","textualization/japan/original/gpt-4o-mini_full","textualization/japan/original/gpt-5_full","textualization/japan/original/gpt-4-1_full","textualization/japan/original/gpt-5-nano_full"],
+    "japan": ["textualization/japan/langchain/gpt-4o-mini","textualization/japan/langchain/gpt-5", "textualization/japan/langchain/gpt-4-1","textualization/japan/langchain/gpt-5-nano","textualization/japan/original/gpt-4o-mini_full","textualization/japan/original/gpt-5_full","textualization/japan/original/gpt-4-1_full","textualization/japan/original/gpt-5-nano_full"],
 
-    # "croatia": ["textualization/croatia/langchain/gpt-4o-mini","textualization/croatia/langchain/gpt-5", "textualization/croatia/langchain/gpt-4-1","textualization/croatia/langchain/gpt-5-nano","textualization/croatia/original/gpt-4o-mini_full","textualization/croatia/original/gpt-5_full","textualization/croatia/original/gpt-4-1_full","textualization/croatia/original/gpt-5-nano_full"],
+    "croatia": ["textualization/croatia/langchain/gpt-4o-mini","textualization/croatia/langchain/gpt-5", "textualization/croatia/langchain/gpt-4-1","textualization/croatia/langchain/gpt-5-nano","textualization/croatia/original/gpt-4o-mini_full","textualization/croatia/original/gpt-5_full","textualization/croatia/original/gpt-4-1_full","textualization/croatia/original/gpt-5-nano_full"],
 
     "neighbor_japan": ["textualization_neighbors/japan/langchain/gpt-4o-mini","textualization_neighbors/japan/langchain/gpt-5", "textualization_neighbors/japan/langchain/gpt-4-1","textualization_neighbors/japan/langchain/gpt-5-nano","textualization_neighbors/japan/original/gpt-4o-mini_full","textualization_neighbors/japan/original/gpt-5_full","textualization_neighbors/japan/original/gpt-4-1_full","textualization_neighbors/japan/original/gpt-5-nano_full"],
 

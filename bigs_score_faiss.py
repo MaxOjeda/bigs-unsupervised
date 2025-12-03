@@ -263,9 +263,7 @@ if __name__ == "__main__":
     score_l, score_l_std, score_l_med) = bigs
 
     if "neighbor" in args.kg_text_path:
-        #base_name = args.kg_text_path
         args.filename = args.filename.replace("results/", "results/neighbor_")
-        # args.filename = f"{args.filename}.csv"
 
     out_path = Path(args.filename)
     header = ["file", "n_original", "n_generated", "split_type", "model_name", "embedding_dim", "batch_size", "hnsw_M", "ef_construction", "ef_search", "encoding_time_s", "search_time_s", "total_time_s", "encode_mem_delta_mb", "search_mem_delta_mb",
