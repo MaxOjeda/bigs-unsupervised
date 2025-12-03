@@ -1,0 +1,178 @@
+s,p,o
+tokyo,IsContainedIn,japan
+tokyo,IsContainedIn,greater tokyo area
+tokyo,IsContainedIn,haneda airport
+japan,IsContainedIn,japanese archipelago
+japan,IsContainedIn,heian-kyo
+japan,IsContainedIn,kamakura
+japan,IsContainedIn,sapporo
+japan,IsContainedIn,nagano
+japan,IsContainedIn,central japan
+japan,IsContainedIn,heijo-kyo
+japan,IsContainedIn,university of tokyo
+japan,IsContainedIn,karafuto
+japan,IsContainedIn,kurils
+japan,IsContainedIn,lake biwa
+japan,OccursAt,naruhito accession
+japan,OccursAt,temperature record 2025
+japan,OccursAt,japan surrender
+japan,IsRelatedTo,nagasaki bombing
+japan,IsRelatedTo,hiroshima bombing
+japan,IsRelatedTo,pearl harbor attack
+japan,IsRelatedTo,marco polo incident
+japan,IsRelatedTo,korea annexation
+japan,IsRelatedTo,meiji restoration
+japan,OccursAt,perry fleet arrival
+japan,OccursAt,battle of sekigahara
+japan,OccursAt,immigration law enacted
+japan,IsContainedIn,asia
+japan,IsPartOf,quadrilateral security dialogue
+japan,IsPartOf,east asia summit
+japan,IsPartOf,asean plus three
+japan,IsPartOf,apec
+japan,IsPartOf,g4
+japan,IsPartOf,united nations
+japan,IsPartOf,league of nations
+japan,IsPartOf,allies
+japan,IsPartOf,oecd
+japan,IsPartOf,axis powers
+japan,IsPartOf,g7
+japan,IsPartOf,government of japan
+japan,IsPartOf,japan aerospace exploration agency
+japan,IsPartOf,nhk
+japan,IsPartOf,nippon professional baseball (npb)
+japan,IsPartOf,japan professional football league (j.league)
+japan,IsPartOf,kamakura shogunate
+japan,IsPartOf,ashikaga shogunate
+japan,IsPartOf,tokugawa shogunate
+japan,IsPartOf,korea
+japan,IsPartOf,taiwan
+japan,IsPartOf,yamato
+japan,IsPartOf,imperial court of japan
+japan,IsPartOf,ritsuryo state
+japan,IsPartOf,taira clan
+japan,IsPartOf,minamoto clan
+japan,IsPartOf,hojo clan
+japan,IsPartOf,mext
+japan,OccursAt,meiji constitution
+japan,IsRelatedTo,yasunari kawabata
+japan,IsRelatedTo,kenzaburo oe
+japan,IsRelatedTo,ishiro honda
+japan,IsRelatedTo,marco polo
+japan,IsRelatedTo,kenzo tange
+japan,IsRelatedTo,sei shonagon
+japan,IsRelatedTo,murasaki shikibu
+japan,IsRelatedTo,soseki natsume
+japan,IsRelatedTo,ogai mori
+japan,IsRelatedTo,ryunosuke akutagawa
+japan,IsRelatedTo,junichiro tanizaki
+japan,IsRelatedTo,kafu nagai
+japan,IsRelatedTo,haruki murakami
+japan,IsRelatedTo,kenji nakagami
+japan,WasPresentAt,takauji ashikaga
+japan,IsRelatedTo,matthew perry
+japan,WasPresentAt,kamatari fujiwara
+japan,IsRelatedTo,sanae takaichi
+japan,IsRelatedTo,shinzo abe
+japan,IsRelatedTo,fumio kishida
+moon,OccursAt,selene lunar orbit
+moon,OccursAt,selene moon impact
+japanese archipelago,IsContainedIn,ryukyu islands
+japanese archipelago,IsContainedIn,honshu
+japanese archipelago,IsContainedIn,shikoku
+japanese archipelago,IsContainedIn,nanpo islands
+japanese archipelago,IsContainedIn,hokkaido
+japanese archipelago,IsContainedIn,kyushu
+heian-kyo,OccursAt,meiji restoration
+kamakura,WasPresentAt,yoritomo minamoto
+hiroshima,OccursAt,hiroshima bombing
+nagasaki,OccursAt,nagasaki bombing
+edo,WasPresentAt,ieyasu tokugawa
+sekigahara,WasPresentAt,ieyasu tokugawa
+uraga,WasPresentAt,matthew perry
+kanagawa,WasPresentAt,matthew perry
+pearl harbor,OccursAt,pearl harbor attack
+ryukyu islands,IsContainedIn,okinawa
+southern kuril islands,IsContainedIn,russia
+liancourt rocks,IsContainedIn,south korea
+south korea,IsPartOf,asean plus three
+south korea,IsPartOf,oecd
+japan surrender,IsRelatedTo,allies
+nagasaki bombing,IsRelatedTo,united states
+hiroshima bombing,IsRelatedTo,united states
+pearl harbor attack,OccursAt,united states
+marco polo incident,OccursAt,china
+korea annexation,OccursAt,korea
+meiji restoration,IsRelatedTo,tokugawa shogunate
+perry fleet arrival,IsRelatedTo,united states
+perry fleet arrival,IsRelatedTo,tokugawa shogunate
+battle of sekigahara,IsRelatedTo,tokugawa shogunate
+immigration law enacted,IsRelatedTo,government of japan
+quadrilateral security dialogue,IsPartOf,united states
+quadrilateral security dialogue,IsPartOf,australia
+quadrilateral security dialogue,IsPartOf,india
+asean plus three,IsPartOf,china
+united nations,IsPartOf,united nations security council
+united nations,IsPartOf,united nations office on drugs and crime
+allies,IsPartOf,united states
+allies,IsPartOf,soviet union
+allies,IsPartOf,international military tribunal for the far east
+oecd,IsPartOf,programme for international student assessment (pisa)
+axis powers,IsPartOf,nazi germany
+government of japan,IsPartOf,national diet
+government of japan,IsPartOf,prime minister of japan and his cabinet
+government of japan,IsPartOf,imperial household agency
+government of japan,IsPartOf,national diet library
+government of japan,IsPartOf,cabinet of japan
+government of japan,IsPartOf,national security council (japan)
+government of japan,IsPartOf,ministry of the environment of japan
+government of japan,IsRelatedTo,sanae takaichi
+government of japan,IsRelatedTo,shinzo abe
+government of japan,IsRelatedTo,fumio kishida
+china,IsPartOf,hong kong
+china,IsRelatedTo,marco polo
+united states,IsRelatedTo,pearl harbor attack
+united states,IsPartOf,united states navy
+pearl harbor attack,IsRelatedTo,japanese forces
+japan aerospace exploration agency,IsRelatedTo,selene moon impact
+japan aerospace exploration agency,IsRelatedTo,selene lunar orbit
+japan aerospace exploration agency,IsPartOf,international space station
+national diet,IsPartOf,house of representatives of japan
+national diet,IsPartOf,house of councillors of japan
+national diet,IsRelatedTo,sanae takaichi
+kamakura shogunate,IsRelatedTo,yoritomo minamoto
+ashikaga shogunate,IsRelatedTo,takauji ashikaga
+tokugawa shogunate,IsRelatedTo,ieyasu tokugawa
+korea,IsPartOf,empire of japan
+korea,IsRelatedTo,hideyoshi toyotomi
+empire of japan,IsPartOf,cabinet of japan
+empire of japan,IsPartOf,privy council of japan
+empire of japan,IsPartOf,imperial diet of japan
+empire of japan,IsPartOf,taiwan
+empire of japan,IsPartOf,japanese forces
+council of five elders,IsRelatedTo,hideyori toyotomi
+council of five elders,IsRelatedTo,ieyasu tokugawa
+cabinet of japan,IsRelatedTo,meiji constitution
+cabinet of japan,IsRelatedTo,sanae takaichi
+meiji constitution,IsRelatedTo,imperial diet of japan
+united states navy,IsRelatedTo,matthew perry
+british forces,IsRelatedTo,hong kong attack
+british forces,IsRelatedTo,singapore attack
+british forces,IsRelatedTo,malaya attack
+hong kong attack,IsRelatedTo,japanese forces
+hong kong attack,OccursAt,hong kong
+singapore attack,IsRelatedTo,japanese forces
+singapore attack,OccursAt,singapore
+malaya attack,IsRelatedTo,japanese forces
+malaya attack,OccursAt,malaya
+imperial court of japan,IsRelatedTo,kamatari fujiwara
+minamoto clan,IsRelatedTo,yoritomo minamoto
+liberal democratic party,IsRelatedTo,sanae takaichi
+ishin,IsRelatedTo,sanae takaichi
+japan self-defense forces,IsPartOf,japan ground self-defense force
+japan self-defense forces,IsPartOf,japan maritime self-defense force
+japan self-defense forces,IsPartOf,japan air self-defense force
+japan self-defense forces,IsRelatedTo,shinzo abe
+japan self-defense forces,IsRelatedTo,fumio kishida
+prefectural police departments,IsPartOf,national police agency
+national police agency,IsPartOf,national public safety commission

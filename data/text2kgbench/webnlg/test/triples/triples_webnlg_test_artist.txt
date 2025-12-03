@@ -1,0 +1,252 @@
+Aaron_Deer | genre | Indie_rock
+Aaron_Deer | instrument | Bass_guitar
+Indie_rock | stylisticOrigin | New_wave_music
+Aaron_Deer | genre | Indie_rock
+Aaron_Deer | origin | Indianapolis
+Aaron_Deer | origin | Indiana
+Aaron_Deer | genre | Indie_rock
+Aaron_Deer | origin | Indianapolis
+Aaron_Deer | origin | United_States
+Aaron_Deer | genre | Indie_rock
+Indie_rock | instrument | Guitar
+Indie_rock | stylisticOrigin | New_wave_music
+Aaron_Deer | genre | Indie_rock
+Indie_rock | stylisticOrigin | Garage_rock
+Aaron_Deer | instrument | Bass_guitar
+Aaron_Deer | genre | Indie_rock
+Indie_rock | stylisticOrigin | Garage_rock
+Aaron_Deer | instrument | Guitar
+Aaron_Deer | genre | Indie_rock
+Indie_rock | stylisticOrigin | Garage_rock
+Aaron_Deer | instrument | Keyboard_instrument
+Aaron_Deer | genre | Indie_rock
+Indie_rock | stylisticOrigin | Garage_rock
+Indie_rock | instrument | Guitar
+Aaron_Deer | genre | Indie_rock
+Indie_rock | stylisticOrigin | New_wave_music
+Aaron_Deer | instrument | Guitar
+Aaron_Deer | genre | Indie_rock
+Indie_rock | stylisticOrigin | New_wave_music
+Aaron_Deer | instrument | Keyboard_instrument
+Aaron_Deer | genre | Indie_rock
+Indie_rock | stylisticOrigin | New_wave_music
+Aaron_Deer | instrument | Piano
+Aaron_Deer | genre | Indie_rock
+Indie_rock | stylisticOrigin | New_wave_music
+Aaron_Deer | instrument | Singing
+Aaron_Deer | genre | Psychedelia
+Aaron_Deer | origin | Indianapolis
+Aaron_Deer | origin | Indiana
+Aaron_Deer | origin | United_States
+Aaron_Deer | genre | Psychedelia
+Aaron_Deer | origin | Indianapolis
+Agustín_Barboza | background | solo_singer
+Agustín_Barboza | genre | Guarania_(music)
+Agustín_Barboza | birthDate | 1913-05-05
+Agustín_Barboza | birthPlace | Asunción
+Paraguay | leader | Juan_Afara
+Agustín_Barboza | deathPlace | Paraguay
+Agustín_Barboza | birthPlace | Paraguay
+Agustín_Barboza | recordLabel | Philips_Records
+Agustín_Barboza | birthPlace | Asunción
+Agustín_Barboza | deathPlace | Asunción
+Asunción | isPartOf | Gran_Asunción
+Agustín_Barboza | birthPlace | Paraguay
+Agustín_Barboza | deathPlace | Asunción
+Paraguay | leader | Juan_Afara
+Agustín_Barboza | birthPlace | Paraguay
+Agustín_Barboza | deathPlace | Asunción
+Paraguay | leader | Juan_Afara
+Agustín_Barboza | deathPlace | Paraguay
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | The_Wildweeds
+Al_Anderson_(NRBQ band) | birthDate | 1947-03-13
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | The_Wildweeds
+Al_Anderson_(NRBQ band) | birthPlace | United_States
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | The_Wildweeds
+Al_Anderson_(NRBQ band) | birthPlace | Windsor,_Connecticut
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | The_Wildweeds
+Al_Anderson_(NRBQ band) | genre | Country_music
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | The_Wildweeds
+Al_Anderson_(NRBQ band) | genre | Rock_music
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ
+Al_Anderson_(NRBQ band) | instrument | Guitar
+Al_Anderson_(NRBQ band) | genre | Rock_music
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ
+NRBQ | genre | Country_music
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | The_Wildweeds
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ
+Rock_music | musicFusionGenre | Bhangra_(music)
+Al_Anderson_(NRBQ band) | genre | Rock_music
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | The_Wildweeds
+Al_Anderson_(NRBQ band) | instrument | Guitar
+Al_Anderson_(NRBQ band) | genre | Rock_music
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | The_Wildweeds
+Al_Anderson_(NRBQ band) | instrument | Singing
+Al_Anderson_(NRBQ band) | genre | Rock_music
+Alan_Frew | genre | Rock_music
+Rock_music | stylisticOrigin | Blues
+Rock_music | musicFusionGenre | Bhangra_(music)
+Alan_Frew | genre | Rock_music
+Rock_music | stylisticOrigin | Blues
+Rock_music | stylisticOrigin | Folk_music
+Alan_Frew | genre | Rock_music
+Rock_music | stylisticOrigin | Country_music
+Rock_music | stylisticOrigin | Blues
+Alan_Frew | genre | Rock_music
+Rock_music | stylisticOrigin | Folk_music
+Rock_music | musicFusionGenre | Bhangra_(music)
+Alan_Frew | origin | Canada
+Alan_Frew | background | solo_singer
+Alan_Frew | origin | Newmarket,_Ontario
+Alan_Frew | origin | Canada
+Alan_Frew | origin | Newmarket,_Ontario
+Alan_Frew | associatedBand/associatedMusicalArtist | Glass_Tiger
+Alan_Frew | origin | Newmarket,_Ontario
+Alan_Frew | origin | Canada
+Alan_Frew | activeYearsStartYear | 1983
+Alfredo_Zitarrosa | deathPlace | Montevideo
+Montevideo | country | Uruguay
+Montevideo | leader | Daniel_Martínez_(politician)
+Alfredo_Zitarrosa | genre | Candombe
+Alfredo_Zitarrosa | recordLabel | Odeon_Records
+Alfredo_Zitarrosa | background | solo_singer
+Alfredo_Zitarrosa | genre | Candombe
+Alfredo_Zitarrosa | recordLabel | Orfeo_(Uruguayan_record_label)
+Alfredo_Zitarrosa | background | solo_singer
+Alfredo_Zitarrosa | genre | Milonga_(music)
+Alfredo_Zitarrosa | recordLabel | Odeon_Records
+Alfredo_Zitarrosa | background | solo_singer
+Alfredo_Zitarrosa | genre | Zamba_(artform)
+Alfredo_Zitarrosa | recordLabel | Odeon_Records
+Alfredo_Zitarrosa | background | solo_singer
+Alfredo_Zitarrosa | recordLabel | RCA_Records
+Alfredo_Zitarrosa | background | solo_singer
+Alfredo_Zitarrosa | genre | Candombe
+Alfredo_Zitarrosa | recordLabel | RCA_Records
+Alfredo_Zitarrosa | background | solo_singer
+Alfredo_Zitarrosa | genre | Milonga_(music)
+Alternative_rock | musicFusionGenre | Nu_metal
+Alternative_rock | musicSubgenre | Christian_alternative_rock
+Andrew_White_(musician) | genre | Alternative_rock
+Alternative_rock | musicFusionGenre | Nu_metal
+Alternative_rock | stylisticOrigin | Punk_rock
+Andrew_White_(musician) | genre | Alternative_rock
+Alternative_rock | stylisticOrigin | Punk_rock
+Andrew_White_(musician) | genre | Alternative_rock
+Alternative_rock | stylisticOrigin | New_wave_music
+Anders_Osborne | recordLabel | Alligator_Records
+Anders_Osborne | genre | Rock_music
+Rock_music | musicFusionGenre | Bhangra_(music)
+Anders_Osborne | recordLabel | Alligator_Records
+Anders_Osborne | recordLabel | Rabadash_Records
+Anders_Osborne | genre | Rock_music
+Anders_Osborne | recordLabel | Alligator_Records
+Anders_Osborne | recordLabel | Shanachie_Records
+Anders_Osborne | genre | Rock_music
+Anders_Osborne | recordLabel | Okeh_Records
+Anders_Osborne | genre | Rock_music
+Anders_Osborne | recordLabel | Rabadash_Records
+Anders_Osborne | recordLabel | Okeh_Records
+Anders_Osborne | genre | Rock_music
+Rock_music | musicFusionGenre | Bhangra_(music)
+Anders_Osborne | recordLabel | Shanachie_Records
+Anders_Osborne | genre | Rock_music
+Rock_music | musicFusionGenre | Bhangra_(music)
+Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Kaiser_Chiefs
+Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Marry_Banilow
+Andrew_White_(musician) | genre | Alternative_rock
+Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Kaiser_Chiefs
+Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Marry_Banilow
+Andrew_White_(musician) | recordLabel | B-Unique_Records
+Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Kaiser_Chiefs
+Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Marry_Banilow
+Andrew_White_(musician) | recordLabel | Fiction
+Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Marry_Banilow
+Andrew_White_(musician) | associatedBand/associatedMusicalArtist | Kaiser_Chiefs
+Andrew_White_(musician) | activeYearsStartYear | 2003
+Asunción | isPartOf | Gran_Asunción
+Agustín_Barboza | birthPlace | Asunción
+Agustín_Barboza | deathPlace | Paraguay
+Asunción | isPartOf | Gran_Asunción
+Agustín_Barboza | deathPlace | Asunción
+Agustín_Barboza | deathPlace | Paraguay
+Montevideo | country | Uruguay
+Alfredo_Zitarrosa | birthPlace | Montevideo
+Montevideo | leader | Daniel_Martínez_(politician)
+Polydor_Records | location | London
+Andrew_White_(musician) | recordLabel | Polydor_Records
+Andrew_White_(musician) | recordLabel | B-Unique_Records
+Polydor_Records | location | London
+Andrew_White_(musician) | recordLabel | Polydor_Records
+Andrew_White_(musician) | recordLabel | Fiction
+Polydor_Records | location | London
+Andrew_White_(musician) | recordLabel | Polydor_Records
+Andrew_White_(musician) | recordLabel | Universal_Records_(defunct_record_label)
+Rock_music | musicFusionGenre | Bhangra_(music)
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | The_Wildweeds
+Al_Anderson_(NRBQ band) | genre | Rock_music
+Rock_music | musicFusionGenre | Bhangra_(music)
+Al_Anderson_(NRBQ band) | genre | Rock_music
+Rock_music | stylisticOrigin | Blues
+Rock_music | musicFusionGenre | Bhangra_(music)
+Al_Anderson_(NRBQ band) | genre | Rock_music
+Rock_music | stylisticOrigin | Country_music
+Rock_music | musicFusionGenre | Bhangra_(music)
+Al_Anderson_(NRBQ band) | instrument | Guitar
+Al_Anderson_(NRBQ band) | genre | Rock_music
+Rock_music | musicFusionGenre | Bhangra_(music)
+Al_Anderson_(NRBQ band) | instrument | Singing
+Al_Anderson_(NRBQ band) | genre | Rock_music
+Uruguay | leader | Raúl_Fernando_Sendic_Rodríguez
+Alfredo_Zitarrosa | birthPlace | Montevideo
+Alfredo_Zitarrosa | deathPlace | Uruguay
+Uruguay | leader | Raúl_Fernando_Sendic_Rodríguez
+Alfredo_Zitarrosa | deathPlace | Montevideo
+Alfredo_Zitarrosa | birthPlace | Uruguay
+Uruguay | leader | Raúl_Fernando_Sendic_Rodríguez
+Alfredo_Zitarrosa | deathPlace | Montevideo
+Montevideo | country | Uruguay
+Uruguay | leader | Raúl_Fernando_Sendic_Rodríguez
+Montevideo | country | Uruguay
+Alfredo_Zitarrosa | birthPlace | Montevideo
+Uruguay | leader | Tabaré_Vázquez
+Alfredo_Zitarrosa | birthPlace | Montevideo
+Alfredo_Zitarrosa | deathPlace | Uruguay
+Uruguay | leader | Tabaré_Vázquez
+Alfredo_Zitarrosa | deathPlace | Montevideo
+Alfredo_Zitarrosa | birthPlace | Uruguay
+Uruguay | leader | Tabaré_Vázquez
+Alfredo_Zitarrosa | deathPlace | Montevideo
+Montevideo | country | Uruguay
+Uruguay | leader | Tabaré_Vázquez
+Montevideo | country | Uruguay
+Alfredo_Zitarrosa | birthPlace | Montevideo
+Aaron_Deer | genre | Indie_rock
+Aaron_Deer | origin | Indiana
+Aaron_Deer | origin | United_States
+Agustín_Barboza | background | solo_singer
+Agustín_Barboza | genre | Guarania_(music)
+Agustín_Barboza | recordLabel | Philips_Records
+Agustín_Barboza | birthPlace | Paraguay
+Agustín_Barboza | birthDate | 1913-05-05
+Agustín_Barboza | birthPlace | Asunción
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | NRBQ
+Al_Anderson_(NRBQ band) | associatedBand/associatedMusicalArtist | The_Wildweeds
+Al_Anderson_(NRBQ band) | activeYearsStartYear | 1966
+Alan_Frew | genre | Rock_music
+Rock_music | stylisticOrigin | Country_music
+Rock_music | stylisticOrigin | Folk_music
+Alfredo_Zitarrosa | recordLabel | RCA_Records
+Alfredo_Zitarrosa | genre | Zamba_(artform)
+Alfredo_Zitarrosa | background | solo_singer
+Anders_Osborne | associatedBand/associatedMusicalArtist | Billy_Iuso
+Anders_Osborne | associatedBand/associatedMusicalArtist | Voice_of_the_Wetlands_All-Stars
+Anders_Osborne | associatedBand/associatedMusicalArtist | Tab_Benoit
+Anders_Osborne | recordLabel | Alligator_Records
+Anders_Osborne | recordLabel | Okeh_Records
+Anders_Osborne | genre | Rock_music

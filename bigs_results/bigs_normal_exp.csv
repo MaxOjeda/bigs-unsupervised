@@ -1,0 +1,7 @@
+file,samples,model_name,embedding_dim,batch_size,hnsw_M,ef_construction,ef_search,encode_time_s,search_time_s,total_time_s,encode_mem_delta_mb,search_mem_delta_mb,bigs_r_mean,bigs_r_std,bigs_r_med,bigs_l_mean,bigs_l_std,bigs_l_med
+quadruples-train-50000.tsv,50000,sentence-transformers/all-mpnet-base-v2,768,256,16,200,128,26.8185,70.3413,97.1598,847.22,282.86,0.284516,0.11545,0.271387,0.287205,0.118764,0.27227
+quadruples-train-100000.tsv,100000,sentence-transformers/all-mpnet-base-v2,768,256,16,200,128,53.0354,166.4324,219.4678,762.6,564.33,0.281164,0.111405,0.270231,0.284753,0.115504,0.271647
+quadruples-train-200000.tsv,200000,sentence-transformers/all-mpnet-base-v2,768,256,16,200,128,106.2563,372.512,478.7683,1514.7,1124.14,0.277737,0.108075,0.268549,0.282147,0.112635,0.270569
+quadruples-train-400000.tsv,400000,sentence-transformers/all-mpnet-base-v2,768,256,16,200,128,216.0261,811.9796,1028.0057,3026.25,2245.89,0.272501,0.103577,0.264779,0.278926,0.109404,0.268887
+quadruples-train-800000.tsv,800000,sentence-transformers/all-mpnet-base-v2,768,256,16,200,128,436.1139,1764.0959,2200.2099,6075.08,4425.33,0.268046,0.1006,0.26123,0.275942,0.106516,0.267264
+quadruples-train-1600000.tsv,1600000,sentence-transformers/all-mpnet-base-v2,768,256,16,200,128,878.2044,3811.9112,4690.1156,12132.47,8917.38,0.261854,0.096893,0.255456,0.272214,0.103677,0.264539

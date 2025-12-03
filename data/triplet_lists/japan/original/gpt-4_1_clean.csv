@@ -1,0 +1,436 @@
+s,p,o
+japan,IsRelatedTo,naruhito ascends throne
+japan,IsRelatedTo,abdication of emperor akihito
+japan,IsRelatedTo,tokyo earthquake
+japan,OccursAt,great hanshin earthquake
+japan,IsRelatedTo,fukushima nuclear disaster
+japan,IsRelatedTo,tohoku earthquake
+japan,OccursAt,japan joins un
+japan,OccursAt,allied occupation ends
+japan,OccursAt,new constitution adoption
+japan,OccursAt,japan unconditional surrender
+japan,IsRelatedTo,nagasaki atomic bombing
+japan,IsRelatedTo,hiroshima atomic bombing
+japan,OccursAt,41.8c temperature record
+japan,OccursAt,japan inbound tourism record
+japan,OccursAt,abe's security policy statement
+japan,OccursAt,quad is reformed
+japan,OccursAt,free and open indo-pacific announced
+japan,OccursAt,cancer accounts 2018 deaths
+japan,OccursAt,cancer as top cause
+japan,OccursAt,japan surrenders wwii
+japan,IsRelatedTo,attack on pearl harbor
+japan,IsRelatedTo,"['second sino-japanese war begins', 'invasion of china']"
+japan,IsRelatedTo,annexation of korea
+japan,IsRelatedTo,fifa women's world cup win
+japan,OccursAt,"['2002 fifa world cup japan', '2002 fifa world cup']"
+japan,IsRelatedTo,sendai plant restarted
+japan,OccursAt,all nuclear plants offline
+japan,IsRelatedTo,fukushima daiichi nuclear disaster
+japan,IsContainedIn,unesco world heritage list
+japan,IsPartOf,global peace index
+japan,IsPartOf,quadrilateral security dialogue
+japan,IsPartOf,east asia summit
+japan,IsPartOf,asean plus three
+japan,IsPartOf,apec
+japan,IsPartOf,g7
+japan,IsPartOf,g4 countries
+japan,IsPartOf,government of japan
+japan,IsPartOf,jr enterprises
+japan,IsPartOf,kintetsu
+japan,IsPartOf,seibu railway
+japan,IsPartOf,keio corporation
+japan,IsPartOf,toyota
+japan,IsPartOf,japan aerospace exploration agency
+japan,IsContainedIn,international space station
+japan,IsPartOf,mitsubishi ufj
+japan,IsPartOf,ntt
+japan,IsPartOf,aeon
+japan,IsPartOf,softbank
+japan,IsPartOf,hitachi
+japan,IsPartOf,itochu
+japan,IsPartOf,nhk
+japan,IsPartOf,nippon professional baseball
+japan,IsPartOf,japan professional football league
+japan,IsPartOf,kamakura shogunate
+japan,IsPartOf,ashikaga shogunate
+japan,IsPartOf,national and local governments
+japan,IsPartOf,imperial court
+japan,IsPartOf,mext
+japan,IsPartOf,university of tokyo
+japan,IsContainedIn,sendai nuclear power plant
+japan,IsContainedIn,fukushima daiichi nuclear power plant
+japan,IsContainedIn,greater tokyo area
+japan,IsContainedIn,tanegashima space center
+japan,IsContainedIn,ryukyu kingdom
+japan,IsContainedIn,nara
+japan,IsContainedIn,heian-kyo
+japan,IsContainedIn,kamakura
+japan,IsContainedIn,ashikaga
+japan,IsContainedIn,hiroshima
+japan,IsContainedIn,nagasaki
+japan,IsContainedIn,sapporo
+japan,IsContainedIn,nagano
+japan,IsContainedIn,edo
+japan,IsContainedIn,osaka
+japan,IsContainedIn,uraga
+japan,IsContainedIn,kanagawa
+japan,IsContainedIn,heijo-kyo
+japan,IsContainedIn,ryukyu islands
+japan,IsContainedIn,senkaku islands
+japan,IsContainedIn,okinotorishima
+japan,IsContainedIn,honshu
+japan,IsContainedIn,shikoku
+japan,IsContainedIn,pacific coast
+japan,IsContainedIn,nanpo islands
+japan,IsContainedIn,ryukyu
+japan,IsContainedIn,hokkaido
+japan,IsContainedIn,kyushu
+japan,IsContainedIn,lake biwa
+japan,IsRelatedTo,yasunari kawabata
+japan,IsRelatedTo,kenzaburo oe
+japan,IsRelatedTo,ishiro honda
+japan,IsRelatedTo,marco polo
+japan,IsRelatedTo,sei shonagon
+japan,IsRelatedTo,murasaki shikibu
+japan,IsRelatedTo,natsume soseki
+japan,IsRelatedTo,mori ogai
+japan,IsRelatedTo,ryunosuke akutagawa
+japan,IsRelatedTo,junichiro tanizaki
+japan,IsRelatedTo,kafu nagai
+japan,IsRelatedTo,haruki murakami
+japan,IsRelatedTo,kenji nakagami
+japan,IsRelatedTo,kenzo tange
+japan,WasPresentAt,go daigo
+japan,WasPresentAt,ashikaga takauji
+japan,WasPresentAt,oda nobunaga
+japan,WasPresentAt,toyotomi hideyoshi
+japan,WasPresentAt,toyotomi hideyori
+japan,WasPresentAt,tokugawa ieyasu
+japan,WasPresentAt,go yozei
+japan,IsRelatedTo,jimmu emperor
+japan,WasPresentAt,shotoku prince
+japan,WasPresentAt,naka no ooe
+japan,WasPresentAt,fujiwara no kamatari
+japan,WasPresentAt,oama prince
+japan,WasPresentAt,ootomo prince
+japan,WasPresentAt,go-daigo emperor
+japan,IsRelatedTo,sanae takaichi
+japan,IsRelatedTo,shinzo abe
+japan,IsRelatedTo,fumio kishida
+japan,IsRelatedTo,naruhito unspecified
+japan,IsRelatedTo,akihito unspecified
+japan,OccursAt,revised immigration law enacted
+japan,OccursAt,american fleet opens japan
+japan,OccursAt,imperial restoration
+japan,OccursAt,jleague established
+japan,OccursAt,2011 women's world cup win
+japan,OccursAt,basketball world championship 2006
+japan,OccursAt,basketball world championship 2023
+japan,OccursAt,2019 rugby world cup
+japan,OccursAt,mongol invasion repelled
+japan,OccursAt,"['ashikaga defeats go-daigo', 'go-daigo defeated']"
+japan,OccursAt,onset of sengoku period
+japan,OccursAt,death of oda nobunaga
+japan,OccursAt,"['battle of sekigahara', 'tokugawa unification']"
+japan,OccursAt,sakoku policy enacted
+japan,OccursAt,convention of kanagawa
+japan,OccursAt,meiji constitution introduced
+japan,OccursAt,japan resigns from league
+japan,OccursAt,"['anti-comintern pact signed', 'npb established']"
+japan,OccursAt,tripartite pact signed
+japan,OccursAt,introduction of buddhism
+japan,OccursAt,taika reforms
+japan,OccursAt,jinshin war
+japan,OccursAt,genpei war ends
+japan,OccursAt,"['second mongol invasion repelled', 'mongol invasion repelled']"
+japan,OccursAt,2014 ainu language report
+japan,OccursAt,2016 muslim population report
+japan,OccursAt,"['2018 mosques and muslims report', '2018 christian population report']"
+japan,OccursAt,2016 integrated schooling start
+japan,OccursAt,2021 education gdp report
+japan,OccursAt,2023 tertiary education ranking
+japan,OccursAt,takaichi becomes prime minister
+japan,OccursAt,kishida orders budget increase
+japan,OccursAt,abe responsibilities speech
+japan,OccursAt,kishida defense spending instruction
+japan,OccursAt,un violent crime statistics report
+japan,OccursAt,takaichi becomes prime minister
+naruhito ascends throne,OccursAt,tokyo
+abdication of emperor akihito,OccursAt,tokyo
+tokyo earthquake,OccursAt,tokyo
+fukushima nuclear disaster,OccursAt,fukushima daiichi nuclear disaster
+tohoku earthquake,OccursAt,tohoku
+japan unconditional surrender,IsRelatedTo,korea
+japan unconditional surrender,IsRelatedTo,taiwan
+nagasaki atomic bombing,IsRelatedTo,united states
+nagasaki atomic bombing,OccursAt,nagasaki
+hiroshima atomic bombing,IsRelatedTo,united states
+hiroshima atomic bombing,OccursAt,hiroshima
+41.8c temperature record,IsRelatedTo,unesco
+41.8c temperature record,IsRelatedTo,environment ministry
+41.8c temperature record,IsRelatedTo,ramsar
+41.8c temperature record,IsRelatedTo,naruhito unspecified
+japan inbound tourism record,IsRelatedTo,g7
+japan inbound tourism record,IsRelatedTo,china
+japan inbound tourism record,IsRelatedTo,united states
+japan inbound tourism record,IsRelatedTo,australia
+abe's security policy statement,IsRelatedTo,shinzo abe
+quad is reformed,IsRelatedTo,quadrilateral security dialogue
+attack on pearl harbor,IsRelatedTo,axis power
+attack on pearl harbor,OccursAt,united states
+"['second sino-japanese war begins', 'invasion of china']",IsRelatedTo,empire of japan
+"['second sino-japanese war begins', 'invasion of china']",OccursAt,china
+annexation of korea,IsRelatedTo,empire of japan
+annexation of korea,OccursAt,korea
+fifa women's world cup win,OccursAt,asia
+"['2002 fifa world cup japan', '2002 fifa world cup']",IsRelatedTo,japan professional football league
+"['2002 fifa world cup japan', '2002 fifa world cup']",IsRelatedTo,fifa
+"['2002 fifa world cup japan', '2002 fifa world cup']",IsRelatedTo,asian cup
+"['2002 fifa world cup japan', '2002 fifa world cup']",IsRelatedTo,ishiro honda
+"['2002 fifa world cup japan', '2002 fifa world cup']",OccursAt,south korea
+sendai plant restarted,IsRelatedTo,government of japan
+sendai plant restarted,OccursAt,sendai nuclear power plant
+fukushima daiichi nuclear disaster,OccursAt,fukushima daiichi nuclear power plant
+government of japan,IsRelatedTo,takaichi becomes prime minister
+government of japan,IsRelatedTo,kishida orders budget increase
+government of japan,IsRelatedTo,revised immigration law enacted
+government of japan,IsPartOf,prime minister of japan and his cabinet
+government of japan,IsPartOf,imperial household agency
+government of japan,IsPartOf,national diet library
+government of japan,IsPartOf,national security council
+government of japan,IsPartOf,environment ministry
+government of japan,IsRelatedTo,sanae takaichi
+government of japan,IsRelatedTo,shinzo abe
+government of japan,IsRelatedTo,fumio kishida
+takaichi becomes prime minister,IsRelatedTo,national diet
+takaichi becomes prime minister,IsRelatedTo,liberal democratic party
+takaichi becomes prime minister,IsRelatedTo,ishin
+takaichi becomes prime minister,IsRelatedTo,house of representatives
+takaichi becomes prime minister,IsRelatedTo,house of councillors
+takaichi becomes prime minister,IsRelatedTo,sanae takaichi
+kishida orders budget increase,IsRelatedTo,fumio kishida
+japanese railway companies,IsPartOf,jr enterprises
+japanese railway companies,IsPartOf,kintetsu
+japanese railway companies,IsPartOf,seibu railway
+japanese railway companies,IsPartOf,keio corporation
+japan aerospace exploration agency,IsRelatedTo,selene crashed on moon
+japan aerospace exploration agency,IsRelatedTo,selene enters lunar orbit
+japan aerospace exploration agency,IsRelatedTo,selene lunar launch
+japan aerospace exploration agency,IsPartOf,international space station
+selene crashed on moon,OccursAt,moon
+selene enters lunar orbit,OccursAt,moon
+selene lunar launch,OccursAt,tanegashima space center
+nippon professional baseball,IsRelatedTo,"['anti-comintern pact signed', 'npb established']"
+"['anti-comintern pact signed', 'npb established']",IsRelatedTo,empire of japan
+"['anti-comintern pact signed', 'npb established']",IsRelatedTo,nazi germany
+"['anti-comintern pact signed', 'npb established']",IsRelatedTo,anti-comintern pact
+japan professional football league,IsRelatedTo,jleague established
+national diet,IsPartOf,house of representatives
+national diet,IsPartOf,house of councillors
+shogunate,IsRelatedTo,american fleet opens japan
+shogunate,IsPartOf,tokugawa shogunate
+shogunate,IsPartOf,kamakura shogunate
+shogunate,IsPartOf,ashikaga shogunate
+american fleet opens japan,IsRelatedTo,tokugawa shogunate
+tokugawa shogunate,IsRelatedTo,"['battle of sekigahara', 'tokugawa unification']"
+tokugawa shogunate,IsRelatedTo,sakoku policy enacted
+tokugawa shogunate,IsRelatedTo,tokugawa made shogun
+tokugawa shogunate,IsRelatedTo,imperial restoration
+tokugawa shogunate,IsRelatedTo,tokugawa ieyasu
+"['battle of sekigahara', 'tokugawa unification']",IsRelatedTo,kamakura shogunate
+"['battle of sekigahara', 'tokugawa unification']",IsRelatedTo,ashikaga shogunate
+"['battle of sekigahara', 'tokugawa unification']",IsRelatedTo,daimyo
+"['battle of sekigahara', 'tokugawa unification']",IsRelatedTo,samurai
+"['battle of sekigahara', 'tokugawa unification']",IsRelatedTo,council of five elders
+"['battle of sekigahara', 'tokugawa unification']",IsRelatedTo,toyotomi hideyori
+"['battle of sekigahara', 'tokugawa unification']",IsRelatedTo,tokugawa ieyasu
+sakoku policy enacted,IsRelatedTo,tokugawa ieyasu
+tokugawa made shogun,IsRelatedTo,tokugawa ieyasu
+tokugawa made shogun,IsRelatedTo,go yozei
+tokugawa made shogun,OccursAt,edo
+kamakura shogunate,IsRelatedTo,"['second mongol invasion repelled', 'mongol invasion repelled']"
+kamakura shogunate,IsRelatedTo,genpei war ends
+kamakura shogunate,IsRelatedTo,mongol invasion repelled
+kamakura shogunate,IsRelatedTo,go daigo
+kamakura shogunate,IsRelatedTo,yoritomo minamoto
+kamakura shogunate,IsRelatedTo,go-daigo emperor
+genpei war ends,IsRelatedTo,yoritomo minamoto
+ashikaga shogunate,IsRelatedTo,"['ashikaga defeats go-daigo', 'go-daigo defeated']"
+ashikaga shogunate,IsRelatedTo,onset of sengoku period
+ashikaga shogunate,IsRelatedTo,go daigo
+ashikaga shogunate,IsRelatedTo,ashikaga takauji
+ashikaga shogunate,IsRelatedTo,takauji ashikaga
+"['ashikaga defeats go-daigo', 'go-daigo defeated']",IsRelatedTo,go daigo
+"['ashikaga defeats go-daigo', 'go-daigo defeated']",IsRelatedTo,ashikaga takauji
+"['ashikaga defeats go-daigo', 'go-daigo defeated']",IsRelatedTo,go-daigo emperor
+"['ashikaga defeats go-daigo', 'go-daigo defeated']",IsRelatedTo,takauji ashikaga
+fifa women's world cup,IsRelatedTo,2011 women's world cup win
+olympics,IsRelatedTo,tokyo summer olympics 2020
+olympics,IsRelatedTo,nagano winter olympics
+olympics,IsRelatedTo,sapporo winter olympics
+olympics,IsRelatedTo,tokyo summer olympics 1964
+tokyo summer olympics 2020,OccursAt,tokyo
+nagano winter olympics,OccursAt,nagano
+sapporo winter olympics,OccursAt,sapporo
+tokyo summer olympics 1964,IsRelatedTo,women's volleyball world championship
+tokyo summer olympics 1964,OccursAt,tokyo
+irb rugby world cup,IsRelatedTo,2019 rugby world cup
+basketball world championship,IsRelatedTo,basketball world championship 2023
+basketball world championship,IsRelatedTo,basketball world championship 2006
+national and local governments,IsPartOf,government committee
+national and local governments,IsPartOf,local governments
+national and local governments,IsPartOf,government-sponsored insurance
+local governments,IsRelatedTo,2014 ainu language report
+unesco,IsRelatedTo,yasunari kawabata
+unesco,IsRelatedTo,kenzaburo oe
+unesco,IsRelatedTo,kenzo tange
+empire of japan,IsRelatedTo,"['attack on british malaya', 'malaya singapore hong kong attack']"
+empire of japan,IsRelatedTo,"['attack on pearl harbor', 'pearl harbor attack']"
+empire of japan,IsRelatedTo,soviet invasion of manchuria
+empire of japan,IsRelatedTo,attack on hong kong
+empire of japan,IsRelatedTo,attack on singapore
+empire of japan,IsRelatedTo,japan invades french indochina
+empire of japan,IsRelatedTo,tripartite pact signed
+empire of japan,IsRelatedTo,japan resigns from league
+empire of japan,IsRelatedTo,manchukuo established
+empire of japan,IsRelatedTo,japan invades manchuria
+empire of japan,IsRelatedTo,great tokyo earthquake
+empire of japan,IsRelatedTo,russo-japanese war ends
+empire of japan,IsRelatedTo,russo-japanese war begins
+empire of japan,IsRelatedTo,end of first sino-japanese war
+empire of japan,IsRelatedTo,first sino-japanese war
+empire of japan,IsPartOf,cabinet
+empire of japan,IsPartOf,privy council
+empire of japan,IsPartOf,imperial diet
+empire of japan,IsPartOf,allies
+empire of japan,IsPartOf,axis powers
+empire of japan,IsPartOf,korea
+empire of japan,IsPartOf,taiwan
+"['attack on british malaya', 'malaya singapore hong kong attack']",IsRelatedTo,britain
+"['attack on british malaya', 'malaya singapore hong kong attack']",OccursAt,hong kong
+"['attack on british malaya', 'malaya singapore hong kong attack']",OccursAt,malaya
+"['attack on british malaya', 'malaya singapore hong kong attack']",OccursAt,singapore
+"['attack on pearl harbor', 'pearl harbor attack']",OccursAt,pearl harbor
+soviet invasion of manchuria,IsRelatedTo,soviet union
+soviet invasion of manchuria,OccursAt,manchuria
+attack on hong kong,OccursAt,hong kong
+attack on singapore,OccursAt,singapore
+japan invades french indochina,OccursAt,french indochina
+tripartite pact signed,IsRelatedTo,axis powers
+japan resigns from league,IsRelatedTo,league of nations
+manchukuo established,OccursAt,manchukuo
+japan invades manchuria,OccursAt,manchuria
+great tokyo earthquake,OccursAt,edo
+russo-japanese war ends,OccursAt,china
+russo-japanese war begins,OccursAt,china
+end of first sino-japanese war,OccursAt,china
+first sino-japanese war,IsRelatedTo,allies
+first sino-japanese war,OccursAt,china
+council of five elders,IsRelatedTo,toyotomi hideyori
+council of five elders,IsRelatedTo,tokugawa ieyasu
+cabinet,IsRelatedTo,meiji constitution introduced
+meiji constitution introduced,IsRelatedTo,privy council
+meiji constitution introduced,IsRelatedTo,imperial diet
+allies,IsRelatedTo,international military tribunal far east
+international military tribunal far east,IsRelatedTo,international military tribunal for the far east
+international military tribunal far east,OccursAt,tokyo
+axis powers,IsPartOf,nazi germany
+axis powers,IsPartOf,anti-comintern pact
+china,IsRelatedTo,taika reforms
+china,IsRelatedTo,introduction of buddhism
+china,IsContainedIn,manchuria
+china,IsContainedIn,hong kong
+china,IsRelatedTo,marco polo
+taika reforms,IsRelatedTo,imperial court
+taika reforms,IsRelatedTo,naka no ooe
+taika reforms,IsRelatedTo,fujiwara no kamatari
+introduction of buddhism,IsRelatedTo,baekje
+introduction of buddhism,IsRelatedTo,korea
+introduction of buddhism,IsRelatedTo,shotoku prince
+baekje,WasPresentAt,shotoku prince
+korea,WasPresentAt,toyotomi hideyoshi
+korea,OccursAt,toyotomi hideyoshi korean invasion
+korea,OccursAt,toyotomi hideyoshi second korean invasion
+imperial court,IsRelatedTo,move to heian kyo
+imperial court,IsRelatedTo,murasaki shikibu
+imperial court,IsRelatedTo,shotoku prince
+imperial court,IsRelatedTo,naka no ooe
+imperial court,IsRelatedTo,fujiwara no kamatari
+imperial court,IsRelatedTo,oama prince
+imperial court,IsRelatedTo,ootomo prince
+imperial court,IsRelatedTo,kanmu emperor
+move to heian kyo,IsRelatedTo,murasaki shikibu
+move to heian kyo,IsRelatedTo,kanmu emperor
+move to heian kyo,OccursAt,heian-kyo
+mext,IsRelatedTo,2016 integrated schooling start
+programme for international student assessment,IsRelatedTo,2023 tertiary education ranking
+programme for international student assessment,IsRelatedTo,2021 education gdp report
+2023 tertiary education ranking,IsRelatedTo,university of tokyo
+liberal democratic party,IsRelatedTo,takaichi becomes prime minister
+liberal democratic party,IsRelatedTo,sanae takaichi
+takaichi becomes prime minister,IsRelatedTo,ishin
+takaichi becomes prime minister,IsRelatedTo,sanae takaichi
+ishin,IsRelatedTo,sanae takaichi
+united states,IsContainedIn,pearl harbor
+russia,IsContainedIn,kuril islands
+south korea,IsContainedIn,liancourt rocks
+japan self-defense forces,IsPartOf,ministry of defense
+japan self-defense forces,IsPartOf,japan ground self-defense force
+japan self-defense forces,IsPartOf,japan maritime self-defense force
+japan self-defense forces,IsPartOf,japan air self-defense force
+jsdf,IsRelatedTo,kishida defense spending instruction
+kishida defense spending instruction,IsRelatedTo,fumio kishida
+prefectural police departments,IsRelatedTo,un violent crime statistics report
+prefectural police departments,IsPartOf,national police agency
+prefectural police departments,IsPartOf,anti-firearms squads
+prefectural police departments,IsPartOf,counter-nbc terrorism squads
+un violent crime statistics report,IsRelatedTo,national police agency
+un violent crime statistics report,IsRelatedTo,national public safety commission
+un violent crime statistics report,IsRelatedTo,special assault team
+un violent crime statistics report,IsRelatedTo,anti-firearms squads
+un violent crime statistics report,IsRelatedTo,counter-nbc terrorism squads
+un violent crime statistics report,IsRelatedTo,japan coast guard
+un violent crime statistics report,IsRelatedTo,united nations office on drugs and crime
+un violent crime statistics report,IsRelatedTo,un
+national police agency,IsPartOf,national public safety commission
+national police agency,IsPartOf,special assault team
+united nations office on drugs and crime,IsPartOf,un
+haneda airport,IsContainedIn,tokyo
+tokyo,IsContainedIn,honshu
+tokyo,IsContainedIn,greater tokyo area
+honshu,IsContainedIn,sea of japan
+honshu,IsContainedIn,kyoto
+honshu,IsContainedIn,chugoku
+honshu,IsContainedIn,seto inland sea
+honshu,IsContainedIn,tohoku
+honshu,IsContainedIn,central highland
+heian-kyo,WasPresentAt,murasaki shikibu
+heian-kyo,WasPresentAt,kanmu emperor
+kamakura,WasPresentAt,go daigo
+kamakura,WasPresentAt,yoritomo minamoto
+kamakura,WasPresentAt,go-daigo emperor
+yamato,WasPresentAt,jimmu emperor
+edo,WasPresentAt,tokugawa ieyasu
+uraga,WasPresentAt,matthew c perry
+uraga,OccursAt,perry expedition arrives
+kanagawa,WasPresentAt,matthew c perry
+manchuria,IsContainedIn,manchukuo
+pearl harbor,IsContainedIn,san francisco
+cipangu,WasPresentAt,marco polo
+muromachi,WasPresentAt,takauji ashikaga
+ryukyu islands,IsContainedIn,okinawa
+afghanistan,WasPresentAt,shinzo abe
+iraq,WasPresentAt,shinzo abe
+shikoku,IsContainedIn,seto inland sea
+seto inland sea,IsContainedIn,kyushu
+nanpo islands,IsContainedIn,bonin islands
+tohoku,IsContainedIn,fukushima daiichi nuclear disaster
+oda nobunaga,IsRelatedTo,death of oda nobunaga
+toyotomi hideyoshi,IsRelatedTo,toyotomi hideyoshi second korean invasion
+toyotomi hideyoshi,IsRelatedTo,toyotomi hideyoshi korean invasion
+matthew c perry,IsRelatedTo,convention of kanagawa
+matthew c perry,IsRelatedTo,perry expedition arrives
+oama prince,IsRelatedTo,jinshin war
+jinshin war,IsRelatedTo,ootomo prince
+shinzo abe,IsRelatedTo,abe responsibilities speech

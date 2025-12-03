@@ -1,0 +1,248 @@
+1_Decembrie_1918_University | latinName | Universitas Apulensis
+1_Decembrie_1918_University | country | Romania
+1_Decembrie_1918_University | state | Alba
+1_Decembrie_1918_University | nickname | Uab
+1_Decembrie_1918_University | city | Alba_Iulia
+1_Decembrie_1918_University | state | Alba
+1_Decembrie_1918_University | nickname | Uab
+1_Decembrie_1918_University | rector | Breaz Valer Daniel
+1_Decembrie_1918_University | latinName | Universitas Apulensis
+1_Decembrie_1918_University | rector | Breaz Valer Daniel
+1_Decembrie_1918_University | city | Alba_Iulia
+1_Decembrie_1918_University | country | Romania
+Accademia_di_Architettura_di_Mendrisio | city | Mendrisio
+Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600
+Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100
+Switzerland | leader | Johann_Schneider-Ammann
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Accademia_di_Architettura_di_Mendrisio | city | Mendrisio
+Switzerland | legislature | Federal_Assembly_(Switzerland)
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Accademia_di_Architettura_di_Mendrisio | established | 1996
+Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600
+Accademia_di_Architettura_di_Mendrisio | city | Mendrisio
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Switzerland | anthem | Swiss_Psalm
+Switzerland | leader | Johann_Schneider-Ammann
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Switzerland | leader | Johann_Schneider-Ammann
+Switzerland | leaderTitle | Federal_Chancellor_of_Switzerland
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Switzerland | legislature | Federal_Assembly_(Switzerland)
+Switzerland | leader | Johann_Schneider-Ammann
+Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta
+Accademia_di_Architettura_di_Mendrisio | city | Mendrisio
+Accademia_di_Architettura_di_Mendrisio | established | 1996
+Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta
+Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600
+Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100
+Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta
+Mendrisio | neighboringMunicipality | Meride
+Accademia_di_Architettura_di_Mendrisio | city | Mendrisio
+Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600
+Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100
+Accademia_di_Architettura_di_Mendrisio | location | Ticino
+Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600
+Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta
+Accademia_di_Architettura_di_Mendrisio | city | Mendrisio
+Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600
+Accademia_di_Architettura_di_Mendrisio | established | 1996
+Accademia_di_Architettura_di_Mendrisio | academicStaffSize | 100
+Alba_Iulia | country | Romania
+Romania | capital | Bucharest
+1_Decembrie_1918_University | city | Alba_Iulia
+Alba_Iulia | isPartOf | Alba_County
+1_Decembrie_1918_University | city | Alba_Iulia
+1_Decembrie_1918_University | country | Romania
+Mendrisio | neighboringMunicipality | Meride
+Accademia_di_Architettura_di_Mendrisio | established | 1996
+Accademia_di_Architettura_di_Mendrisio | city | Mendrisio
+Romania | ethnicGroup | Germans_of_Romania
+Romania | capital | Bucharest
+1_Decembrie_1918_University | country | Romania
+Romania | leader | Klaus_Iohannis
+Romania | capital | Bucharest
+1_Decembrie_1918_University | country | Romania
+Romania | leaderTitle | Prime_Minister_of_Romania
+Romania | capital | Bucharest
+1_Decembrie_1918_University | country | Romania
+Romania | leaderTitle | Prime_Minister_of_Romania
+Romania | ethnicGroup | Germans_of_Romania
+1_Decembrie_1918_University | country | Romania
+School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737
+School of Business and Social Sciences at the Aarhus University | country | Denmark
+School of Business and Social Sciences at the Aarhus University | established | 1928
+School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737
+School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000
+School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association
+School of Business and Social Sciences at the Aarhus University | city | Aarhus
+Aarhus | hasToItsNortheast | Mols
+Aarhus | governmentType | Magistrate
+School of Business and Social Sciences at the Aarhus University | city | Aarhus
+European_University_Association | headquarter | Brussels
+School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association
+School of Business and Social Sciences at the Aarhus University | city | Aarhus
+School of Business and Social Sciences at the Aarhus University | established | 1928
+Aarhus | governmentType | Magistrate
+School of Business and Social Sciences at the Aarhus University | country | Denmark
+Denmark | leader | Lars_Løkke_Rasmussen
+Denmark | religion | Church_of_Denmark
+School of Business and Social Sciences at the Aarhus University | country | Denmark
+Denmark | leaderTitle | Monarchy_of_Denmark
+Denmark | leader | Lars_Løkke_Rasmussen
+School of Business and Social Sciences at the Aarhus University | latinName | Universitas Aarhusiensis
+School of Business and Social Sciences at the Aarhus University | affiliation | European_University_Association
+School of Business and Social Sciences at the Aarhus University | established | 1928
+School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000
+School of Business and Social Sciences at the Aarhus University | country | Denmark
+School of Business and Social Sciences at the Aarhus University | established | 1928
+University_of_Burgundy | country | France
+France | leader | Claude_Bartolone
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | numberOfPostgraduateStudents | 9400
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | numberOfUndergraduateStudents | 16800
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | campus | Dijon
+Dijon | country | France
+University_of_Burgundy | numberOfUndergraduateStudents | 16800
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | country | France
+University_of_Burgundy | numberOfUndergraduateStudents | 16800
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | numberOfUndergraduateStudents | 16800
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | numberOfUndergraduateStudents | 16800
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | city | Dijon
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | country | France
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | numberOfUndergraduateStudents | 16800
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | numberOfUndergraduateStudents | 16800
+University_of_Burgundy | staff | 2900
+Dijon | elevationAboveTheSeaLevel | 245.0
+Dijon | country | France
+France | governmentType | Unitary_state
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | numberOfUndergraduateStudents | 16800
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | numberOfPostgraduateStudents | 9400
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | city | Dijon
+University_of_Burgundy | country | France
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | city | Dijon
+Dijon | postalCode | 21000
+University_of_Burgundy | numberOfUndergraduateStudents | 16800
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | city | Dijon
+University_of_Burgundy | numberOfPostgraduateStudents | 9400
+University_of_Burgundy | country | France
+University_of_Burgundy | country | France
+France | longName | French Republic
+University_of_Burgundy | city | Dijon
+France | leader | Claude_Bartolone
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | city | Dijon
+University_of_Burgundy | numberOfPostgraduateStudents | 9400
+University_of_Burgundy | country | France
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | city | Dijon
+France | longName | French Republic
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | numberOfPostgraduateStudents | 9400
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | city | Dijon
+Dijon | postalCode | 21000
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | city | Dijon
+Dijon | elevationAboveTheSeaLevel | 245.0
+University_of_Burgundy | numberOfUndergraduateStudents | 16800
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | numberOfPostgraduateStudents | 9400
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | city | Dijon
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | city | Dijon
+Dijon | country | France
+France | governmentType | Unitary_state
+University_of_Burgundy | numberOfPostgraduateStudents | 9400
+University_of_Burgundy | country | France
+University_of_Burgundy | city | Dijon
+University_of_Burgundy | country | France
+University_of_Burgundy | numberOfUndergraduateStudents | 16800
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | numberOfPostgraduateStudents | 9400
+University_of_Burgundy | country | France
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | campus | Dijon
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | numberOfUndergraduateStudents | 16800
+University_of_Burgundy | staff | 2900
+University_of_Burgundy | numberOfStudents | 27400
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | city | Dijon
+University_of_Burgundy | numberOfUndergraduateStudents | 16800
+University_of_Burgundy | numberOfDoctoralStudents | 1299
+University_of_Burgundy | numberOfUndergraduateStudents | 16800
+University_of_Burgundy | numberOfPostgraduateStudents | 9400
+University_of_Burgundy | city | Dijon
+University_of_Burgundy | numberOfPostgraduateStudents | 9400
+Accademia_di_Architettura_di_Mendrisio | country | Switzerland
+Accademia_di_Architettura_di_Mendrisio | dean | Mario_Botta
+Accademia_di_Architettura_di_Mendrisio | numberOfStudents | 600
+Romania | leaderTitle | Prime_Minister_of_Romania
+Romania | leader | Klaus_Iohannis
+1_Decembrie_1918_University | country | Romania
+Romania | patronSaint | Andrew_the_Apostle
+1_Decembrie_1918_University | latinName | Universitas Apulensis
+1_Decembrie_1918_University | country | Romania
+School of Business and Social Sciences at the Aarhus University | academicStaffSize | 737
+School of Business and Social Sciences at the Aarhus University | numberOfStudents | 16000
+School of Business and Social Sciences at the Aarhus University | established | 1928

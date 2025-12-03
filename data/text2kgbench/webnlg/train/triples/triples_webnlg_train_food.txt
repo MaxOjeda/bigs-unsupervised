@@ -1,0 +1,734 @@
+Ajoblanco | country | Spain
+Ajoblanco | alternativeName | Ajo blanco
+Ajoblanco | ingredient | Garlic
+Ajoblanco | country | Spain
+Ajoblanco | alternativeName | Ajo blanco
+Ajoblanco | ingredient | Olive_oil
+Ajoblanco | country | Spain
+Ajoblanco | alternativeName | Ajo blanco
+Ajoblanco | ingredient | Water
+Ajoblanco | country | Spain
+Ajoblanco | region | Andalusia
+Ajoblanco | ingredient | Bread
+Ajoblanco | country | Spain
+Ajoblanco | region | Andalusia
+Ajoblanco | ingredient | Garlic
+Ajoblanco | country | Spain
+Ajoblanco | region | Andalusia
+Ajoblanco | ingredient | Olive_oil
+Ajoblanco | ingredient | Almond
+Ajoblanco | country | Spain
+Ajoblanco | alternativeName | Ajo blanco
+Ajoblanco | ingredient | Almond
+Ajoblanco | country | Spain
+Ajoblanco | region | Andalusia
+Ajoblanco | ingredient | Almond
+Almond | family | Rosaceae
+Almond | division | Flowering_plant
+Ajoblanco | ingredient | Almond
+Almond | family | Rosaceae
+Almond | order | Rosales
+Ajoblanco | ingredient | Almond
+Almond | family | Rosaceae
+Almond | order | Rosids
+Ajoblanco | ingredient | Almond
+Almond | order | Rosales
+Almond | order | Rosids
+Ajoblanco | region | Andalusia
+Andalusia | leader | Susana_Díaz
+Ajoblanco | country | Spain
+Antioquia_Department | country | Colombia
+Bandeja_paisa | ingredient | Avocado
+Bandeja_paisa | region | Antioquia_Department
+Antioquia_Department | country | Colombia
+Bandeja_paisa | ingredient | Chicharrón
+Bandeja_paisa | region | Antioquia_Department
+Antioquia_Department | country | Colombia
+Bandeja_paisa | ingredient | Chorizo
+Bandeja_paisa | region | Antioquia_Department
+Arròs_negre | country | Spain
+Arròs_negre | region | Catalonia
+Arròs_negre | ingredient | Cephalopod_ink
+Arròs_negre | country | Spain
+Arròs_negre | region | Catalonia
+Arròs_negre | ingredient | Cubanelle
+Arròs_negre | country | Spain
+Arròs_negre | region | Catalonia
+Arròs_negre | ingredient | Cuttlefish
+Arròs_negre | country | Spain
+Arròs_negre | region | Catalonia
+Arròs_negre | ingredient | White_rice
+Arròs_negre | country | Spain
+Arròs_negre | region | Catalonia
+Catalonia | leader | Parliament_of_Catalonia
+Arròs_negre | country | Spain
+Spain | demonym | Spaniards
+Spain | leader | Felipe_VI_of_Spain
+Arròs_negre | country | Spain
+Spain | ethnicGroup | Spaniards
+Spain | leader | Felipe_VI_of_Spain
+Arròs_negre | country | Spain
+Spain | leader | Felipe_VI_of_Spain
+Arròs_negre | region | Catalonia
+Arròs_negre | region | Valencian_Community
+Arròs_negre | country | Spain
+Arròs_negre | ingredient | Cephalopod_ink
+Arròs_negre | region | Valencian_Community
+Arròs_negre | country | Spain
+Arròs_negre | ingredient | Cubanelle
+Arròs_negre | region | Valencian_Community
+Arròs_negre | country | Spain
+Arròs_negre | ingredient | Squid
+Arròs_negre | region | Valencian_Community
+Arròs_negre | country | Spain
+Arròs_negre | ingredient | White_rice
+Arròs_negre | region | Valencian_Community
+Arròs_negre | country | Spain
+Spain | leader | Felipe_VI_of_Spain
+Arròs_negre | region | Valencian_Community
+Valencian_Community | leader | Ximo_Puig
+Arròs_negre | country | Spain
+Asam_pedas | country | Indonesia
+Asam_pedas | mainIngredient | Fish cooked in sour and hot sauce
+Asam_pedas | region | Malay_Peninsula
+Asam_pedas | country | Indonesia
+Asam_pedas | region | Sumatra and Malay Peninsula
+Asam_pedas | mainIngredient | Fish cooked in sour and hot sauce
+Asam_pedas | country | Indonesia
+Asam_pedas | region | Sumatra
+Asam_pedas | mainIngredient | Fish cooked in sour and hot sauce
+Asam_pedas | country | Malaysia
+Asam_pedas | region | Sumatra
+Asam_pedas | mainIngredient | Fish cooked in sour and hot sauce
+Asam_pedas | country | Malaysia
+Malaysia | capital | Kuala_Lumpur
+Malaysia | leader | Abu_Zahar_Ujang
+Asam_pedas | country | Malaysia
+Malaysia | capital | Kuala_Lumpur
+Malaysia | leader | Najib_Razak
+Asam_pedas | country | Malaysia
+Malaysia | capital | Putrajaya
+Malaysia | ethnicGroup | Malaysian_Malay
+Asam_pedas | country | Malaysia
+Malaysia | capital | Putrajaya
+Malaysia | leader | Abu_Zahar_Ujang
+Asam_pedas | country | Malaysia
+Malaysia | capital | Putrajaya
+Malaysia | leader | Arifin_Zakaria
+Asam_pedas | country | Malaysia
+Malaysia | capital | Putrajaya
+Malaysia | leader | Najib_Razak
+Asam_pedas | country | Malaysia
+Malaysia | ethnicGroup | Malaysian_Chinese
+Malaysia | capital | Kuala_Lumpur
+Asam_pedas | country | Malaysia
+Malaysia | ethnicGroup | Malaysian_Chinese
+Malaysia | leader | Abdul_Halim_of_Kedah
+Asam_pedas | country | Malaysia
+Malaysia | ethnicGroup | Malaysian_Chinese
+Malaysia | leader | Abu_Zahar_Ujang
+Asam_pedas | country | Malaysia
+Malaysia | leader | Abdul_Halim_of_Kedah
+Malaysia | capital | Kuala_Lumpur
+Asam_pedas | country | Malaysia
+Malaysia | leader | Abdul_Halim_of_Kedah
+Malaysia | capital | Putrajaya
+Asam_pedas | mainIngredient | Fish cooked in sour and hot sauce
+Asam_pedas | region | Malay_Peninsula
+Asam_pedas | country | Indonesia and Malaysia
+Asam_pedas | region | Sumatra and Malay Peninsula
+Asam_pedas | mainIngredient | Fish cooked in sour and hot sauce
+Asam_pedas | country | Indonesia and Malaysia
+Asam_pedas | region | Sumatra
+Asam_pedas | alternativeName | Asam padeh
+Asam_pedas | country | Indonesia and Malaysia
+Asam_pedas | region | Sumatra
+Asam_pedas | mainIngredient | Fish cooked in sour and hot sauce
+Asam_pedas | country | Indonesia and Malaysia
+Ayam_penyet | ingredient | Fried_chicken
+Fried_chicken | mainIngredient | Chicken
+Ayam_penyet | region | Nationwide, also can be found in Malaysia and Singapore
+Ayam_penyet | ingredient | Fried_chicken
+Fried_chicken | mainIngredient | Chicken
+Ayam_penyet | region | Singapore
+Ayam_penyet | region | Nationwide, also can be found in Malaysia and Singapore
+Ayam_penyet | country | Java
+Ayam_penyet | ingredient | Fried_chicken
+Ayam_penyet | region | Nationwide, also can be found in Malaysia and Singapore
+Ayam_penyet | country | Java
+Ayam_penyet | mainIngredient | Squeezed" or "smashed" fried chicken served with sambal
+Ayam_penyet | region | Nationwide, also can be found in Malaysia and Singapore
+Ayam_penyet | ingredient | Fried_chicken
+Ayam_penyet | country | Indonesia
+Ayam_penyet | region | Nationwide, also can be found in Malaysia and Singapore
+Ayam_penyet | mainIngredient | Squeezed" or "smashed" fried chicken served with sambal
+Ayam_penyet | country | Indonesia
+Ayam_penyet | region | Malaysia
+Ayam_penyet | country | Java
+Ayam_penyet | ingredient | Fried_chicken
+Ayam_penyet | region | Malaysia
+Ayam_penyet | ingredient | Fried_chicken
+Ayam_penyet | country | Indonesia
+Ayam_penyet | region | Malaysia
+Ayam_penyet | ingredient | Fried_chicken
+Ayam_penyet | mainIngredient | Squeezed" or "smashed" fried chicken served with sambal
+Ayam_penyet | region | Malaysia
+Ayam_penyet | ingredient | Fried_chicken
+Fried_chicken | mainIngredient | Chicken
+Ayam_penyet | region | Malaysia
+Java | ethnicGroup | Baduy
+Ayam_penyet | country | Java
+Ayam_penyet | region | Malaysia
+Java | ethnicGroup | Banyumasan_people
+Ayam_penyet | country | Java
+Ayam_penyet | region | Malaysia
+Java | ethnicGroup | Javanese_people
+Ayam_penyet | country | Java
+Ayam_penyet | region | Malaysia
+Malaysia | ethnicGroup | Malaysian_Chinese
+Ayam_penyet | country | Java
+Ayam_penyet | region | Singapore
+Ayam_penyet | country | Java
+Ayam_penyet | ingredient | Fried_chicken
+Ayam_penyet | region | Singapore
+Ayam_penyet | country | Java
+Ayam_penyet | mainIngredient | Squeezed" or "smashed" fried chicken served with sambal
+Ayam_penyet | region | Singapore
+Ayam_penyet | ingredient | Fried_chicken
+Ayam_penyet | country | Indonesia
+Baked_Alaska | country | France
+Baked_Alaska | region | New_York
+Baked_Alaska | ingredient | Christmas_pudding
+Baked_Alaska | country | France
+Baked_Alaska | region | New_York
+Baked_Alaska | ingredient | Ice_cream
+Baked_Alaska | country | France
+France | leader | Gérard_Larcher
+France | currency | Euro
+Baked_Alaska | country | France
+France | leader | Gérard_Larcher
+France | language | French_language
+Baked_Alaska | country | France
+France | leader | Manuel_Valls
+France | language | French_language
+Baked_Alaska | country | France
+France | leader | Manuel_Valls
+France | leader | Gérard_Larcher
+Baked_Alaska | country | United_States
+Baked_Alaska | region | New_York
+Baked_Alaska | ingredient | Meringue
+Baked_Alaska | course | Dessert
+Baked_Alaska | country | France
+Dessert | dishVariation | Sandesh_(confectionery)
+Baked_Alaska | course | Dessert
+Dessert | dishVariation | Cookie
+Baked_Alaska | country | France
+Baked_Alaska | course | Dessert
+Dessert | dishVariation | Cookie
+Baked_Alaska | ingredient | Ice_cream
+Baked_Alaska | course | Dessert
+Dessert | dishVariation | Cookie
+Baked_Alaska | ingredient | Meringue
+Baked_Alaska | course | Dessert
+Dessert | dishVariation | Sandesh_(confectionery)
+Baked_Alaska | ingredient | Ice_cream
+Baked_Alaska | course | Dessert
+Dessert | dishVariation | Sandesh_(confectionery)
+Baked_Alaska | ingredient | Meringue
+Baked_Alaska | course | Dessert
+Dessert | dishVariation | Sandesh_(confectionery)
+Baked_Alaska | ingredient | Sponge_cake
+Baked_Alaska | region | Paris, New York or Hong Kong
+Baked_Alaska | country | France
+Baked_Alaska | ingredient | Sponge_cake
+Baked_Alaska | region | Paris, New York or Hong Kong
+Baked_Alaska | country | United_States
+Baked_Alaska | ingredient | Ice_cream
+Baked_Alaska | region | Hong_Kong
+Baked_Alaska | country | France
+Baked_Alaska | ingredient | Christmas_pudding
+Bakewell_pudding | course | Dessert
+Bakewell_pudding | creator | Rutland Arms, Bakewell, in 1820
+Bakewell_pudding | mainIngredient | Ground almond, jam, butter, eggs
+Bakewell_pudding | dishVariation | Bakewell_tart
+Bakewell_tart | region | Derbyshire_Dales
+Bakewell_tart | ingredient | Frangipane
+Bakewell_pudding | dishVariation | Bakewell_tart
+Bakewell_tart | region | Derbyshire_Dales
+Bakewell_tart | ingredient | Fruit_preserves
+Bakewell_pudding | dishVariation | Bakewell_tart
+Bakewell_tart | region | Derbyshire_Dales
+Bakewell_tart | ingredient | Shortcrust_pastry
+Bakewell_pudding | region | Derbyshire_Dales
+Bakewell_pudding | creator | Rutland Arms, Bakewell, in 1820
+Bakewell_pudding | mainIngredient | Ground almond, jam, butter, eggs
+Bakewell_pudding | region | Derbyshire_Dales
+Bakewell_pudding | dishVariation | Bakewell_tart
+Bakewell_tart | ingredient | Frangipane
+Bakewell_pudding | region | Derbyshire_Dales
+Bakewell_pudding | dishVariation | Bakewell_tart
+Bakewell_tart | ingredient | Fruit_preserves
+Bakewell_pudding | region | Derbyshire_Dales
+Bakewell_pudding | dishVariation | Bakewell_tart
+Bakewell_tart | ingredient | Shortcrust_pastry
+Bakewell_pudding | region | Derbyshire_Dales
+Bakewell_pudding | servingTemperature | Warm (freshly baked) or cold
+Bakewell_pudding | mainIngredient | Ground almond, jam, butter, eggs
+Bakewell_pudding | region | Derbyshire_Dales
+Derbyshire_Dales | leader | Patrick_McLoughlin
+Derbyshire_Dales | isPartOf | Derbyshire
+Bakewell_pudding | servingTemperature | Warm (freshly baked) or cold
+Bakewell_pudding | course | Dessert
+Bakewell_pudding | mainIngredient | Ground almond, jam, butter, eggs
+Bakewell_pudding | servingTemperature | Warm (freshly baked) or cold
+Bakewell_pudding | creator | Rutland Arms, Bakewell, in 1820
+Bakewell_pudding | mainIngredient | Ground almond, jam, butter, eggs
+Bakso | ingredient | Noodle
+Bakso | region | Nationwide in Indonesia, also popular in neighboring Southeast Asian countries
+Bakso | country | Chinese_cuisine
+Bakso | ingredient | Tapioca
+Bakso | region | Nationwide in Indonesia, also popular in neighboring Southeast Asian countries
+Bakso | country | Chinese_cuisine
+Bakso | ingredient | Tapioca
+Bakso | region | Nationwide in Indonesia, also popular in neighboring Southeast Asian countries
+Bakso | country | Indonesia
+Bakso | region | Nationwide in Indonesia, also popular in neighboring Southeast Asian countries
+Bakso | country | Indonesia
+Bakso | ingredient | Celery
+Bakso | region | Indonesia
+Bakso | country | Chinese_cuisine
+Bakso | ingredient | Celery
+Bakso | region | Indonesia
+Bakso | country | Indonesia
+Bakso | ingredient | Celery
+Bakso | region | Indonesia
+Bakso | country | Indonesia
+Bakso | ingredient | Ground_beef
+Bakso | region | Indonesia
+Bakso | country | Indonesia
+Bakso | ingredient | Vermicelli
+Bakso | region | Indonesia
+Bakso | ingredient | Noodle
+Bakso | country | Chinese_cuisine
+Bakso | region | Indonesia
+Bakso | ingredient | Noodle
+Bakso | country | Indonesia
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | ingredient | Cooking_plantain
+Bandeja_paisa | region | Antioquia_Department
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | ingredient | Rice
+Bandeja_paisa | region | Antioquia_Department
+Bandeja_paisa | ingredient | Avocado
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | region | Antioquia_Department
+Bandeja_paisa | ingredient | Chicharrón
+Bandeja_paisa | region | Antioquia_Department
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | ingredient | Lemon
+Antioquia_Department | country | Colombia
+Bandeja_paisa | region | Antioquia_Department
+Bandeja_paisa | ingredient | Lemon
+Bandeja_paisa | region | Antioquia_Department
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | ingredient | Lemon
+Bandeja_paisa | region | Paisa_Region
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | region | Antioquia_Department
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | ingredient | Hogao
+Bandeja_paisa | region | Antioquia_Department
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | ingredient | Pork_belly
+Bandeja_paisa | region | Antioquia_Department
+Bandeja_paisa | ingredient | Chorizo
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | region | Paisa_Region
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | ingredient | Pork_belly
+Bandeja_paisa | region | Paisa_Region
+Bandeja_paisa | ingredient | Chicharrón
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | region | Paisa_Region
+Bandeja_paisa | ingredient | Chorizo
+Bandeja_paisa | country | Colombian_cuisine
+Barny_Cakes | country | France
+France | language | French_language
+France | leader | Claude_Bartolone
+Barny_Cakes | country | France
+France | language | French_language
+France | leader | François_Hollande
+Barny_Cakes | country | France
+France | language | French_language
+France | leader | Manuel_Valls
+Barny_Cakes | country | France
+France | leader | François_Hollande
+France | leader | Claude_Bartolone
+Barny_Cakes | country | France
+France | leader | François_Hollande
+France | leader | Manuel_Valls
+Barny_Cakes | country | France
+France | leader | Gérard_Larcher
+France | language | French_language
+Barny_Cakes | country | France
+France | leader | Gérard_Larcher
+France | leader | François_Hollande
+Barny_Cakes | country | France
+France | leader | Gérard_Larcher
+France | leader | Manuel_Valls
+Barny_Cakes | protein | 1.8 g
+Barny_Cakes | fat | 4.8 g
+Barny_Cakes | carbohydrate | 18.0 g
+Batagor | country | Indonesia
+Batagor | dishVariation | Shumai
+Batagor | dishVariation | Siomay
+Batagor | country | Indonesia
+Batagor | ingredient | Peanut_sauce
+Batagor | mainIngredient | fried fish dumpling with tofu and vegetables in peanut sauce
+Batagor | country | Indonesia
+Batagor | ingredient | Peanut_sauce
+Batagor | servingTemperature | hot
+Batagor | dishVariation | Siomay
+Batagor | ingredient | Peanut_sauce
+Batagor | dishVariation | Shumai
+Batagor | dishVariation | Siomay
+Shumai | ingredient | Shiitake
+Batagor | dishVariation | Shumai
+Batagor | dishVariation | Siomay
+Siomay | dishVariation | Shumai
+Batagor | ingredient | Peanut_sauce
+Batagor | dishVariation | Siomay
+Siomay | dishVariation | Shumai
+Shumai | ingredient | Shiitake
+Batagor | dishVariation | Siomay
+Siomay | dishVariation | Shumai
+Siomay | ingredient | Peanut_sauce
+Batagor | dishVariation | Siomay
+Siomay | ingredient | Peanut_sauce
+Batagor | dishVariation | Shumai
+Batchoy | country | Philippines
+Batchoy | mainIngredient | noodles, pork organs, vegetables, chicken, shrimp, beef
+Batchoy | ingredient | Beef
+Batchoy | country | Philippines
+Batchoy | mainIngredient | noodles, pork organs, vegetables, chicken, shrimp, beef
+Batchoy | ingredient | Pork
+Batchoy | country | Philippines
+Batchoy | mainIngredient | noodles, pork organs, vegetables, chicken, shrimp, beef
+Batchoy | ingredient | Shrimp
+Batchoy | ingredient | Chicken
+Batchoy | country | Philippines
+Batchoy | mainIngredient | noodles, pork organs, vegetables, chicken, shrimp, beef
+Beef_kway_teow | country | Singapore
+Beef_kway_teow | ingredient | Palm_sugar
+Beef_kway_teow | region | Indonesia
+Beef_kway_teow | country | Singapore
+Beef_kway_teow | ingredient | Sesame_oil
+Beef_kway_teow | region | Indonesia
+Beef_kway_teow | country | Singapore
+Beef_kway_teow | region | Indonesia
+Singapore | leader | Tony_Tan
+Beef_kway_teow | country | Singapore
+Singapore | language | Standard_Chinese
+Singapore | leader | Halimah_Yacob
+Beef_kway_teow | ingredient | Palm_sugar
+Beef_kway_teow | region | Indonesia
+Beef_kway_teow | country | Singapore and Indonesia
+Beef_kway_teow | ingredient | Sesame_oil
+Beef_kway_teow | region | Indonesia
+Beef_kway_teow | country | Singapore and Indonesia
+Beef_kway_teow | region | Singapore
+Beef_kway_teow | country | Singapore and Indonesia
+Singapore | leader | Halimah_Yacob
+Beef_kway_teow | region | Singapore
+Beef_kway_teow | country | Singapore and Indonesia
+Singapore | leader | Tony_Tan
+Beef_kway_teow | region | Singapore
+Beef_kway_teow | country | Indonesia
+Beef_kway_teow | ingredient | Palm_sugar
+Beef_kway_teow | region | Singapore
+Beef_kway_teow | country | Indonesia
+Singapore | leader | Halimah_Yacob
+Beef_kway_teow | region | Singapore
+Beef_kway_teow | ingredient | Palm_sugar
+Beef_kway_teow | country | Singapore and Indonesia
+Beef_kway_teow | region | Singapore
+Beef_kway_teow | ingredient | Sesame_oil
+Beef_kway_teow | country | Singapore and Indonesia
+Bhajji | country | India
+Bhajji | alternativeName | Bhaji, bajji
+Bhajji | ingredient | Gram_flour
+Bhajji | country | India
+Bhajji | alternativeName | Bhaji, bajji
+Bhajji | ingredient | Vegetable
+Bhajji | country | India
+Bhajji | mainIngredient | Gram flour, vegetables
+Bhajji | ingredient | Vegetable
+Bhajji | country | India
+Bhajji | region | Karnataka
+Bhajji | ingredient | Gram_flour
+Bhajji | country | India
+Bhajji | region | Karnataka
+Bhajji | ingredient | Vegetable
+Bhajji | country | India
+Bhajji | region | Karnataka
+Karnataka | leader | Vajubhai_Vala
+Bhajji | country | India
+India | currency | Indian_rupee
+India | leader | Narendra_Modi
+Bhajji | country | India
+India | currency | Indian_rupee
+India | leader | T._S._Thakur
+Bhajji | country | India
+India | demonym | Indian_people
+India | leader | Narendra_Modi
+Bhajji | country | India
+India | demonym | Indian_people
+India | leader | Sumitra_Mahajan
+Bhajji | country | India
+India | leader | Narendra_Modi
+India | leader | Sumitra_Mahajan
+Bhajji | country | India
+India | leader | T._S._Thakur
+India | leader | Sumitra_Mahajan
+Bhajji | region | Karnataka
+Bhajji | mainIngredient | Gram flour, vegetables
+Bhajji | ingredient | Vegetable
+Binignit | ingredient | Banana
+Binignit | course | Dessert
+Dessert | dishVariation | Sandesh_(confectionery)
+Binignit | ingredient | Coconut_milk
+Binignit | course | Dessert
+Dessert | dishVariation | Cookie
+Binignit | ingredient | Coconut_milk
+Binignit | course | Dessert
+Dessert | dishVariation | Sandesh_(confectionery)
+Binignit | ingredient | Sago
+Binignit | course | Dessert
+Dessert | dishVariation | Sandesh_(confectionery)
+Binignit | ingredient | Sweet_potato
+Binignit | course | Dessert
+Dessert | dishVariation | Cookie
+Binignit | ingredient | Sweet_potato
+Binignit | course | Dessert
+Dessert | dishVariation | Sandesh_(confectionery)
+Binignit | ingredient | Sweet_potato
+Binignit | mainIngredient | Banana
+Sweet_potato | order | Solanales
+Binignit | ingredient | Sweet_potato
+Binignit | mainIngredient | Coconut_milk
+Binignit | country | Philippines
+Binignit | ingredient | Sweet_potato
+Binignit | mainIngredient | Coconut_milk
+Sweet_potato | order | Solanales
+Binignit | ingredient | Sweet_potato
+Binignit | mainIngredient | Sago
+Binignit | country | Philippines
+Binignit | ingredient | Sweet_potato
+Binignit | mainIngredient | Sago
+Sweet_potato | order | Solanales
+Binignit | ingredient | Sweet_potato
+Binignit | mainIngredient | Taro
+Binignit | country | Philippines
+Binignit | ingredient | Sweet_potato
+Binignit | mainIngredient | Taro
+Sweet_potato | order | Solanales
+Binignit | ingredient | Taro
+Binignit | course | Dessert
+Dessert | dishVariation | Sandesh_(confectionery)
+Binignit | mainIngredient | Banana
+Binignit | country | Philippines
+Binignit | ingredient | Sago
+Binignit | mainIngredient | Banana
+Binignit | country | Philippines
+Binignit | ingredient | Taro
+Binignit | mainIngredient | Coconut_milk
+Binignit | country | Philippines
+Binignit | ingredient | Sago
+Binignit | mainIngredient | Sweet_potato
+Binignit | country | Philippines
+Binignit | ingredient | Banana
+Binignit | mainIngredient | Sweet_potato
+Binignit | country | Philippines
+Binignit | ingredient | Coconut_milk
+Binignit | mainIngredient | Sweet_potato
+Binignit | country | Philippines
+Binignit | ingredient | Taro
+Binignit | mainIngredient | Sweet_potato
+Binignit | course | Dessert
+Dessert | dishVariation | Cookie
+Binignit | mainIngredient | Sweet_potato
+Binignit | course | Dessert
+Dessert | dishVariation | Sandesh_(confectionery)
+Binignit | mainIngredient | Sweet_potato
+Binignit | ingredient | Coconut_milk
+Sweet_potato | order | Solanales
+Binignit | mainIngredient | Sweet_potato
+Binignit | ingredient | Sago
+Sweet_potato | order | Solanales
+Binignit | mainIngredient | Sweet_potato
+Binignit | ingredient | Taro
+Sweet_potato | order | Solanales
+Catalonia | leader | Carles_Puigdemont
+Arròs_negre | country | Spain
+Arròs_negre | region | Catalonia
+Chicharrón | country | Spain
+Bandeja_paisa | ingredient | Chicharrón
+Bandeja_paisa | region | Antioquia_Department
+Chicharrón | country | Spain
+Bandeja_paisa | region | Paisa_Region
+Bandeja_paisa | ingredient | Chicharrón
+Chicharrón | region | Andalusia
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | ingredient | Chicharrón
+Java | ethnicGroup | Banyumasan_people
+Ayam_penyet | region | Singapore
+Ayam_penyet | country | Java
+Java | ethnicGroup | Javanese_people
+Ayam_penyet | region | Nationwide, also can be found in Malaysia and Singapore
+Ayam_penyet | country | Java
+Java | ethnicGroup | Javanese_people
+Ayam_penyet | region | Singapore
+Ayam_penyet | country | Java
+Philippines | ethnicGroup | Zamboangans
+Philippines | language | Philippine_English
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Zamboangans
+Philippines | language | Philippine_Spanish
+Batchoy | country | Philippines
+Philippines | language | Arabic
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Chinese_Filipino
+Philippines | language | Arabic
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Moro_people
+Philippines | language | Arabic
+Philippines | ethnicGroup | Zamboangans
+Batchoy | country | Philippines
+Philippines | language | Philippine_English
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Chinese_Filipino
+Philippines | language | Philippine_English
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Igorot_people
+Philippines | language | Philippine_English
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Ilocano_people
+Philippines | language | Philippine_English
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Moro_people
+Philippines | language | Philippine_English
+Binignit | country | Philippines
+Philippines | ethnicGroup | Igorot_people
+Philippines | language | Philippine_Spanish
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Chinese_Filipino
+Philippines | language | Philippine_Spanish
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Igorot_people
+Philippines | language | Philippine_Spanish
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Ilocano_people
+Philippines | language | Philippine_Spanish
+Batchoy | country | Philippines
+Philippines | ethnicGroup | Moro_people
+Singapore | language | English_language
+Beef_kway_teow | country | Singapore
+Singapore | leader | Halimah_Yacob
+Singapore | leader | Tony_Tan
+Beef_kway_teow | country | Singapore
+Singapore | currency | Singapore_dollar
+Singapore | leader | Tony_Tan
+Beef_kway_teow | country | Singapore
+Singapore | language | Standard_Chinese
+Singapore | leader | Tony_Tan
+Beef_kway_teow | country | Singapore
+Singapore | leader | Halimah_Yacob
+Siomay | ingredient | Peanut_sauce
+Shumai | dishVariation | Siomay
+Batagor | dishVariation | Shumai
+Spain | currency | Euro
+Arròs_negre | country | Spain
+Spain | leader | Felipe_VI_of_Spain
+Spain | language | Spanish_language
+Ajoblanco | country | Spain
+Spain | ethnicGroup | Spaniards
+Spain | language | Spanish_language
+Arròs_negre | country | Spain
+Spain | ethnicGroup | Spaniards
+Spain | leader | Felipe_VI_of_Spain
+Ajoblanco | country | Spain
+Spain | demonym | Spaniards
+Spain | leader | Felipe_VI_of_Spain
+Ajoblanco | country | Spain
+Spain | ethnicGroup | Spaniards
+Spain | leader | Felipe_VI_of_Spain
+Ajoblanco | region | Andalusia
+Ajoblanco | country | Spain
+Spain | leader | Felipe_VI_of_Spain
+Spain | currency | Euro
+Ajoblanco | country | Spain
+Spain | leader | Felipe_VI_of_Spain
+Spain | language | Spanish_language
+Ajoblanco | country | Spain
+Binignit | country | Philippines
+Binignit | course | Dessert
+Ajoblanco | country | Spain
+Ajoblanco | alternativeName | Ajo blanco
+Ajoblanco | ingredient | Bread
+Ajoblanco | country | Spain
+Ajoblanco | region | Andalusia
+Ajoblanco | ingredient | Water
+Arròs_negre | country | Spain
+Arròs_negre | region | Catalonia
+Arròs_negre | ingredient | Squid
+Arròs_negre | region | Valencian_Community
+Arròs_negre | country | Spain
+Arròs_negre | ingredient | Cuttlefish
+Asam_pedas | country | Malaysia
+Asam_pedas | region | Sumatra and Malay Peninsula
+Asam_pedas | mainIngredient | Fish cooked in sour and hot sauce
+Ayam_penyet | region | Malaysia
+Ayam_penyet | country | Java
+Ayam_penyet | mainIngredient | Squeezed" or "smashed" fried chicken served with sambal
+Bandeja_paisa | country | Colombian_cuisine
+Bandeja_paisa | ingredient | Kidney_bean
+Bandeja_paisa | region | Antioquia_Department
+Barny_Cakes | country | France
+France | leader | Gérard_Larcher
+France | leader | Claude_Bartolone
+Barny_Cakes | dishVariation | Apple
+Barny_Cakes | carbohydrate | 18.0 g
+Barny_Cakes | protein | 1.8 g
+Beef_kway_teow | country | Singapore
+Singapore | currency | Singapore_dollar
+Singapore | leader | Halimah_Yacob
+Beef_kway_teow | ingredient | Oyster_sauce
+Beef_kway_teow | region | Indonesia
+Beef_kway_teow | country | Singapore and Indonesia
+Beef_kway_teow | region | Singapore
+Beef_kway_teow | country | Indonesia
+Singapore | leader | Tony_Tan
+Bhajji | country | India
+Bhajji | mainIngredient | Gram flour, vegetables
+Bhajji | ingredient | Gram_flour
+Bhajji | country | India
+India | demonym | Indian_people
+India | leader | T._S._Thakur
+Bhajji | country | India
+India | leader | T._S._Thakur
+India | leader | Narendra_Modi
+Bhajji | region | Karnataka
+Bhajji | mainIngredient | Gram flour, vegetables
+Bhajji | ingredient | Gram_flour
+Binignit | ingredient | Sweet_potato
+Binignit | mainIngredient | Banana
+Binignit | country | Philippines
+Java | ethnicGroup | Baduy
+Ayam_penyet | region | Singapore
+Ayam_penyet | country | Java
+Java | ethnicGroup | Banyumasan_people
+Ayam_penyet | region | Nationwide, also can be found in Malaysia and Singapore
+Ayam_penyet | country | Java
+Spain | language | Spanish_language
+Arròs_negre | country | Spain
+Spain | leader | Felipe_VI_of_Spain

@@ -1,0 +1,345 @@
+franjo bucar | WasPresentAt | croatia
+franjo bucar | IsRelatedTo | national sport programme
+franjo bucar | IsRelatedTo | national sport programme
+franjo bucar | IsRelatedTo | croatian olympic committee
+franjo bucar | IsRelatedTo | croatian sports association
+franjo bucar | IsRelatedTo | hrvatski sokol
+croatia | IsRelatedTo | branimir unspecified
+croatia | IsRelatedTo | tomislav unspecified
+croatia | IsRelatedTo | ferdinand i of austria
+croatia | IsRelatedTo | trpimir i of croatia
+croatia | WasPresentAt | petar kresimir iv
+croatia | IsRelatedTo | dmitar zvonimir
+croatia | WasPresentAt | ladislaus i
+croatia | WasPresentAt | louis ii
+croatia | WasPresentAt | charles iii
+croatia | WasPresentAt | maria theresa
+croatia | WasPresentAt | josip jelacic
+croatia | IsRelatedTo | ivo josipovic
+croatia | IsRelatedTo | andrej plenkovic
+croatia | IsRelatedTo | zoran milanovic
+croatia | WasPresentAt | vladimir zerjavic
+croatia | WasPresentAt | bogoljub kocovic
+croatia | WasPresentAt | franjo tuđman
+croatia | WasPresentAt | josip juraj strossmayer
+croatia | WasPresentAt | vlaho bukovac
+croatia | WasPresentAt | ivan mestrovic
+croatia | WasPresentAt | ivan generalic
+croatia | WasPresentAt | marko marulic
+croatia | WasPresentAt | marin drzic
+croatia | WasPresentAt | ivan gundulic
+croatia | WasPresentAt | ivan mazuranic
+croatia | WasPresentAt | august senoa
+croatia | WasPresentAt | ivana brlic-mazuranic
+croatia | WasPresentAt | marija juric zagorka
+croatia | WasPresentAt | antun gustav Matos
+croatia | WasPresentAt | antun branko simic
+croatia | WasPresentAt | miroslav krleza
+croatia | WasPresentAt | tin ujevic
+croatia | WasPresentAt | ivo andric
+croatia | WasPresentAt | vatroslav lisinski
+croatia | WasPresentAt | ivan zajc
+croatia | WasPresentAt | ivo pogorelic
+croatia | OccursAt | joined erp II
+croatia | OccursAt | ['abolished conscription', 'abolishment of compulsory conscription']
+croatia | OccursAt | ['reintroduced conscription', 'introduction of new conscription', "2025 World Men's Handball Championship"]
+croatia | OccursAt | national sport programme
+croatia | OccursAt | 1998 World Cup bronze
+croatia | OccursAt | 2018 World Cup silver
+croatia | OccursAt | 2022 World Cup bronze
+croatia | OccursAt | 2020 Summer Olympics gold
+croatia | OccursAt | 2009 World Men's Handball Championship
+croatia | OccursAt | 2007 World Table Tennis Championships
+croatia | OccursAt | 2000 World Rowing Championships
+croatia | OccursAt | 1987 Summer Universiade
+croatia | OccursAt | 1979 Mediterranean Games
+croatia | OccursAt | ["2024 Men's European Water Polo Championship", 'high GDP projection']
+croatia | OccursAt | 2018 World Men's Handball Championship
+croatia | IsRelatedTo | international recognition
+croatia | IsRelatedTo | merger into kingdom
+croatia | IsRelatedTo | ['declaration of independence', 'independence declaration']
+croatia | OccursAt | first king of croatia
+croatia | OccursAt | battle of krbava field
+croatia | OccursAt | battle of sisak
+croatia | OccursAt | pragmatic sanction
+croatia | OccursAt | battle of vis
+croatia | OccursAt | return of military frontier
+croatia | OccursAt | export of military equipment
+croatia | OccursAt | unemployment rate change
+croatia | IsRelatedTo | croatia joins peace partnership
+croatia | IsRelatedTo | wto membership
+croatia | IsRelatedTo | stabilisation agreement signed
+croatia | IsRelatedTo | eu accession negotiations
+croatia | IsRelatedTo | accession treaty signed
+croatia | IsRelatedTo | eu membership referendum
+croatia | IsRelatedTo | croatia joins eu
+croatia | OccursAt | plenkovic becomes prime minister
+croatia | OccursAt | presidential elections
+croatia | OccursAt | oecd accession negotiations
+croatia | IsRelatedTo | ['croatia joins schengen area', 'joined eurozone', 'joined schengen area', 'croatia adopts euro']
+croatia | IsRelatedTo | ['healthcare expenditure report', 'obesity report']
+croatia | IsRelatedTo | cardiovascular disease death
+croatia | OccursAt | declaration implementation
+croatia | OccursAt | diplomatic recognition
+croatia | OccursAt | victory day
+croatia | IsRelatedTo | ['erdut agreement']
+croatia | OccursAt | declaration of independence
+croatia | OccursAt | 6 January Dictatorship establishment
+croatia | OccursAt | Cvetkovic–Macek Agreement
+croatia | OccursAt | invasion of Yugoslavia
+croatia | OccursAt | control of Yugoslavia
+croatia | IsContainedIn | plitvice lakes national park
+croatia | IsContainedIn | velebit nature park
+croatia | IsContainedIn | istria
+croatia | IsContainedIn | krk
+croatia | IsContainedIn | dalmatia
+croatia | IsContainedIn | rijeka
+croatia | IsContainedIn | osijek
+croatia | IsContainedIn | zadar
+croatia | IsContainedIn | vukovar
+croatia | IsContainedIn | krk island
+croatia | IsContainedIn | benkovac
+croatia | IsContainedIn | slavonia
+croatia | IsContainedIn | dubrovnik
+croatia | IsContainedIn | smiljin
+croatia | IsContainedIn | sisak
+croatia | IsContainedIn | bjelovar
+croatia | IsContainedIn | gospic
+croatia | IsContainedIn | ogulin
+croatia | IsContainedIn | pozega
+croatia | IsContainedIn | varazdin
+croatia | IsContainedIn | university of zadar
+croatia | IsContainedIn | university of zagreb
+croatia | IsContainedIn | peljesac bridge
+croatia | IsContainedIn | city of zagreb
+croatia | IsContainedIn | city of split
+croatia | IsContainedIn | eastern slavonia
+croatia | IsContainedIn | western slavonia
+croatia | IsContainedIn | baranja
+croatia | IsContainedIn | međimurje
+croatia | IsContainedIn | jasenovac
+croatia | IsContainedIn | kamesnica
+croatia | IsContainedIn | lipa
+croatia | IsContainedIn | zagreb fair
+croatia | IsContainedIn | karlovac
+croatia | IsContainedIn | trogir
+croatia | IsRelatedTo | ['tourism income estimation', 'tourist destination popularity']
+croatia | IsRelatedTo | tourist number rise
+croatia | IsRelatedTo | ['solo travel index ranking', 'honeymoon destination popularity']
+croatia | IsRelatedTo | ['corruption index ranking', 'swimming water quality ranking']
+croatia | IsPartOf | european union
+croatia | IsPartOf | nato
+croatia | IsPartOf | united nations
+croatia | IsPartOf | osce
+croatia | IsPartOf | world trade organization
+croatia | IsPartOf | union for the mediterranean
+croatia | IsPartOf | oecd
+croatia | IsPartOf | hrvatska elektroprivreda
+national sport programme | IsRelatedTo | national sport programme
+croatian olympic committee | IsRelatedTo | ['reintroduced conscription', 'introduction of new conscription', "2025 World Men's Handball Championship"]
+croatian olympic committee | IsPartOf | croatian government
+croatian olympic committee | IsRelatedTo | eurovision contest
+croatian olympic committee | IsRelatedTo | 2018 World Men's Handball Championship
+croatian olympic committee | IsRelatedTo | ["2024 Men's European Water Polo Championship", 'high GDP projection']
+croatian olympic committee | IsRelatedTo | 1979 Mediterranean Games
+croatian olympic committee | IsRelatedTo | 1987 Summer Universiade
+croatian olympic committee | IsRelatedTo | 2000 World Rowing Championships
+croatian olympic committee | IsRelatedTo | 2007 World Table Tennis Championships
+croatian olympic committee | IsRelatedTo | 2009 World Men's Handball Championship
+croatian olympic committee | IsRelatedTo | 2022 World Cup bronze
+croatian olympic committee | IsRelatedTo | 2018 World Cup silver
+croatian olympic committee | IsRelatedTo | 1998 World Cup bronze
+croatian olympic committee | IsRelatedTo | 2020 Summer Olympics gold
+branimir unspecified | WasPresentAt | benkovac
+branimir unspecified | IsRelatedTo | international recognition
+benkovac | OccursAt | branimir inscription
+international recognition | IsRelatedTo | tomislav unspecified
+international recognition | IsRelatedTo | ferdinand i of austria
+international recognition | IsRelatedTo | zvonimir unspecified
+international recognition | IsRelatedTo | trpimir i of croatia
+ferdinand i of austria | WasPresentAt | cetina
+ferdinand i of austria | IsRelatedTo | parliament meeting
+ferdinand i of austria | IsRelatedTo | kingdom of croatia
+cetina | OccursAt | parliament meeting
+parliament meeting | IsRelatedTo | sabor
+kingdom of croatia | IsRelatedTo | petar kresimir iv
+kingdom of croatia | IsRelatedTo | dmitar zvonimir
+kingdom of croatia | IsRelatedTo | ladislaus i
+kingdom of croatia | IsRelatedTo | louis ii
+kingdom of croatia | IsRelatedTo | charles iii
+kingdom of croatia | IsRelatedTo | maria theresa
+kingdom of croatia | IsRelatedTo | josip jelacic
+kingdom of croatia | IsRelatedTo | nikola tesla
+kingdom of croatia | IsRelatedTo | first king of croatia
+kingdom of croatia | IsPartOf | sabor
+trpimir i of croatia | WasPresentAt | krapina
+trpimir i of croatia | IsRelatedTo | trpimir charter
+trpimir i of croatia | IsRelatedTo | duchy of croatia
+trpimir charter | OccursAt | dalmatia
+trpimir charter | IsRelatedTo | duchy of croatia
+duchy of croatia | IsPartOf | principality of lower pannonia
+dmitar zvonimir | IsRelatedTo | end of trpimirovic dynasty
+dmitar zvonimir | IsRelatedTo | medieval croatian kingdom
+end of trpimirovic dynasty | OccursAt | dalmatia
+end of trpimirovic dynasty | IsRelatedTo | medieval croatian kingdom
+medieval croatian kingdom | IsRelatedTo | peter kresimir iv
+louis ii | IsRelatedTo | battle of mohacs
+charles iii | IsRelatedTo | pragmatic sanction
+pragmatic sanction | IsRelatedTo | maria theresa
+pragmatic sanction | IsRelatedTo | austro-hungarian empire
+josip jelacic | IsRelatedTo | battle of krbava field
+battle of krbava field | IsRelatedTo | croatian military frontier
+nikola tesla | WasPresentAt | smiljin
+nikola tesla | IsRelatedTo | birth of nikola tesla
+smiljin | OccursAt | birth of nikola tesla
+julius nepos | WasPresentAt | split
+julius nepos | IsRelatedTo | julius nepos rule
+split | OccursAt | diocletian abdication
+split | OccursAt | julius nepos rule
+split | IsContainedIn | slavonia
+split | IsContainedIn | bijaci
+ivo josipovic | IsRelatedTo | plenkovic becomes prime minister
+plenkovic becomes prime minister | IsRelatedTo | andrej plenkovic
+zoran milanovic | IsRelatedTo | presidential elections
+dusan vukotic | WasPresentAt | pula
+dusan vukotic | IsRelatedTo | academy awards nomination
+dusan vukotic | IsRelatedTo | ministry of culture
+pula | OccursAt | eurovision contest
+pula | OccursAt | academy awards nomination
+pula | IsContainedIn | istria
+academy awards nomination | IsRelatedTo | nebojsа slijepcevic
+academy awards nomination | IsRelatedTo | ministry of culture
+ministry of culture | IsRelatedTo | branko lustig
+ministry of culture | IsRelatedTo | nebojsа slijepcevic
+branko lustig | WasPresentAt | zagreb
+zagreb | OccursAt | ['agreement signed', 'aircraft delivery']
+zagreb | OccursAt | new flights launched
+zagreb | OccursAt | proclamation of state
+zagreb | IsContainedIn | korcula
+zagreb | IsContainedIn | lastovo
+zagreb | IsContainedIn | ruđer boskovic institute
+zagreb | IsContainedIn | croatian academy of sciences and arts
+nebojsа slijepcevic | WasPresentAt | korcula
+korcula | IsContainedIn | slavonia
+korcula | IsContainedIn | adratic sea
+vladimir zerjavic | IsRelatedTo | ['declaration of independence', 'independence declaration']
+vladimir zerjavic | IsRelatedTo | ['erdut agreement']
+vladimir zerjavic | IsRelatedTo | victory day
+vladimir zerjavic | IsRelatedTo | diplomatic recognition
+vladimir zerjavic | IsRelatedTo | declaration implementation
+vladimir zerjavic | IsRelatedTo | state anti-fascist council for the national liberation of croatia
+['declaration of independence', 'independence declaration'] | IsRelatedTo | bogoljub kocovic
+['declaration of independence', 'independence declaration'] | IsRelatedTo | franjo tuđman
+['declaration of independence', 'independence declaration'] | IsRelatedTo | nato
+['declaration of independence', 'independence declaration'] | IsRelatedTo | european union
+['declaration of independence', 'independence declaration'] | IsRelatedTo | united nations
+['declaration of independence', 'independence declaration'] | IsRelatedTo | osce
+['declaration of independence', 'independence declaration'] | IsRelatedTo | partisan movement
+['declaration of independence', 'independence declaration'] | IsRelatedTo | state anti-fascist council for the national liberation of croatia
+['declaration of independence', 'independence declaration'] | IsRelatedTo | avnoj
+['erdut agreement'] | IsRelatedTo | bogoljub kocovic
+['erdut agreement'] | IsRelatedTo | united nations
+['erdut agreement'] | IsRelatedTo | untaes
+victory day | IsRelatedTo | bogoljub kocovic
+victory day | IsRelatedTo | republic of serbian krajina
+diplomatic recognition | IsRelatedTo | bogoljub kocovic
+diplomatic recognition | IsRelatedTo | united nations
+diplomatic recognition | IsRelatedTo | european economic community
+declaration implementation | IsRelatedTo | bogoljub kocovic
+declaration implementation | IsRelatedTo | franjo tuđman
+declaration implementation | IsRelatedTo | state anti-fascist council for the national liberation of croatia
+state anti-fascist council for the national liberation of croatia | IsRelatedTo | bogoljub kocovic
+state anti-fascist council for the national liberation of croatia | IsPartOf | partisan movement
+state anti-fascist council for the national liberation of croatia | IsRelatedTo | Tehran Conference recognition
+franjo tuđman | IsRelatedTo | communist party
+stjepan radic | WasPresentAt | rijeka
+stjepan radic | IsRelatedTo | assassination of Stjepan Radic
+stjepan radic | IsRelatedTo | croatian peasant party
+rijeka | WasPresentAt | punisa racic
+rijeka | WasPresentAt | ante pavelic
+assassination of Stjepan Radic | IsRelatedTo | punisa racic
+assassination of Stjepan Radic | OccursAt | belgrade
+assassination of Stjepan Radic | IsRelatedTo | croatian peasant party
+croatian peasant party | IsRelatedTo | vladko macek
+croatian peasant party | IsRelatedTo | declaration of independence
+vladko macek | IsRelatedTo | Cvetkovic–Macek Agreement
+ante pavelic | IsRelatedTo | invasion of Yugoslavia
+ante pavelic | IsRelatedTo | independent state of croatia
+invasion of Yugoslavia | IsRelatedTo | independent state of croatia
+josip broz | WasPresentAt | sisak
+josip broz | IsRelatedTo | formation of 1st Sisak Partisan Detachment
+josip broz | IsRelatedTo | yugoslav partisan movement
+sisak | OccursAt | formation of 1st Sisak Partisan Detachment
+formation of 1st Sisak Partisan Detachment | IsRelatedTo | 1st sisak partisan detachment
+yugoslav partisan movement | IsPartOf | 1st sisak partisan detachment
+yugoslav partisan movement | IsRelatedTo | control of Yugoslavia
+josip juraj strossmayer | IsRelatedTo | croatian radiotelevision (hrt)
+croatian radiotelevision (hrt) | IsRelatedTo | vlaho bukovac
+croatian radiotelevision (hrt) | IsRelatedTo | ivan mestrovic
+croatian radiotelevision (hrt) | IsRelatedTo | ivan generalic
+croatian radiotelevision (hrt) | IsPartOf | croatian government
+vatroslav lisinski | IsRelatedTo | croatian government
+croatian government | IsRelatedTo | ivan zajc
+croatian government | IsRelatedTo | proclamation of state
+croatian government | IsPartOf | office of displaced persons and refugees
+['abolished conscription', 'abolishment of compulsory conscription'] | IsRelatedTo | ministry of the interior
+['abolished conscription', 'abolishment of compulsory conscription'] | IsRelatedTo | croatian armed forces
+['abolished conscription', 'abolishment of compulsory conscription'] | IsRelatedTo | nato
+['abolished conscription', 'abolishment of compulsory conscription'] | IsRelatedTo | united nations
+['abolished conscription', 'abolishment of compulsory conscription'] | IsRelatedTo | kfor
+['reintroduced conscription', 'introduction of new conscription', "2025 World Men's Handball Championship"] | IsRelatedTo | ministry of the interior
+['reintroduced conscription', 'introduction of new conscription', "2025 World Men's Handball Championship"] | IsRelatedTo | croatian armed forces
+['agreement signed', 'aircraft delivery'] | IsRelatedTo | croatian railways
+['agreement signed', 'aircraft delivery'] | IsRelatedTo | european investment bank
+construction started | OccursAt | krk island
+construction started | IsRelatedTo | european union
+construction started | IsRelatedTo | hrvatske ceste
+construction started | IsRelatedTo | china road and bridge corporation
+krk island | OccursAt | construction completed
+krk island | OccursAt | terminal operations begun
+['corruption index ranking', 'swimming water quality ranking'] | OccursAt | opatija
+['corruption index ranking', 'swimming water quality ranking'] | IsRelatedTo | transparency international
+opatija | OccursAt | ['tourism income estimation', 'tourist destination popularity']
+opatija | OccursAt | tourist number rise
+opatija | OccursAt | ['solo travel index ranking', 'honeymoon destination popularity']
+opatija | IsContainedIn | slavonia
+['tourism income estimation', 'tourist destination popularity'] | IsRelatedTo | world tourism organization
+battle of sisak | IsRelatedTo | croatian military frontier
+return of military frontier | IsRelatedTo | austro-hungarian empire
+branimir inscription | IsRelatedTo | dux cruatorvm
+dalmatia | OccursAt | beginning of roman rule
+dalmatia | OccursAt | dukedom formation
+dalmatia | OccursAt | branimir papal recognition
+dalmatia | OccursAt | tomislav recognition
+branimir papal recognition | IsRelatedTo | papal recognition
+tomislav recognition | IsRelatedTo | papal recognition
+export of military equipment | IsRelatedTo | croatian armed forces
+croatia joins eu | IsRelatedTo | united nations
+oecd accession negotiations | IsRelatedTo | oecd
+['croatia joins schengen area', 'joined eurozone', 'joined schengen area', 'croatia adopts euro'] | IsRelatedTo | croatian democratic union
+['croatia joins schengen area', 'joined eurozone', 'joined schengen area', 'croatia adopts euro'] | IsRelatedTo | social democratic party of croatia
+['croatia joins schengen area', 'joined eurozone', 'joined schengen area', 'croatia adopts euro'] | IsRelatedTo | croatian ministry of foreign affairs and european integration
+EIB loan to Zagreb | OccursAt | city of zagreb
+EIB loan to Zagreb | IsRelatedTo | european investment bank (eib)
+city of zagreb | IsContainedIn | ruđer boskovic institute
+city of zagreb | IsContainedIn | croatian academy of sciences and arts
+EIB loan to Split | OccursAt | city of split
+EIB loan to Split | IsRelatedTo | european investment bank (eib)
+union with Serbia | OccursAt | serbia
+Tehran Conference recognition | OccursAt | tehran
+bosnia and herzegovina | IsContainedIn | neum
+lastovo | IsContainedIn | adratic sea
+slavonia | IsContainedIn | vis
+slavonia | IsContainedIn | sibenik
+adratic sea | IsContainedIn | hvar
+adratic sea | IsContainedIn | vis
+cakovec | IsContainedIn | lika
+lika | IsContainedIn | ploce
+croatian armed forces | IsPartOf | kfor
+croatian armed forces | IsPartOf | nato
+croatian armed forces | IsPartOf | united nations
+european union | IsPartOf | hrvatske ceste
+hrvatske ceste | IsPartOf | china road and bridge corporation
+china road and bridge corporation | IsPartOf | hrvatska elektroprivreda
+croatian military frontier | IsPartOf | austro-hungarian empire
+austro-hungarian empire | IsPartOf | croatian national revival

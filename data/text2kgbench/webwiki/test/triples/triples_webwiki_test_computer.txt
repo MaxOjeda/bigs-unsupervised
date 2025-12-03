@@ -1,0 +1,440 @@
+High Performance File System | developer | IBM
+High Performance File System | developer | Microsoft
+AMSDOS | developer | Amstrad
+Windows Movie Maker | developer | Microsoft
+Ground Control : Dark Conspiracy | developer | Massive Entertainment
+Neverwinter Nights 2 : Mask of the Betrayer | developer | Obsidian Entertainment
+Battle Realms : Winter of the Wolf | developer | Liquid Entertainment
+Final Cut Pro | developer | Macromedia
+World in Conflict : Soviet Assault | developer | Massive Entertainment
+ICL VME | developer | International Computers Limited
+Guild Wars 2 : Heart of Thorns | developer | ArenaNet
+AmigaOS | developer | Hyperion Entertainment
+Internet Channel | developer | Opera Software
+PC-MOS / 386 | developer | The Software Link
+Netscape Navigator | developer | AOL
+Age of Empires II : The Conquerors | developer | Ensemble Studios
+DNIX | developer | Dataindustrier AB
+RSX-11 | developer | Digital Equipment Corporation
+AdvFS | developer | Digital Equipment Corporation
+AdvFS | operating system | Tru64 UNIX
+Guild Wars : Eye of the North | developer | ArenaNet
+NCR VRX | developer | NCR Corporation
+NTFS | developer | Microsoft
+Z / VM | developer | IBM
+The Book of Unwritten Tales : The Critter Chronicles | developer | King Art Games
+Ultima Online : Stygian Abyss | developer | Electronic Arts
+TOPS-20 | developer | Digital Equipment Corporation
+OS / 8 | developer | Digital Equipment Corporation
+OS / 8 | platform | PDP-8
+Halo 3 : ODST | developer | Bungie
+Lego Digital Designer | developer | The Lego Group
+UBIFS | developer | Nokia
+NetWare | developer | Novell
+Cobalt Qube | developer | Cobalt Networks
+Cobalt Qube | platform | Red Hat Linux
+Warcraft III : The Frozen Throne | developer | Blizzard Entertainment
+Tom Clancy 's Ghost Recon : Desert Siege | developer | Red Storm Entertainment
+Tom Clancy 's Ghost Recon : Desert Siege | platform | Microsoft Windows
+Icewind Dale : Heart of Winter | developer | Black Isle Studios
+Baldur 's Gate : Tales of the Sword Coast | developer | BioWare
+Mass Effect 2 : Overlord | developer | BioWare
+CXFS | developer | Silicon Graphics
+CANape | developer | Vector Informatik
+Windows 95 | developer | Microsoft
+Advanced Comprehensive Operating System | developer | NEC
+ActivePerl | developer | ActiveState
+Dying Light : The Following | developer | Techland
+Dying Light : The Following | platform | Linux
+Dying Light : The Following | platform | Xbox One
+Dying Light : The Following | platform | Microsoft Windows
+Dying Light : The Following | platform | PlayStation 4
+86-DOS | developer | Seattle Computer Products
+The Sims 2 : Seasons | developer | Maxis
+Vegas Pro | creator | Sonic Foundry
+Vegas Pro | developer | Sonic Foundry
+Vegas Pro | developer | Magix
+Vegas Pro | developer | Sony Creative Software
+F.E.A.R. Extraction Point | developer | TimeGate Studios
+MONECS | developer | Monash University
+Diablo : Hellfire | developer | Synergistic Software
+StarCraft : Brood War | developer | Blizzard Entertainment
+StarCraft : Brood War | platform | Microsoft Windows
+4K Disk Monitor System | developer | Digital Equipment Corporation
+RT-11 | developer | Digital Equipment Corporation
+RT-11 | platform | PDP-11
+OS-9 | developer | Microware
+The Elder Scrolls III : Bloodmoon | developer | Bethesda Game Studios
+Opera Mobile | developer | Opera Software
+Doom 3 : Resurrection of Evil | developer | Nerve Software
+Neverwinter Nights : Darkness over Daggerford | developer | Ossian Studios
+WaveLab | developer | Steinberg
+WaveLab | operating system | MacOS
+Blackmagic Fusion | developer | Blackmagic Design
+RSTS / E | developer | Digital Equipment Corporation
+Heroes of Might and Magic III : The Shadow of Death | developer | New World Computing
+Heroes of Might and Magic III : The Shadow of Death | platform | Microsoft Windows
+SpiderMonkey | creator | Netscape
+SpiderMonkey | creator | Brendan Eich
+SpiderMonkey | developer | Mozilla Foundation
+Exscientologykids.com | creator | Kendra Wiseman
+Exscientologykids.com | creator | Jenna Miscavige Hill
+The Interactive Encyclopedia System | creator | Ben Shneiderman
+ENQUIRE | creator | Tim Berners-Lee
+Meet the Press | creator | Martha Rountree
+The Pirate Bay | creator | Gottfrid Svartholm
+The Pirate Bay | creator | Peter Sunde
+The Pirate Bay | creator | Fredrik Neij
+Nvu | creator | Daniel Glazman
+The Western Journal | creator | Floyd Brown
+Ethereum | creator | Vitalik Buterin
+NationStates | creator | Max Barry
+Olney Hymns | creator | William Cowper
+Olney Hymns | creator | John Newton
+Video Disk Recorder | creator | Klaus Schmidinger
+Hypertext Editing System | creator | Andries van Dam
+Hypertext Editing System | creator | Ted Nelson
+CBS News Sunday Morning | creator | Charles Kuralt
+Cleverbot | creator | Rollo Carpenter
+Cleverbot | developer | Rollo Carpenter
+Twitter | creator | Jack Dorsey
+Instapaper | creator | Marco Arment
+Ikiwiki | creator | Joey Hess
+Zend Engine | creator | Zeev Suraski
+Zend Engine | creator | Andi Gutmans
+Textfiles.com | creator | Jason Scott
+Iruresa | creator | Lasantha Wickrematunge
+Iruresa | creator | Lal Wickrematunge
+Dilbert | creator | Scott Adams
+Vic and Sade | creator | Paul Rhymer
+D'Agapeyeff cipher | creator | Alexander d'Agapeyeff
+D'Agapeyeff cipher | named after | Alexander d'Agapeyeff
+The Pirate Bay | creator | Gottfrid Svartholm
+The Pirate Bay | creator | Peter Sunde
+The Pirate Bay | creator | Fredrik Neij
+Everyday Elegance | creator | Colin Cowie
+Newsbeuter | creator | Andreas Krennmair
+Newsbeuter | developer | Andreas Krennmair
+Megaupload | creator | Kim Dotcom
+Meduza | creator | Galina Timchenko
+Kiwix | creator | Emmanuel Engelhart
+Kiwix | creator | Renaud Gaudin
+Liquid News | creator | Stuart Murphy
+The Colbert Report | creator | Jon Stewart
+The Colbert Report | creator | Ben Karlin
+LacusCurtius | creator | Bill Thayer
+WikiWikiWeb | creator | Ward Cunningham
+WikiWikiWeb | discoverer or inventor | Ward Cunningham
+The Young Turks | creator | Cenk Uygur
+Tarsnap | creator | Colin Percival
+Zend Engine | creator | Zeev Suraski
+Zend Engine | creator | Andi Gutmans
+Whonamedit ? | creator | Ole Daniel Enersen
+Mouchette.org | creator | Martine Neddam
+Wikipedia | creator | Jimmy Wales
+Wikipedia | named after | Encyclopedia
+Wikipedia | developer | Jimmy Wales
+Applesoft BASIC | creator | Ric Weiland
+Applesoft BASIC | creator | Marc McDonald
+Applesoft BASIC | developer | Microsoft
+Applesoft BASIC | platform | Apple II series
+Teenage Mutant Ninja Turtles | creator | Peter Laird
+Teenage Mutant Ninja Turtles | creator | Kevin Eastman
+Pretty Good Privacy | creator | Phil Zimmermann
+Pretty Good Privacy | developer | Phil Zimmermann
+Re : Gex | creator | Rob Liefeld
+The Million Dollar Homepage | creator | Alex Tew
+60 Minutes | creator | Don Hewitt
+Project Xanadu | creator | Ted Nelson
+The Colbert Report | creator | Jon Stewart
+The Colbert Report | creator | Ben Karlin
+Listen to Wikipedia | creator | Mahmoud Hashemi
+Listen to Wikipedia | creator | Stephen LaPorte
+Electronic Document System | creator | Andries van Dam
+Electronic Document System | creator | Sandor Nagy
+Caverns of Mars | platform | Atari 8-bit family
+Mighty Bomb Jack | developer | Tecmo
+Mighty Bomb Jack | platform | Commodore 64
+Mighty Bomb Jack | platform | Nintendo Entertainment System
+B.C. 's Quest for Tires | platform | Commodore 64
+B.C. 's Quest for Tires | platform | MSX
+B.C. 's Quest for Tires | platform | ZX Spectrum
+GM-NAA I / O | developer | North American Aviation
+GM-NAA I / O | platform | IBM 704
+Zynaps | platform | Atari ST
+Zynaps | platform | Amiga
+Zynaps | platform | Commodore 64
+Zynaps | platform | ZX Spectrum
+Zynaps | platform | Amstrad CPC
+SHARE Operating System | platform | IBM 7090
+SHARE Operating System | platform | IBM 709
+Red Hat Enterprise Linux | platform | X86
+Red Hat Enterprise Linux | platform | IBM Z
+Red Hat Enterprise Linux | platform | X86-64
+Blasteroids | platform | Atari ST
+Blasteroids | platform | Amiga
+Blasteroids | platform | Commodore 64
+Blasteroids | platform | MSX
+Blasteroids | platform | ZX Spectrum
+Blasteroids | platform | DOS
+Blasteroids | platform | Amstrad CPC
+Dan Dare : Pilot of the Future | platform | Commodore 64
+Dan Dare : Pilot of the Future | platform | ZX Spectrum
+Dan Dare : Pilot of the Future | platform | Amstrad CPC
+Archon : The Light and the Dark | platform | Amiga
+Archon : The Light and the Dark | platform | Commodore 64
+Archon : The Light and the Dark | platform | ZX Spectrum
+Archon : The Light and the Dark | platform | Amstrad CPC
+Apple GS / OS | platform | Apple IIGS
+Xevious | developer | Namco
+Xevious | platform | Namco Galaga
+James Pond : Underwater Agent | platform | Atari ST
+James Pond : Underwater Agent | platform | Amiga
+James Pond : Underwater Agent | platform | Sega Genesis
+James Pond : Underwater Agent | platform | Acorn Archimedes
+The Lost Treasures of Infocom | platform | Apple IIGS
+The Lost Treasures of Infocom | platform | DOS
+Battle Chess | developer | Interplay Entertainment
+Battle Chess | platform | 3DO Interactive Multiplayer
+Battle Chess | platform | Acorn Archimedes
+Battle Chess | platform | Atari ST
+Battle Chess | platform | Microsoft Windows
+Battle Chess | platform | Amiga
+Battle Chess | platform | Amiga CD32
+Battle Chess | platform | Apple IIGS
+Battle Chess | platform | Commodore 64
+Battle Chess | platform | DOS
+10th Frame | platform | Commodore 64
+10th Frame | platform | MSX
+10th Frame | platform | ZX Spectrum
+10th Frame | platform | Amstrad CPC
+Berkeley Timesharing System | platform | SDS 940
+Dedal | platform | Oric
+Rescue on Fractalus ! | platform | Commodore 64
+Rescue on Fractalus ! | platform | ZX Spectrum
+Rescue on Fractalus ! | platform | Amstrad CPC
+MIDI Maze | platform | Atari ST
+Yie Ar Kung-Fu II | platform | BBC Micro
+Yie Ar Kung-Fu II | platform | Acorn Electron
+Yie Ar Kung-Fu II | platform | Commodore 64
+Yie Ar Kung-Fu II | platform | MSX
+Yie Ar Kung-Fu II | platform | ZX Spectrum
+Yie Ar Kung-Fu II | platform | Amstrad CPC
+DuckTales : The Quest for Gold | developer | Incredible Technologies
+DuckTales : The Quest for Gold | platform | Amiga
+DuckTales : The Quest for Gold | platform | Commodore 64
+DuckTales : The Quest for Gold | platform | DOS
+BESYS | developer | Bell Labs
+BESYS | platform | IBM 704
+HDOS | developer | Heathkit
+HDOS | platform | Zenith Z-89
+HDOS | platform | Heathkit H8
+Yie Ar Kung-Fu II | platform | BBC Micro
+Yie Ar Kung-Fu II | platform | Acorn Electron
+Yie Ar Kung-Fu II | platform | Commodore 64
+Yie Ar Kung-Fu II | platform | MSX
+Yie Ar Kung-Fu II | platform | ZX Spectrum
+Yie Ar Kung-Fu II | platform | Amstrad CPC
+Nodes of Yesod | platform | Commodore 64
+Nodes of Yesod | platform | ZX Spectrum
+Nodes of Yesod | platform | Amstrad CPC
+The Activision Decathlon | platform | ColecoVision
+The Activision Decathlon | platform | Atari 8-bit family
+The Activision Decathlon | platform | Commodore 64
+The Activision Decathlon | platform | MSX
+The Activision Decathlon | platform | Atari 5200
+Wargame Construction Set | platform | Atari 8-bit family
+Wargame Construction Set | platform | Atari ST
+Wargame Construction Set | platform | Amiga
+Wargame Construction Set | platform | Commodore 64
+Wargame Construction Set | platform | DOS
+Hareraiser | platform | Commodore 64
+Hareraiser | platform | MSX
+Hareraiser | platform | ZX Spectrum
+Hareraiser | platform | Commodore VIC-20
+Hareraiser | platform | Amstrad CPC
+Applesoft BASIC | creator | Ric Weiland
+Applesoft BASIC | creator | Marc McDonald
+Applesoft BASIC | developer | Microsoft
+Applesoft BASIC | platform | Apple II series
+Starfleet Orion | platform | TRS-80
+Starfleet Orion | platform | Commodore PET
+The Eidolon | platform | Commodore 64
+The Activision Decathlon | platform | ColecoVision
+The Activision Decathlon | platform | Atari 8-bit family
+The Activision Decathlon | platform | Commodore 64
+The Activision Decathlon | platform | MSX
+The Activision Decathlon | platform | Atari 5200
+University of Michigan Executive System | platform | IBM 704
+Impossible Mission | developer | Epyx
+Impossible Mission | platform | Commodore 64
+NLTSS | platform | CDC 7600
+NLTSS | platform | Cray Y-MP
+NLTSS | platform | Cray-1
+NLTSS | platform | Cray X-MP
+Towers II : Plight of the Stargazer | platform | Atari Falcon
+OS / 8 | platform | PDP-8
+Transarctica | platform | Atari Falcon
+Transarctica | platform | Atari ST
+Transarctica | platform | Amiga
+Army Moves | developer | Dinamic Software
+Army Moves | platform | Atari ST
+Army Moves | platform | Amiga
+Army Moves | platform | Commodore 64
+Army Moves | platform | MSX
+Army Moves | platform | ZX Spectrum
+Army Moves | platform | Amstrad CPC
+Wings of Fury | platform | Amiga
+Wings of Fury | platform | Commodore 64
+Wings of Fury | platform | DOS
+Wings of Fury | platform | Amstrad CPC
+Kennedy Approach | platform | Atari ST
+Kennedy Approach | platform | Amiga
+007 : Licence to Kill | platform | BBC Micro
+007 : Licence to Kill | platform | Atari ST
+007 : Licence to Kill | platform | Amiga
+007 : Licence to Kill | platform | Commodore 64
+007 : Licence to Kill | platform | MSX
+007 : Licence to Kill | platform | ZX Spectrum
+007 : Licence to Kill | platform | DOS
+007 : Licence to Kill | platform | Amstrad CPC
+Shadowgate | platform | Atari ST
+Shadowgate | platform | Amiga
+Shadowgate | platform | Nintendo Entertainment System
+Moonmist | platform | Apple II
+Moonmist | platform | Atari ST
+Moonmist | platform | Amiga
+Moonmist | platform | Commodore 64
+Moonmist | platform | TRS-80
+Moonmist | platform | DOS
+Moonmist | platform | Amstrad CPC
+Invasion Orion | platform | TRS-80
+Invasion Orion | platform | Commodore PET
+To Preserve Quandic | platform | TRS-80 Color Computer
+Halls of the Things | platform | Commodore 64
+Halls of the Things | platform | Amstrad CPC
+Sherlock Holmes : Consulting Detective | distribution format | CD-ROM
+Sherlock Holmes : Consulting Detective | developer | ICOM Simulations
+Sherlock Holmes : Consulting Detective | platform | Commodore CDTV
+Sherlock Holmes : Consulting Detective | platform | FM Towns
+Sherlock Holmes : Consulting Detective | platform | Sega CD
+Sherlock Holmes : Consulting Detective | platform | Tandy Video Information System
+Sherlock Holmes : Consulting Detective | platform | DOS
+Radar Rat Race | platform | Commodore 64
+Telengard | platform | TRS-80
+Telengard | platform | Commodore PET
+Android Nim | platform | Commodore PET
+Blasteroids | platform | Atari ST
+Blasteroids | platform | Amiga
+Blasteroids | platform | Commodore 64
+Blasteroids | platform | MSX
+Blasteroids | platform | ZX Spectrum
+Blasteroids | platform | DOS
+Blasteroids | platform | Amstrad CPC
+Delta 16 | platform | Commodore 16
+68K / OS | developer | GST Computer Systems
+68K / OS | platform | Sinclair QL
+19 Part One : Boot Camp | platform | Commodore 64
+19 Part One : Boot Camp | platform | ZX Spectrum
+Underwurlde | platform | Commodore 64
+Underwurlde | platform | ZX Spectrum
+Commando Libya | platform | Commodore 64
+Yie Ar Kung-Fu II | platform | BBC Micro
+Yie Ar Kung-Fu II | platform | Acorn Electron
+Yie Ar Kung-Fu II | platform | Commodore 64
+Yie Ar Kung-Fu II | platform | MSX
+Yie Ar Kung-Fu II | platform | ZX Spectrum
+Yie Ar Kung-Fu II | platform | Amstrad CPC
+AMSDOS | developer | Amstrad
+AMSDOS | platform | Amstrad CPC
+Google Pixelbook | operating system | Chrome OS
+Banana Pi | operating system | Linux
+SGI Tezro | operating system | IRIX
+Google Drive | operating system | MacOS
+Google Drive | operating system | IOS
+ICloud | operating system | MacOS
+ICloud | operating system | IOS
+SGI Virtu | CPU | Xeon
+SGI Virtu | CPU | Opteron
+SGI Virtu | operating system | Red Hat Enterprise Linux
+SGI Virtu | operating system | SUSE Linux Enterprise
+Fortnite | derivative work | Fortnite Battle Royale
+Fortnite | developer | Epic Games
+Id Tech 3 | derivative work | IW engine
+Adobe Flash | derivative work | Adobe Flash Professional
+Ghostscript | derivative work | GNU Ghostscript
+OpenSolaris | derivative work | OpenIndiana
+Heroes of Might and Magic III | derivative work | Heroes Chronicles
+OpenSolaris | derivative work | Illumos
+OpenSolaris | derivative work | OpenIndiana
+Red Hat Enterprise Linux | derivative work | Scientific Linux
+Red Hat Enterprise Linux | derivative work | CentOS
+Lunar : The Silver Star | distribution format | CD-ROM
+Ninety-Nine Nights | distribution format | DVD
+Flink | distribution format | CD-ROM
+Flink | platform | Amiga CD32
+Bad Day on the Midway | distribution format | CD-ROM
+Fast Draw Showdown | distribution format | LaserDisc
+Fast Draw Showdown | developer | American Laser Games
+Castles II : Siege and Conquest | distribution format | CD-ROM
+Castles II : Siege and Conquest | platform | DOS
+The Adventures of Down Under Dan | distribution format | CD-ROM
+The X-Files : Resist or Serve | distribution format | DVD
+Metropolismania | distribution format | CD-ROM
+Little Big Adventure | distribution format | CD-ROM
+Sanarara | distribution format | DVD
+Command & Conquer : The First Decade | distribution format | DVD
+Cosmic Fantasy 2 | distribution format | CD-ROM
+Jack Nicklaus ' Greatest 18 Holes of Major Championship Golf | distribution format | CD-ROM
+Jack Nicklaus ' Greatest 18 Holes of Major Championship Golf | platform | TurboGrafx-16
+X-Change 3 | distribution format | DVD
+Spycraft : The Great Game | distribution format | CD-ROM
+Spycraft : The Great Game | developer | Activision
+Ginga Fukei Densetsu Sapphire | distribution format | CD-ROM
+Final Fantasy VII | distribution format | CD-ROM
+Phantom Brave | distribution format | DVD
+Phantom Brave | platform | Wii
+December When There Is No Angel | distribution format | CD-ROM
+Gadget Invention , Travel , & Adventure | distribution format | CD-ROM
+Sherlock Holmes : Consulting Detective | distribution format | CD-ROM
+Sherlock Holmes : Consulting Detective | developer | ICOM Simulations
+Sherlock Holmes : Consulting Detective | platform | Commodore CDTV
+Sherlock Holmes : Consulting Detective | platform | FM Towns
+Sherlock Holmes : Consulting Detective | platform | Sega CD
+Sherlock Holmes : Consulting Detective | platform | Tandy Video Information System
+Sherlock Holmes : Consulting Detective | platform | DOS
+Mad Dog McCree | distribution format | LaserDisc
+Mad Dog McCree | developer | American Laser Games
+GNU Compiler Collection | implementation of | Objective-C
+GNU Compiler Collection | implementation of | Fortran
+Free Pascal | implementation of | Object Pascal
+JChemPaint | uses | Chemistry Development Kit
+JChemPaint | developer | Christoph Steinbeck
+Steem | uses | Blockchain
+Web SQL Database | uses | SQLite
+Filecoin | uses | Blockchain
+NUKEMAP | uses | Google Maps
+Atari Falcon | CPU | Motorola 68030
+IBM Personal Computer / AT | CPU | Intel 80286
+IBM Personal Computer / AT | named after | Personal computer
+Commodore 128 | CPU | Zilog Z80
+Texas Instruments TI-99 / 4A | CPU | Texas Instruments TMS9900
+Droid Razr | CPU | ARM Cortex-A9
+Xiaomi Mi 2 | CPU | Qualcomm Snapdragon
+ALGOL 60 | named after | 1960
+AWK | named after | Alfred Aho
+AWK | named after | Brian Kernighan
+AWK | developer | Alfred Aho
+Thompson shell | named after | Ken Thompson
+Thompson shell | developer | Ken Thompson
+Tamagotchi | discoverer or inventor | Aki Maita
+RadioGatún | discoverer or inventor | Joan Daemen
+RadioGatún | discoverer or inventor | Gilles Van Assche
+SHA-1 | discoverer or inventor | National Security Agency
+WorldWideWeb | discoverer or inventor | Tim Berners-Lee
+WorldWideWeb | developer | Tim Berners-Lee
+Manchester Baby | discoverer or inventor | Tom Kilburn
+Manchester Baby | discoverer or inventor | Geoff Tootill
+RadioGatún | discoverer or inventor | Joan Daemen
+RadioGatún | discoverer or inventor | Gilles Van Assche
+CAB500 | discoverer or inventor | Alice Recoque

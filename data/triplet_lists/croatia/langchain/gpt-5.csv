@@ -1,0 +1,654 @@
+s,p,o
+Croatia,ISCONTAINEDIN,Europe
+Croatia,ISCONTAINEDIN,Central Europe
+Croatia,ISCONTAINEDIN,Southeast Europe
+Croatia,ISRELATEDTO,Adriatic Sea
+Zagreb,ISCONTAINEDIN,Croatia
+Split,ISCONTAINEDIN,Croatia
+Rijeka,ISCONTAINEDIN,Croatia
+Osijek,ISCONTAINEDIN,Croatia
+Croatia,ISRELATEDTO,Slovenia
+Croatia,ISRELATEDTO,Hungary
+Croatia,ISRELATEDTO,Serbia
+Croatia,ISRELATEDTO,Bosnia And Herzegovina
+Croatia,ISRELATEDTO,Montenegro
+Croatia,ISRELATEDTO,Italy
+Hvar,ISCONTAINEDIN,Croatia
+Korčula,ISCONTAINEDIN,Croatia
+Vis,ISCONTAINEDIN,Croatia
+Krk Island,ISCONTAINEDIN,Croatia
+Dubrovnik,ISCONTAINEDIN,Croatia
+Sisak,ISCONTAINEDIN,Croatia
+Cetin,ISCONTAINEDIN,Croatia
+Krapina,ISCONTAINEDIN,Croatia
+Dalmatia,ISCONTAINEDIN,Croatia
+Slavonia,ISCONTAINEDIN,Croatia
+Croatian Littoral,ISPARTOF,Kingdom Of Croatia
+Croatia,ISPARTOF,European Union
+Croatia,ISPARTOF,Eurozone
+Croatia,ISPARTOF,Schengen Area
+Croatia,ISPARTOF,Nato
+Croatia,ISPARTOF,United Nations
+Croatia,ISPARTOF,Council Of Europe
+Croatia,ISPARTOF,Osce
+Croatia,ISPARTOF,World Trade Organization
+Croatia,ISPARTOF,Union For The Mediterranean
+Croatia,ISRELATEDTO,Oecd
+Croatia,ISRELATEDTO,International Security Assistance Force
+United Nations Security Council 2008–2009 Croatian Membership,OCCURSAT,United Nations
+Croatia,WASPRESENTAT,United Nations Security Council 2008–2009 Croatian Membership
+Lng Hrvatska,ISRELATEDTO,Krk Island
+Croatia,ISRELATEDTO,Lng Hrvatska
+Lng Hrvatska,ISRELATEDTO,Europe
+Croats,ISRELATEDTO,Croatia
+Croatia,ISPARTOF,Roman Illyria
+Croatia,ISPARTOF,Roman Empire
+Papal Recognition Of Branimir On 7 June 879,OCCURSAT,Croatia
+Duke Branimir,WASPRESENTAT,Papal Recognition Of Branimir On 7 June 879
+Pope John Viii,WASPRESENTAT,Papal Recognition Of Branimir On 7 June 879
+Coronation Of Tomislav 925,OCCURSAT,Croatia
+Tomislav,WASPRESENTAT,Coronation Of Tomislav 925
+Personal Union With Hungary 1102,OCCURSAT,Croatia
+Coloman,WASPRESENTAT,Personal Union With Hungary 1102
+Kingdom Of Hungary,WASPRESENTAT,Personal Union With Hungary 1102
+Kingdom Of Croatia,WASPRESENTAT,Personal Union With Hungary 1102
+Election Of Ferdinand I 1527,OCCURSAT,Cetin
+Croatian Parliament,WASPRESENTAT,Election Of Ferdinand I 1527
+Ferdinand I Of Austria,WASPRESENTAT,Election Of Ferdinand I 1527
+House Of Habsburg,WASPRESENTAT,Election Of Ferdinand I 1527
+"Proclamation Of State Of Slovenes, Croats, And Serbs In Zagreb 1918",OCCURSAT,Zagreb
+"State Of Slovenes, Croats, And Serbs",WASPRESENTAT,"Proclamation Of State Of Slovenes, Croats, And Serbs In Zagreb 1918"
+"Proclamation Of State Of Slovenes, Croats, And Serbs In Zagreb 1918",ISRELATEDTO,Habsburg Empire
+Merger Into Kingdom Of Yugoslavia December 1918,WASPRESENTAT,"State Of Slovenes, Croats, And Serbs"
+Merger Into Kingdom Of Yugoslavia December 1918,WASPRESENTAT,Kingdom Of Yugoslavia
+Axis Invasion Of Yugoslavia April 1941,OCCURSAT,Kingdom Of Yugoslavia
+Nazi Germany,WASPRESENTAT,Axis Invasion Of Yugoslavia April 1941
+Fascist Italy,WASPRESENTAT,Axis Invasion Of Yugoslavia April 1941
+Creation Of Independent State Of Croatia 1941,OCCURSAT,Croatia
+Ante Pavelić,WASPRESENTAT,Creation Of Independent State Of Croatia 1941
+Ustaše,WASPRESENTAT,Creation Of Independent State Of Croatia 1941
+Independent State Of Croatia,ISRELATEDTO,Nazi Germany
+Independent State Of Croatia,ISRELATEDTO,Fascist Italy
+Ustaše,ISRELATEDTO,Serbs
+Ustaše,ISRELATEDTO,Jews
+Ustaše,ISRELATEDTO,Roma
+Chetniks,ISRELATEDTO,Croats
+Chetniks,ISRELATEDTO,Muslims
+Jasenovac,ISCONTAINEDIN,Croatia
+1944 Lipa Massacre,OCCURSAT,Lipa
+Nazi Germany,WASPRESENTAT,1944 Lipa Massacre
+1944 Kamešnica Crimes,OCCURSAT,Kamešnica
+Nazi Germany,WASPRESENTAT,1944 Kamešnica Crimes
+Formation Of 1St Sisak Partisan Detachment 22 June 1941,OCCURSAT,Sisak
+1St Sisak Partisan Detachment,WASPRESENTAT,Formation Of 1St Sisak Partisan Detachment 22 June 1941
+Yugoslav Partisans,WASPRESENTAT,Tehran Conference
+Belgrade Offensive 1944,WASPRESENTAT,Soviet Troops
+State Anti-Fascist Council For The National Liberation Of Croatia,ISRELATEDTO,Croatian Parliament
+Socialist Republic Of Croatia,ISPARTOF,Socialist Federal Republic Of Yugoslavia
+Croatia Declaration Of Independence 25 June 1991,OCCURSAT,Croatia
+Croatia,WASPRESENTAT,Croatia Declaration Of Independence 25 June 1991
+Croatian War Of Independence,OCCURSAT,Croatia
+Avar And Croat Invasions (Late 6Th–7Th Century),OCCURSAT,Croatia
+Avars,WASPRESENTAT,Avar And Croat Invasions (Late 6Th–7Th Century)
+Croats,WASPRESENTAT,Avar And Croat Invasions (Late 6Th–7Th Century)
+White Croats,ISRELATEDTO,White Croatia
+Croats,ISRELATEDTO,White Croats
+Migration Period,ISRELATEDTO,Croats
+Duchy Of Croatia,ISPARTOF,Francia
+Borna,ISRELATEDTO,Duchy Of Croatia
+Principality Of Lower Pannonia,ISRELATEDTO,Duchy Of Croatia
+Ljudevit,ISRELATEDTO,Principality Of Lower Pannonia
+Ljudevit,ISRELATEDTO,Sisak
+Archon Porga Of Croatia,ISRELATEDTO,Croatia
+Trpimir I,ISRELATEDTO,Trpimirović Dynasty
+Trpimirović Dynasty,ISRELATEDTO,Croatia
+Petar Krešimir Iv,ISRELATEDTO,Kingdom Of Croatia
+Dmitar Zvonimir,ISRELATEDTO,Kingdom Of Croatia
+Frankopan Family,ISRELATEDTO,Kingdom Of Croatia
+Šubić Family,ISRELATEDTO,Kingdom Of Croatia
+Battle Of Krbava Field 1493,OCCURSAT,Krbava Field
+Battle Of Mohács 1526,OCCURSAT,Mohács
+Battle Of Sisak 1593,OCCURSAT,Sisak
+Ottoman Empire,WASPRESENTAT,Battle Of Sisak 1593
+Great Turkish War (1683–1698),WASPRESENTAT,Ottoman Empire
+Slavonia,ISRELATEDTO,Great Turkish War (1683–1698)
+Fifth Ottoman–Venetian War,WASPRESENTAT,Republic Of Venice
+Fifth Ottoman–Venetian War,WASPRESENTAT,Ottoman Empire
+Seventh Ottoman–Venetian War,WASPRESENTAT,Republic Of Venice
+Seventh Ottoman–Venetian War,WASPRESENTAT,Ottoman Empire
+Dalmatia,ISRELATEDTO,Republic Of Venice
+Bosnians,ISRELATEDTO,Croatian Military Frontier
+Croatian Parliament,WASPRESENTAT,Pragmatic Sanction Of 1712
+Maria Theresa,ISRELATEDTO,Croatia
+Battle Of Vis 1811,OCCURSAT,Vis
+Royal Navy,WASPRESENTAT,Battle Of Vis 1811
+Austrian Capture Of Illyrian Provinces 1813,OCCURSAT,Illyrian Provinces
+Austrian Empire,WASPRESENTAT,Austrian Capture Of Illyrian Provinces 1813
+Croatian National Revival,OCCURSAT,Croatia
+Hungarian Revolution Of 1848,OCCURSAT,Croatia
+Croatia,WASPRESENTAT,Hungarian Revolution Of 1848
+Josip Jelačić,WASPRESENTAT,Hungarian Revolution Of 1848
+Birth Of Nikola Tesla,OCCURSAT,Smiljin
+Nikola Tesla,WASPRESENTAT,Birth Of Nikola Tesla
+Austro-Hungarian Compromise Of 1867,OCCURSAT,Austria-Hungary
+Croatian–Hungarian Settlement Of 1868,OCCURSAT,Kingdom Of Croatia
+Kingdom Of Slavonia,ISPARTOF,Kingdom Of Croatia
+Croatian Military Frontier,ISPARTOF,Croatia
+Treaty Of Berlin 1878,OCCURSAT,Bosnia And Herzegovina
+Austria-Hungary,WASPRESENTAT,Treaty Of Berlin 1878
+Croatian Independence Declaration 29 October 1918,OCCURSAT,Croatia
+Croatian Parliament,WASPRESENTAT,Croatian Independence Declaration 29 October 1918
+"Formation Of Kingdom Of Serbs, Croats, And Slovenes (4 December 1918)",WASPRESENTAT,Kingdom Of Serbia
+"Formation Of Kingdom Of Serbs, Croats, And Slovenes (4 December 1918)",WASPRESENTAT,"State Of Slovenes, Croats, And Serbs"
+"Formation Of Kingdom Of Serbs, Croats, And Slovenes (4 December 1918)",WASPRESENTAT,"Kingdom Of Serbs, Croats, And Slovenes"
+"1921 Constitution Of The Kingdom Of Serbs, Croats, And Slovenes",OCCURSAT,Kingdom Of Yugoslavia
+Croatian Peasant Party (Hss),ISRELATEDTO,Stjepan Radić
+Assassination Of Stjepan Radić 1928,OCCURSAT,National Assembly
+Stjepan Radić,WASPRESENTAT,Assassination Of Stjepan Radić 1928
+Puniša Račić,WASPRESENTAT,Assassination Of Stjepan Radić 1928
+Nrs,WASPRESENTAT,Assassination Of Stjepan Radić 1928
+6 January Dictatorship,OCCURSAT,Kingdom Of Yugoslavia
+King Alexander I,WASPRESENTAT,6 January Dictatorship
+1931 Constitution,OCCURSAT,Kingdom Of Yugoslavia
+Cvetković–Maček Agreement (August 1939),OCCURSAT,Kingdom Of Yugoslavia
+Vladko Maček,WASPRESENTAT,Cvetković–Maček Agreement (August 1939)
+Banovina Of Croatia,ISPARTOF,Kingdom Of Yugoslavia
+Julius Nepos,ISRELATEDTO,Split
+Julius Nepos,ISRELATEDTO,Italy
+Diocletian,ISRELATEDTO,Split
+Diocletian,ISRELATEDTO,Croatia
+Founding Of Dubrovnik,OCCURSAT,Dubrovnik
+Founding Of Dubrovnik,ISRELATEDTO,Epidaurum
+United Nations Security Council 2008–2009 Croatian Membership,ISRELATEDTO,United Nations Security Council
+1986 Sanu Memorandum,OCCURSAT,Socialist Federal Republic Of Yugoslavia
+"1989 Coups In Vojvodina, Kosovo, And Montenegro",OCCURSAT,Vojvodina
+"1989 Coups In Vojvodina, Kosovo, And Montenegro",OCCURSAT,Kosovo
+"1989 Coups In Vojvodina, Kosovo, And Montenegro",OCCURSAT,Montenegro
+1990 Croatian Multi-Party Elections,OCCURSAT,Croatia
+Franjo Tuđman,WASPRESENTAT,1990 Croatian Multi-Party Elections
+Declaration Of Autonomy Of Republic Of Serbian Krajina,OCCURSAT,Croatia
+Republic Of Serbian Krajina,WASPRESENTAT,Declaration Of Autonomy Of Republic Of Serbian Krajina
+Burgenland Croats,ISRELATEDTO,Croats
+Greeks,ISRELATEDTO,Hvar
+Greeks,ISRELATEDTO,Korčula
+Greeks,ISRELATEDTO,Vis
+Illyrians,ISRELATEDTO,Croatia
+Liburnians,ISRELATEDTO,Croatia
+Allies,WASPRESENTAT,Tehran Conference
+Vladimir Žerjavić,ISRELATEDTO,Croatia
+Bogoljub Kočović,ISRELATEDTO,Croatia
+1974 Yugoslav Constitution,OCCURSAT,Socialist Federal Republic Of Yugoslavia
+Death Of Josip Broz Tito 1980,WASPRESENTAT,Josip Broz Tito
+Death Of Josip Broz Tito 1980,OCCURSAT,Socialist Federal Republic Of Yugoslavia
+Communists,ISRELATEDTO,Socialist Federal Republic Of Yugoslavia
+1990 Communist Party Fragmentation,OCCURSAT,Socialist Federal Republic Of Yugoslavia
+Communist Party,WASPRESENTAT,1990 Communist Party Fragmentation
+United Nations Security Council 2008–2009 Croatian Membership,ISRELATEDTO,United Nations Security Council
+Louis Ii,WASPRESENTAT,Battle Of Mohács 1526
+Croatia,ISCONTAINEDIN,Central Europe
+Croatia,ISCONTAINEDIN,Southeast Europe
+Croatia,ISRELATEDTO,Adriatic Sea
+Croatia,ISRELATEDTO,Hungary
+Croatia,ISRELATEDTO,Serbia
+Croatia,ISRELATEDTO,Bosnia And Herzegovina
+Croatia,ISRELATEDTO,Montenegro
+Croatia,ISRELATEDTO,Slovenia
+Dubrovnik,ISCONTAINEDIN,Croatia
+Neum,ISCONTAINEDIN,Bosnia And Herzegovina
+Pelješac Bridge,ISRELATEDTO,Dubrovnik
+Pelješac Bridge,ISRELATEDTO,Croatia
+Eastern Slavonia,ISCONTAINEDIN,Slavonia
+Western Slavonia,ISCONTAINEDIN,Slavonia
+Slavonia,ISCONTAINEDIN,Croatia
+Hrvatsko Zagorje,ISCONTAINEDIN,Croatia
+Vukovar,ISCONTAINEDIN,Croatia
+Vojvodina,ISCONTAINEDIN,Serbia
+Dinaric Alps,ISCONTAINEDIN,Croatia
+Dinara,ISCONTAINEDIN,Dinaric Alps
+Dinara,ISRELATEDTO,Bosnia And Herzegovina
+Insular Croatia,ISCONTAINEDIN,Croatia
+Cres,ISCONTAINEDIN,Croatia
+Krk,ISCONTAINEDIN,Croatia
+Hvar,ISCONTAINEDIN,Croatia
+Korčula,ISCONTAINEDIN,Croatia
+Biševo,ISCONTAINEDIN,Croatia
+Lastovo,ISCONTAINEDIN,Croatia
+Svetac,ISCONTAINEDIN,Croatia
+Vis,ISCONTAINEDIN,Croatia
+Velebit,ISCONTAINEDIN,Croatia
+Biokovo,ISCONTAINEDIN,Croatia
+Lika,ISCONTAINEDIN,Croatia
+Gorski Kotar,ISCONTAINEDIN,Croatia
+Risnjak,ISCONTAINEDIN,Gorski Kotar
+Snježnik,ISCONTAINEDIN,Gorski Kotar
+Plitvice Lakes,ISCONTAINEDIN,Croatia
+Plitvice Lakes National Park,ISCONTAINEDIN,Croatia
+Velebit Nature Park,ISCONTAINEDIN,Croatia
+Zrmanja,ISCONTAINEDIN,Croatia
+Krka,ISCONTAINEDIN,Croatia
+Danube,ISRELATEDTO,Croatia
+Drava,ISRELATEDTO,Croatia
+Kupa,ISRELATEDTO,Croatia
+Sava,ISRELATEDTO,Croatia
+Danube,ISRELATEDTO,Vukovar
+Danube,ISRELATEDTO,Vojvodina
+Zagreb,ISCONTAINEDIN,Croatia
+Banski Dvori,ISCONTAINEDIN,Zagreb
+Croatian Government,ISRELATEDTO,Banski Dvori
+Krajina,ISCONTAINEDIN,Croatia
+Plitvice Lakes National Park,ISPARTOF,Unesco World Heritage Site
+Unesco World Heritage Site,ISPARTOF,Unesco
+Velebit Nature Park,ISPARTOF,Unesco Man And The Biosphere Programme
+Croatian Armed Forces,ISRELATEDTO,General Staff
+Air Force,ISPARTOF,Croatian Armed Forces
+Army,ISPARTOF,Croatian Armed Forces
+Navy,ISPARTOF,Croatian Armed Forces
+Education And Training Command,ISPARTOF,Croatian Armed Forces
+Support Command,ISPARTOF,Croatian Armed Forces
+General Staff,ISPARTOF,Croatian Armed Forces
+Security And Intelligence Agency (Soa),ISRELATEDTO,Croatia
+Ministry Of The Interior,ISRELATEDTO,Croatia
+Constitutional Court,ISRELATEDTO,Croatia
+Supreme Court,ISRELATEDTO,Croatia
+Sabor,ISRELATEDTO,Croatia
+Croatian Democratic Union,ISRELATEDTO,Croatia
+Social Democratic Party Of Croatia,ISRELATEDTO,Croatia
+European Bank For Reconstruction And Development (Ebrd),ISRELATEDTO,Croatia
+International Organization For Migration (Iom),ISRELATEDTO,Croatia
+Organization For Security And Co-Operation In Europe (Osce),ISRELATEDTO,Croatia
+World Bank,ISRELATEDTO,Croatia
+World Health Organization (Who),ISRELATEDTO,Croatia
+International Criminal Tribunal For The Former Yugoslavia (Icty),ISRELATEDTO,Croatia
+United Nations Development Programme (Undp),ISRELATEDTO,Croatia
+United Nations High Commissioner For Refugees (Unhcr),ISRELATEDTO,Croatia
+Unicef,ISRELATEDTO,Croatia
+Hs Produkt,ISRELATEDTO,Croatian Armed Forces
+Đuro Đaković,ISRELATEDTO,Croatian Armed Forces
+Oecd Council,ISPARTOF,Oecd
+United Nations Security Council,ISPARTOF,United Nations
+Croatia,ISPARTOF,European Union
+Croatia,ISPARTOF,Nato
+Croatia,ISPARTOF,World Trade Organization
+Croatia,ISPARTOF,Partnership For Peace
+Croatia,ISPARTOF,Eurozone
+Croatia,ISPARTOF,Schengen Area
+Croatia,ISPARTOF,Erm Ii
+Croatia,ISPARTOF,United Nations
+Croatia Independence Declaration (25 June 1991),OCCURSAT,Croatia
+Full Implementation Of Croatia'S Independence Declaration (8 October 1991),OCCURSAT,Croatia
+War In Croatia Escalation (1991),OCCURSAT,Croatia
+War In Croatia Escalation (1991),WASPRESENTAT,Yugoslav People'S Army (Jna)
+War In Croatia Escalation (1991),WASPRESENTAT,Serb Paramilitary Groups
+War In Croatia Ended (August 1995),OCCURSAT,Croatia
+Victory And Homeland Thanksgiving Day And The Day Of Croatian Defenders (5 August Annually),OCCURSAT,Croatia
+Erdut Agreement (November 1995),OCCURSAT,Croatia
+Untaes Mission Concluded (January 1998),OCCURSAT,Croatia
+Untaes Mission Concluded (January 1998),WASPRESENTAT,Untaes
+Eec Recognition Of Croatia (15 January 1992),OCCURSAT,Croatia
+Eec Recognition Of Croatia (15 January 1992),WASPRESENTAT,European Economic Community
+Un Recognition Of Croatia,OCCURSAT,Croatia
+Un Recognition Of Croatia,WASPRESENTAT,United Nations
+Constitution Adopted (22 December 1990),OCCURSAT,Croatia
+Constitutional Amendments (November 2000),OCCURSAT,Croatia
+Constitutional Amendments (November 2000),WASPRESENTAT,Sabor
+Constitutional Amendments (March 2001),OCCURSAT,Croatia
+Constitutional Amendments (March 2001),WASPRESENTAT,Sabor
+Joined Partnership For Peace (25 May 2000),OCCURSAT,Croatia
+Joined Partnership For Peace (25 May 2000),WASPRESENTAT,Partnership For Peace
+Joined World Trade Organization (30 November 2000),OCCURSAT,Croatia
+Joined World Trade Organization (30 November 2000),WASPRESENTAT,World Trade Organization
+Stabilisation And Association Agreement Signed With The European Union (29 October 2001),OCCURSAT,Croatia
+Stabilisation And Association Agreement Signed With The European Union (29 October 2001),WASPRESENTAT,European Union
+Eu Membership Application Submitted (2003),OCCURSAT,Croatia
+Eu Membership Application Submitted (2003),WASPRESENTAT,European Union
+Eu Candidate Status Granted (2004),OCCURSAT,Croatia
+Eu Candidate Status Granted (2004),WASPRESENTAT,European Union
+Eu Accession Negotiations Began (2005),OCCURSAT,Croatia
+Eu Accession Negotiations Began (2005),WASPRESENTAT,European Union
+Eu Accession Negotiations Completed (30 June 2011),OCCURSAT,Croatia
+Eu Accession Negotiations Completed (30 June 2011),WASPRESENTAT,European Union
+Accession Treaty With The European Union Signed (9 December 2011),OCCURSAT,Croatia
+Accession Treaty With The European Union Signed (9 December 2011),WASPRESENTAT,European Union
+Eu Membership Referendum (22 January 2012),OCCURSAT,Croatia
+Joined The European Union (1 July 2013),OCCURSAT,Croatia
+Joined The European Union (1 July 2013),WASPRESENTAT,European Union
+Served On The United Nations Security Council (2008–2009 Term; Seat Assumed December 2008),OCCURSAT,Croatia
+Served On The United Nations Security Council (2008–2009 Term; Seat Assumed December 2008),WASPRESENTAT,United Nations Security Council
+Served On The United Nations Security Council (2008–2009 Term; Seat Assumed December 2008),WASPRESENTAT,United Nations
+Joined Nato (1 April 2009),OCCURSAT,Croatia
+Joined Nato (1 April 2009),WASPRESENTAT,Nato
+2008 Financial Crisis Spending Cuts In Croatia,OCCURSAT,Croatia
+Anti-Government Protests (2011),OCCURSAT,Croatia
+Parliament Dissolution Vote (28 October 2011),OCCURSAT,Croatia
+Parliament Dissolution Vote (28 October 2011),WASPRESENTAT,Sabor
+Dissolution Of Sabor Agreed By President (31 October 2011),OCCURSAT,Croatia
+Dissolution Of Sabor Agreed By President (31 October 2011),WASPRESENTAT,Ivo Josipović
+Elections (4 December 2011),OCCURSAT,Croatia
+2015 European Migrant Crisis In Croatia,OCCURSAT,Croatia
+Andrej Plenković Became Prime Minister (19 October 2016),OCCURSAT,Croatia
+Andrej Plenković Became Prime Minister (19 October 2016),WASPRESENTAT,Andrej Plenković
+Presidential Elections (5 January 2020),OCCURSAT,Croatia
+Presidential Elections (5 January 2020),WASPRESENTAT,Zoran Milanović
+Joined Erm Ii (10 July 2020),OCCURSAT,Croatia
+Joined Erm Ii (10 July 2020),WASPRESENTAT,Erm Ii
+Adopted The Euro And Joined Eurozone (1 January 2023),OCCURSAT,Croatia
+Adopted The Euro And Joined Eurozone (1 January 2023),WASPRESENTAT,Eurozone
+Joined Schengen Area (1 January 2023),OCCURSAT,Croatia
+Joined Schengen Area (1 January 2023),WASPRESENTAT,Schengen Area
+Oecd Council Opened Accession Negotiations With Croatia (25 January 2022),OCCURSAT,Croatia
+Oecd Council Opened Accession Negotiations With Croatia (25 January 2022),WASPRESENTAT,Oecd Council
+Oecd Accession Roadmap (June 2022),OCCURSAT,Croatia
+Oecd Accession Roadmap (June 2022),WASPRESENTAT,Oecd
+Joined Nato (1 April 2009),WASPRESENTAT,Nato
+Lowest Temperature Recorded In Čakovec (3 February 1919),OCCURSAT,Čakovec
+Highest Temperature Recorded In Ploče (4 August 1981),OCCURSAT,Ploče
+Serb Paramilitary Campaign Against Croats In Occupied Territories (1991),OCCURSAT,Croatia
+Serb Paramilitary Campaign Against Croats In Occupied Territories (1991),WASPRESENTAT,Serb Paramilitary Groups
+Displacement Of Croatian Serbs In Eastern And Western Slavonia And Parts Of Krajina,OCCURSAT,Eastern Slavonia
+Displacement Of Croatian Serbs In Eastern And Western Slavonia And Parts Of Krajina,OCCURSAT,Western Slavonia
+Displacement Of Croatian Serbs In Eastern And Western Slavonia And Parts Of Krajina,OCCURSAT,Krajina
+Displacement Of Croatian Serbs In Eastern And Western Slavonia And Parts Of Krajina,WASPRESENTAT,Croatian Armed Forces
+Displacement Of Croatian Serbs In Eastern And Western Slavonia And Parts Of Krajina,WASPRESENTAT,Croatian Government
+Post-1995 Exodus And Killings Of Serb Civilians,OCCURSAT,Krajina
+Post-1995 Exodus And Killings Of Serb Civilians,OCCURSAT,Croatia
+Post-1995 Exodus And Killings Of Serb Civilians,WASPRESENTAT,Republic Of Serbian Krajina
+Settlement Of Serb Homes By Croat Refugees From Bosnia And Herzegovina,OCCURSAT,Croatia
+Settlement Of Serb Homes By Croat Refugees From Bosnia And Herzegovina,ISRELATEDTO,Bosnia And Herzegovina
+National Ecological Network Set Up (2005),OCCURSAT,Croatia
+National Ecological Network Set Up (2005),WASPRESENTAT,National Ecological Network
+Croatian Troops Served In Isaf In Afghanistan (2019),OCCURSAT,Afghanistan
+Croatian Troops Served In Isaf In Afghanistan (2019),WASPRESENTAT,Croatian Armed Forces
+Croatian Troops Served In Isaf In Afghanistan (2019),WASPRESENTAT,Isaf
+Croatian Troops Served With Kfor In Kosovo (2019),OCCURSAT,Kosovo
+Croatian Troops Served With Kfor In Kosovo (2019),WASPRESENTAT,Croatian Armed Forces
+Croatian Troops Served With Kfor In Kosovo (2019),WASPRESENTAT,Kfor
+Compulsory Conscription Abolished (January 2008),OCCURSAT,Croatia
+Compulsory Conscription Abolished (January 2008),WASPRESENTAT,Croatian Armed Forces
+Compulsory Conscription Reintroduction Planned (January 2025),OCCURSAT,Croatia
+Compulsory Conscription Reintroduction Planned (January 2025),WASPRESENTAT,Croatian Armed Forces
+2024 Global Peace Index Ranking,OCCURSAT,Croatia
+2024 Global Peace Index Ranking,WASPRESENTAT,Global Peace Index
+Zagreb,ISCONTAINEDIN,Croatia
+Zagreb County,ISCONTAINEDIN,Croatia
+Koprivnica-Križevci County,ISCONTAINEDIN,Croatia
+Krapina-Zagorje County,ISCONTAINEDIN,Croatia
+Međimurje County,ISCONTAINEDIN,Croatia
+Varaždin County,ISCONTAINEDIN,Croatia
+Bjelovar-Bilogora County,ISCONTAINEDIN,Croatia
+Brod-Posavina County,ISCONTAINEDIN,Croatia
+Karlovac County,ISCONTAINEDIN,Croatia
+Osijek-Baranja County,ISCONTAINEDIN,Croatia
+Požega-Slavonia County,ISCONTAINEDIN,Croatia
+Sisak-Moslavina County,ISCONTAINEDIN,Croatia
+Virovitica-Podravina County,ISCONTAINEDIN,Croatia
+Vukovar-Syrmia County,ISCONTAINEDIN,Croatia
+Dalmatia,ISCONTAINEDIN,Croatia
+Dubrovnik,ISCONTAINEDIN,Croatia
+Istria,ISCONTAINEDIN,Croatia
+Opatija,ISCONTAINEDIN,Croatia
+Dubrovnik-Neretva County,ISCONTAINEDIN,Croatia
+Pelješac Bridge,ISCONTAINEDIN,Croatia
+Pelješac Peninsula,ISCONTAINEDIN,Croatia
+Korčula,ISCONTAINEDIN,Croatia
+Lastovo,ISCONTAINEDIN,Croatia
+Franjo Tuđman Airport,ISCONTAINEDIN,Zagreb
+Split,ISCONTAINEDIN,Croatia
+Zadar,ISCONTAINEDIN,Croatia
+Rijeka,ISCONTAINEDIN,Croatia
+Osijek,ISCONTAINEDIN,Croatia
+Pula,ISCONTAINEDIN,Croatia
+Vukovar,ISCONTAINEDIN,Croatia
+Port Of Rijeka,ISCONTAINEDIN,Rijeka
+Krk,ISCONTAINEDIN,Croatia
+Lng Hrvatska,ISCONTAINEDIN,Krk
+Okoli Natural Gas Storage Facility,ISCONTAINEDIN,Croatia
+Rijeka Oil Terminal,ISCONTAINEDIN,Rijeka
+Rijeka Refinery,ISCONTAINEDIN,Rijeka
+Sisak,ISCONTAINEDIN,Croatia
+Sisak Refinery,ISCONTAINEDIN,Sisak
+Krško Nuclear Power Plant,ISCONTAINEDIN,Slovenia
+Croatian Motorway Network,ISCONTAINEDIN,Croatia
+Koprivnica-Križevci County,ISPARTOF,Northwest Croatia
+Krapina-Zagorje County,ISPARTOF,Northwest Croatia
+Međimurje County,ISPARTOF,Northwest Croatia
+Varaždin County,ISPARTOF,Northwest Croatia
+Zagreb,ISPARTOF,Northwest Croatia
+Zagreb County,ISPARTOF,Northwest Croatia
+Bjelovar-Bilogora County,ISPARTOF,Central And Eastern (Pannonian) Croatia
+Brod-Posavina County,ISPARTOF,Central And Eastern (Pannonian) Croatia
+Karlovac County,ISPARTOF,Central And Eastern (Pannonian) Croatia
+Osijek-Baranja County,ISPARTOF,Central And Eastern (Pannonian) Croatia
+Požega-Slavonia County,ISPARTOF,Central And Eastern (Pannonian) Croatia
+Sisak-Moslavina County,ISPARTOF,Central And Eastern (Pannonian) Croatia
+Virovitica-Podravina County,ISPARTOF,Central And Eastern (Pannonian) Croatia
+Vukovar-Syrmia County,ISPARTOF,Central And Eastern (Pannonian) Croatia
+Nomenclature Of Territorial Units For Statistics (Nuts),ISRELATEDTO,Croatia
+Lau,ISRELATEDTO,Croatia
+Pan-European Corridor Vb,ISRELATEDTO,Rijeka
+Pan-European Corridor Vb,ISRELATEDTO,Budapest
+Pan-European Corridor Vb,ISRELATEDTO,Zagreb
+Pan-European Corridor X,ISRELATEDTO,Ljubljana
+Pan-European Corridor X,ISRELATEDTO,Belgrade
+Pan-European Corridor X,ISRELATEDTO,Zagreb
+Vukovar,ISRELATEDTO,Pan-European Transport Corridor Vii
+Vukovar,ISRELATEDTO,Danube
+A1 Motorway,ISRELATEDTO,Zagreb
+A1 Motorway,ISRELATEDTO,Split
+A3 Motorway,ISRELATEDTO,Northwest Croatia
+A3 Motorway,ISRELATEDTO,Slavonia
+Eurotap,ISRELATEDTO,Croatian Motorway Network
+Eurotest,ISRELATEDTO,Croatian Motorway Network
+Hrvatske Ceste (Hc),ISRELATEDTO,Pelješac Bridge
+China Road And Bridge Corporation (Crbc),ISRELATEDTO,Pelješac Bridge
+European Union,ISRELATEDTO,Pelješac Bridge
+Pelješac Bridge,ISRELATEDTO,Dubrovnik-Neretva County
+Pelješac Bridge,ISRELATEDTO,Pelješac Peninsula
+Pelješac Bridge,ISRELATEDTO,Korčula
+Pelješac Bridge,ISRELATEDTO,Lastovo
+European Investment Bank,ISRELATEDTO,Croatian Railways
+Croatian Railways,ISRELATEDTO,Croatia
+Croatia Airlines,ISRELATEDTO,Zagreb
+Croatia Airlines,ISRELATEDTO,Tirana
+Croatia Airlines,ISRELATEDTO,Berlin
+Croatia Airlines,ISRELATEDTO,Stockholm
+Croatia Airlines,ISRELATEDTO,Hamburg
+Rijeka Oil Terminal,ISRELATEDTO,Rijeka Refinery
+Rijeka Oil Terminal,ISRELATEDTO,Sisak Refinery
+Lng Hrvatska,ISRELATEDTO,Croatia
+Okoli Natural Gas Storage Facility,ISRELATEDTO,Croatia
+Krško Nuclear Power Plant,ISRELATEDTO,Hrvatska Elektroprivreda
+Krško Nuclear Power Plant,ISRELATEDTO,Croatia
+Hrvatska Elektroprivreda,ISRELATEDTO,Croatia
+Croatia,ISRELATEDTO,Germany
+Croatia,ISRELATEDTO,Italy
+Croatia,ISRELATEDTO,Slovenia
+Croatia,ISRELATEDTO,United Kingdom
+Croatia,ISRELATEDTO,Czechia
+Croatia,ISRELATEDTO,Poland
+Croatia,ISRELATEDTO,Hungary
+Croatia,ISRELATEDTO,France
+Croatia,ISRELATEDTO,Netherlands
+Croatia,ISRELATEDTO,Slovakia
+Croatia,ISRELATEDTO,2024 Global Peace Index
+International Monetary Fund,ISRELATEDTO,Croatia
+Eurostat,ISRELATEDTO,Croatia
+World Tourism Organization,ISRELATEDTO,Croatia
+European Environmental Agency,ISRELATEDTO,Croatia
+Transparency International,ISRELATEDTO,2022 Corruption Perceptions Index
+Croatia,ISRELATEDTO,2022 Corruption Perceptions Index
+Bounce,ISRELATEDTO,2023 Bounce Solo Travel Index
+Croatia,ISRELATEDTO,2023 Bounce Solo Travel Index
+Pinterest,ISRELATEDTO,2023 Pinterest And Zola Wedding Trends Report
+Zola,ISRELATEDTO,2023 Pinterest And Zola Wedding Trends Report
+Croatia,ISRELATEDTO,2023 Pinterest And Zola Wedding Trends Report
+European Union Language Association,ISRELATEDTO,Croatia
+Croatia,ISPARTOF,"Kingdom Of Serbs, Croats And Slovenes"
+Croatia,ISPARTOF,Kingdom Of Yugoslavia
+Croatia,ISPARTOF,Sfr Yugoslavia
+War For Independence,OCCURSAT,Croatia
+Operation Storm,OCCURSAT,Croatia
+Zagreb,ISCONTAINEDIN,Croatia
+Split,ISCONTAINEDIN,Croatia
+Šibenik,ISCONTAINEDIN,Croatia
+Zadar,ISCONTAINEDIN,Croatia
+Osijek,ISCONTAINEDIN,Croatia
+Varaždin,ISCONTAINEDIN,Croatia
+Karlovac,ISCONTAINEDIN,Croatia
+Dalmatia,ISCONTAINEDIN,Croatia
+Istria,ISCONTAINEDIN,Croatia
+Slavonia,ISCONTAINEDIN,Croatia
+Krk,ISCONTAINEDIN,Croatia
+Dubrovnik,ISCONTAINEDIN,Croatia
+Vis,ISCONTAINEDIN,Croatia
+Korčula,ISCONTAINEDIN,Croatia
+Pula,ISCONTAINEDIN,Croatia
+Trogir,ISCONTAINEDIN,Croatia
+Tvrđa,ISCONTAINEDIN,Osijek
+Zagreb Fair,ISCONTAINEDIN,Zagreb
+Cathedral Of St. James In Šibenik,ISCONTAINEDIN,Šibenik
+Church Of St. Donatus In Zadar,ISCONTAINEDIN,Zadar
+Trogir Cathedral,ISCONTAINEDIN,Trogir
+Ruđer Bošković Institute,ISCONTAINEDIN,Zagreb
+Croatian Academy Of Sciences And Arts,ISCONTAINEDIN,Zagreb
+Croatian Radiotelevision (Hrt),ISCONTAINEDIN,Croatia
+Hina,ISCONTAINEDIN,Croatia
+Rtl Televizija,ISCONTAINEDIN,Croatia
+Nova Tv,ISCONTAINEDIN,Croatia
+Kapital Net D.O.O.,ISCONTAINEDIN,Croatia
+Author D.O.O.,ISCONTAINEDIN,Croatia
+Hanza Media,ISCONTAINEDIN,Croatia
+Croatian Olympic Committee,ISCONTAINEDIN,Croatia
+Ministry Of Culture,ISCONTAINEDIN,Croatia
+City Of Zagreb,ISCONTAINEDIN,Croatia
+City Of Split,ISCONTAINEDIN,Croatia
+European Investment Bank,ISRELATEDTO,Croatia
+Unesco,ISRELATEDTO,Croatia
+Freedom House,ISRELATEDTO,Croatia
+Reporters Without Borders,ISRELATEDTO,Croatia
+Styria Media Group,ISRELATEDTO,Croatia
+Jutarnji List,ISRELATEDTO,Croatia
+Večernji List,ISRELATEDTO,Croatia
+24Sata,ISRELATEDTO,Croatia
+Novi List,ISRELATEDTO,Croatia
+Slobodna Dalmacija,ISRELATEDTO,Croatia
+Riva,ISRELATEDTO,Croatia
+Hungarian-Croatian Parliament,ISRELATEDTO,Croatia
+Cathedral Of St. James In Šibenik,ISRELATEDTO,Giorgio Da Sebenico
+Cathedral Of St. James In Šibenik,ISRELATEDTO,Nicolas Of Florence
+Trogir Cathedral,ISRELATEDTO,Radovan
+Croatia,ISRELATEDTO,Central Europe
+Croatia,ISRELATEDTO,Mediterranean
+Croatia,ISRELATEDTO,Western Roman Empire
+Croatia,ISRELATEDTO,Byzantine Empire
+Dalmatia,ISRELATEDTO,Venice
+Istria,ISRELATEDTO,Venice
+Croatia,ISRELATEDTO,Austria
+Croatia,ISRELATEDTO,Hungary
+Croatia,ISRELATEDTO,Adriatic Sea
+Global Innovation Index 2024,ISRELATEDTO,Croatia
+Eib Loan To The City Of Zagreb 2024,OCCURSAT,Zagreb
+Eib Loan To The City Of Zagreb 2024,ISRELATEDTO,European Investment Bank
+Eib Loan To The City Of Zagreb 2024,ISRELATEDTO,City Of Zagreb
+Eib Loan To The City Of Split 2024,OCCURSAT,Split
+Eib Loan To The City Of Split 2024,ISRELATEDTO,European Investment Bank
+Eib Loan To The City Of Split 2024,ISRELATEDTO,City Of Split
+Eib Provision Of Digital Infrastructure To Schools In Croatia,OCCURSAT,Croatia
+Eib Provision Of Digital Infrastructure To Schools In Croatia,ISRELATEDTO,European Investment Bank
+Interliber Exhibition,OCCURSAT,Zagreb Fair
+2019 Press Freedom Index,ISRELATEDTO,Reporters Without Borders
+2019 Press Freedom Index,ISRELATEDTO,Croatia
+Freedom In The World 2019,ISRELATEDTO,Freedom House
+Freedom In The World 2019,ISRELATEDTO,Croatia
+Eurovision Song Contest 1989,ISRELATEDTO,Yugoslavia
+Riva,WASPRESENTAT,Eurovision Song Contest 1989
+Eurovision Song Contest 1996,ISRELATEDTO,Croatia
+Eurovision Song Contest 1999,ISRELATEDTO,Croatia
+Eurovision Song Contest 2024,ISRELATEDTO,Croatia
+Pula Film Festival,OCCURSAT,Pula
+Animafest Zagreb,OCCURSAT,Zagreb
+1961 Academy Award For Best Animated Short Film,ISRELATEDTO,Dušan Vukotić
+1961 Academy Award For Best Animated Short Film,ISRELATEDTO,Ersatz (Surogat)
+Academy Award For Best Picture For Schindler'S List,ISRELATEDTO,Branko Lustig
+Academy Award For Best Picture For Gladiator,ISRELATEDTO,Branko Lustig
+97Th Academy Awards,ISRELATEDTO,The Man Who Could Not Remain Silent
+97Th Academy Awards,ISRELATEDTO,Nebojša Slijepčević
+The Man Who Could Not Remain Silent,ISRELATEDTO,Nebojša Slijepčević
+Ersatz (Surogat),ISRELATEDTO,Dušan Vukotić
+Hungarian-Croatian Parliament Act Of 1891,ISRELATEDTO,Hungarian-Croatian Parliament
+Hungarian-Croatian Parliament Act Of 1891,ISRELATEDTO,Croatia
+National Sport Programme 2019,ISRELATEDTO,Croatia
+2009 World Men'S Handball Championship,OCCURSAT,Croatia
+2007 World Table Tennis Championships,OCCURSAT,Croatia
+2000 World Rowing Championships,OCCURSAT,Croatia
+1987 Summer Universiade,OCCURSAT,Croatia
+1979 Mediterranean Games,OCCURSAT,Croatia
+2000 World Men'S Handball Championship,OCCURSAT,Croatia
+2018 World Men'S Handball Championship,OCCURSAT,Croatia
+2025 World Men'S Handball Championship,OCCURSAT,Croatia
+2024 Men'S European Water Polo Championship,OCCURSAT,Croatia
+Love And Malice,ISRELATEDTO,Vatroslav Lisinski
+Love And Malice,ISRELATEDTO,Croatia
+Game Of Thrones,OCCURSAT,Croatia
+Star Wars: The Last Jedi,OCCURSAT,Croatia
+Robin Hood,OCCURSAT,Dubrovnik
+Speak No Evil,OCCURSAT,Croatia
+Season Of The Witch,OCCURSAT,Istria
+Titius,OCCURSAT,Istria
+Infinity Pool,OCCURSAT,Šibenik
+Canary Black,OCCURSAT,Croatia
+Hitman'S Wife'S Bodyguard,OCCURSAT,Croatia
+Sophie'S Choice,OCCURSAT,Zagreb
+Armour Of God,OCCURSAT,Zagreb
+Fiddler On The Roof,OCCURSAT,Zagreb
+Mamma Mia! Here We Go Again,OCCURSAT,Vis
+Succession,OCCURSAT,Korčula
+Hercules,OCCURSAT,Croatia
+The Weekend Away,OCCURSAT,Croatia
+Bliss,OCCURSAT,Split
+The Peacemaker,OCCURSAT,Croatia
+Filming In Croatia,ISRELATEDTO,Croatia
+2022 R&D Expenditure In Croatia,ISRELATEDTO,Croatia
+2017 Healthcare Related Expenditures In Croatia,ISRELATEDTO,Croatia
+2022 Healthcare Spending In Croatia,ISRELATEDTO,Croatia
+2025 Life Expectancy In Croatia,ISRELATEDTO,Croatia
+2025 Infant Mortality In Croatia,ISRELATEDTO,Croatia
+2022 Principal Cause Of Death In Croatia,ISRELATEDTO,Croatia
+2022 Smoking In Croatia,ISRELATEDTO,Croatia
+2022 Obesity In Croatia,ISRELATEDTO,Croatia
+Illyrian Movement,ISRELATEDTO,Croatia
+World Heritage List,ISRELATEDTO,Unesco
+World Heritage List,ISRELATEDTO,Croatia
+Intangible Cultural Heritage Of Croatia,ISRELATEDTO,Unesco
+Intangible Cultural Heritage Of Croatia,ISRELATEDTO,Croatia
+Necktie,ISRELATEDTO,Croatia
+Necktie,ISRELATEDTO,France
+Renaissance,ISRELATEDTO,Croatia
+Baroque,ISRELATEDTO,Croatia
+Rococo,ISRELATEDTO,Croatia
+Art Nouveau,ISRELATEDTO,Croatia
+Giorgio Da Sebenico,ISRELATEDTO,Croatia
+Nicolas Of Florence,ISRELATEDTO,Croatia
+Radovan,ISRELATEDTO,Croatia
+Josip Juraj Strossmayer,ISRELATEDTO,Croatia
+Vlaho Bukovac,ISRELATEDTO,Croatia
+Ivan Meštrović,ISRELATEDTO,Croatia
+Ivan Generalić,ISRELATEDTO,Croatia
+Marko Marulić,ISRELATEDTO,Croatia
+Marin Držić,ISRELATEDTO,Croatia
+Ivan Gundulić,ISRELATEDTO,Croatia
+Ivan Mažuranić,ISRELATEDTO,Croatia
+August Šenoa,ISRELATEDTO,Croatia
+Ivana Brlić-Mažuranić,ISRELATEDTO,Croatia
+Marija Jurić Zagorka,ISRELATEDTO,Croatia
+Antun Gustav Matoš,ISRELATEDTO,Croatia
+Antun Branko Šimić,ISRELATEDTO,Croatia
+Miroslav Krleža,ISRELATEDTO,Croatia
+Tin Ujević,ISRELATEDTO,Croatia
+Ivo Andrić,ISRELATEDTO,Croatia
+Vatroslav Lisinski,ISRELATEDTO,Croatia
+Ivan Zajc,ISRELATEDTO,Croatia
+Ivo Pogorelić,ISRELATEDTO,Croatia
+Dušan Vukotić,ISRELATEDTO,Croatia
+Branko Lustig,ISRELATEDTO,Croatia
+Nebojša Slijepčević,ISRELATEDTO,Croatia
+Franjo Bučar,ISRELATEDTO,Croatia

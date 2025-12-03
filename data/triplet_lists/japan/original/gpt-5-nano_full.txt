@@ -1,0 +1,128 @@
+japan | IsContainedIn | tokyo
+japan | IsContainedIn | fukushima daiichi nuclear power plant
+japan | IsContainedIn | sendai nuclear power plant
+japan | IsContainedIn | keihin superport hub
+japan | IsContainedIn | hanshin superport hub
+japan | IsContainedIn | tanegashima space center
+japan | IsContainedIn | nara
+japan | IsContainedIn | kamakura
+japan | IsContainedIn | ashikaga
+japan | IsContainedIn | hiroshima
+japan | IsContainedIn | nagasaki
+japan | IsContainedIn | okinotorishima
+japan | WasPresentAt | fumio kishida
+japan | WasPresentAt | shinzo abe
+japan | OccursAt | revised immigration law enacted
+japan | OccursAt | buddhism introduced japan
+japan | OccursAt | taika reforms
+japan | OccursAt | jinshin war
+japan | OccursAt | taiho code promulgation
+japan | OccursAt | kojiki completion
+japan | OccursAt | nihon shoki completion
+japan | OccursAt | smallpox epidemic
+japan | OccursAt | heian period begins
+japan | OccursAt | mongol invasion repelled 1274
+japan | OccursAt | mongol invasion repelled 1281
+japan | OccursAt | go-daigo defeat ashikaga
+japan | OccursAt | sengoku period begins
+japan | OccursAt | genpei war
+japan | OccursAt | muromachi period begins
+japan | OccursAt | nine-year schooling start
+japan | OccursAt | record temperature high
+tokyo | IsContainedIn | greater tokyo area
+tokyo | IsContainedIn | haneda airport
+japanese experiment module (kibo) | IsContainedIn | international space station
+moon | IsContainedIn | moon base
+moon | OccursAt | selene orbit insertion
+moon | OccursAt | selene moon crash
+china | IsContainedIn | hong kong
+china | OccursAt | japan in book of han
+south korea | IsContainedIn | liancourt rocks
+nara | OccursAt | nara period begins
+heian-kyo | WasPresentAt | murasaki shikibu
+heian-kyo | OccursAt | capital move to heian-kyoto
+kamakura | WasPresentAt | go daigo
+kamakura | OccursAt | kamakura shogunate established
+europe | WasPresentAt | yasunari kawabata
+europe | WasPresentAt | kenzaburo oe
+muromachi | WasPresentAt | ashikaga takauji
+azuchi | WasPresentAt | oda nobunaga
+azuchi | WasPresentAt | toyotomi hideyoshi
+edo | WasPresentAt | tokugawa ieyasu
+edo | OccursAt | great tokyo earthquake
+uraga | IsContainedIn | kanagawa
+pearl harbor | OccursAt | pearl harbor attack
+pearl harbor | OccursAt | pearl harbor attack
+malaya | OccursAt | pearl harbor attack
+singapore | OccursAt | pearl harbor attack
+hong kong | OccursAt | pearl harbor attack
+manchukuo | IsContainedIn | manchuria
+ryukyu islands | IsContainedIn | amami
+ryukyu islands | IsContainedIn | okinawa
+southern kuril islands | IsContainedIn | russia
+fumio kishida | IsRelatedTo | government of japan
+government of japan | IsRelatedTo | sanae takaichi
+government of japan | IsRelatedTo | shinzo abe
+government of japan | IsRelatedTo | revised immigration law enacted
+yasunari kawabata | IsRelatedTo | japan
+japan | IsRelatedTo | kenzaburo oe
+japan | IsRelatedTo | ryunosuke akutagawa
+japan | IsRelatedTo | junichiro tanizaki
+japan | IsRelatedTo | kafu nagai
+japan | IsRelatedTo | haruki murakami
+japan | IsRelatedTo | kenji nakagami
+japan | IsRelatedTo | natsume soseki
+japan | IsRelatedTo | mori ogai
+japan | IsRelatedTo | murasaki shikibu
+japan | IsRelatedTo | sei shonagon
+japan | IsRelatedTo | revised immigration law enacted
+japan | IsPartOf | quadrilateral security dialogue
+japan | IsPartOf | east asia summit
+japan | IsPartOf | asean plus three
+japan | IsPartOf | apec
+japan | IsPartOf | g7
+japan | IsPartOf | g4
+japan | IsPartOf | united nations
+japan | IsPartOf | ministry of education, culture, sports, science and technology
+japan | IsPartOf | local governments
+murasaki shikibu | IsRelatedTo | imperial court
+tokugawa ieyasu | IsRelatedTo | council of five elders
+go daigo | IsRelatedTo | kamakura shogunate
+kamakura shogunate | IsRelatedTo | kamakura shogunate established
+kamakura shogunate | IsPartOf | hojo clan
+takauji ashikaga | IsRelatedTo | ashikaga shogunate
+ashikaga shogunate | IsRelatedTo | muromachi period begins
+sanae takaichi | IsRelatedTo | national diet
+sanae takaichi | IsRelatedTo | ishin
+sanae takaichi | IsRelatedTo | liberal democratic party
+shinzo abe | IsRelatedTo | united nations office on drugs and crime
+shinzo abe | IsRelatedTo | japan coast guard
+shinzo abe | IsRelatedTo | counter-nbc terrorism squads
+shinzo abe | IsRelatedTo | anti-firearms squads
+shinzo abe | IsRelatedTo | special assault team
+shinzo abe | IsRelatedTo | national public safety commission
+shinzo abe | IsRelatedTo | prefectural police departments
+shinzo abe | IsRelatedTo | national police agency
+national public safety commission | IsPartOf | national police agency
+prefectural police departments | IsPartOf | national police agency
+united nations | IsPartOf | empire of japan
+japan aerospace exploration agency | IsRelatedTo | selene moon crash
+japan aerospace exploration agency | IsRelatedTo | selene orbit insertion
+the government of japan | IsPartOf | the imperial household agency
+privy council | IsRelatedTo | meiji constitution
+privy council | IsPartOf | empire of japan
+empire of japan | IsPartOf | imperial diet
+empire of japan | IsRelatedTo | pearl harbor attack
+empire of japan | IsRelatedTo | pearl harbor attack
+empire of japan | IsPartOf | axis powers
+empire of japan | IsPartOf | manchukuo
+axis powers | IsPartOf | nazi germany
+league of nations | IsPartOf | manchukuo
+baekje | IsRelatedTo | buddhism introduced japan
+minamoto clan | IsRelatedTo | genpei war
+genpei war | IsRelatedTo | taira clan
+ministry of education, culture, sports, science and technology | IsRelatedTo | nine-year schooling start
+japan self-defense forces | IsPartOf | japan ground self-defense force
+japan self-defense forces | IsPartOf | japan maritime self-defense force
+japan self-defense forces | IsPartOf | japan air self-defense force
+environment ministry | IsRelatedTo | record temperature high

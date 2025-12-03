@@ -1,0 +1,284 @@
+Croatia | ISRELATEDTO | Adriatic Sea
+Croatia | ISRELATEDTO | Slovenia
+Croatia | ISRELATEDTO | Hungary
+Croatia | ISRELATEDTO | Serbia
+Croatia | ISRELATEDTO | Bosnia And Herzegovina
+Croatia | ISRELATEDTO | Montenegro
+Croatia | ISRELATEDTO | Italy
+Zagreb | ISPARTOF | Croatia
+Split | ISPARTOF | Croatia
+Rijeka | ISPARTOF | Croatia
+Osijek | ISPARTOF | Croatia
+Dubrovnik | ISPARTOF | Croatia
+Cetin | ISPARTOF | Croatia
+Benkovac | ISPARTOF | Croatia
+Trogir | ISPARTOF | Croatia
+Hvar | ISPARTOF | Croatia
+Korčula | ISPARTOF | Croatia
+Vis | ISPARTOF | Croatia
+Krk Island | ISPARTOF | Croatia
+Branimir | ISRELATEDTO | First International Recognition Of Croatia (879)
+First International Recognition Of Croatia (879) | ISRELATEDTO | Croatia
+Tomislav | ISRELATEDTO | Tomislav Becomes King (925)
+Tomislav | ISRELATEDTO | Croatia
+Petar Krešimir Iv | ISRELATEDTO | Croatia
+Dmitar Zvonimir | ISRELATEDTO | Croatia
+Coloman | ISRELATEDTO | Croatia
+Ladislaus I Of Hungary | ISRELATEDTO | Croatia
+Ferdinand I Of Austria | ISRELATEDTO | Croatia
+Borna | ISRELATEDTO | Croatia
+Ljudevit | ISRELATEDTO | Croatia
+Mislav | ISRELATEDTO | Croatia
+Trpimir I | ISRELATEDTO | Croatia
+Branimir | ISRELATEDTO | First International Recognition Of Croatia (879)
+Porga | ISRELATEDTO | Croatia
+Constantine Vii | ISRELATEDTO | Croatia
+Julius Nepos | ISRELATEDTO | Croatia
+Stjepan Ii | ISRELATEDTO | Croatia
+Sabor | ISPARTOF | Croatia
+Republic Of Venice | ISRELATEDTO | Croatia
+Ottoman Empire | ISRELATEDTO | Croatia
+Habsburg Empire | ISRELATEDTO | Croatia
+Kingdom Of Yugoslavia | ISRELATEDTO | Croatia
+Independent State Of Croatia | ISRELATEDTO | Croatia
+Socialist Republic Of Croatia | ISRELATEDTO | Croatia
+Socialist Federal Republic Of Yugoslavia | ISRELATEDTO | Croatia
+European Union | ISRELATEDTO | Croatia
+Eurozone | ISRELATEDTO | Croatia
+Schengen Area | ISRELATEDTO | Croatia
+Nato | ISRELATEDTO | Croatia
+United Nations | ISRELATEDTO | Croatia
+Council Of Europe | ISRELATEDTO | Croatia
+Osce | ISRELATEDTO | Croatia
+World Trade Organization | ISRELATEDTO | Croatia
+Union For The Mediterranean | ISRELATEDTO | Croatia
+Oecd | ISRELATEDTO | Croatia
+Un Security Council | ISRELATEDTO | Croatia
+First International Recognition Of Croatia (879) | ISRELATEDTO | Croatia
+Tomislav Becomes King (925) | ISRELATEDTO | Tomislav
+Tomislav Becomes King (925) | ISRELATEDTO | Croatia
+Petar Krešimir Iv | ISRELATEDTO | Croatia
+Dmitar Zvonimir | ISRELATEDTO | Croatia
+Coloman | ISRELATEDTO | Croatia
+Ladislaus I Of Hungary | ISRELATEDTO | Croatia
+Ferdinand I Of Austria | ISRELATEDTO | 1527 Cetin Meeting
+1527 Cetin Meeting | OCCURSAT | Cetin
+1527 Cetin Meeting | ISRELATEDTO | Croatia
+1527 Cetin Meeting | ISRELATEDTO | Ferdinand I Of Austria
+Croatia Declares Independence (1991) | ISRELATEDTO | Croatia
+Croatia Declares Independence (1991) | ISRELATEDTO | War Of Independence (1991-1995)
+Un Security Council Seat (2008-2009) | ISRELATEDTO | Un Security Council
+Un Security Council Seat (2008-2009) | ISRELATEDTO | Croatia
+Un Security Council Seat (2008-2009) | ISRELATEDTO | United Nations
+Battle_Of_Sisak | OCCURSAT | Croatia
+Croatian_Military_Frontier | ISCONTAINEDIN | Croatia
+Croatian_Military_Frontier | ISCONTAINEDIN | Habsburg_Monarchy
+Slavonia | ISRELATEDTO | Croatia
+Western_Bosnia | ISRELATEDTO | Croatia
+Dalmatia | ISRELATEDTO | Croatia
+Fifth_Ottoman_Venetian_War | ISRELATEDTO | Dalmatia
+Seventh_Ottoman_Venetian_War | ISRELATEDTO | Dalmatia
+Pragmatic_Sanction_1712 | ISRELATEDTO | Croatian_Parliament
+King_Charles_Iii | ISRELATEDTO | Pragmatic_Sanction_1712
+Croatian_Parliament | ISRELATEDTO | Pragmatic_Sanction_1712
+Maria_Theresa | WASPRESENTAT | Compulsory_Education
+Compulsory_Education | OCCURSAT | Croatia
+Illyrian_Provinces | ISCONTAINEDIN | First_French_Empire
+Ragusan_Republic | ISRELATEDTO | First_French_Empire
+Venetian_Republic | ISRELATEDTO | First_French_Empire
+Royal_Navy | WASPRESENTAT | Battle_Of_Vis
+Battle_Of_Vis | OCCURSAT | Adriatic_Sea
+Congress_Of_Vienna | OCCURSAT | Vienna
+Illyrian_Provinces | ISCONTAINEDIN | Austrian_Empire
+Kingdom_Of_Dalmatia | ISCONTAINEDIN | Austrian_Empire
+Croatian_Littoral | ISCONTAINEDIN | Austrian_Empire
+Croatian_National_Revival | ISRELATEDTO | Romantic_Nationalism
+Romantic_Nationalism | ISRELATEDTO | Croatian_National_Revival
+Hungarian_Revolution_1848 | ISRELATEDTO | Croatian_Parliament
+Ban_Josip_Jelacic | ISRELATEDTO | Hungarian_Revolution_1848
+Croatian_Parliament | ISRELATEDTO | Croatian_Sabor
+Cvetkovic_Macek_Agreement | ISRELATEDTO | Croatian_Parliament
+Banovina_Of_Croatia | ISRELATEDTO | Yugoslavia
+Independent_State_Of_Croatia | OCCURSAT | Croatia
+Ante_Pavelic | ISRELATEDTO | Independent_State_Of_Croatia
+Ustaše | ISRELATEDTO | Independent_State_Of_Croatia
+Tito | ISRELATEDTO | Avnoj
+Avnoj | OCCURSAT | Belgrade
+Tehran_Conference | OCCURSAT | Belgrade
+Belgrade | ISRELATEDTO | Avnoj
+Croatian_Spring | ISRELATEDTO | Declaration_1967
+Croatian_Language_Standard | ISRELATEDTO | Croatian_Spring
+Declaration_1967 | ISRELATEDTO | Croatian_Language_Standard
+Croatian_Language_Standard | ISRELATEDTO | Croatian_Spring
+Smiljan | WASPRESENTAT | Nikola_Tesla
+Tito | ISRELATEDTO | Yugoslavia
+Death_Of_Tito_1980 | ISRELATEDTO | Tito
+1986_Sanu_Memorandum | ISRELATEDTO | Serbia
+1989_Coups_In_Vojvodina_Kosovo_Montenegro | ISRELATEDTO | Yugoslavia
+Communist_Party | ISRELATEDTO | Croatian_Faction
+1990_Fragmentation_Of_Communist_Party | ISRELATEDTO | Communist_Party
+1990_Fragmentation_Of_Communist_Party | ISRELATEDTO | Croatian_Faction
+First_Multi_Party_Elections_Croatia_1990 | ISRELATEDTO | Croatia
+Franjo_Tudman_Win_1990_Elections | ISRELATEDTO | First_Multi_Party_Elections_Croatia_1990
+Franjo_Tudman | ISRELATEDTO | Franjo_Tudman_Win_1990_Elections
+Franjo_Tudman | ISRELATEDTO | Croatia
+Cro Croatia_Joins_Nato_2009 | ISRELATEDTO | Nato
+Croatia_Declares_Independence_1991_06_25 | ISRELATEDTO | Croatia
+Croatia_Declares_Independence_1991_06_25 | ISRELATEDTO | Croatia
+War_Croatia_1991_1995 | ISRELATEDTO | Croatia
+War_Croatia_1991_1995 | ISRELATEDTO | Jna
+War_Croatia_1991_1995 | ISRELATEDTO | Republic_Of_Serbian_Krajina
+1992_Diplomatic_Recognition_Eec_Un | ISRELATEDTO | Croatia
+1992_Diplomatic_Recognition_Eec_Un | ISRELATEDTO | European_Economic_Community
+1992_Diplomatic_Recognition_Eec_Un | ISRELATEDTO | United_Nations
+Wto_Membership_Croatia | ISRELATEDTO | Croatia
+Stabilisation_And_Agreement_Eu_2001 | ISRELATEDTO | Croatia
+Stabilisation_And_Agreement_Eu_2001 | ISRELATEDTO | European_Economic_Community
+Eu_Candidate_Status_2004 | ISRELATEDTO | Croatia
+Eu_Acc_Negot_Opened_2005 | ISRELATEDTO | Croatia
+Unsc_Seat_2008_2009 | ISRELATEDTO | Croatia
+Croatia_Joins_Nato_2009 | ISRELATEDTO | Nato
+Protests_2011_Croatia | ISRELATEDTO | Croatia
+Ivo_Josipović | ISRELATEDTO | Dissolution_Of_Sabor_2011
+Dissolution_Of_Sabor_2011 | ISRELATEDTO | Sabor
+Andrej_Plenković | ISRELATEDTO | Croatia
+Zoran_Milanović | ISRELATEDTO | Croatian_Presidential_Election_2020
+Croatian_Presidential_Election_2020 | ISRELATEDTO | Croatia
+Oecd | ISRELATEDTO | Croatia
+Oecd_Open_Acccession_Negotiations_2022 | ISRELATEDTO | Croatia
+Croatia_Adopts_Euro_2023 | ISRELATEDTO | Eurozone
+Croatia_Adopts_Euro_2023 | ISRELATEDTO | Croatia
+Croatia_Joins_Schengen_2023 | ISRELATEDTO | Croatia
+Croatia_Joins_Schengen_2023 | ISRELATEDTO | Schengen_Area
+European_Migrant_Crisis_2015 | ISRELATEDTO | Croatia
+Erdut_Agreement | ISRELATEDTO | Untaes
+War_Croatia_1991_1995 | ISRELATEDTO | Erdut_Agreement
+Erdut_Agreement | ISRELATEDTO | Republic_Of_Serbian_Krajina
+Untaes | ISRELATEDTO | Republic_Of_Serbian_Krajina
+Croatia_Declares_Independence_1991_06_25 | ISRELATEDTO | Serbia
+Hvar | ISPARTOF | Croatia
+Korčula | ISPARTOF | Croatia
+Mediterranean | ISPARTOF | Croatia
+Alpine | ISPARTOF | Croatia
+Pannonian | ISPARTOF | Croatia
+Continental | ISPARTOF | Croatia
+Dinaric Mountains Mixed Forests | ISPARTOF | Croatia
+Pannonian Mixed Forests | ISPARTOF | Croatia
+Illyrian Deciduous Forests | ISPARTOF | Croatia
+Drava | ISRELATEDTO | Pannonian
+Danube | ISRELATEDTO | Pannonian
+Zrmanja Canyon | ISCONTAINEDIN | Karst Habitats
+Krka Canyon | ISCONTAINEDIN | Karst Habitats
+Karst Habitats | ISPARTOF | Croatia
+Plitvice Lakes National Park | ISPARTOF | Unesco World Heritage Site
+Velebit Nature Park | ISRELATEDTO | Unesco Man And The Biosphere Programme
+Zagreb | ISPARTOF | Croatia
+Banski Dvori | ISCONTAINEDIN | Zagreb
+Sabor | ISPARTOF | Croatia
+Constitutional Court | ISPARTOF | Croatia
+Supreme Court | ISPARTOF | Croatia
+State'S Attorney Office | ISPARTOF | Croatia
+Security And Intelligence Agency | ISPARTOF | Croatia
+Croatian Armed Forces | ISPARTOF | Croatia
+European Union | ISRELATEDTO | Croatia
+Nato | ISRELATEDTO | Croatia
+Schengen Area | ISRELATEDTO | Croatia
+Eurozone | ISRELATEDTO | Croatia
+Hs Produkt | ISRELATEDTO | Hs2000
+Caf | ISRELATEDTO | Hs2000
+M-84D | ISRELATEDTO | Đuro Đaković Factory
+Caf | ISRELATEDTO | M-84D
+Croatia | ISRELATEDTO | 2020_Military_Export
+Croatia | ISRELATEDTO | 2024_Global_Peace_Index
+Franjo Tuđman Airport | ISCONTAINEDIN | Zagreb
+Croatia Airlines | WASPRESENTAT | Delivery_Of_First_Airbus_A220-300_To_Croatia_Airlines_2024
+Croatia Airlines | ISRELATEDTO | Direct_Flights_Zagreb_Tirana_2024
+Croatia Airlines | ISRELATEDTO | Direct_Flights_Zagreb_Berlin_2024
+Croatia Airlines | ISRELATEDTO | Direct_Flights_Zagreb_Stockholm_2024
+Croatia Airlines | ISRELATEDTO | Hamburg_Zagreb_Flights_Start_2024_07_01
+Croatia Airlines | ISRELATEDTO | Fleet_Acquisition_A220_300_And_A220_100_By_Croatia_Airlines_2024
+Port Of Rijeka | ISRELATEDTO | Busiest_Cargo_Seaport_In_Croatia
+Split | ISRELATEDTO | Busiest_Passenger_Ports_In_Croatia
+Zadar | ISRELATEDTO | Busiest_Passenger_Ports_In_Croatia
+Vukovar | ISRELATEDTO | Danube
+Danube | ISRELATEDTO | Pan-European Transport Corridor Vii
+Rijeka | ISRELATEDTO | Oil_Pipelines_In_Croatia
+Rijeka Oil Terminal | ISRELATEDTO | Oil_Pipelines_In_Croatia
+Sisak | ISRELATEDTO | Oil_Pipelines_In_Croatia
+Okoli Natural Gas Storage Facility | ISRELATEDTO | Natural_Gas_Transportation_System
+Krško Nuclear Power Plant | ISRELATEDTO | Hrvatska Elektroprivreda
+Lng Hrvatska | ISRELATEDTO | Lng_Hrvatska_Commenced_Operations_2021
+Krk Island | ISRELATEDTO | Lng_Hrvatska_Commenced_Operations_2021
+Lng_Hrvatska_Commenced_Operations_2021 | ISRELATEDTO | Lng Hrvatska
+University_Of_Zadar | ISRELATEDTO | Croatia
+University_Of_Zagreb | ISRELATEDTO | Croatia
+Rudjer_Boskovic_Institute | OCCURSAT | City_Of_Zagreb
+Croatian_Academy_Of_Sciences_And_Arts | OCCURSAT | City_Of_Zagreb
+European_Investment_Bank | ISRELATEDTO | Croatia
+City_Of_Zagreb | WASPRESENTAT | Eib_Loan_207M_To_Zagreb_2024
+Eib_Loan_207M_To_Zagreb_2024 | OCCURSAT | City_Of_Zagreb
+Zagreb_Fair | WASPRESENTAT | Interliber_Exhibition
+Unesco_World_Heritage_List | ISRELATEDTO | Croatia
+Intangible_Cultural_Heritage_Of_Croatia | ISRELATEDTO | Croatia
+Global_Innovation_Index_2024 | ISRELATEDTO | Croatia
+Hungarian_Croatian_Parliament_Act_Of_1891 | ISRELATEDTO | Croatia
+Universal_Health_Care_System | ISRELATEDTO | Croatia
+Ministry_Of_Culture | ISRELATEDTO | Croatia
+Hina | ISRELATEDTO | Croatia
+Hrt | ISRELATEDTO | Croatia
+Vatroslav_Lisinski | ISRELATEDTO | Croatia
+Ivan_Zajc | ISRELATEDTO | Croatia
+Ivo_Pogorelic | ISRELATEDTO | Croatia
+Vlaho_Bukovac | ISRELATEDTO | Croatia
+Ivan_Mestrovic | ISRELATEDTO | Croatia
+Ivan_Generalic | ISRELATEDTO | Croatia
+Marin_Drzic | ISRELATEDTO | Croatia
+Ivan_Gundulic | ISRELATEDTO | Croatia
+Ivan_Mazuranic | ISRELATEDTO | Croatia
+August_Senoa | ISRELATEDTO | Croatia
+Ivana_Brlic_Mazuranic | ISRELATEDTO | Croatia
+Marija_Juric_Zagorka | ISRELATEDTO | Croatia
+Antun_Gustav_Matos | ISRELATEDTO | Croatia
+Antun_Branko_Simic | ISRELATEDTO | Croatia
+Miroslav_Krleza | ISRELATEDTO | Croatia
+Tin_Ujevic | ISRELATEDTO | Croatia
+Ivo_Andric | ISRELATEDTO | Croatia
+Eib_Loan_207M_To_Zagreb_2024 | WASPRESENTAT | City_Of_Zagreb
+Eib_Loan_207M_To_Zagreb_2024 | OCCURSAT | City_Of_Zagreb
+Eib_Loan_49M_To_Split_2023_2027 | WASPRESENTAT | City_Of_Split
+Eib_Loan_49M_To_Split_2023_2027 | OCCURSAT | City_Of_Split
+European_Investment_Bank | ISRELATEDTO | Primary_And_Secondary_Schools_In_Croatia
+Interliber_Exhibition | WASPRESENTAT | Zagreb_Fair
+Primary_And_Secondary_Schools_In_Croatia | ISRELATEDTO | Croatia
+Hrt | ISRELATEDTO | Ministry_Of_Culture
+Hrt | ISRELATEDTO | Ersatz_Surogat
+Dušan_Vukotić | WASPRESENTAT | Academy_Awards_1961
+Franjo_Bucar | ISRELATEDTO | Croatian_Olympic_Committee
+Croatia | WASPRESENTAT | Eurovision_Contest_1961
+Croatia | WASPRESENTAT | Eurovision_Contest_1993
+Croatia | WASPRESENTAT | Eurovision_Contest_1996
+Croatia | WASPRESENTAT | Eurovision_Contest_1999
+Croatia | WASPRESENTAT | Eurovision_Contest_2024
+Riva | WASPRESENTAT | Eurovision_Contest_1989
+Nebojša_Slijepčević | WASPRESENTAT | Academy_Awards_97Th
+Nebojša_Slijepčević | WASPRESENTAT | The_Man_Who_Could_Not_Remain_Silent
+Pula_Film_Festival | ISRELATEDTO | Croatia
+Animafest_Zagreb | ISRELATEDTO | Croatia
+Hrt | ISRELATEDTO | Pula_Film_Festival
+Hrt | ISRELATEDTO | Animafest_Zagreb
+Jutarnji_List | ISRELATEDTO | Hanza_Media
+Vecernji_List | ISRELATEDTO | Styria_Media_Group
+24Sata | ISRELATEDTO | Hanza_Media
+Novi_List | ISRELATEDTO | Hanza_Media
+Jutarnji_List | ISRELATEDTO | Croatia
+Vecernji_List | ISRELATEDTO | Croatia
+24Sata | ISRELATEDTO | Croatia
+Novi_List | ISRELATEDTO | Croatia
+Slobodna_Dalmacija | ISRELATEDTO | Croatia
+Continental_Wine_Region_Northeast_Slavonia | ISRELATEDTO | Croatia
+Coastal_Wine_Region_Istria_Krk_And_Dalmatia | ISRELATEDTO | Croatia
+72_Million_Litres_Wine_2017 | ISRELATEDTO | Continental_Wine_Region_Northeast_Slavonia
+Michelin_Restaurants_Croatia | ISRELATEDTO | Croatia
+Michelin_Marks_Croatia | ISRELATEDTO | Croatia
+National_Sport_Programme_2019 | ISRELATEDTO | Ministry_Of_Culture
+Filming_In_Croatia | OCCURSAT | Croatia

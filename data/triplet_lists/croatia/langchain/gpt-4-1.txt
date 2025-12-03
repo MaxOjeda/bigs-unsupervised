@@ -1,0 +1,559 @@
+Republic Of Croatia | ISRELATEDTO | Croatia
+Croatia | ISCONTAINEDIN | Central Europe
+Croatia | ISCONTAINEDIN | Southeast Europe
+Croatia | ISRELATEDTO | Adriatic Sea
+Croatia | ISRELATEDTO | Slovenia
+Croatia | ISRELATEDTO | Hungary
+Croatia | ISRELATEDTO | Serbia
+Croatia | ISRELATEDTO | Bosnia And Herzegovina
+Croatia | ISRELATEDTO | Montenegro
+Croatia | ISRELATEDTO | Italy
+Croatia | ISCONTAINEDIN | Zagreb
+Zagreb | ISCONTAINEDIN | Croatia
+Croatia | ISRELATEDTO | Split
+Croatia | ISRELATEDTO | Rijeka
+Croatia | ISRELATEDTO | Osijek
+Duke Branimir | ISRELATEDTO | Croatia
+Duke Branimir | ISRELATEDTO | Pope John Viii
+Tomislav | ISRELATEDTO | Croatia
+Tomislav | ISRELATEDTO | Pope John X
+Trpimirović Dynasty | ISRELATEDTO | Croatia
+Ferdinand I Of Austria | ISRELATEDTO | Croatia
+State Of Slovenes, Croats, And Serbs | OCCURSAT | Zagreb
+State Of Slovenes, Croats, And Serbs | ISPARTOF | Kingdom Of Yugoslavia
+State Of Slovenes, Croats, And Serbs | ISRELATEDTO | Habsburg Empire
+Independent State Of Croatia | ISPARTOF | Croatia
+Socialist Republic Of Croatia | ISPARTOF | Socialist Federal Republic Of Yugoslavia
+Croatia | ISRELATEDTO | European Union
+Croatia | ISRELATEDTO | Eurozone
+Croatia | ISRELATEDTO | Schengen Area
+Croatia | ISRELATEDTO | Nato
+Croatia | ISRELATEDTO | United Nations
+Croatia | ISRELATEDTO | Council Of Europe
+Croatia | ISRELATEDTO | Osce
+Croatia | ISRELATEDTO | World Trade Organization
+Croatia | ISRELATEDTO | Union For The Mediterranean
+Croatia | ISRELATEDTO | Oecd
+Croatia | ISRELATEDTO | International Security Assistance Force
+Croatia | ISRELATEDTO | United Nations Security Council
+Croatia | ISRELATEDTO | Service Sector
+Croatia | ISRELATEDTO | Industrial Sector
+Croatia | ISRELATEDTO | Agriculture
+Tourism | ISRELATEDTO | Croatia
+Pan-European Corridors | ISRELATEDTO | Croatia
+Krk Island | ISCONTAINEDIN | Croatia
+Lng Hrvatska | ISCONTAINEDIN | Krk Island
+Krapina | ISCONTAINEDIN | Croatia
+Baden Culture | OCCURSAT | Croatia
+Starčevo Culture | OCCURSAT | Croatia
+Vučedol Culture | OCCURSAT | Croatia
+Hallstatt Culture | OCCURSAT | Croatia
+La Tène Culture | OCCURSAT | Croatia
+Illyrians | WASPRESENTAT | Croatia
+Liburnians | WASPRESENTAT | Croatia
+Hvar | ISCONTAINEDIN | Croatia
+Korčula | ISCONTAINEDIN | Croatia
+Vis | ISCONTAINEDIN | Croatia
+Roman Empire | ISRELATEDTO | Croatia
+Emperor Diocletian | ISRELATEDTO | Split
+Julius Nepos | WASPRESENTAT | Split
+Dubrovnik | ISCONTAINEDIN | Croatia
+Dubrovnik | ISRELATEDTO | Epidaurum
+White Croats | WASPRESENTAT | White Croatia
+White Croats | WASPRESENTAT | Croatia
+Sarmatians | WASPRESENTAT | Croatia
+Tanais Tablets | ISRELATEDTO | Sarmatians
+Constantine Vii | ISRELATEDTO | Byzantine Empire
+Dalmatia | ISCONTAINEDIN | Croatia
+Avars | WASPRESENTAT | Croatia
+Borna | ISRELATEDTO | Duchy Of Croatia
+Duchy Of Croatia | OCCURSAT | Croatia
+Einhard | ISRELATEDTO | Duchy Of Croatia
+Principality Of Lower Pannonia | ISRELATEDTO | Drava River
+Principality Of Lower Pannonia | ISRELATEDTO | Sava River
+Ljudevit | ISRELATEDTO | Principality Of Lower Pannonia
+Ljudevit | ISRELATEDTO | Sisak
+Porga Of Croatia | ISRELATEDTO | Croatia
+Mislav | ISRELATEDTO | Croatia
+Trpimir I | ISRELATEDTO | Croatia
+Petar Krešimir Iv | ISRELATEDTO | Croatia
+Dmitar Zvonimir | ISRELATEDTO | Croatia
+Stjepan Ii | ISRELATEDTO | Trpimirović Dynasty
+Ladislaus I Of Hungary | ISRELATEDTO | Croatia
+Coloman | ISRELATEDTO | Hungary
+Sabor | ISRELATEDTO | Croatia
+Ban | ISRELATEDTO | Croatia
+Frankopan Family | ISRELATEDTO | Croatia
+Šubić Family | ISRELATEDTO | Croatia
+Republic Of Venice | ISRELATEDTO | Dalmatia
+Republic Of Venice | ISRELATEDTO | Dubrovnik
+Dubrovnik | ISRELATEDTO | Republic Of Venice
+Battle Of Krbava Field | OCCURSAT | Croatia
+Battle Of Mohács | OCCURSAT | Croatia
+King Louis Ii | ISRELATEDTO | Battle Of Mohács
+House Of Habsburg | ISRELATEDTO | Ferdinand I Of Austria
+Cetin | ISCONTAINEDIN | Croatia
+Ottoman Empire | ISRELATEDTO | Croatia
+Croatia | ISRELATEDTO | Ottoman Empire
+Croatia | ISRELATEDTO | Habsburgs
+Croatian Military Frontier | ISRELATEDTO | Habsburgs
+Slavonia | ISPARTOF | Croatia
+Bosnia | ISRELATEDTO | Croatia
+Dalmatia | ISPARTOF | Croatia
+Croatian Military Frontier | ISRELATEDTO | Habsburgs
+Great Turkish War | ISRELATEDTO | Slavonia
+Great Turkish War | ISRELATEDTO | Croatia
+Dalmatia | ISRELATEDTO | Fifth Ottoman–Venetian War
+Dalmatia | ISRELATEDTO | Seventh Ottoman–Venetian War
+Burgenland Croats | ISRELATEDTO | Austria
+Burgenland Croats | ISRELATEDTO | Croatia
+Croatian Parliament | ISRELATEDTO | King Charles Iii
+Croatian Parliament | ISRELATEDTO | Pragmatic Sanction
+Queen Maria Theresa | ISRELATEDTO | Kingdom Of Croatia
+First French Empire | ISRELATEDTO | Illyrian Provinces
+First French Empire | ISRELATEDTO | Venetian Republic
+First French Empire | ISRELATEDTO | Ragusan Republic
+Illyrian Provinces | ISRELATEDTO | Austrian Empire
+Kingdom Of Dalmatia | ISRELATEDTO | Austrian Empire
+Croatian Littoral | ISPARTOF | Kingdom Of Croatia
+Croatian National Revival | ISRELATEDTO | Kingdom Of Croatia
+Ban Josip Jelačić | ISRELATEDTO | Croatia
+Nikola Tesla | ISRELATEDTO | Smiljin
+Austro-Hungarian Compromise Of 1867 | ISRELATEDTO | Kingdom Of Hungary
+Croatian–Hungarian Settlement Of 1868 | ISRELATEDTO | Kingdom Of Hungary
+Kingdom Of Dalmatia | ISRELATEDTO | Austrian Empire
+Rijeka | ISRELATEDTO | Corpus Separatum
+Bosnia And Herzegovina | ISRELATEDTO | Treaty Of Berlin
+Croatian Military Frontier | ISPARTOF | Croatia
+World War I | ISRELATEDTO | Austria-Hungary
+Croatian Parliament | ISRELATEDTO | State Of Slovenes, Croats, And Serbs
+State Of Slovenes, Croats, And Serbs | ISRELATEDTO | Kingdom Of Serbia
+Kingdom Of Serbs, Croats, And Slovenes | ISRELATEDTO | State Of Slovenes, Croats, And Serbs
+Kingdom Of Serbs, Croats, And Slovenes | ISRELATEDTO | Kingdom Of Serbia
+Croatian Parliament | ISRELATEDTO | Serbia And Montenegro
+1921 Constitution | ISRELATEDTO | Kingdom Of Serbs, Croats, And Slovenes
+Croatian Peasant Party (Hss) | ISRELATEDTO | Stjepan Radić
+Stjepan Radić | WASPRESENTAT | National Assembly
+Stjepan Radić | ISRELATEDTO | Puniša Račić
+King Alexander I | ISRELATEDTO | 6 January Dictatorship
+Vladko Maček | ISRELATEDTO | Croatian Peasant Party (Hss)
+Cvetković–Maček Agreement | ISRELATEDTO | Banovina Of Croatia
+Banovina Of Croatia | ISPARTOF | Yugoslavia
+Nazi Germany | ISRELATEDTO | Yugoslavia
+Fascist Italy | ISRELATEDTO | Yugoslavia
+Independent State Of Croatia (Ndh) | ISRELATEDTO | Nazi Germany
+Independent State Of Croatia (Ndh) | ISRELATEDTO | Fascist Italy
+Dalmatia | ISRELATEDTO | Italy
+Baranja | ISCONTAINEDIN | Hungary
+Međimurje | ISCONTAINEDIN | Hungary
+Ante Pavelić | ISRELATEDTO | Ustaše
+Jasenovac Concentration Camp | ISRELATEDTO | Independent State Of Croatia (Ndh)
+Rab Concentration Camp | ISRELATEDTO | Italy
+Gonars Concentration Camp | ISRELATEDTO | Italy
+Molat Concentration Camp | ISRELATEDTO | Italy
+Yugoslav Royalist Chetniks | ISRELATEDTO | Italy
+1St Sisak Partisan Detachment | ISCONTAINEDIN | Sisak
+Josip Broz Tito | ISRELATEDTO | Partisan Movement
+Tehran Conference | ISRELATEDTO | Partisan Movement
+Partisan Movement | ISRELATEDTO | Allies (Wwii)
+Partisan Movement | ISRELATEDTO | Soviet Troops
+Belgrade Offensive | ISRELATEDTO | Soviet Troops
+Kamešnica | ISRELATEDTO | Nazi Germany
+Lipa (Village) | ISRELATEDTO | Nazi Germany
+Yugoslav Death March Of Nazi Collaborators | ISRELATEDTO | Independent State Of Croatia (Ndh)
+Vladimir Žerjavić | ISRELATEDTO | Bosnia And Herzegovina
+Bogoljub Kočović | ISRELATEDTO | Bosnia And Herzegovina
+Sfr Yugoslavia | ISRELATEDTO | Croatia
+Sfr Yugoslavia | ISRELATEDTO | Communists
+Declaration On The Status And Name Of The Croatian Standard Language | ISRELATEDTO | Croatia
+Croatian Spring | ISRELATEDTO | Croatian Parliament
+1974 Yugoslav Constitution | ISRELATEDTO | Sfr Yugoslavia
+Croatian Diaspora | ISRELATEDTO | Government In Exile
+Tito | ISRELATEDTO | Yugoslavia
+Sanu Memorandum | ISRELATEDTO | Yugoslavia
+1989 Coups In Vojvodina, Kosovo, And Montenegro | ISRELATEDTO | Yugoslavia
+Communist Party | ISRELATEDTO | Yugoslavia
+Sabor | ISPARTOF | Croatia
+Franjo Tuđman | ISRELATEDTO | Croatia
+Republic Of Serbian Krajina | ISCONTAINEDIN | Croatia
+Yugoslav People'S Army | ISRELATEDTO | Croatia
+Serb Paramilitary Groups | ISRELATEDTO | Croatia
+European Economic Community | ISRELATEDTO | Croatia
+United Nations | ISRELATEDTO | Croatia
+Victory And Homeland Thanksgiving Day And The Day Of Croatian Defenders | OCCURSAT | Croatia
+Erdut Agreement | ISRELATEDTO | Croatia
+Untaes Mission | ISRELATEDTO | Croatia
+Bosnia And Herzegovina | ISRELATEDTO | Croatia
+Parliament | ISPARTOF | Croatia
+Oecd Council | ISRELATEDTO | Croatia
+Eurozone | ISRELATEDTO | Croatia
+Schengen Area | ISRELATEDTO | Croatia
+Andrej Plenković | ISRELATEDTO | Croatia
+Zoran Milanović | ISRELATEDTO | Croatia
+Sabor | ISPARTOF | Parliament
+Partnership For Peace | ISRELATEDTO | Croatia
+World Trade Organization | ISRELATEDTO | Croatia
+European Union | ISRELATEDTO | Croatia
+Nato | ISRELATEDTO | Croatia
+Ivo Josipović | ISRELATEDTO | Croatia
+Croatia | ISRELATEDTO | Adriatic Sea
+Croatia | ISRELATEDTO | Hungary
+Croatia | ISRELATEDTO | Serbia
+Croatia | ISRELATEDTO | Montenegro
+Croatia | ISRELATEDTO | Slovenia
+Dubrovnik | ISCONTAINEDIN | Croatia
+Neum | ISCONTAINEDIN | Bosnia And Herzegovina
+Pelješac Bridge | ISRELATEDTO | Croatia
+Dinaric Alps | ISCONTAINEDIN | Croatia
+Dinara Peak | ISCONTAINEDIN | Croatia
+Cres | ISCONTAINEDIN | Croatia
+Krk | ISCONTAINEDIN | Croatia
+Hrvatsko Zagorje | ISCONTAINEDIN | Croatia
+Slavonia | ISCONTAINEDIN | Croatia
+Pannonian Basin | ISPARTOF | Slavonia
+Danube | ISRELATEDTO | Vukovar
+Vukovar | ISCONTAINEDIN | Croatia
+Danube | ISPARTOF | Vojvodina
+Drava | ISRELATEDTO | Croatia
+Kupa | ISRELATEDTO | Croatia
+Sava | ISRELATEDTO | Croatia
+Lika | ISCONTAINEDIN | Croatia
+Gorski Kotar | ISCONTAINEDIN | Croatia
+Plitvice Lakes | ISCONTAINEDIN | Croatia
+Biševo | ISCONTAINEDIN | Croatia
+Lastovo | ISCONTAINEDIN | Croatia
+Svetac | ISCONTAINEDIN | Croatia
+Vis | ISCONTAINEDIN | Croatia
+Risnjak | ISCONTAINEDIN | Gorski Kotar
+Snježnik | ISCONTAINEDIN | Gorski Kotar
+Čakovec | ISCONTAINEDIN | Croatia
+Ploče | ISCONTAINEDIN | Croatia
+Croat Refugees From Bosnia And Herzegovina | ISRELATEDTO | Bosnia And Herzegovina
+Croat Refugees From Bosnia And Herzegovina | ISRELATEDTO | Croatia
+Croatia | ISRELATEDTO | Hvar
+Croatia | ISRELATEDTO | Korčula
+Croatia | ISRELATEDTO | Adriatic Sea
+Croatia | ISRELATEDTO | Velebit Mountains
+Croatia | ISRELATEDTO | Biokovo Mountains
+Croatia | ISRELATEDTO | Karst Rivers
+National Ecological Network | ISRELATEDTO | Natura 2000
+Plitvice Lakes National Park | ISRELATEDTO | Unesco
+Velebit Nature Park | ISRELATEDTO | Unesco Man And The Biosphere Programme
+Government | ISCONTAINEDIN | Banski Dvori
+Banski Dvori | ISCONTAINEDIN | Zagreb
+Parliament | ISRELATEDTO | Croatian Democratic Union
+Parliament | ISRELATEDTO | Social Democratic Party Of Croatia
+Constitutional Court | ISRELATEDTO | Supreme Court
+Ministry Of The Interior | ISRELATEDTO | National Police Force
+Ministry Of The Interior | ISRELATEDTO | Security And Intelligence Agency (Soa)
+Croatia | ISRELATEDTO | Ministry Of Foreign Affairs And European Integration
+Croatia | ISRELATEDTO | European Bank For Reconstruction And Development (Ebrd)
+Croatia | ISRELATEDTO | International Organization For Migration (Iom)
+Croatia | ISRELATEDTO | Organization For Security And Co-Operation In Europe (Osce)
+Croatia | ISRELATEDTO | World Bank
+Croatia | ISRELATEDTO | World Health Organization (Who)
+Croatia | ISRELATEDTO | International Criminal Tribunal For The Former Yugoslavia (Icty)
+Croatia | ISRELATEDTO | United Nations Development Programme (Undp)
+Croatia | ISRELATEDTO | United Nations High Commissioner For Refugees (Unhcr)
+Croatia | ISRELATEDTO | Unicef
+Croatia | ISRELATEDTO | European Union
+Croatia | ISRELATEDTO | Bosnia And Herzegovina
+Croatia | ISRELATEDTO | Montenegro
+Croatia | ISRELATEDTO | Serbia
+Croatia | ISRELATEDTO | Slovenia
+Croatia | ISRELATEDTO | Nato
+Croatia | ISRELATEDTO | Schengen Area
+Croatia | ISRELATEDTO | Eurozone
+Croatia | ISRELATEDTO | Erm Ii
+Croatia | ISRELATEDTO | Croatian Diaspora
+Croatian Armed Forces (Caf) | ISPARTOF | Air Force
+Croatian Armed Forces (Caf) | ISPARTOF | Army
+Croatian Armed Forces (Caf) | ISPARTOF | Navy
+Croatian Armed Forces (Caf) | ISRELATEDTO | General Staff
+General Staff | ISRELATEDTO | Defence Minister
+Defence Minister | ISRELATEDTO | President Of The Republic
+President Of The Republic | ISRELATEDTO | Prime Minister
+Croatia | ISRELATEDTO | Military-Industrial Sector Of Croatia
+Military-Industrial Sector Of Croatia | ISRELATEDTO | Military Equipment Exports 2020
+Hs Produkt | ISRELATEDTO | Hs2000
+Đuro Đaković Factory | ISRELATEDTO | M-84D Battle Tank
+Caf | ISRELATEDTO | Hs2000
+Caf | ISRELATEDTO | M-84D Battle Tank
+Caf | ISRELATEDTO | Uniforms And Helmets For Caf
+2024 Global Peace Index | ISRELATEDTO | Croatia
+Croatia | ISRELATEDTO | Kingdom Of Serbs, Croats And Slovenes
+Croatia | ISRELATEDTO | Kingdom Of Yugoslavia
+Croatia | ISRELATEDTO | Municipality Subdivisions
+Croatia | ISRELATEDTO | 1992 County Legislation
+20 Counties Of Croatia | ISCONTAINEDIN | Croatia
+City Of Zagreb | ISCONTAINEDIN | Croatia
+127 Cities Of Croatia | ISCONTAINEDIN | Croatia
+429 Municipalities Of Croatia | ISCONTAINEDIN | Croatia
+Nuts 1 Croatia | ISRELATEDTO | Croatia
+Northwest Croatia | ISPARTOF | Nuts 1 Croatia
+Central And Eastern (Pannonian) Croatia | ISPARTOF | Nuts 1 Croatia
+Adriatic Croatia | ISPARTOF | Nuts 1 Croatia
+Northwest Croatia | ISCONTAINEDIN | Koprivnica-Križevci
+Northwest Croatia | ISCONTAINEDIN | Krapina-Zagorje
+Northwest Croatia | ISCONTAINEDIN | Međimurje
+Northwest Croatia | ISCONTAINEDIN | Varaždin
+Northwest Croatia | ISCONTAINEDIN | City Of Zagreb
+Northwest Croatia | ISCONTAINEDIN | Zagreb County
+Central And Eastern (Pannonian) Croatia | ISCONTAINEDIN | Bjelovar-Bilogora
+Central And Eastern (Pannonian) Croatia | ISCONTAINEDIN | Brod-Posavina
+Central And Eastern (Pannonian) Croatia | ISCONTAINEDIN | Karlovac
+Central And Eastern (Pannonian) Croatia | ISCONTAINEDIN | Osijek-Baranja
+Central And Eastern (Pannonian) Croatia | ISCONTAINEDIN | Požega-Slavonia
+Central And Eastern (Pannonian) Croatia | ISCONTAINEDIN | Sisak-Moslavina
+Central And Eastern (Pannonian) Croatia | ISCONTAINEDIN | Virovitica-Podravina
+Central And Eastern (Pannonian) Croatia | ISCONTAINEDIN | Vukovar-Syrmia
+Croatia | ISRELATEDTO | International Monetary Fund
+Croatia | ISRELATEDTO | Eurostat
+Service Sector Of Croatia | ISRELATEDTO | Croatia
+Industrial Sector Of Croatia | ISRELATEDTO | Croatia
+Agriculture Sector Of Croatia | ISRELATEDTO | Croatia
+Shipbuilding Industry Croatia | ISPARTOF | Industrial Sector Of Croatia
+Food Processing Industry Croatia | ISPARTOF | Industrial Sector Of Croatia
+Pharmaceutical Industry Croatia | ISPARTOF | Industrial Sector Of Croatia
+It Industry Croatia | ISPARTOF | Industrial Sector Of Croatia
+Biochemical Industry Croatia | ISPARTOF | Industrial Sector Of Croatia
+Timber Industry Croatia | ISPARTOF | Industrial Sector Of Croatia
+Exports 2018 | ISRELATEDTO | Croatia
+Imports 2018 | ISRELATEDTO | Croatia
+European Union | ISRELATEDTO | Croatia
+Croatia | ISRELATEDTO | Germany
+Croatia | ISRELATEDTO | Italy
+Croatia | ISRELATEDTO | Slovenia
+Transparency International | ISRELATEDTO | 2022 Corruption Perceptions Index
+2022 Corruption Perceptions Index | ISRELATEDTO | Croatia
+Tourism Industry Croatia | ISRELATEDTO | Croatia
+Tourism Income 2019 | ISRELATEDTO | Tourism Industry Croatia
+Opatija | ISCONTAINEDIN | Adriatic Coast Of Croatia
+Marinas Of Croatia | ISRELATEDTO | Adriatic Coast Of Croatia
+Zagreb Tourism | ISRELATEDTO | Zagreb
+Agrotourism Croatia | ISRELATEDTO | Croatia
+Mountain Resorts Croatia | ISRELATEDTO | Croatia
+Spas Croatia | ISRELATEDTO | Croatia
+Blue Flag Beaches Croatia | ISRELATEDTO | Croatia
+European Environmental Agency | ISRELATEDTO | Blue Flag Beaches Croatia
+World Tourism Organization | ISRELATEDTO | 2019 Tourist Destination Ranking
+2019 Tourist Destination Ranking | ISRELATEDTO | Croatia
+Naturism In Croatia | ISRELATEDTO | Croatia
+Bounce | ISRELATEDTO | 2023 Solo Travel Index
+2023 Solo Travel Index | ISRELATEDTO | Croatia
+Pinterest | ISRELATEDTO | 2023 Wedding Trends Report
+Zola | ISRELATEDTO | 2023 Wedding Trends Report
+2023 Wedding Trends Report | ISRELATEDTO | Croatia
+Motorway Network Croatia | ISRELATEDTO | Croatia
+A1 Motorway | ISRELATEDTO | Zagreb
+A1 Motorway | ISRELATEDTO | Split
+A3 Motorway | ISRELATEDTO | Slavonia
+Eurotap | ISRELATEDTO | Motorway Network Croatia
+Eurotest | ISRELATEDTO | Motorway Network Croatia
+Rail Network Croatia | ISRELATEDTO | Croatia
+Pan-European Transport Corridor Vb | ISRELATEDTO | Rail Network Croatia
+Pan-European Transport Corridor X | ISRELATEDTO | Rail Network Croatia
+Rijeka | ISRELATEDTO | Budapest
+Ljubljana | ISRELATEDTO | Belgrade
+Croatian Railways | ISRELATEDTO | Rail Network Croatia
+European Investment Bank | ISRELATEDTO | 2024 Railway Revitalization Commitment
+2024 Railway Revitalization Commitment | ISRELATEDTO | Rail Network Croatia
+Electro-Diesel Multiple Units Acquisition July 2024 | ISRELATEDTO | European Investment Bank
+Electro-Diesel Multiple Units Acquisition July 2024 | ISRELATEDTO | Split
+Electro-Diesel Multiple Units Acquisition July 2024 | ISRELATEDTO | Zagreb
+Pelješac Bridge | ISRELATEDTO | Dubrovnik-Neretva County
+Pelješac Bridge | ISRELATEDTO | Korčula
+Pelješac Bridge | ISRELATEDTO | Lastovo
+Hrvatske Ceste | ISRELATEDTO | Chinese Consortium
+China Road And Bridge Corporation | ISPARTOF | Chinese Consortium
+Pelješac Bridge Construction July 2018 | ISRELATEDTO | Hrvatske Ceste
+Pelješac Bridge Construction July 2018 | ISRELATEDTO | Chinese Consortium
+European Union Funding Pelješac Bridge | ISRELATEDTO | European Union
+European Union Funding Pelješac Bridge | ISRELATEDTO | Pelješac Bridge
+Pelješac Bridge Completion July 2022 | ISRELATEDTO | Pelješac Bridge
+Franjo Tuđman Airport | ISCONTAINEDIN | Zagreb
+Dubrovnik | ISCONTAINEDIN | Croatia
+Osijek | ISCONTAINEDIN | Croatia
+Pula | ISCONTAINEDIN | Croatia
+Rijeka | ISCONTAINEDIN | Croatia
+Split | ISCONTAINEDIN | Croatia
+Zadar | ISCONTAINEDIN | Croatia
+Zagreb | ISCONTAINEDIN | Croatia
+Franko Tuđman Airport | ISCONTAINEDIN | Croatia
+Croatia Airlines | ISRELATEDTO | Airbus A220-300
+Croatia Airlines | ISRELATEDTO | Airbus A220-100
+Croatia Airlines | ISRELATEDTO | Zagreb
+Croatia Airlines | ISRELATEDTO | Tirana
+Croatia Airlines | ISRELATEDTO | Berlin
+Croatia Airlines | ISRELATEDTO | Stockholm
+Croatia Airlines | ISRELATEDTO | Hamburg
+Port Of Rijeka | ISRELATEDTO | Rijeka
+Split | ISRELATEDTO | Croatia
+Zadar | ISRELATEDTO | Croatia
+Vukovar | ISCONTAINEDIN | Danube
+Vukovar | ISRELATEDTO | Pan-European Transport Corridor Vii
+Rijeka Oil Terminal | ISCONTAINEDIN | Rijeka
+Rijeka Oil Terminal | ISRELATEDTO | Sisak
+Okoli Natural Gas Storage Facility | ISCONTAINEDIN | Croatia
+Krk Island | ISCONTAINEDIN | Croatia
+Lng Hrvatska | ISCONTAINEDIN | Krk Island
+Krško Nuclear Power Plant | ISCONTAINEDIN | Slovenia
+Krško Nuclear Power Plant | ISRELATEDTO | Hrvatska Elektroprivreda
+Bosnia And Herzegovina | ISRELATEDTO | Croatia
+Office Of Displaced Persons And Refugees | ISRELATEDTO | Croatia
+Croats | ISCONTAINEDIN | Croatia
+Serbs | ISCONTAINEDIN | Croatia
+Operation Storm | OCCURSAT | Croatia
+United Nations | ISRELATEDTO | Croatia
+European Union | ISRELATEDTO | Croatia
+Croatia | ISRELATEDTO | European Union
+Croatian Language | ISRELATEDTO | Croatia
+Croatian Language | ISRELATEDTO | Latin
+Croatian Language | ISRELATEDTO | Yugoslavia
+Croatian Language | ISRELATEDTO | South Slavic Languages
+Croatian Language | ISRELATEDTO | Shtokavian Dialect
+Croatian Language | ISRELATEDTO | Chakavian Dialect
+Croatian Language | ISRELATEDTO | Kajkavian Dialect
+English | ISRELATEDTO | Croatia
+German | ISRELATEDTO | Croatia
+Italian | ISRELATEDTO | Croatia
+French | ISRELATEDTO | Croatia
+Russian | ISRELATEDTO | Croatia
+Spanish | ISRELATEDTO | Croatia
+Czech | ISRELATEDTO | Croatia
+Hungarian | ISRELATEDTO | Croatia
+Serbian | ISRELATEDTO | Croatia
+Slovak | ISRELATEDTO | Croatia
+Bosniaks | ISCONTAINEDIN | Croatia
+Roma | ISCONTAINEDIN | Croatia
+Albanians | ISCONTAINEDIN | Croatia
+Hungarians | ISCONTAINEDIN | Croatia
+Czechs | ISCONTAINEDIN | Croatia
+Slovenes | ISCONTAINEDIN | Croatia
+Slovaks | ISCONTAINEDIN | Croatia
+Macedonians | ISCONTAINEDIN | Croatia
+Germans | ISCONTAINEDIN | Croatia
+Montenegrins | ISCONTAINEDIN | Croatia
+Bulgarians | ISRELATEDTO | Croatia
+Hebrew | ISRELATEDTO | Croatia
+Polish | ISRELATEDTO | Croatia
+Romanian | ISRELATEDTO | Croatia
+Istro-Romanian | ISRELATEDTO | Croatia
+Romani | ISRELATEDTO | Croatia
+Rusyn | ISRELATEDTO | Croatia
+Turkish | ISRELATEDTO | Croatia
+Ukrainian | ISRELATEDTO | Croatia
+Primary Education In Croatia | OCCURSAT | Croatia
+Secondary Education In Croatia | OCCURSAT | Croatia
+University Of Zadar | ISCONTAINEDIN | Croatia
+University Of Zagreb | ISCONTAINEDIN | Croatia
+Ruđer Bošković Institute | ISCONTAINEDIN | Zagreb
+Croatian Academy Of Sciences And Arts | ISCONTAINEDIN | Zagreb
+European Investment Bank | ISRELATEDTO | Croatia
+European Investment Bank | ISRELATEDTO | City Of Zagreb
+European Investment Bank | ISRELATEDTO | City Of Split
+City Of Zagreb | ISRELATEDTO | Zagreb
+City Of Split | ISRELATEDTO | Split
+Unesco | ISRELATEDTO | Croatia
+Interliber | OCCURSAT | Zagreb Fair
+Ministry Of Culture | ISRELATEDTO | Croatia
+Illyrian Movement | ISRELATEDTO | Croatia
+Croatia | ISRELATEDTO | Western Roman Empire
+Croatia | ISRELATEDTO | Byzantine Empire
+Croatia | ISRELATEDTO | Central Europe
+Croatia | ISRELATEDTO | Mediterranean Culture
+Tvrđa | ISPARTOF | Osijek
+Osijek | ISCONTAINEDIN | Croatia
+Varaždin | ISCONTAINEDIN | Croatia
+Karlovac | ISCONTAINEDIN | Croatia
+Dalmatia | ISCONTAINEDIN | Croatia
+Istria | ISCONTAINEDIN | Croatia
+Giorgio Da Sebenico | ISRELATEDTO | Cathedral Of St. James In Šibenik
+Nicolas Of Florence | ISRELATEDTO | Cathedral Of St. James In Šibenik
+Cathedral Of St. James In Šibenik | ISCONTAINEDIN | Croatia
+Church Of St. Donatus In Zadar | ISCONTAINEDIN | Zadar
+Radovan | ISRELATEDTO | Trogir Cathedral
+Trogir Cathedral | ISCONTAINEDIN | Croatia
+Baška Tablet | OCCURSAT | Krk Island
+Marko Marulić | ISRELATEDTO | Croatia
+Marin Držić | ISRELATEDTO | Croatia
+Ivan Gundulić | ISRELATEDTO | Croatia
+Ivan Mažuranić | ISRELATEDTO | Croatia
+August Šenoa | ISRELATEDTO | Croatia
+Ivana Brlić-Mažuranić | ISRELATEDTO | Croatia
+Marija Jurić Zagorka | ISRELATEDTO | Croatia
+Antun Gustav Matoš | ISRELATEDTO | Croatia
+Antun Branko Šimić | ISRELATEDTO | Croatia
+Miroslav Krleža | ISRELATEDTO | Croatia
+Tin Ujević | ISRELATEDTO | Croatia
+Ivo Andrić | ISRELATEDTO | Croatia
+Vatroslav Lisinski | ISRELATEDTO | Love And Malice
+Ivan Zajc | ISRELATEDTO | Croatia
+Ivo Pogorelić | ISRELATEDTO | Croatia
+Hrt | ISRELATEDTO | Croatia
+Hina | ISRELATEDTO | Croatia
+Reporters Without Borders | ISRELATEDTO | Croatia
+Freedom House | ISRELATEDTO | Croatia
+Croatian Radiotelevision | ISRELATEDTO | Croatia
+Rtl Televizija | ISRELATEDTO | Croatia
+Nova Tv | ISRELATEDTO | Croatia
+Croatian Olympic Committee | ISRELATEDTO | Croatia
+Kapital Net D.O.O. | ISRELATEDTO | Croatia
+Author D.O.O. | ISRELATEDTO | Croatia
+Hanza Media | ISRELATEDTO | Croatia
+Styria Media Group | ISRELATEDTO | Croatia
+Jutarnji List | ISPARTOF | Hanza Media
+Večernji List | ISPARTOF | Styria Media Group
+24Sata | ISPARTOF | Styria Media Group
+Croatia | WASPRESENTAT | Eurovision Song Contest
+Yugoslavia | WASPRESENTAT | Eurovision Song Contest
+Riva | WASPRESENTAT | Eurovision Song Contest
+Riva | ISRELATEDTO | Yugoslavia
+Ministry Of Culture | ISRELATEDTO | Croatia
+Hrt | ISRELATEDTO | Ministry Of Culture
+Pula Film Festival | OCCURSAT | Pula
+Animafest Zagreb | OCCURSAT | Zagreb
+Dušan Vukotić | ISRELATEDTO | Ersatz (Surogat)
+Branko Lustig | ISRELATEDTO | Schindler'S List
+Branko Lustig | ISRELATEDTO | Gladiator
+Nebojša Slijepčević | ISRELATEDTO | The Man Who Could Not Remain Silent
+Game Of Thrones | OCCURSAT | Croatia
+Star Wars: The Last Jedi | OCCURSAT | Croatia
+Robin Hood | OCCURSAT | Dubrovnik
+Speak No Evil | OCCURSAT | Croatia
+Season Of The Witch | OCCURSAT | Istria
+Titius | OCCURSAT | Istria
+Infinity Pool | OCCURSAT | Šibenik
+Armour Of God | OCCURSAT | Zagreb
+Fiddler On The Roof | OCCURSAT | Zagreb
+Sophie'S Choice | OCCURSAT | Zagreb
+Mamma Mia! Here We Go Again | OCCURSAT | Vis
+Succession | OCCURSAT | Korčula
+Hercules | OCCURSAT | Split
+The Weekend Away | OCCURSAT | Split
+Bliss | OCCURSAT | Split
+The Peacemaker | OCCURSAT | Croatia
+Dalmatia | ISPARTOF | Croatia
+Istria | ISPARTOF | Croatia
+Slavonia | ISPARTOF | Croatia
+Krk | ISPARTOF | Croatia
+Michelin | ISRELATEDTO | Croatia
+Hrvatski Sokol | ISRELATEDTO | Croatia
+Croatian Sports Association | ISRELATEDTO | Croatia
+Franjo Bučar | ISRELATEDTO | Croatia
+National Sport Programme | ISRELATEDTO | Croatia
+Croatian Olympic Committee | ISRELATEDTO | Olympic Games
+World Cup 1998 | ISRELATEDTO | Croatia
+World Cup 2018 | ISRELATEDTO | Croatia
+World Cup 2022 | ISRELATEDTO | Croatia
+Davis Cup | ISRELATEDTO | Croatia
+2020 Summer Olympics | ISRELATEDTO | Croatia
+2009 World Men'S Handball Championship | OCCURSAT | Croatia
+2007 World Table Tennis Championships | OCCURSAT | Croatia
+2000 World Rowing Championships | OCCURSAT | Croatia
+1987 Summer Universiade | OCCURSAT | Croatia
+1979 Mediterranean Games | OCCURSAT | Croatia
+2025 World Men'S Handball Championship | OCCURSAT | Croatia
+2018 World Men'S Handball Championship | OCCURSAT | Croatia
+2024 Men'S European Water Polo Championship | OCCURSAT | Croatia
+45.167°N 15.500°E | ISCONTAINEDIN | Croatia

@@ -1,0 +1,588 @@
+103_Colmore_Row | architect | John_Madin
+103_Colmore_Row | location | Colmore Row, Birmingham, England
+John_Madin | birthPlace | Birmingham
+103_Colmore_Row | architect | John_Madin
+John_Madin | birthPlace | Birmingham
+Birmingham | leader | Andrew_Mitchell
+103_Colmore_Row | architect | John_Madin
+John_Madin | birthPlace | Birmingham
+Birmingham | leader | John_Clancy_(Labour_politician)
+103_Colmore_Row | architect | John_Madin
+John_Madin | birthPlace | Birmingham
+Birmingham | leader | Khalid_Mahmood_(British_politician)
+103_Colmore_Row | architect | John_Madin
+John_Madin | birthPlace | Birmingham
+Birmingham | leader | Labour_Party_(UK)
+103_Colmore_Row | architect | John_Madin
+John_Madin | origin | Birmingham
+Birmingham | leader | John_Clancy_(Labour_politician)
+103_Colmore_Row | architect | John_Madin
+John_Madin | origin | Birmingham
+Birmingham | leader | Khalid_Mahmood_(British_politician)
+103_Colmore_Row | floorCount | 23
+103_Colmore_Row | location | Colmore_Row
+103_Colmore_Row | completionDate | 1976
+103_Colmore_Row | location | Colmore Row, Birmingham, England
+103_Colmore_Row | floorCount | 23
+103_Colmore_Row | completionDate | 1976
+103_Colmore_Row | location | Birmingham
+103_Colmore_Row | floorCount | 23
+103_Colmore_Row | completionDate | 1976
+200_Public_Square | floorCount | 45
+200_Public_Square | floorArea | 111484 (square metres)
+200_Public_Square | completionDate | 1985
+200_Public_Square | floorCount | 45
+200_Public_Square | location | Cleveland, Ohio 44114
+200_Public_Square | completionDate | 1985
+200_Public_Square | floorCount | 45
+200_Public_Square | location | United States
+200_Public_Square | completionDate | 1985
+200_Public_Square | location | Cleveland
+200_Public_Square | floorCount | 45
+200_Public_Square | completionDate | 1985
+200_Public_Square | location | Cleveland
+200_Public_Square | floorCount | 45
+Cleveland | country | United_States
+200_Public_Square | location | Cleveland
+Cleveland | country | United_States
+Cleveland | governingBody | Cleveland_City_Council
+200_Public_Square | location | Cleveland
+Cleveland | isPartOf | Cuyahoga_County,_Ohio
+Cleveland | country | United_States
+200_Public_Square | location | Cleveland
+Cleveland | isPartOf | Cuyahoga_County,_Ohio
+Cleveland | governingBody | Cleveland_City_Council
+200_Public_Square | location | Cleveland
+Cleveland | isPartOf | Cuyahoga_County,_Ohio
+Cleveland | isPartOf | Ohio
+200_Public_Square | location | Cleveland
+Cleveland | isPartOf | Ohio
+Cleveland | country | United_States
+200_Public_Square | location | Cleveland
+Cleveland | leader | Frank_G._Jackson
+Cleveland | isPartOf | Ohio
+200_Public_Square | location | Public_Square,_Cleveland
+200_Public_Square | floorCount | 45
+200_Public_Square | completionDate | 1985
+20_Fenchurch_Street | completionDate | April 2014
+20_Fenchurch_Street | floorCount | 34
+20_Fenchurch_Street | floorArea | 62145.3 (square metres)
+20_Fenchurch_Street | location | London
+20_Fenchurch_Street | floorCount | 34
+London | leader | Boris_Johnson
+20_Fenchurch_Street | location | London
+London | leaderTitle | European_Parliament
+London | leader | Boris_Johnson
+20_Fenchurch_Street | location | London
+London | leaderTitle | Parliament_of_the_United_Kingdom
+London | leader | Boris_Johnson
+20_Fenchurch_Street | location | United_Kingdom
+20_Fenchurch_Street | floorCount | 34
+United_Kingdom | leader | Elizabeth_II
+20_Fenchurch_Street | location | United_Kingdom
+United_Kingdom | demonym | British_people
+United_Kingdom | currency | Pound_sterling
+20_Fenchurch_Street | location | United_Kingdom
+United_Kingdom | demonym | British_people
+United_Kingdom | leader | Elizabeth_II
+20_Fenchurch_Street | location | United_Kingdom
+United_Kingdom | leader | Elizabeth_II
+United_Kingdom | currency | Pound_sterling
+300_North_LaSalle | architect | Pickard_Chilton
+300_North_LaSalle | completionDate | 2009
+300_North_LaSalle | floorCount | 60
+300_North_LaSalle | location | Chicago
+300_North_LaSalle | floorCount | 60
+300_North_LaSalle | completionDate | 2009
+300_North_LaSalle | location | Chicago
+Chicago | country | United_States
+Chicago | isPartOf | Illinois
+300_North_LaSalle | location | Chicago
+Chicago | country | United_States
+Chicago | leader | Susana_Mendoza
+300_North_LaSalle | location | Chicago
+Chicago | isPartOf | Cook_County,_Illinois
+Chicago | country | United_States
+300_North_LaSalle | location | Chicago
+Chicago | isPartOf | Cook_County,_Illinois
+Chicago | leader | Susana_Mendoza
+300_North_LaSalle | location | Chicago
+Chicago | isPartOf | DuPage_County,_Illinois
+Chicago | country | United_States
+300_North_LaSalle | location | Chicago
+Chicago | isPartOf | DuPage_County,_Illinois
+Chicago | leader | Susana_Mendoza
+300_North_LaSalle | location | Chicago
+Chicago | leader | Rahm_Emanuel
+Chicago | isPartOf | Cook_County,_Illinois
+300_North_LaSalle | location | Chicago
+Chicago | leader | Rahm_Emanuel
+Chicago | isPartOf | Illinois
+300_North_LaSalle | location | Chicago
+Illinois | country | United_States
+Chicago | isPartOf | Illinois
+300_North_LaSalle | location | Illinois
+300_North_LaSalle | floorCount | 60
+300_North_LaSalle | completionDate | 2009
+AC_Hotel_Bella_Sky_Copenhagen | location | Copenhagen
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International
+Marriott_International | keyPerson | Bill_Marriott
+AC_Hotel_Bella_Sky_Copenhagen | location | Copenhagen
+Marriott_International | foundationPlace | Washington,_D.C.
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International
+AC_Hotel_Bella_Sky_Copenhagen | location | Denmark
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International
+Marriott_International | keyPerson | Bill_Marriott
+AC_Hotel_Bella_Sky_Copenhagen | location | Denmark
+Denmark | leader | Lars_Løkke_Rasmussen
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International
+AC_Hotel_Bella_Sky_Copenhagen | location | Denmark
+Denmark | leader | Margrethe_II_of_Denmark
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International
+AC_Hotel_Bella_Sky_Copenhagen | location | Denmark
+Marriott_International | foundationPlace | Washington,_D.C.
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International
+AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center
+AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN
+AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23
+AC_Hotel_Bella_Sky_Copenhagen | owner | Bella_Center
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International
+AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International
+AC_Hotel_Bella_Sky_Copenhagen | location | Copenhagen
+AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International
+AC_Hotel_Bella_Sky_Copenhagen | location | Copenhagen
+AC_Hotel_Bella_Sky_Copenhagen | floorCount | 23
+Adare_Manor | architect | James Pain and George Richard Pain,
+Adare_Manor | completionDate | 1862
+Adare_Manor | buildingStartDate | 1700
+Adare_Manor | architect | James Pain and George Richard Pain,
+Adare_Manor | completionDate | 1862
+Adare_Manor | owner | J._P._McManus
+Adare_Manor | architect | Lewis_Nockalls_Cottingham
+Adare_Manor | completionDate | 1862
+Adare_Manor | buildingStartDate | 1700
+Adare_Manor | architect | Lewis_Nockalls_Cottingham
+Adare_Manor | completionDate | 1862
+Adare_Manor | owner | J._P._McManus
+Adare_Manor | architect | Philip_Charles_Hardwick
+Adare_Manor | completionDate | 1862
+Adare_Manor | buildingStartDate | 1700
+Adare_Manor | completionDate | 1862
+Adare_Manor | architect | Augustus_Pugin
+Adare_Manor | buildingStartDate | 1700
+Adare_Manor | completionDate | 1862
+Adare_Manor | architect | George_Richard_Pain
+Adare_Manor | buildingStartDate | 1700
+Adare_Manor | completionDate | 1862
+Adare_Manor | architect | James_Pain
+Adare_Manor | buildingStartDate | 1700
+Adare_Manor | country | Republic_of_Ireland
+Republic_of_Ireland | leader | Enda_Kenny
+Republic_of_Ireland | demonym | Irish_people
+Adare_Manor | country | Republic_of_Ireland
+Republic_of_Ireland | leader | Enda_Kenny
+Republic_of_Ireland | language | Irish_language
+Adare_Manor | location | Adare
+Adare | isPartOf | Munster
+Adare_Manor | location | County_Limerick
+Adare_Manor | location | Adare
+Adare_Manor | location | County_Limerick
+County_Limerick | isPartOf | Munster
+Akita_Museum_of_Art | country | Japan
+Akita_Museum_of_Art | location | Akita,_Akita
+Akita,_Akita | isPartOf | Akita_Prefecture
+Akita_Museum_of_Art | country | Japan
+Akita_Museum_of_Art | location | Akita,_Akita
+Akita_Museum_of_Art | location | Akita_Prefecture
+Akita_Museum_of_Art | country | Japan
+Akita_Museum_of_Art | location | Akita_Prefecture
+Japan | ethnicGroup | Koreans_in_Japan
+Akita_Museum_of_Art | floorCount | 3
+Akita_Museum_of_Art | floorArea | 3746.66 (square metres)
+Akita_Museum_of_Art | address | 1-4-2 Nakadori
+Akita_Museum_of_Art | location | Akita,_Akita
+Akita,_Akita | country | Japan
+Akita,_Akita | isPartOf | Akita_Prefecture
+Akita_Museum_of_Art | location | Akita,_Akita
+Akita_Museum_of_Art | location | Akita_Prefecture
+Akita_Prefecture | country | Japan
+Akita_Museum_of_Art | location | Akita,_Akita
+Akita_Prefecture | country | Japan
+Akita,_Akita | isPartOf | Akita_Prefecture
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | cost | 75.0 million (dollars)
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | tenant | Mason_School_of_Business
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | location | Virginia
+Virginia | country | United_States
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Virginia
+Virginia | country | United_States
+Alan_B._Miller_Hall | tenant | Mason_School_of_Business
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | location | Williamsburg,_Virginia
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | location | Williamsburg,_Virginia
+Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | location | Williamsburg,_Virginia
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Ampara_Hospital | country | Sri_Lanka
+Ampara_Hospital | state | Eastern_Province,_Sri_Lanka
+Ampara_Hospital | bedCount | 476
+Ampara_Hospital | country | Sri_Lanka
+Ampara_Hospital | state | Eastern_Province,_Sri_Lanka
+Ampara_Hospital | region | Ampara_District
+Ampara_Hospital | country | Sri_Lanka
+Ampara_Hospital | state | Eastern_Province,_Sri_Lanka
+Eastern_Province,_Sri_Lanka | leader | Austin_Fernando
+Asher_and_Mary_Isabelle_Richardson_House | architect | Alfred_Giles_(architect)
+Alfred_Giles_(architect) | deathPlace | Kendall_County,_Texas
+Alfred_Giles_(architect) | birthPlace | England
+Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas
+Asher_and_Mary_Isabelle_Richardson_House | NationalRegisterOfHistoricPlacesReferenceNumber | 88002539
+Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911
+Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas
+Asher_and_Mary_Isabelle_Richardson_House | addedToTheNationalRegisterOfHistoricPlaces | 1988-11-22
+Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911
+Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83
+Asher_and_Mary_Isabelle_Richardson_House | NationalRegisterOfHistoricPlacesReferenceNumber | 88002539
+Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911
+Asherton,_Texas | country | United_States
+Asherton,_Texas | isPartOf | Dimmit_County,_Texas
+Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas
+Asherton,_Texas | isPartOf | United_States
+Asherton,_Texas | isPartOf | Dimmit_County,_Texas
+Asher_and_Mary_Isabelle_Richardson_House | location | Asherton,_Texas
+Asser_Levy_Public_Baths | location | Asser Levy Place and East 23rd Street
+Asser_Levy_Public_Baths | yearOfConstruction | 1904
+Asser_Levy_Public_Baths | addedToTheNationalRegisterOfHistoricPlaces | 1980-04-23
+Asser_Levy_Public_Baths | location | 23rd_Street_(Manhattan)
+Asser_Levy_Public_Baths | NationalRegisterOfHistoricPlacesReferenceNumber | 80002709
+Asser_Levy_Public_Baths | addedToTheNationalRegisterOfHistoricPlaces | 1980-04-23
+Asser_Levy_Public_Baths | location | 23rd_Street_(Manhattan)
+Asser_Levy_Public_Baths | yearOfConstruction | 1904
+Asser_Levy_Public_Baths | addedToTheNationalRegisterOfHistoricPlaces | 1980-04-23
+Asser_Levy_Public_Baths | location | Avenue_A_(Manhattan)
+Asser_Levy_Public_Baths | NationalRegisterOfHistoricPlacesReferenceNumber | 80002709
+Asser_Levy_Public_Baths | addedToTheNationalRegisterOfHistoricPlaces | 1980-04-23
+Asser_Levy_Public_Baths | location | Manhattan
+Asser_Levy_Public_Baths | NationalRegisterOfHistoricPlacesReferenceNumber | 80002709
+Asser_Levy_Public_Baths | addedToTheNationalRegisterOfHistoricPlaces | 1980-04-23
+Asser_Levy_Public_Baths | location | Manhattan
+Asser_Levy_Public_Baths | yearOfConstruction | 1904
+Asser_Levy_Public_Baths | addedToTheNationalRegisterOfHistoricPlaces | 1980-04-23
+Asser_Levy_Public_Baths | location | New_York_City
+Asser_Levy_Public_Baths | NationalRegisterOfHistoricPlacesReferenceNumber | 80002709
+Asser_Levy_Public_Baths | addedToTheNationalRegisterOfHistoricPlaces | 1980-04-23
+Asser_Levy_Public_Baths | location | New_York_City
+New_York_City | country | United_States
+New_York_City | isPartOf | Brooklyn
+Asser_Levy_Public_Baths | location | New_York_City
+New_York_City | country | United_States
+New_York_City | isPartOf | New_Netherland
+Asser_Levy_Public_Baths | location | New_York_City
+New_York_City | country | United_States
+New_York_City | isPartOf | New_York
+Asser_Levy_Public_Baths | location | New_York_City
+New_York_City | isPartOf | Brooklyn
+New_York_City | isPartOf | New_Netherland
+Asser_Levy_Public_Baths | location | New_York_City
+New_York_City | isPartOf | Manhattan
+New_York_City | isPartOf | Brooklyn
+Asser_Levy_Public_Baths | location | New_York_City
+New_York_City | isPartOf | Manhattan
+New_York_City | isPartOf | New_Netherland
+Asser_Levy_Public_Baths | location | New_York_City
+New_York_City | isPartOf | New_York
+New_York_City | isPartOf | Brooklyn
+Asser_Levy_Public_Baths | location | New_York_City
+New_York_City | isPartOf | New_York
+New_York_City | isPartOf | Manhattan
+Birmingham | leader | Conservative_Party_(UK)
+103_Colmore_Row | architect | John_Madin
+John_Madin | birthPlace | Birmingham
+Birmingham | leader | Liberal_Democrats
+103_Colmore_Row | architect | John_Madin
+John_Madin | origin | Birmingham
+Marriott_International | location | Bethesda,_Maryland
+Marriott_International | foundationPlace | Washington,_D.C.
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International
+Republic_of_Ireland | language | English_language
+Adare_Manor | country | Republic_of_Ireland
+Republic_of_Ireland | leader | Enda_Kenny
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Williamsburg,_Virginia
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Williamsburg,_Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Williamsburg,_Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Williamsburg,_Virginia
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Virginia
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | architecturalStyle | Georgian_architecture
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Virginia
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | tenant | Mason_School_of_Business
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | tenant | Mason_School_of_Business
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Williamsburg,_Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | tenant | Mason_School_of_Business
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Virginia | country | United_States
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+College_of_William_&_Mary | chancellor | Robert_Gates
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | location | Williamsburg,_Virginia
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | architect | Robert_A._M._Stern
+Alan_B._Miller_Hall | address | 101 Ukrop Way
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | completionDate | 2009-06-01
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+200_Public_Square | location | Cleveland
+Cleveland | leader | Frank_G._Jackson
+Cleveland | country | United_States
+300_North_LaSalle | location | Chicago
+Chicago | leader | Rahm_Emanuel
+Chicago | country | United_States
+AC_Hotel_Bella_Sky_Copenhagen | location | Denmark
+AC_Hotel_Bella_Sky_Copenhagen | tenant | Marriott_International
+AC_Hotel_Bella_Sky_Copenhagen | architect | 3XN
+Adare_Manor | completionDate | 1862
+Adare_Manor | architect | James_Pain
+Adare_Manor | owner | J._P._McManus
+Akita_Museum_of_Art | floorCount | 3
+Akita_Museum_of_Art | inaugurationDate | 2013-09-28
+Akita_Museum_of_Art | floorArea | 3746.66 (square metres)
+Akita_Museum_of_Art | location | Akita,_Akita
+Akita_Museum_of_Art | location | Akita_Prefecture
+Akita,_Akita | country | Japan
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Alan_B._Miller_Hall | location | Virginia
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+College_of_William_&_Mary | chancellor | Robert_Gates
+Alan_B._Miller_Hall | location | Virginia
+Mason_School_of_Business | country | United_States
+Alan_B._Miller_Hall | currentTenants | Mason_School_of_Business
+Alan_B._Miller_Hall | owner | College_of_William_&_Mary
+Alan_B._Miller_Hall | location | Williamsburg,_Virginia
+Alan_B._Miller_Hall | buildingStartDate | 30 March 2007
+Asher_and_Mary_Isabelle_Richardson_House | location | U.S._Route_83
+Asher_and_Mary_Isabelle_Richardson_House | addedToTheNationalRegisterOfHistoricPlaces | 1988-11-22
+Asher_and_Mary_Isabelle_Richardson_House | yearOfConstruction | 1911
+Asser_Levy_Public_Baths | location | Asser Levy Place and East 23rd Street
+Asser_Levy_Public_Baths | NationalRegisterOfHistoricPlacesReferenceNumber | 80002709
+Asser_Levy_Public_Baths | addedToTheNationalRegisterOfHistoricPlaces | 1980-04-23
+Asser_Levy_Public_Baths | location | New_York_City
+New_York_City | country | United_States
+New_York_City | isPartOf | Manhattan

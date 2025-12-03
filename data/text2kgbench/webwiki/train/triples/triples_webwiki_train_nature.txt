@@ -1,0 +1,620 @@
+Tymoviridae | parent taxon | Tymovirales
+Buff-throated Purpletuft | parent taxon | Purpletuft
+Black Pearl pepper | parent taxon | Capsicum annuum
+Bishop's Crown | parent taxon | Capsicum baccatum
+Orthogonioptilum | parent taxon | Saturniidae
+Little Stint | parent taxon | Calidris
+Ancistrochilus | parent taxon | Orchidaceae
+Musician Wren | parent taxon | Cyphorhinus
+Razorbill | parent taxon | Alca
+Common Iora | parent taxon | Iora
+northern wobbegong | parent taxon | Orectolobus
+Jack Snipe | parent taxon | Lymnocryptes
+Varied Thrush | parent taxon | Ixoreus
+Chatham mudfish | parent taxon | Neochanna
+Idaho pocket gopher | parent taxon | Thomomys
+Kerr's Pink | parent taxon | potato
+human betaherpesvirus 5 | parent taxon | Cytomegalovirus
+lowland paca | parent taxon | Paca
+Aulandra | parent taxon | Sapotaceae
+Eurasian lynx | parent taxon | Lynx
+necklace carpetshark | parent taxon | Parascyllium
+Eumetazoa | parent taxon | Metazoa
+Common Ringed Plover | parent taxon | Charadrius
+potato | parent taxon | Solanum
+coyote | parent taxon | Canis
+Crested Lark | parent taxon | Galerida
+Cytomegalovirus | parent taxon | Betaherpesvirinae
+Picornavirales | parent taxon | virus
+armadillo | parent taxon | Cingulata
+Platyzoa | parent taxon | protostome
+Cerocephalinae | parent taxon | Pteromalidae
+Neosauropus | parent taxon | dinosaur
+coywolf | parent taxon | Canis
+Pixie Grape | parent taxon | Vitis
+Tasmanian mudfish | parent taxon | Neochanna
+giant panda | parent taxon | Ailuropoda
+Common Gull | parent taxon | Larus
+European Golden Plover | parent taxon | Pluvialis
+Nymphalinae | parent taxon | Nymphalidae
+Panamanian spiny pocket mouse | parent taxon | Liomys
+Sapindaceae | parent taxon | Sapindales
+Acineta | parent taxon | Orchidaceae
+White-rumped Swiftlet | parent taxon | Aerodramus
+Flueggea | parent taxon | Phyllanthaceae
+Common Quail | parent taxon | Coturnix
+Small Square-spot | parent taxon | Diarsia
+Ophiogomphus | parent taxon | Gomphidae
+dwarf sperm whale | parent taxon | Kogia
+Annobón White-eye | parent taxon | Zosterops
+Bluethroat | parent taxon | Luscinia
+Great diving beetle | parent taxon | Dytiscus
+Taxus | parent taxon | Taxaceae
+Adenoncos | parent taxon | Orchidaceae
+European Pied Flycatcher | parent taxon | Ficedula
+Azadirachta | parent taxon | Meliaceae
+Canada Goose | parent taxon | Branta
+Northland mudfish | parent taxon | Neochanna
+Ecdysozoa | parent taxon | protostome
+Yellow-billed Kite | parent taxon | Milvus
+Spotted Flycatcher | parent taxon | Muscicapa
+red fox | parent taxon | Vulpes
+Chinese giant salamander | parent taxon | Andrias
+Columbidae | parent taxon | Columbiformes
+Black mudfish | parent taxon | Neochanna
+Dotted Border | parent taxon | Agriopis
+Psoraceae | parent taxon | Lecanorales
+saddle carpetshark | parent taxon | Cirrhoscyllium
+Oldham's leaf turtle | parent taxon | Cyclemys
+Atiu Swiftlet | parent taxon | Aerodramus
+Egyptian Vulture | parent taxon | Neophron
+Micragone | parent taxon | Saturniidae
+Canellales | parent taxon | magnoliids
+sweet potato | parent taxon | Ipomoea
+Western galaxias | parent taxon | Galaxias
+black-winged kite | parent taxon | Elanus
+Caniformia | parent taxon | Carnivora
+Eumetazoa | parent taxon | animal
+Barnacle Goose | parent taxon | Branta
+Great snipe | parent taxon | Gallinago
+Leuciscinae | parent taxon | Cyprinidae
+Svoge Knoll | mountain range | Bowles Ridge
+Lorentzen Peak | mountain range | Ahlmann Ridge
+Mount Crosson | mountain range | Alaska Range
+Schliffkopf | mountain range | Black Forest
+Puig Major | mountain range | Serra de Tramuntana
+Sliven Peak | mountain range | Melnik Ridge
+Kleiner Falkenstein | mountain range | Bavarian Forest
+Mount Webster | mountain range | Presidential Range
+Mount Akanagi | mountain range | Kiso Mountains
+Mount Popov | mountain range | Bigla Ridge
+La Camperona | mountain range | Cantabrian Mountains
+Bolten Peak | mountain range | Ahlmann Ridge
+Mount Lindsey | mountain range | Sierra Blanca
+Hochsimmer | mountain range | Eifel
+Vesletind Peak | mountain range | Ahlmann Ridge
+La Mussara (Vilaplana) | mountain range | Serra de la Mussara
+The Fang | mountain range | Fang Ridge
+Torre del Gran San Pietro | mountain range | Graian Alps
+Montana Bluff | mountain range | Bowles Ridge
+Hesse Peak | mountain range | Paryadin Ridge
+Puig Tomir | mountain range | Serra de Tramuntana
+Trollkjelpiggen Peak | mountain range | Ahlmann Ridge
+Cranstackie | mountain range | Scottish Highlands
+Dowdell's Knob | mountain range | Pine Mountain Range
+Burdick Peak | mountain range | Burdick Ridge
+Almberg | mountain range | Bavarian Forest
+Mount Conrad | mountain range | Wilson Hills
+Seebuck | mountain range | Black Forest
+Veslekletten Peak | mountain range | Ahlmann Ridge
+Katzenbuckel | mountain range | Odenwald
+Mount Gaston de Gerlache | mountain range | Queen Fabiola Mountains
+Mount Crescent | mountain range | Crescent Range
+Haferberg | mountain range | Kaufungen Forest
+Blanca Peak | mountain range | Sierra Blanca
+Petrich Peak | mountain range | Bowles Ridge
+Meluzína | mountain range | Ore Mountains
+Denali | mountain range | Alaska Range
+Ronco di Maglio | mountain range | Ligurian Alps
+Mount Pierre | mountain range | Queen Fabiola Mountains
+Verbrannter Berg | mountain range | Kermeter
+Albaron | mountain range | Graian Alps
+Volov Peak | mountain range | Korten Ridge
+Serba Peak | mountain range | Wilson Hills
+Mount Mecheva | mountain range | Bigla Ridge
+Krehberg | mountain range | Odenwald
+Großer Rachel | mountain range | Bavarian Forest
+Pirne Peak | mountain range | Rugate Ridge
+Maritsa Peak | mountain range | Bowles Ridge
+Aurnupen Peak | mountain range | Ahlmann Ridge
+Askja | mountain range | Highlands of Iceland
+Battert | mountain range | Black Forest
+Mount Hayes | mountain range | Alaska Range
+Parkinson Peak | mountain range | Wilson Hills
+Straja | mountain range | Carpathian Mountains
+Hesselberg | mountain range | Franconian Jura
+Matthews Peak | mountain range | Perplex Ridge
+Lange Meile | mountain range | Franconian Jura
+Punta Leynir | mountain range | Graian Alps
+Mount Derom | mountain range | Queen Fabiola Mountains
+Ben Lawers | mountain range | Scottish Highlands
+Calar Alto | mountain range | Sierra de los Filabres
+Aschenstein | mountain range | Bavarian Forest
+Aschentalshalbe | mountain range | Harz
+Rosso di Ribia | mountain range | Lepontine Alps
+Zlatograd Rock | mountain range | Bowles Ridge
+Lyftingen Peak | mountain range | Ahlmann Ridge
+La Mira | mountain range | Sierra de Gredos
+Kleiner Knollen | mountain range | Harz
+Fremersberg | mountain range | Black Forest
+Mount Church (Alaska) | mountain range | Alaska Range
+Mount Bris | mountain range | Korten Ridge
+Beartown Mountain | mountain range | Clinch Mountain
+Mount Dan Beard | mountain range | Alaska Range
+Mount Bigo | mountain range | Lisiya Ridge
+Poncione Piancascia | mountain range | Lepontine Alps
+Grunehogna Peaks | mountain range | Ahlmann Ridge
+Schmehl Peak | mountain range | Wilson Hills
+Basilica Peak | mountain range | Wilson Hills
+Farrenkopf | mountain range | Black Forest
+Zahariev Peak | mountain range | Metlichina Ridge
+Kongskrona | parent peak | Vinnufjellet
+Khartaphu | parent peak | Mount Everest
+Wetterhorn | parent peak | Mittelhorn
+Schilt | parent peak | Siwellen
+Pic Chaussy | parent peak | Le Tarent
+Sex Noir | parent peak | Wildhorn
+Foel Penolau | parent peak | Moel Ysgyfarnogod
+Great Dun Fell | parent peak | Cross Fell
+Gemsstock | parent peak | Chastelhorn
+La Luette | parent peak | Le Pleureur
+Witenalpstock | parent peak | Oberalpstock
+Grand Cornier | parent peak | Dent Blanche
+Piz Jenatsch | parent peak | Piz Calderas
+Senggchuppa | parent peak | Lagginhorn
+Piz Vial | parent peak | Piz Medel
+Gallt yr Ogof | parent peak | Glyder Fawr
+Wildstrubel | parent peak | Wildhorn
+Black Combe | parent peak | Scafell Pike
+Pico de Orizaba | parent peak | Mount Logan
+Arenig Fach | parent peak | Arenig Fawr
+Brunegghorn | parent peak | Weisshorn
+Bakestall | parent peak | Skiddaw
+Poncione d'Alnasca | parent peak | Cima di Gagnone
+Pen-y-ghent | parent peak | Whernside
+Piz Tschütta | parent peak | Muttler
+Drusenfluh | parent peak | Drei Türme
+Schneestock | parent peak | Dammastock
+Salbitschijen | parent peak | Fleckistock
+Fletschhorn | parent peak | Lagginhorn
+Trubelstock | parent peak | Wildstrubel
+Pic Tyndall | parent peak | Matterhorn
+Schinhorn | parent peak | Aletschhorn
+Lauteraarhorn | parent peak | Schreckhorn
+Vanil des Artses | parent peak | Dent de Lys
+Dent d'Oche | parent peak | Cornettes de Bise
+Great Dodd | parent peak | Helvellyn
+Brandreth | parent peak | Great Gable
+Erw y Ddafad-ddu | parent peak | Aran Fawddwy
+Brunnethorn | parent peak | Bella Tola
+Hundshorn | parent peak | Schilthorn
+Spitzhorn | parent peak | Wildhorn
+Steghorn | parent peak | Wildstrubel
+Rocher du Midi | parent peak | Gummfluh
+Hochkalter | parent peak | Watzmann
+Sandhubel | parent peak | Guggernellgrat
+Aonach Mòr | parent peak | Aonach Beag
+Mount Sill | parent peak | North Palisade
+Rhonestock | parent peak | Dammastock
+Aletschhorn | parent peak | Finsteraarhorn
+Guggernell | parent peak | Guggernellgrat
+Portjengrat | parent peak | Weissmies
+Fan Llia | parent peak | Fan Fawr
+Ben Macdui | parent peak | Ben Nevis
+Faltschonhorn | parent peak | Piz Aul
+Piz Cancian | parent peak | Pizzo Scalino
+Glyder Fach | parent peak | Glyder Fawr
+Tannhorn | parent peak | Brienzer Rothorn
+Lagginhorn | parent peak | Weissmies
+Dent de Jaman | parent peak | Rochers de Naye
+Strahlhorn | parent peak | Rimpfischhorn
+Gallt y Daren | parent peak | Moel Llyfnant
+Bache Hill | parent peak | Rhos Fawr
+Ingleborough | parent peak | Whernside
+Hohe Weisse | parent peak | Hochwilde
+Piz Grialetsch | parent peak | Piz Vadret
+Fil de Cassons | parent peak | Piz Segnas
+Glasgwm | parent peak | Aran Fawddwy
+Piz Mitgel | parent peak | Corn da Tinizong
+Birkhouse Moor | parent peak | Helvellyn
+Bishorn | parent peak | Weisshorn
+Gobba di Rollin | parent peak | Breithorn
+Piz Boval | parent peak | Piz Bernina
+Monte Gambarogno | parent peak | Monte Tamaro
+Meall nan Tarmachan | parent peak | Ben Lawers
+Piz Forbesch | parent peak | Piz Platta
+Piz Bianco | parent peak | Piz Bernina
+Saldurspitze | parent peak | Lagaunspitze
+Schrammacher | parent peak | Olperer
+Grauhorn | parent peak | Rheinwaldhorn
+Esgeiriau Gwynion | parent peak | Aran Fawddwy
+Mulde | tributary | Freiberger Mulde
+Ogeechee River | tributary | Canoochee River
+Ziller | tributary | Zemmbach
+Ohio River | tributary | Tennessee River
+Salzach | tributary | Lammer
+Kara Darya | tributary | Kara-Kulja River
+Ourthe | tributary | Western Ourthe
+Potomac River | tributary | North Branch Potomac River
+Vistula | tributary | Black Vistula
+Tiber | tributary | Aniene
+Normanby River | tributary | West Normanby River
+Kiel Canal | tributary | Gieselau Canal
+Gran Valira | tributary | Valira del Nord river
+Dão River | tributary | Criz river
+Gambia River | tributary | Koulountou
+Panj River | tributary | Pamir River
+Panj River | tributary | Wakhan River
+Orkhon River | tributary | Tamir River
+Sava | tributary | Drina
+Vistula | tributary | White Vistula
+Kara Darya | tributary | Kurshab River
+Sava | tributary | Lonja
+Beni River | tributary | Tuichi River
+Sangro | tributary | Aventino
+Naviglio di Bereguardo | tributary | Naviglio Grande
+River Wandle | tributary | River Wrythe
+River Wandle | tributary | Norbury Brook
+South Saskatchewan River | tributary | Bow River
+Drava | tributary | Sextner Bach
+Unstrut | tributary | Helme
+Sava | tributary | Kolubara
+Panj River | tributary | Bartang River
+Ourthe | tributary | Vesdre
+Daugava | tributary | Riga
+Togiak River | origin of the watercourse | Togiak Lake
+Blue Nile | origin of the watercourse | Lake Tana
+Petrohué River | origin of the watercourse | Todos los Santos Lake
+Tha Chin River | origin of the watercourse | Chao Phraya River
+Oued Saoura | origin of the watercourse | Oued Guir
+Lukuga River | origin of the watercourse | Lake Tanganyika
+Richelieu River | origin of the watercourse | Lake Champlain
+Lake River | origin of the watercourse | Vancouver Lake
+Cayuta Creek | origin of the watercourse | Cayuta Lake
+Chelan River | origin of the watercourse | Lake Chelan
+Teklanika River | origin of the watercourse | Cantwell Glacier
+Pamir River | origin of the watercourse | Zorkul
+Adyar River | origin of the watercourse | Chembarambakkam Lake
+Ningaluk River | origin of the watercourse | Baird Inlet
+Hawkesbury River | origin of the watercourse | Nepean River
+Tekapo River | origin of the watercourse | Lake Tekapo
+Mattawa River | origin of the watercourse | Trout Lake
+Rahue River | origin of the watercourse | Rupanco Lake
+Sjoa | origin of the watercourse | Gjende
+Amable du Fond River | origin of the watercourse | Pipe Lake
+Suzhou Creek | origin of the watercourse | Lake Tai
+María Linda River | origin of the watercourse | Lake Amatitlán
+Fuy River | origin of the watercourse | Pirihueico Lake
+Winnipeg River | origin of the watercourse | Lake of the Woods
+Gieselau Canal | origin of the watercourse | Kiel Canal
+Niagara River | origin of the watercourse | Lake Erie
+Hoh River | origin of the watercourse | Hoh Glacier
+Piner Creek | origin of the watercourse | Fountaingrove Lake
+Coppermine River | origin of the watercourse | Lac de Gras
+Neltume River | origin of the watercourse | Neltume Lake
+Nabesna River | origin of the watercourse | Nabesna Glacier
+Stryneelva | origin of the watercourse | Oppstrynsvatn
+Scugog River | origin of the watercourse | Lake Scugog
+Vefsna | origin of the watercourse | Simskardvatnet
+Paine River | origin of the watercourse | Dickson Lake
+Otonabee River | origin of the watercourse | Katchewanooka Lake
+Kagiano River | origin of the watercourse | Devork Lake
+Chicago River | origin of the watercourse | Lake Michigan
+Patroon Creek | origin of the watercourse | Rensselaer Lake
+McKinley River | origin of the watercourse | Muldrow Glacier
+Ganges | origin of the watercourse | Gangotri Glacier
+Wadi Auja | origin of the watercourse | Ein Samia
+Abitibi River | origin of the watercourse | Lake Abitibi
+Tazlina River | origin of the watercourse | Tazlina Lake
+Restigouche River | origin of the watercourse | Little Main Restigouche River
+Herron River | origin of the watercourse | Herron Glacier
+Little Shawmere River | origin of the watercourse | Murdock Lake
+Pielisjoki | origin of the watercourse | Pielinen
+Little Churchill River | origin of the watercourse | Waskaiowaka Lake
+Alamo River | origin of the watercourse | Colorado River
+Echimamish River | origin of the watercourse | Hayes River
+Stoughtons Creek | origin of the watercourse | Bagot Long Lake
+Caucau River | origin of the watercourse | Cruces River
+St. Clair River | origin of the watercourse | Lake Huron
+Black Drin | origin of the watercourse | Lake Ohrid
+Platte River | origin of the watercourse | North Platte River
+Falschauer | mouth of the watercourse | Adige
+Čabranka | mouth of the watercourse | Kupa
+Abzucht | mouth of the watercourse | Oker
+Thielle | mouth of the watercourse | Aare
+Großwaldbach | mouth of the watercourse | Rote Traun
+Rahlau | mouth of the watercourse | Wandse
+Rideau Canal | mouth of the watercourse | Ottawa River
+Ozanne | mouth of the watercourse | Loir
+Unstrut | mouth of the watercourse | Saale
+Moselle | mouth of the watercourse | Rhine
+Porcupine River | mouth of the watercourse | Yukon River
+Herrgottsbach | mouth of the watercourse | Tauber
+Aabach (Seetal) | mouth of the watercourse | Aare
+Kraichbach | mouth of the watercourse | Rhine
+Inklin River | mouth of the watercourse | Taku River
+Vaal River | mouth of the watercourse | Orange River
+Wabash River | mouth of the watercourse | Ohio River
+Genil | mouth of the watercourse | Guadalquivir
+Lusatian Neisse | mouth of the watercourse | Oder
+Windawski Canal | mouth of the watercourse | Dubysa
+Bhagirathi River | mouth of the watercourse | Ganges
+Adelbach | mouth of the watercourse | Kocher
+Speyerbach | mouth of the watercourse | Rhine
+Kupa | mouth of the watercourse | Sava
+Shebelle River | mouth of the watercourse | Jubba River
+Wagensteigbach | mouth of the watercourse | Dreisam
+Templeton River | mouth of the watercourse | Columbia River
+Stickelgraben | mouth of the watercourse | Felchbach
+Pilcomayo River | mouth of the watercourse | Paraguay River
+Robson River | mouth of the watercourse | Fraser River
+Tua River | mouth of the watercourse | Douro
+Ourthe | mouth of the watercourse | Meuse
+Leitzach | mouth of the watercourse | Mangfall
+Atuel River | mouth of the watercourse | Desaguadero River
+Amper | mouth of the watercourse | Isar
+Isar | mouth of the watercourse | Danube
+Velyka Vys | mouth of the watercourse | Southern Bug
+Pennsylvania Canal (West Branch Division) | mouth of the watercourse | Susquehanna River
+Wandse | mouth of the watercourse | Alster
+Zusam | mouth of the watercourse | Danube
+Treska | mouth of the watercourse | Vardar
+Darebin Creek | mouth of the watercourse | Yarra River
+Landwehr Canal | mouth of the watercourse | Spree
+Ruhlander Schwarzwasser | mouth of the watercourse | Black Elster
+Chilcotin River | mouth of the watercourse | Fraser River
+Ibaizabal | mouth of the watercourse | Estuary of Bilbao
+Buëch | mouth of the watercourse | Durance
+Moscow Canal | mouth of the watercourse | Moskva River
+Semois | mouth of the watercourse | Meuse
+Pamir River | mouth of the watercourse | Panj River
+River Trent | mouth of the watercourse | Humber
+Colne Brook | mouth of the watercourse | River Thames
+Klappan River | mouth of the watercourse | Stikine River
+Oberhermsdorfer Bach | mouth of the watercourse | Wiederitz
+Aare | mouth of the watercourse | Rhine
+Chutine River | mouth of the watercourse | Stikine River
+Malefinkbach | mouth of the watercourse | Rur
+Burbank Western Channel | mouth of the watercourse | Los Angeles River
+Muskwa River | mouth of the watercourse | Fort Nelson River
+River Thames | mouth of the watercourse | Thames estuary
+Isebekkanal | mouth of the watercourse | Alster
+Leckner Ach | mouth of the watercourse | Bolgenach
+Suhre | mouth of the watercourse | Aare
+Lammer | mouth of the watercourse | Salzach
+Iller | mouth of the watercourse | Danube
+Wel | mouth of the watercourse | Drwęca
+Pend Oreille River | mouth of the watercourse | Columbia River
+Dordtsche Kil | mouth of the watercourse | Hollands Diep
+Sava | mouth of the watercourse | Danube
+Lukuga River | mouth of the watercourse | Lualaba River
+Susquehanna River | mouth of the watercourse | Chesapeake Bay
+Prophet River | mouth of the watercourse | Muskwa River
+River Teme | mouth of the watercourse | River Severn
+Dravinja | mouth of the watercourse | Drava
+River Severn | mouth of the watercourse | Bristol Channel
+Darling River | mouth of the watercourse | Murray River
+Drina | mouth of the watercourse | Sava
+Zottelbach | mouth of the watercourse | Saale
+Dordtsche Kil | mouth of the watercourse | Oude Maas
+Des Plaines River | mouth of the watercourse | Illinois River
+Panaeolus papilionaceus | taxon synonym | Panaeolus sphinctrinus
+Boraginaceae | taxon synonym | Hoplestigmataceae
+Gnadochaeta metallica | taxon synonym | Myiophasia metallica
+Angiopteris | taxon synonym | Macroglossum
+Siberian Thrush | taxon synonym | Turdus sibiricus
+Siberian Thrush | taxon synonym | Zoothera sibirica
+Tennessee Warbler | taxon synonym | Vermivora peregrina
+Cistus inflatus | taxon synonym | Cistus psilosepalus
+Eurasian Siskin | taxon synonym | Carduelis spinus
+Halogeton glomeratus | taxon synonym | Anabasis glomerata
+Bassia hyssopifolia | taxon synonym | Salsola hyssopifolia
+Passifloraceae | taxon synonym | Turneraceae
+Pentaphylacaceae | taxon synonym | Ternstroemiaceae
+Strasburgeriaceae | taxon synonym | Ixerbaceae
+Halothamnus bottae | taxon synonym | Salsola bottae
+Gnadochaeta nigrifrons | taxon synonym | Myiophasia nigrifrons
+Persicaria lapathifolia | taxon synonym | Polygonum lapathifolium
+Dungeness crab | taxon synonym | Cancer magister
+Sandwich Tern | taxon synonym | Sterna sandvicensis
+Schoenoplectus americanus | taxon synonym | Scirpus americanus
+Bistorta vivipara | taxon synonym | Persicaria vivipara
+Lysimachia maritima | taxon synonym | Glaux maritima
+Persicaria punctata | taxon synonym | Polygonum punctatum
+Halothamnus hierochunticus | taxon synonym | Salsola hierochuntica
+Persicaria minor | taxon synonym | Polygonum minus
+Arcuatula senhousia | taxon synonym | Asian mussel
+Helicobasidium purpureum | taxon synonym | Helicobasidium brebissonii
+Hypsopygia olinalis | taxon synonym | Dolichomia olinalis
+Halothamnus iliensis | taxon synonym | Salsola iliensis
+Hypsibema missouriensis | taxon synonym | Parrosaurus missouriensis
+Chenopodium parabolicum | taxon synonym | Rhagodia parabolica
+Excidobates captivus | taxon synonym | Dendrobates captivus
+Hydnoroideae | taxon synonym | Hydnoraceae
+Chenopodium benthamii | taxon synonym | Rhagodia latifolia
+Encephalartos kisambo | taxon synonym | Encephalartos kanga
+Agriades zullichi | taxon synonym | Plebejus zullichi
+Setarches armata | taxon synonym | Scorpaenopsella armata
+Ochnaceae | taxon synonym | Medusagynaceae
+Cyanthillium cinereum | taxon synonym | Vernonia cinerea
+James's Flamingo | taxon synonym | Phoenicopterus jamesi
+Fumarioideae | taxon synonym | Fumariaceae
+Agave amica | taxon synonym | Polianthes tuberosa
+Chionodoxa luciliae | taxon synonym | Scilla luciliae
+Haloxylon ammodendron | taxon synonym | Anabasis ammodendron
+Primulaceae | taxon synonym | Maesaceae
+Linanthus watsonii | taxon synonym | Leptodactylon watsonii
+Cornaceae | taxon synonym | Nyssaceae
+Oplismenus undulatifolius | taxon synonym | Oplismenus hirtellus subsp. undulatifolius
+Celastraceae | taxon synonym | Parnassiaceae
+Eleutherodactylus albolabris | taxon synonym | Eleutherodactylus dixoni
+Xanthocyparis | taxon synonym | Callitropsis
+Dysphania botrys | taxon synonym | Chenopodium botrys
+Muehlenbeckia platyclada | taxon synonym | Homalocladium platycladum
+Paracryphiaceae | taxon synonym | Sphenostemonaceae
+Plestiodon inexpectatus | taxon synonym | Eumeces inexpectatus
+Rumex sagittatus | taxon synonym | Acetosa sagittata
+Ophioglossidae | taxon synonym | Psilotopsida
+Tecticornia | taxon synonym | Sclerostegia
+Roridomyces roridus | taxon synonym | Mycena rorida
+Chenopodium nutans | taxon synonym | Einadia nutans
+Tecticornia | taxon synonym | Tegicornia
+Saccharomyces pastorianus | taxon synonym | Saccharomyces carlsbergensis
+Escalloniaceae | taxon synonym | Tribelaceae
+Bistorta officinalis | taxon synonym | Persicaria bistorta
+Panaeolus papilionaceus | taxon synonym | Panaeolus campanulatus
+Dix Dam | reservoir created | Herrington Lake
+Canyon Ferry Dam | reservoir created | Canyon Ferry Lake
+O'Neill Dam | reservoir created | O'Neill Forebay
+Bartlett Dam | reservoir created | Bartlett Lake
+Barkley Dam | reservoir created | Lake Barkley
+Krasnoyarsk Dam | reservoir created | Krasnoyarsk Reservoir
+Monticello Dam | reservoir created | Lake Berryessa
+Pactola Dam | reservoir created | Pactola Lake
+Cherry Creek Dam | reservoir created | Cherry Creek Lake
+Crotty Dam | reservoir created | Lake Burbury
+Fort Peck Dam | reservoir created | Fort Peck Lake
+Jim Woodruff Dam | reservoir created | Lake Seminole
+Scotts Peak Dam | reservoir created | Lake Pedder
+Moore Dam | reservoir created | Moore Reservoir
+Sweetwater Dam | reservoir created | Sweetwater Reservoir
+San Vicente Dam | reservoir created | San Vicente Reservoir
+Morgan Falls Dam | reservoir created | Bull Sluice Lake
+Arthur R. Bowman Dam | reservoir created | Prineville Reservoir
+Haditha Dam | reservoir created | Lake Qadisiyah
+Winsor Dam | reservoir created | Quabbin Reservoir
+Aviemore Dam | reservoir created | Lake Aviemore
+Owyhee Dam | reservoir created | Owyhee Reservoir
+Big Bend Dam | reservoir created | Lake Sharpe
+Roxburgh Dam | reservoir created | Lake Roxburgh
+Eildon Dam | reservoir created | Lake Eildon
+Swift Dam | reservoir created | Swift Reservoir
+Mulholland Dam | reservoir created | Hollywood Reservoir
+Pickwick Landing Dam | reservoir created | Pickwick Lake
+Caliraya Dam | reservoir created | Lake Caliraya
+Flaming Gorge Dam | reservoir created | Flaming Gorge Reservoir
+Oroville Dam | reservoir created | Lake Oroville
+Casitas Dam | reservoir created | Lake Casitas
+Daniel-Johnson Dam | reservoir created | Manicouagan Reservoir
+Greers Ferry Dam | reservoir created | Greers Ferry Lake
+J. Strom Thurmond Dam | reservoir created | Lake Strom Thurmond
+Sultan Mahmud Power Station | reservoir created | Kenyir Lake
+Oahe Dam | reservoir created | Lake Oahe
+Frank D. Comerford Dam | reservoir created | Comerford Reservoir
+Diablo Dam | reservoir created | Diablo Lake
+Fort Randall Dam | reservoir created | Lake Francis Case
+Kenney Dam | reservoir created | Nechako Reservoir
+East Leichhardt Dam | reservoir created | Lake Mary Kathleen
+Detroit Dam | reservoir created | Detroit Lake
+Benmore Dam | reservoir created | Lake Benmore
+Conklingville Dam | reservoir created | Great Sacandaga Lake
+Akosombo Dam | reservoir created | Lake Volta
+Folsom Dam | reservoir created | Folsom Lake
+Darwin Dam | reservoir created | Lake Burbury
+Enders Dam | reservoir created | Enders Reservoir
+Blue Mesa Dam | reservoir created | Blue Mesa Reservoir
+Lookout Point Dam | reservoir created | Lookout Point Lake
+Somerset Dam | reservoir created | Lake Somerset
+E.B. Campbell Hydroelectric Station | reservoir created | Tobin Lake
+Old Hickory Lock and Dam | reservoir created | Old Hickory Lake
+Fort Loudoun Dam | reservoir created | Fort Loudoun Lake
+Maroondah Dam | reservoir created | Maroondah Reservoir
+Elephant Butte Dam | reservoir created | Elephant Butte Reservoir
+Douglas Dam | reservoir created | Douglas Lake
+Plastiras Dam | reservoir created | Lake Plastiras
+Waranga Dam | reservoir created | Waranga Basin
+Bayano Dam | reservoir created | Bayano Lake
+Parker Dam | reservoir created | Lake Havasu
+Kaunas Hydroelectric Power Plant | reservoir created | Kaunas Reservoir
+Curwensville Dam | reservoir created | Curwensville Lake
+Eufaula Dam | reservoir created | Eufaula Lake
+John H. Kerr Dam | reservoir created | Kerr Lake
+New Don Pedro Dam | reservoir created | Don Pedro Reservoir
+Zaza Dam | reservoir created | Zaza Reservoir
+Lucky Peak Dam | reservoir created | Lucky Peak Lake
+Hoover Dam | reservoir created | Lake Mead
+Foster Dam | reservoir created | Foster Reservoir
+Eucumbene Dam | reservoir created | Lake Eucumbene
+Kossou Dam | reservoir created | Lake Kossou
+Nickajack Dam | reservoir created | Nickajack Lake
+Marathon Dam | reservoir created | Lake Marathon
+Lajoie Dam | reservoir created | Downton Lake
+Englebright Dam | reservoir created | Englebright Lake
+Inks Dam | reservoir created | Inks Lake
+Sulphur Creek Dam | reservoir created | Laguna Niguel Lake
+Kainji Dam | reservoir created | Kainji Lake
+Santiago Creek | drainage basin | Santa Ana River watershed
+Dunrankin River | drainage basin | James Bay Basin
+Gambia River | drainage basin | Gambia River basin
+Kabinakagami River | drainage basin | James Bay Basin
+Little Shawmere River | drainage basin | James Bay Basin
+South Greenhill River | drainage basin | James Bay Basin
+Orange River | drainage basin | Orange River basin
+Kirkwall River | drainage basin | James Bay Basin
+Cheepay River | drainage basin | James Bay Basin
+Atikameg River | drainage basin | James Bay Basin
+Groundhog River | drainage basin | James Bay Basin
+Ravi River | drainage basin | Indus basin
+Streatfeild River | drainage basin | James Bay Basin
+Missisa River | drainage basin | James Bay Basin
+Kenogami River | drainage basin | James Bay Basin
+2019 Tour of Slovenia | mountains classification  | Diego Ulissi
+2017 Tour de France | mountains classification  | Warren Barguil
+2017 Volta a Catalunya | mountains classification  | Marc Soler
+2017 Tour de Yorkshire | mountains classification  | Serge Pauwels
+2017 Tour de Suisse | mountains classification  | Damiano Caruso
+2015 Volta a Catalunya | mountains classification  | Domenico Pozzovivo
+2009 Giro d'Italia | mountains classification  | Franco Pellizotti
+2017 The Women's Tour | mountains classification  | Lucinda Brand
+2019 Tour Down Under | mountains classification  | Richie Porte
+2016 Volta ao Algarve | mountains classification  | Geraint Thomas
+2013 Tour of Norway | mountains classification  | Sander Cordeel
+2018 Tour of the Basque Country | mountains classification  | Mikel Landa
+2018 Tour of Guangxi | mountains classification  | Gianni Moscon
+2019 Tour de La Provence | mountains classification  | Gorka Izagirre
+1956 Tour de Suisse | mountains classification  | Rolf Graf
+2019 Tour Down Under | mountains classification  | Wout Poels
+2015 Arctic Race of Norway | mountains classification  | Silvan Dillier
+2019 Giro d'Italia | mountains classification  | Giulio Ciccone
+2014 Volta ao Algarve | mountains classification  | Alberto Contador
+2018 Colombia Oro y Paz | mountains classification  | Egan Bernal
+1967 Tour de Suisse | mountains classification  | Gianni Motta
+2018 Vuelta a Asturias | mountains classification  | Richard Carapaz
+2018 Tour of Britain | mountains classification  | Julian Alaphilippe
+2017 Volta a Catalunya | mountains classification  | Alberto Contador
+2016 Ladies Tour of Norway | mountains classification  | Lucinda Brand
+2018 Giro d'Italia | mountains classification  | Chris Froome
+1981 Tour de Suisse | mountains classification  | Beat Breu
+2018 Setmana Ciclista Valenciana | mountains classification  | Hannah Barnes
+2019 Tour de Pologne | mountains classification  | Jonas Vingegaard
+2018 Tour of Croatia | mountains classification  | Kanstantsin Sivtsov
+2016 Tour of Britain | mountains classification  | Rohan Dennis
+2017 The Women's Tour | mountains classification  | Christine Majerus
+2019 Giro di Sicilia | mountains classification  | Brandon McNulty
+2015 Volta a Catalunya | mountains classification  | Richie Porte
+1970 Giro d'Italia | mountains classification  | Martin Van Den Bossche
+2009 Giro d'Italia | mountains classification  | Denis Menchov
+2015 Volta ao Algarve | mountains classification  | Richie Porte
+2019 Tour de France | mountains classification  | Steven Kruijswijk
+2018 Tour of the Basque Country | mountains classification  | Carlos Verona
+2018 Tour de France | mountains classification  | Tom Dumoulin
+1938 Tour de Suisse | mountains classification  | Giovanni Valetti
+2018 Tour Down Under | mountains classification  | Nicholas Dlamini
+2016 Volta a Catalunya | mountains classification  | Richie Porte
+2017 Tour de France | mountains classification  | Chris Froome
+1974 Tour de Suisse | mountains classification  | Eddy Merckx
+2017 Giro d'Italia Femminile | mountains classification  | Megan Guarnier
+2019 Tour de France | mountains classification  | Egan Bernal
+2015 Arctic Race of Norway | mountains classification  | August Jensen
+1936 Tour de Suisse | mountains classification  | Henri Garnier
+1946 Tour de Suisse | mountains classification  | Gino Bartali

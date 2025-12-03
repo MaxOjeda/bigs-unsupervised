@@ -1,0 +1,198 @@
+japan | IsContainedIn | asia
+japan | IsContainedIn | tokyo
+japan | IsContainedIn | japanese archipelago
+japan | IsContainedIn | heian-kyo
+japan | IsContainedIn | kamakura
+japan | IsContainedIn | sapporo
+japan | IsContainedIn | nagano
+japan | IsContainedIn | central japan
+japan | IsContainedIn | heijo-kyo
+japan | IsContainedIn | university of tokyo
+japan | IsContainedIn | honshu
+japan | IsContainedIn | shikoku
+japan | IsContainedIn | okinawa
+japan | IsContainedIn | karafuto
+japan | IsContainedIn | kurils
+japan | IsContainedIn | hokkaido
+japan | IsContainedIn | kyushu
+japan | IsContainedIn | lake biwa
+japan | OccursAt | immigration law enacted
+japan | OccursAt | battle of sekigahara
+japan | OccursAt | perry fleet arrival
+japan | OccursAt | japan surrender
+japan | OccursAt | meiji constitution
+japan | OccursAt | temperature record 2025
+japan | OccursAt | naruhito accession
+japan | WasPresentAt | takauji ashikaga
+japan | WasPresentAt | kamatari fujiwara
+japan | WasPresentAt | sanae takaichi
+japan | WasPresentAt | shinzo abe
+japan | WasPresentAt | fumio kishida
+tokyo | IsContainedIn | greater tokyo area
+tokyo | IsContainedIn | haneda airport
+south korea | IsContainedIn | liancourt rocks
+china | IsContainedIn | hong kong
+china | OccursAt | marco polo incident
+united states | OccursAt | pearl harbor attack
+moon | OccursAt | selene lunar orbit
+moon | OccursAt | selene moon impact
+japanese archipelago | IsContainedIn | ryukyu islands
+japanese archipelago | IsContainedIn | honshu
+japanese archipelago | IsContainedIn | shikoku
+japanese archipelago | IsContainedIn | nanpo islands
+japanese archipelago | IsContainedIn | okinawa
+japanese archipelago | IsContainedIn | hokkaido
+japanese archipelago | IsContainedIn | kyushu
+heian-kyo | OccursAt | meiji restoration
+kamakura | WasPresentAt | yoritomo minamoto
+korea | OccursAt | korea annexation
+hiroshima | OccursAt | hiroshima bombing
+nagasaki | OccursAt | nagasaki bombing
+edo | WasPresentAt | ieyasu tokugawa
+sekigahara | WasPresentAt | ieyasu tokugawa
+uraga | WasPresentAt | matthew perry
+kanagawa | WasPresentAt | matthew perry
+pearl harbor | OccursAt | pearl harbor attack
+malaya | OccursAt | malaya attack
+singapore | OccursAt | singapore attack
+hong kong | OccursAt | hong kong attack
+ryukyu islands | IsContainedIn | okinawa
+russia | IsContainedIn | southern kuril islands
+immigration law enacted | IsRelatedTo | japan
+immigration law enacted | IsRelatedTo | government of japan
+selene lunar orbit | IsRelatedTo | japan aerospace exploration agency
+selene moon impact | IsRelatedTo | japan aerospace exploration agency
+battle of sekigahara | IsRelatedTo | japan
+battle of sekigahara | IsRelatedTo | tokugawa shogunate
+perry fleet arrival | IsRelatedTo | japan
+perry fleet arrival | IsRelatedTo | united states
+perry fleet arrival | IsRelatedTo | tokugawa shogunate
+meiji restoration | IsRelatedTo | japan
+meiji restoration | IsRelatedTo | tokugawa shogunate
+korea annexation | IsRelatedTo | japan
+korea annexation | IsRelatedTo | korea
+marco polo incident | IsRelatedTo | japan
+marco polo incident | IsRelatedTo | china
+pearl harbor attack | IsRelatedTo | japan
+pearl harbor attack | IsRelatedTo | united states
+hiroshima bombing | IsRelatedTo | japan
+hiroshima bombing | IsRelatedTo | united states
+nagasaki bombing | IsRelatedTo | japan
+nagasaki bombing | IsRelatedTo | united states
+japan surrender | IsRelatedTo | japan
+japan surrender | IsRelatedTo | allies
+meiji constitution | IsRelatedTo | cabinet of japan
+meiji constitution | IsRelatedTo | imperial diet of japan
+pearl harbor attack | IsRelatedTo | united states
+pearl harbor attack | IsRelatedTo | japanese forces
+malaya attack | IsRelatedTo | british forces
+malaya attack | IsRelatedTo | japanese forces
+singapore attack | IsRelatedTo | british forces
+singapore attack | IsRelatedTo | japanese forces
+hong kong attack | IsRelatedTo | british forces
+hong kong attack | IsRelatedTo | japanese forces
+temperature record 2025 | IsRelatedTo | japan
+naruhito accession | IsRelatedTo | japan
+yasunari kawabata | IsRelatedTo | japan
+japan | IsRelatedTo | kenzaburo oe
+japan | IsRelatedTo | ishiro honda
+japan | IsRelatedTo | marco polo
+japan | IsRelatedTo | kenzo tange
+japan | IsRelatedTo | sei shonagon
+japan | IsRelatedTo | murasaki shikibu
+japan | IsRelatedTo | soseki natsume
+japan | IsRelatedTo | ogai mori
+japan | IsRelatedTo | ryunosuke akutagawa
+japan | IsRelatedTo | junichiro tanizaki
+japan | IsRelatedTo | kafu nagai
+japan | IsRelatedTo | haruki murakami
+japan | IsRelatedTo | kenji nakagami
+japan | IsRelatedTo | matthew perry
+japan | IsRelatedTo | sanae takaichi
+japan | IsRelatedTo | shinzo abe
+japan | IsRelatedTo | fumio kishida
+japan | IsPartOf | quadrilateral security dialogue
+japan | IsPartOf | east asia summit
+japan | IsPartOf | asean plus three
+japan | IsPartOf | apec
+japan | IsPartOf | g4
+japan | IsPartOf | united nations
+japan | IsPartOf | league of nations
+japan | IsPartOf | allies
+japan | IsPartOf | oecd
+japan | IsPartOf | axis powers
+japan | IsPartOf | g7
+japan | IsPartOf | government of japan
+japan | IsPartOf | japan aerospace exploration agency
+japan | IsPartOf | nhk
+japan | IsPartOf | nippon professional baseball (npb)
+japan | IsPartOf | japan professional football league (j.league)
+japan | IsPartOf | national diet
+japan | IsPartOf | kamakura shogunate
+japan | IsPartOf | ashikaga shogunate
+japan | IsPartOf | tokugawa shogunate
+japan | IsPartOf | korea
+japan | IsPartOf | taiwan
+japan | IsPartOf | yamatai
+japan | IsPartOf | yamato
+japan | IsPartOf | imperial court of japan
+japan | IsPartOf | ritsuryo state
+japan | IsPartOf | taira clan
+japan | IsPartOf | minamoto clan
+japan | IsPartOf | hojo clan
+japan | IsPartOf | mext
+marco polo | IsRelatedTo | china
+china | IsPartOf | asean plus three
+china | IsPartOf | hong kong
+takauji ashikaga | IsRelatedTo | ashikaga shogunate
+hideyoshi toyotomi | IsRelatedTo | korea
+korea | IsPartOf | empire of japan
+hideyori toyotomi | IsRelatedTo | council of five elders
+council of five elders | IsRelatedTo | ieyasu tokugawa
+ieyasu tokugawa | IsRelatedTo | tokugawa shogunate
+matthew perry | IsRelatedTo | united states navy
+united states navy | IsPartOf | united states
+kamatari fujiwara | IsRelatedTo | imperial court of japan
+yoritomo minamoto | IsRelatedTo | minamoto clan
+yoritomo minamoto | IsRelatedTo | kamakura shogunate
+sanae takaichi | IsRelatedTo | national diet
+sanae takaichi | IsRelatedTo | cabinet of japan
+sanae takaichi | IsRelatedTo | ishin
+sanae takaichi | IsRelatedTo | liberal democratic party
+sanae takaichi | IsRelatedTo | government of japan
+national diet | IsPartOf | government of japan
+national diet | IsPartOf | house of representatives of japan
+national diet | IsPartOf | house of councillors of japan
+cabinet of japan | IsPartOf | government of japan
+cabinet of japan | IsPartOf | empire of japan
+government of japan | IsRelatedTo | shinzo abe
+government of japan | IsRelatedTo | fumio kishida
+government of japan | IsPartOf | prime minister of japan and his cabinet
+government of japan | IsPartOf | imperial household agency
+government of japan | IsPartOf | national diet library
+government of japan | IsPartOf | national security council (japan)
+government of japan | IsPartOf | ministry of the environment of japan
+shinzo abe | IsRelatedTo | japan self-defense forces
+japan self-defense forces | IsRelatedTo | fumio kishida
+japan self-defense forces | IsPartOf | japan ground self-defense force
+japan self-defense forces | IsPartOf | japan maritime self-defense force
+japan self-defense forces | IsPartOf | japan air self-defense force
+quadrilateral security dialogue | IsPartOf | united states
+quadrilateral security dialogue | IsPartOf | australia
+quadrilateral security dialogue | IsPartOf | india
+asean plus three | IsPartOf | south korea
+united nations | IsPartOf | united nations security council
+united nations | IsPartOf | united nations office on drugs and crime
+allies | IsPartOf | united states
+allies | IsPartOf | soviet union
+allies | IsPartOf | international military tribunal for the far east
+oecd | IsPartOf | south korea
+oecd | IsPartOf | programme for international student assessment (pisa)
+axis powers | IsPartOf | nazi germany
+japan aerospace exploration agency | IsPartOf | international space station
+empire of japan | IsPartOf | privy council of japan
+empire of japan | IsPartOf | imperial diet of japan
+empire of japan | IsPartOf | taiwan
+empire of japan | IsPartOf | japanese forces
+prefectural police departments | IsPartOf | national police agency
+national police agency | IsPartOf | national public safety commission

@@ -1,0 +1,55 @@
+14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States
+14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield
+14th_New_Jersey_Volunteer_Infantry_Monument | established | 1907-07-11
+14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States
+14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield
+Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland
+14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States
+14th_New_Jersey_Volunteer_Infantry_Monument | owningOrganisation | National_Park_Service
+14th_New_Jersey_Volunteer_Infantry_Monument | established | 1907-07-11
+14th_New_Jersey_Volunteer_Infantry_Monument | country | United States
+14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States
+14th_New_Jersey_Volunteer_Infantry_Monument | established | 1907-07-11
+14th_New_Jersey_Volunteer_Infantry_Monument | established | 1907-07-11
+14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield
+Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland
+Azerbaijan | capital | Baku
+Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan
+Azerbaijan | leader | Artur_Rasizade
+Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan
+Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan
+Azerbaijan | leader | Artur_Rasizade
+Azerbaijan | leaderTitle | Prime_Minister_of_Azerbaijan
+Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan
+Baku_Turkish_Martyrs'_Memorial | designer | Hüseyin Bütüner and Hilmi Güner
+Baku_Turkish_Martyrs'_Memorial | dedicatedTo | Ottoman Army soldiers killed in the Battle of Baku
+Baku_Turkish_Martyrs'_Memorial | designer | Hüseyin Bütüner and Hilmi Güner
+Baku_Turkish_Martyrs'_Memorial | material | Red granite and white marble
+Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan
+Baku_Turkish_Martyrs'_Memorial | nativeName | Türk Şehitleri Anıtı
+Baku_Turkish_Martyrs'_Memorial | material | Red granite and white marble
+Baku_Turkish_Martyrs'_Memorial | nativeName | Türk Şehitleri Anıtı
+Baku_Turkish_Martyrs'_Memorial | designer | Hüseyin Bütüner and Hilmi Güner
+Baku_Turkish_Martyrs'_Memorial | material | Red granite and white marble
+Monocacy_National_Battlefield | location | Frederick_County,_Maryland
+14th_New_Jersey_Volunteer_Infantry_Monument | category | Historic_districts_in_the_United_States
+14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield
+Monocacy_National_Battlefield | location | Frederick_County,_Maryland
+14th_New_Jersey_Volunteer_Infantry_Monument | district | Monocacy_National_Battlefield
+Monocacy_National_Battlefield | nearestCity | Frederick,_Maryland
+Baku_Turkish_Martyrs'_Memorial | nativeName | Türk Şehitleri Anıtı
+Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan
+Baku_Turkish_Martyrs'_Memorial | dedicatedTo | Ottoman Army soldiers killed in the Battle of Baku
+Baku_Turkish_Martyrs'_Memorial | designer | Hüseyin Bütüner and Hilmi Güner
+Azerbaijan | leader | Artur_Rasizade
+Baku_Turkish_Martyrs'_Memorial | dedicatedTo | Ottoman Army soldiers killed in the Battle of Baku
+Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan
+Baku_Turkish_Martyrs'_Memorial | dedicatedTo | Ottoman Army soldiers killed in the Battle of Baku
+Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan
+Baku_Turkish_Martyrs'_Memorial | designer | Hüseyin Bütüner and Hilmi Güner
+Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan
+Azerbaijan | leader | Artur_Rasizade
+Baku_Turkish_Martyrs'_Memorial | designer | Hüseyin Bütüner and Hilmi Güner
+Baku_Turkish_Martyrs'_Memorial | location | Azerbaijan
+Baku_Turkish_Martyrs'_Memorial | nativeName | Türk Şehitleri Anıtı
+Baku_Turkish_Martyrs'_Memorial | designer | Hüseyin Bütüner and Hilmi Güner

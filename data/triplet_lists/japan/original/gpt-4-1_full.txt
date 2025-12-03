@@ -1,0 +1,504 @@
+yasunari kawabata | WasPresentAt | japan
+yasunari kawabata | IsRelatedTo | unesco
+yasunari kawabata | IsRelatedTo | japan
+japan | WasPresentAt | kenzaburo oe
+japan | WasPresentAt | ishiro honda
+japan | WasPresentAt | marco polo
+japan | WasPresentAt | sei shonagon
+japan | WasPresentAt | murasaki shikibu
+japan | WasPresentAt | natsume soseki
+japan | WasPresentAt | mori ogai
+japan | WasPresentAt | ryunosuke akutagawa
+japan | WasPresentAt | junichiro tanizaki
+japan | WasPresentAt | kafu nagai
+japan | WasPresentAt | haruki murakami
+japan | WasPresentAt | kenji nakagami
+japan | WasPresentAt | kenzo tange
+japan | WasPresentAt | go daigo
+japan | WasPresentAt | ashikaga takauji
+japan | WasPresentAt | oda nobunaga
+japan | WasPresentAt | toyotomi hideyoshi
+japan | WasPresentAt | toyotomi hideyori
+japan | WasPresentAt | tokugawa ieyasu
+japan | WasPresentAt | go yozei
+japan | WasPresentAt | shotoku prince
+japan | WasPresentAt | naka no ooe
+japan | WasPresentAt | fujiwara no kamatari
+japan | WasPresentAt | oama prince
+japan | WasPresentAt | ootomo prince
+japan | WasPresentAt | go-daigo emperor
+japan | WasPresentAt | sanae takaichi
+japan | WasPresentAt | shinzo abe
+japan | WasPresentAt | fumio kishida
+japan | WasPresentAt | naruhito unspecified
+japan | WasPresentAt | akihito unspecified
+japan | OccursAt | all nuclear plants offline
+japan | OccursAt | revised immigration law enacted
+japan | OccursAt | 2002 fifa world cup japan
+japan | OccursAt | tokugawa unification
+japan | OccursAt | american fleet opens japan
+japan | OccursAt | imperial restoration
+japan | OccursAt | japan surrenders wwii
+japan | OccursAt | npb established
+japan | OccursAt | jleague established
+japan | OccursAt | 2002 fifa world cup
+japan | OccursAt | 2011 women's world cup win
+japan | OccursAt | basketball world championship 2006
+japan | OccursAt | basketball world championship 2023
+japan | OccursAt | 2019 rugby world cup
+japan | OccursAt | cancer as top cause
+japan | OccursAt | cancer accounts 2018 deaths
+japan | OccursAt | mongol invasion repelled
+japan | OccursAt | mongol invasion repelled
+japan | OccursAt | ashikaga defeats go-daigo
+japan | OccursAt | onset of sengoku period
+japan | OccursAt | death of oda nobunaga
+japan | OccursAt | battle of sekigahara
+japan | OccursAt | sakoku policy enacted
+japan | OccursAt | convention of kanagawa
+japan | OccursAt | meiji constitution introduced
+japan | OccursAt | japan resigns from league
+japan | OccursAt | anti-comintern pact signed
+japan | OccursAt | tripartite pact signed
+japan | OccursAt | introduction of buddhism
+japan | OccursAt | taika reforms
+japan | OccursAt | jinshin war
+japan | OccursAt | genpei war ends
+japan | OccursAt | second mongol invasion repelled
+japan | OccursAt | go-daigo defeated
+japan | OccursAt | 2014 ainu language report
+japan | OccursAt | 2016 muslim population report
+japan | OccursAt | 2018 mosques and muslims report
+japan | OccursAt | 2018 christian population report
+japan | OccursAt | 2016 integrated schooling start
+japan | OccursAt | 2021 education gdp report
+japan | OccursAt | 2023 tertiary education ranking
+japan | OccursAt | takaichi becomes prime minister
+japan | OccursAt | free and open indo-pacific announced
+japan | OccursAt | quad is reformed
+japan | OccursAt | abe's security policy statement
+japan | OccursAt | kishida orders budget increase
+japan | OccursAt | abe responsibilities speech
+japan | OccursAt | kishida defense spending instruction
+japan | OccursAt | un violent crime statistics report
+japan | OccursAt | japan inbound tourism record
+japan | OccursAt | 41.8c temperature record
+japan | OccursAt | takaichi becomes prime minister
+japan | OccursAt | japan unconditional surrender
+japan | OccursAt | new constitution adoption
+japan | OccursAt | allied occupation ends
+japan | OccursAt | japan joins un
+japan | OccursAt | great hanshin earthquake
+japan | IsContainedIn | haneda airport
+japan | IsContainedIn | sendai nuclear power plant
+japan | IsContainedIn | fukushima daiichi nuclear power plant
+japan | IsContainedIn | tokyo
+japan | IsContainedIn | greater tokyo area
+japan | IsContainedIn | unesco world heritage list
+japan | IsContainedIn | tanegashima space center
+japan | IsContainedIn | international space station
+japan | IsContainedIn | ryukyu kingdom
+japan | IsContainedIn | nara
+japan | IsContainedIn | heian-kyo
+japan | IsContainedIn | kamakura
+japan | IsContainedIn | ashikaga
+japan | IsContainedIn | hiroshima
+japan | IsContainedIn | nagasaki
+japan | IsContainedIn | sapporo
+japan | IsContainedIn | nagano
+japan | IsContainedIn | edo
+japan | IsContainedIn | osaka
+japan | IsContainedIn | uraga
+japan | IsContainedIn | kanagawa
+japan | IsContainedIn | heijo-kyo
+japan | IsContainedIn | kyoto
+japan | IsContainedIn | ryukyu islands
+japan | IsContainedIn | university of tokyo
+japan | IsContainedIn | senkaku islands
+japan | IsContainedIn | okinotorishima
+japan | IsContainedIn | honshu
+japan | IsContainedIn | chugoku
+japan | IsContainedIn | shikoku
+japan | IsContainedIn | seto inland sea
+japan | IsContainedIn | pacific coast
+japan | IsContainedIn | nanpo islands
+japan | IsContainedIn | okinawa
+japan | IsContainedIn | ryukyu
+japan | IsContainedIn | bonin islands
+japan | IsContainedIn | fukushima daiichi nuclear disaster
+japan | IsContainedIn | hokkaido
+japan | IsContainedIn | kyushu
+japan | IsContainedIn | lake biwa
+unesco | IsRelatedTo | kenzaburo oe
+unesco | IsRelatedTo | kenzo tange
+unesco | IsRelatedTo | 41.8c temperature record
+japan | IsRelatedTo | kenzaburo oe
+japan | IsRelatedTo | ishiro honda
+japan | IsRelatedTo | marco polo
+japan | IsRelatedTo | sei shonagon
+japan | IsRelatedTo | murasaki shikibu
+japan | IsRelatedTo | natsume soseki
+japan | IsRelatedTo | mori ogai
+japan | IsRelatedTo | ryunosuke akutagawa
+japan | IsRelatedTo | junichiro tanizaki
+japan | IsRelatedTo | kafu nagai
+japan | IsRelatedTo | haruki murakami
+japan | IsRelatedTo | kenji nakagami
+japan | IsRelatedTo | kenzo tange
+japan | IsRelatedTo | jimmu emperor
+japan | IsRelatedTo | sanae takaichi
+japan | IsRelatedTo | shinzo abe
+japan | IsRelatedTo | fumio kishida
+japan | IsRelatedTo | naruhito unspecified
+japan | IsRelatedTo | akihito unspecified
+japan | IsRelatedTo | naruhito ascends throne
+japan | IsRelatedTo | abdication of emperor akihito
+japan | IsRelatedTo | tokyo earthquake
+japan | IsRelatedTo | great hanshin earthquake
+japan | IsRelatedTo | fukushima nuclear disaster
+japan | IsRelatedTo | tohoku earthquake
+japan | IsRelatedTo | japan joins un
+japan | IsRelatedTo | allied occupation ends
+japan | IsRelatedTo | new constitution adoption
+japan | IsRelatedTo | japan unconditional surrender
+japan | IsRelatedTo | nagasaki atomic bombing
+japan | IsRelatedTo | hiroshima atomic bombing
+japan | IsRelatedTo | 41.8c temperature record
+japan | IsRelatedTo | japan inbound tourism record
+japan | IsRelatedTo | abe's security policy statement
+japan | IsRelatedTo | quad is reformed
+japan | IsRelatedTo | free and open indo-pacific announced
+japan | IsRelatedTo | cancer accounts 2018 deaths
+japan | IsRelatedTo | cancer as top cause
+japan | IsRelatedTo | japan surrenders wwii
+japan | IsRelatedTo | attack on pearl harbor
+japan | IsRelatedTo | invasion of china
+japan | IsRelatedTo | annexation of korea
+japan | IsRelatedTo | fifa women's world cup win
+japan | IsRelatedTo | 2002 fifa world cup japan
+japan | IsRelatedTo | sendai plant restarted
+japan | IsRelatedTo | all nuclear plants offline
+japan | IsRelatedTo | fukushima daiichi nuclear disaster
+japan | IsPartOf | global peace index
+japan | IsPartOf | quadrilateral security dialogue
+japan | IsPartOf | united nations
+japan | IsPartOf | east asia summit
+japan | IsPartOf | asean plus three
+japan | IsPartOf | apec
+japan | IsPartOf | g7
+japan | IsPartOf | g4 countries
+japan | IsPartOf | government of japan
+japan | IsPartOf | jr enterprises
+japan | IsPartOf | kintetsu
+japan | IsPartOf | seibu railway
+japan | IsPartOf | keio corporation
+japan | IsPartOf | toyota
+japan | IsPartOf | japan aerospace exploration agency
+japan | IsPartOf | mitsubishi ufj
+japan | IsPartOf | ntt
+japan | IsPartOf | aeon
+japan | IsPartOf | softbank
+japan | IsPartOf | hitachi
+japan | IsPartOf | itochu
+japan | IsPartOf | nhk
+japan | IsPartOf | nippon professional baseball
+japan | IsPartOf | japan professional football league
+japan | IsPartOf | kamakura shogunate
+japan | IsPartOf | ashikaga shogunate
+japan | IsPartOf | national and local governments
+japan | IsPartOf | government committee
+japan | IsPartOf | local governments
+japan | IsPartOf | imperial court
+japan | IsPartOf | mext
+japan | IsPartOf | university of tokyo
+ishiro honda | IsRelatedTo | 2002 fifa world cup japan
+2002 fifa world cup japan | OccursAt | south korea
+2002 fifa world cup japan | IsRelatedTo | japan professional football league
+marco polo | WasPresentAt | cipangu
+marco polo | IsRelatedTo | china
+china | IsRelatedTo | japan inbound tourism record
+china | IsRelatedTo | taika reforms
+china | IsRelatedTo | introduction of buddhism
+murasaki shikibu | WasPresentAt | heian-kyo
+murasaki shikibu | IsRelatedTo | move to heian kyo
+murasaki shikibu | IsRelatedTo | imperial court
+heian-kyo | WasPresentAt | kanmu emperor
+heian-kyo | OccursAt | move to heian kyo
+heian-kyo | IsContainedIn | kyoto
+move to heian kyo | IsRelatedTo | kanmu emperor
+move to heian kyo | IsRelatedTo | imperial court
+imperial court | IsRelatedTo | shotoku prince
+imperial court | IsRelatedTo | naka no ooe
+imperial court | IsRelatedTo | fujiwara no kamatari
+imperial court | IsRelatedTo | oama prince
+imperial court | IsRelatedTo | ootomo prince
+imperial court | IsRelatedTo | kanmu emperor
+imperial court | IsRelatedTo | taika reforms
+go daigo | WasPresentAt | kamakura
+go daigo | IsRelatedTo | ashikaga defeats go-daigo
+go daigo | IsRelatedTo | ashikaga shogunate
+go daigo | IsRelatedTo | kamakura shogunate
+kamakura | WasPresentAt | yoritomo minamoto
+kamakura | WasPresentAt | go-daigo emperor
+ashikaga defeats go-daigo | IsRelatedTo | ashikaga takauji
+ashikaga defeats go-daigo | IsRelatedTo | ashikaga shogunate
+ashikaga shogunate | IsRelatedTo | ashikaga takauji
+ashikaga shogunate | IsRelatedTo | takauji ashikaga
+ashikaga shogunate | IsRelatedTo | go-daigo defeated
+ashikaga shogunate | IsRelatedTo | onset of sengoku period
+ashikaga shogunate | IsRelatedTo | tokugawa unification
+ashikaga shogunate | IsPartOf | shogunate
+kamakura shogunate | IsRelatedTo | yoritomo minamoto
+kamakura shogunate | IsRelatedTo | go-daigo emperor
+kamakura shogunate | IsRelatedTo | second mongol invasion repelled
+kamakura shogunate | IsRelatedTo | genpei war ends
+kamakura shogunate | IsRelatedTo | mongol invasion repelled
+kamakura shogunate | IsRelatedTo | mongol invasion repelled
+kamakura shogunate | IsRelatedTo | tokugawa unification
+kamakura shogunate | IsPartOf | shogunate
+oda nobunaga | IsRelatedTo | death of oda nobunaga
+toyotomi hideyoshi | WasPresentAt | korea
+toyotomi hideyoshi | IsRelatedTo | toyotomi hideyoshi second korean invasion
+toyotomi hideyoshi | IsRelatedTo | toyotomi hideyoshi korean invasion
+korea | OccursAt | annexation of korea
+korea | OccursAt | toyotomi hideyoshi korean invasion
+korea | OccursAt | toyotomi hideyoshi second korean invasion
+toyotomi hideyori | IsRelatedTo | battle of sekigahara
+toyotomi hideyori | IsRelatedTo | council of five elders
+battle of sekigahara | IsRelatedTo | tokugawa ieyasu
+battle of sekigahara | IsRelatedTo | tokugawa shogunate
+battle of sekigahara | IsRelatedTo | council of five elders
+council of five elders | IsRelatedTo | tokugawa ieyasu
+tokugawa ieyasu | WasPresentAt | edo
+tokugawa ieyasu | IsRelatedTo | sakoku policy enacted
+tokugawa ieyasu | IsRelatedTo | tokugawa made shogun
+tokugawa ieyasu | IsRelatedTo | tokugawa shogunate
+edo | OccursAt | tokugawa made shogun
+edo | OccursAt | great tokyo earthquake
+sakoku policy enacted | IsRelatedTo | tokugawa shogunate
+tokugawa made shogun | IsRelatedTo | go yozei
+tokugawa made shogun | IsRelatedTo | tokugawa shogunate
+tokugawa shogunate | IsRelatedTo | imperial restoration
+tokugawa shogunate | IsRelatedTo | american fleet opens japan
+tokugawa shogunate | IsRelatedTo | tokugawa unification
+tokugawa shogunate | IsPartOf | shogunate
+matthew c perry | WasPresentAt | kanagawa
+matthew c perry | WasPresentAt | uraga
+matthew c perry | IsRelatedTo | convention of kanagawa
+matthew c perry | IsRelatedTo | perry expedition arrives
+uraga | OccursAt | perry expedition arrives
+jimmu emperor | WasPresentAt | yamato
+shotoku prince | WasPresentAt | baekje
+shotoku prince | IsRelatedTo | introduction of buddhism
+introduction of buddhism | IsRelatedTo | baekje
+introduction of buddhism | IsRelatedTo | korea
+naka no ooe | IsRelatedTo | taika reforms
+taika reforms | IsRelatedTo | fujiwara no kamatari
+oama prince | IsRelatedTo | jinshin war
+jinshin war | IsRelatedTo | ootomo prince
+yoritomo minamoto | IsRelatedTo | genpei war ends
+go-daigo emperor | IsRelatedTo | go-daigo defeated
+go-daigo defeated | IsRelatedTo | takauji ashikaga
+takauji ashikaga | WasPresentAt | muromachi
+sanae takaichi | IsRelatedTo | takaichi becomes prime minister
+sanae takaichi | IsRelatedTo | takaichi becomes prime minister
+sanae takaichi | IsRelatedTo | ishin
+sanae takaichi | IsRelatedTo | government of japan
+sanae takaichi | IsRelatedTo | liberal democratic party
+takaichi becomes prime minister | IsRelatedTo | government of japan
+takaichi becomes prime minister | IsRelatedTo | national diet
+takaichi becomes prime minister | IsRelatedTo | liberal democratic party
+takaichi becomes prime minister | IsRelatedTo | ishin
+takaichi becomes prime minister | IsRelatedTo | house of representatives
+takaichi becomes prime minister | IsRelatedTo | house of councillors
+takaichi becomes prime minister | IsRelatedTo | liberal democratic party
+takaichi becomes prime minister | IsRelatedTo | ishin
+government of japan | IsRelatedTo | shinzo abe
+government of japan | IsRelatedTo | fumio kishida
+government of japan | IsRelatedTo | kishida orders budget increase
+government of japan | IsRelatedTo | revised immigration law enacted
+government of japan | IsRelatedTo | sendai plant restarted
+government of japan | IsPartOf | prime minister of japan and his cabinet
+government of japan | IsPartOf | imperial household agency
+government of japan | IsPartOf | national diet library
+government of japan | IsPartOf | national security council
+government of japan | IsPartOf | environment ministry
+shinzo abe | WasPresentAt | iraq
+shinzo abe | WasPresentAt | afghanistan
+shinzo abe | IsRelatedTo | abe responsibilities speech
+shinzo abe | IsRelatedTo | abe's security policy statement
+fumio kishida | IsRelatedTo | kishida defense spending instruction
+fumio kishida | IsRelatedTo | kishida orders budget increase
+kishida defense spending instruction | IsRelatedTo | jsdf
+naruhito unspecified | IsRelatedTo | 41.8c temperature record
+41.8c temperature record | IsRelatedTo | environment ministry
+41.8c temperature record | IsRelatedTo | ramsar
+fukushima daiichi nuclear disaster | OccursAt | fukushima daiichi nuclear power plant
+sendai plant restarted | OccursAt | sendai nuclear power plant
+selene lunar launch | OccursAt | tanegashima space center
+selene lunar launch | IsRelatedTo | japan aerospace exploration agency
+selene enters lunar orbit | OccursAt | moon
+selene enters lunar orbit | IsRelatedTo | japan aerospace exploration agency
+moon | OccursAt | selene crashed on moon
+selene crashed on moon | IsRelatedTo | japan aerospace exploration agency
+south korea | OccursAt | 2002 fifa world cup
+south korea | IsContainedIn | liancourt rocks
+fifa women's world cup win | OccursAt | asia
+tokugawa unification | IsRelatedTo | daimyo
+tokugawa unification | IsRelatedTo | samurai
+american fleet opens japan | IsRelatedTo | shogunate
+annexation of korea | IsRelatedTo | empire of japan
+invasion of china | OccursAt | china
+china | OccursAt | first sino-japanese war
+china | OccursAt | end of first sino-japanese war
+china | OccursAt | russo-japanese war begins
+china | OccursAt | russo-japanese war ends
+china | OccursAt | second sino-japanese war begins
+china | IsContainedIn | manchuria
+china | IsContainedIn | hong kong
+attack on pearl harbor | OccursAt | united states
+attack on pearl harbor | IsRelatedTo | axis power
+united states | IsContainedIn | pearl harbor
+npb established | IsRelatedTo | nippon professional baseball
+jleague established | IsRelatedTo | japan professional football league
+2002 fifa world cup | IsRelatedTo | fifa
+2002 fifa world cup | IsRelatedTo | asian cup
+2011 women's world cup win | IsRelatedTo | fifa women's world cup
+tokyo summer olympics 1964 | OccursAt | tokyo
+tokyo summer olympics 1964 | IsRelatedTo | olympics
+tokyo summer olympics 1964 | IsRelatedTo | women's volleyball world championship
+tokyo | OccursAt | tokyo summer olympics 2020
+tokyo | OccursAt | international military tribunal far east
+tokyo | OccursAt | abdication of emperor akihito
+tokyo | OccursAt | naruhito ascends throne
+tokyo | OccursAt | tokyo earthquake
+tokyo | IsContainedIn | haneda airport
+tokyo | IsContainedIn | honshu
+tokyo | IsContainedIn | greater tokyo area
+sapporo winter olympics | OccursAt | sapporo
+sapporo winter olympics | IsRelatedTo | olympics
+nagano winter olympics | OccursAt | nagano
+nagano winter olympics | IsRelatedTo | olympics
+basketball world championship 2006 | IsRelatedTo | basketball world championship
+basketball world championship 2023 | IsRelatedTo | basketball world championship
+tokyo summer olympics 2020 | IsRelatedTo | olympics
+2019 rugby world cup | IsRelatedTo | irb rugby world cup
+meiji constitution introduced | IsRelatedTo | cabinet
+meiji constitution introduced | IsRelatedTo | privy council
+meiji constitution introduced | IsRelatedTo | imperial diet
+first sino-japanese war | IsRelatedTo | empire of japan
+first sino-japanese war | IsRelatedTo | allies
+end of first sino-japanese war | IsRelatedTo | empire of japan
+russo-japanese war begins | IsRelatedTo | empire of japan
+russo-japanese war ends | IsRelatedTo | empire of japan
+great tokyo earthquake | IsRelatedTo | empire of japan
+japan invades manchuria | OccursAt | manchuria
+japan invades manchuria | IsRelatedTo | empire of japan
+manchuria | OccursAt | soviet invasion of manchuria
+manchuria | IsContainedIn | manchukuo
+manchukuo established | OccursAt | manchukuo
+manchukuo established | IsRelatedTo | empire of japan
+japan resigns from league | IsRelatedTo | empire of japan
+japan resigns from league | IsRelatedTo | league of nations
+anti-comintern pact signed | IsRelatedTo | empire of japan
+anti-comintern pact signed | IsRelatedTo | nazi germany
+anti-comintern pact signed | IsRelatedTo | anti-comintern pact
+tripartite pact signed | IsRelatedTo | empire of japan
+tripartite pact signed | IsRelatedTo | axis powers
+second sino-japanese war begins | IsRelatedTo | empire of japan
+japan invades french indochina | OccursAt | french indochina
+japan invades french indochina | IsRelatedTo | empire of japan
+attack on pearl harbor | OccursAt | pearl harbor
+attack on pearl harbor | IsRelatedTo | empire of japan
+pearl harbor | OccursAt | pearl harbor attack
+pearl harbor | IsContainedIn | san francisco
+attack on british malaya | OccursAt | malaya
+attack on british malaya | IsRelatedTo | empire of japan
+malaya | OccursAt | malaya singapore hong kong attack
+attack on singapore | OccursAt | singapore
+attack on singapore | IsRelatedTo | empire of japan
+singapore | OccursAt | malaya singapore hong kong attack
+attack on hong kong | OccursAt | hong kong
+attack on hong kong | IsRelatedTo | empire of japan
+hong kong | OccursAt | malaya singapore hong kong attack
+2014 ainu language report | IsRelatedTo | local governments
+2016 integrated schooling start | IsRelatedTo | mext
+2021 education gdp report | IsRelatedTo | oecd
+2021 education gdp report | IsRelatedTo | programme for international student assessment
+2023 tertiary education ranking | IsRelatedTo | oecd
+2023 tertiary education ranking | IsRelatedTo | programme for international student assessment
+2023 tertiary education ranking | IsRelatedTo | university of tokyo
+free and open indo-pacific announced | IsRelatedTo | united nations
+quad is reformed | IsRelatedTo | quadrilateral security dialogue
+un violent crime statistics report | IsRelatedTo | prefectural police departments
+un violent crime statistics report | IsRelatedTo | national police agency
+un violent crime statistics report | IsRelatedTo | national public safety commission
+un violent crime statistics report | IsRelatedTo | special assault team
+un violent crime statistics report | IsRelatedTo | anti-firearms squads
+un violent crime statistics report | IsRelatedTo | counter-nbc terrorism squads
+un violent crime statistics report | IsRelatedTo | japan coast guard
+un violent crime statistics report | IsRelatedTo | united nations office on drugs and crime
+un violent crime statistics report | IsRelatedTo | un
+japan inbound tourism record | IsRelatedTo | g7
+japan inbound tourism record | IsRelatedTo | united states
+japan inbound tourism record | IsRelatedTo | australia
+pearl harbor attack | IsRelatedTo | empire of japan
+malaya singapore hong kong attack | IsRelatedTo | empire of japan
+malaya singapore hong kong attack | IsRelatedTo | britain
+malaya singapore hong kong attack | IsRelatedTo | french indochina
+hiroshima atomic bombing | OccursAt | hiroshima
+hiroshima atomic bombing | IsRelatedTo | united states
+nagasaki atomic bombing | OccursAt | nagasaki
+nagasaki atomic bombing | IsRelatedTo | united states
+soviet invasion of manchuria | IsRelatedTo | empire of japan
+soviet invasion of manchuria | IsRelatedTo | soviet union
+japan unconditional surrender | IsRelatedTo | korea
+japan unconditional surrender | IsRelatedTo | taiwan
+international military tribunal far east | IsRelatedTo | allies
+international military tribunal far east | IsRelatedTo | international military tribunal for the far east
+tohoku earthquake | OccursAt | tohoku
+tohoku | IsContainedIn | honshu
+tohoku | IsContainedIn | fukushima daiichi nuclear disaster
+fukushima nuclear disaster | OccursAt | fukushima daiichi nuclear disaster
+honshu | IsContainedIn | sea of japan
+honshu | IsContainedIn | kyoto
+honshu | IsContainedIn | chugoku
+honshu | IsContainedIn | seto inland sea
+honshu | IsContainedIn | central highland
+nara | IsContainedIn | heijo-kyo
+ryukyu islands | IsContainedIn | okinawa
+kuril islands | IsContainedIn | russia
+shikoku | IsContainedIn | seto inland sea
+seto inland sea | IsContainedIn | kyushu
+nanpo islands | IsContainedIn | bonin islands
+japanese railway companies | IsPartOf | jr enterprises
+japanese railway companies | IsPartOf | kintetsu
+japanese railway companies | IsPartOf | seibu railway
+japanese railway companies | IsPartOf | keio corporation
+japan aerospace exploration agency | IsPartOf | international space station
+national diet | IsPartOf | house of representatives
+national diet | IsPartOf | house of councillors
+oecd | IsPartOf | programme for international student assessment
+national and local governments | IsPartOf | government committee
+national and local governments | IsPartOf | local governments
+national and local governments | IsPartOf | government-sponsored insurance
+empire of japan | IsPartOf | cabinet
+empire of japan | IsPartOf | privy council
+empire of japan | IsPartOf | imperial diet
+empire of japan | IsPartOf | allies
+empire of japan | IsPartOf | axis powers
+empire of japan | IsPartOf | korea
+empire of japan | IsPartOf | taiwan
+axis powers | IsPartOf | nazi germany
+axis powers | IsPartOf | anti-comintern pact
+japan self-defense forces | IsPartOf | ministry of defense
+japan self-defense forces | IsPartOf | japan ground self-defense force
+japan self-defense forces | IsPartOf | japan maritime self-defense force
+japan self-defense forces | IsPartOf | japan air self-defense force
+prefectural police departments | IsPartOf | national police agency
+prefectural police departments | IsPartOf | anti-firearms squads
+prefectural police departments | IsPartOf | counter-nbc terrorism squads
+national police agency | IsPartOf | national public safety commission
+national police agency | IsPartOf | special assault team
+united nations office on drugs and crime | IsPartOf | un
+france | IsPartOf | french indochina

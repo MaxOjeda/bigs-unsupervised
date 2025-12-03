@@ -1,0 +1,279 @@
+2197 Shanghai | site of astronomical discovery | Purple Mountain Observatory
+4949 Akasofu | site of astronomical discovery | YGCO Chiyoda Station
+1946 Walraven | site of astronomical discovery | Leiden Southern Station
+1436 Salonta | site of astronomical discovery | Konkoly Observatory
+9971 Ishihara | site of astronomical discovery | Kitami Observatory
+2033 Basilea | site of astronomical discovery | Zimmerwald Observatory
+4756 Asaramas | site of astronomical discovery | La Plata Astronomical Observatory
+2260 Neoptolemus | site of astronomical discovery | Purple Mountain Observatory
+3823 Yorii | site of astronomical discovery | Yorii Observatory
+2151 Hadwiger | site of astronomical discovery | Zimmerwald Observatory
+15460 Manca | site of astronomical discovery | Pistoia Mountains Astronomical Observatory
+2035 Stearns | site of astronomical discovery | Leoncito Astronomical Complex
+1582 Martir | site of astronomical discovery | La Plata Astronomical Observatory
+965 Angelica | site of astronomical discovery | La Plata Astronomical Observatory
+10476 Los Molinos | site of astronomical discovery | Siding Spring Observatory
+1389 Onnie | site of astronomical discovery | Leiden Southern Station
+144 Vibilia | site of astronomical discovery | Litchfield Observatory
+6144 Kondojiro | site of astronomical discovery | Kitami Observatory
+4183 Cuno | site of astronomical discovery | Boyden Observatory
+1866 Sisyphus | site of astronomical discovery | Zimmerwald Observatory
+1441 Bolyai | site of astronomical discovery | Konkoly Observatory
+9084 Achristou | site of astronomical discovery | Siding Spring Observatory
+367943 Duende | site of astronomical discovery | La Sagra Observatory
+6247 Amanogawa | site of astronomical discovery | Kitami Observatory
+( 7482 ) 1994 PC1 | site of astronomical discovery | Siding Spring Observatory
+1383 Limburgia | site of astronomical discovery | Leiden Southern Station
+2456 Palamedes | site of astronomical discovery | Purple Mountain Observatory
+1938 Lausanna | site of astronomical discovery | Zimmerwald Observatory
+2037 Tripaxeptalis | site of astronomical discovery | Zimmerwald Observatory
+2019 van Albada | site of astronomical discovery | Leiden Southern Station
+31179 Gongju | site of astronomical discovery | Chichibu Observatory
+31192 Aigoual | site of astronomical discovery | Pises Observatory
+2044 Wirt | site of astronomical discovery | Lick Observatory
+1444 Pannonia | site of astronomical discovery | Konkoly Observatory
+2169 Taiwan | site of astronomical discovery | Purple Mountain Observatory
+( 7563 ) 1988 BC | site of astronomical discovery | YGCO Chiyoda Station
+2311 El Leoncito | site of astronomical discovery | Leoncito Astronomical Complex
+2001 Einstein | site of astronomical discovery | Zimmerwald Observatory
+5331 Erimomisaki | site of astronomical discovery | Kitami Observatory
+5474 Gingasen | site of astronomical discovery | Kitami Observatory
+3494 Purple Mountain | site of astronomical discovery | Purple Mountain Observatory
+2014 AA | site of astronomical discovery | Mount Lemmon Survey
+7317 Cabot | site of astronomical discovery | Konkoly Observatory
+1863 Antinous | site of astronomical discovery | Lick Observatory
+7517 Alisondoane | site of astronomical discovery | YGCO Chiyoda Station
+4923 Clarke | site of astronomical discovery | Siding Spring Observatory
+3556 Lixiaohua | site of astronomical discovery | Purple Mountain Observatory
+27270 Guidotti | site of astronomical discovery | Pistoia Mountains Astronomical Observatory
+2015 RY245 | site of astronomical discovery | Mauna Kea Observatories
+( 5645 ) 1990 SP | site of astronomical discovery | Siding Spring Observatory
+6267 Rozhen | site of astronomical discovery | Rozhen Observatory
+2085 Henan | site of astronomical discovery | Purple Mountain Observatory
+9321 Alexkonopliv | site of astronomical discovery | YGCO Chiyoda Station
+1569 Evita | site of astronomical discovery | La Plata Astronomical Observatory
+6498 Ko | site of astronomical discovery | Kitami Observatory
+12359 Cajigal | site of astronomical discovery | Llano del Hato National Astronomical Observatory
+5682 Beresford | site of astronomical discovery | Siding Spring Observatory
+46 Hestia | site of astronomical discovery | Radcliffe Observatory
+5475 Hanskennedy | site of astronomical discovery | Siding Spring Observatory
+1844 Susilva | site of astronomical discovery | Zimmerwald Observatory
+( 277810 ) 2006 FV35 | minor planet group | Apollo asteroid
+( 277810 ) 2006 FV35 | site of astronomical discovery | Kitt Peak National Observatory
+1862 Apollo | minor planet group | Apollo asteroid
+2012 TV | minor planet group | Apollo asteroid
+2135 Aristaeus | minor planet group | Apollo asteroid
+3361 Orpheus | minor planet group | Apollo asteroid
+5786 Talos | minor planet group | Apollo asteroid
+2007 WD5 | minor planet group | Apollo asteroid
+3551 Verenia | minor planet group | Amor asteroid
+719 Albert | minor planet group | Amor asteroid
+( 532037 ) 2013 FY27 | minor planet group | Scattered disc
+NGC 340 | constellation | Cetus
+NGC 197 | constellation | Cetus
+NGC 3972 | constellation | Ursa Major
+NGC 4051 | constellation | Ursa Major
+NGC 275 | constellation | Cetus
+NGC 819 | constellation | Triangulum
+NGC 166 | constellation | Cetus
+NGC 47 | constellation | Cetus
+NGC 353 | constellation | Cetus
+NGC 303 | constellation | Cetus
+NGC 259 | constellation | Cetus
+NGC 344 | constellation | Cetus
+NGC 1073 | constellation | Cetus
+NGC 7019 | constellation | Capricornus
+NGC 4506 | constellation | Coma Berenices
+NGC 413 | constellation | Cetus
+NGC 4523 | constellation | Coma Berenices
+ISOHDFS 27 | constellation | Tucana
+NGC 2460 | constellation | Camelopardalis
+NGC 191 | constellation | Cetus
+NGC 172 | constellation | Cetus
+NGC 283 | constellation | Cetus
+NGC 7040 | constellation | Equuleus
+NGC 124 | constellation | Cetus
+NGC 341 | constellation | Cetus
+NGC 806 | constellation | Cetus
+NGC 377 | constellation | Cetus
+NGC 6104 | constellation | Corona Borealis
+NGC 4725 | constellation | Coma Berenices
+NGC 6027b | constellation | Serpens
+NGC 7073 | constellation | Capricornus
+NGC 345 | constellation | Cetus
+NGC 336 | constellation | Cetus
+NGC 2403 | constellation | Camelopardalis
+NGC 291 | constellation | Cetus
+NGC 3729 | constellation | Ursa Major
+NGC 6907 | constellation | Capricornus
+NGC 4689 | constellation | Coma Berenices
+NGC 988 | constellation | Cetus
+NGC 7025 | constellation | Delphinus
+NGC 3021 | constellation | Leo Minor
+NGC 521 | constellation | Cetus
+NGC 3938 | constellation | Ursa Major
+NGC 3631 | constellation | Ursa Major
+NGC 800 | constellation | Cetus
+NGC 7259 | constellation | Piscis Austrinus
+NGC 4237 | constellation | Coma Berenices
+NGC 6120 | constellation | Corona Borealis
+NGC 4088 | constellation | Ursa Major
+NGC 320 | constellation | Cetus
+NGC 1566 | constellation | Dorado
+NGC 132 | constellation | Cetus
+NGC 4302 | constellation | Coma Berenices
+NGC 268 | constellation | Cetus
+NGC 4516 | constellation | Coma Berenices
+NGC 217 | constellation | Cetus
+NGC 329 | constellation | Cetus
+NGC 293 | constellation | Cetus
+NGC 4138 | constellation | Canes Venatici
+NGC 4540 | constellation | Coma Berenices
+Wally Schirra | astronaut mission | Apollo 7
+Harrison Schmitt | astronaut mission | Apollo 17
+Oleg Kononenko | astronaut mission | Soyuz MS-11
+Oleg Kononenko | astronaut mission | Expedition 45
+Oleg Kononenko | astronaut mission | Soyuz TMA-12
+Oleg Kononenko | astronaut mission | Expedition 31
+Oleg Kononenko | astronaut mission | Expedition 59
+Oleg Kononenko | astronaut mission | Soyuz TMA-03M
+Oleg Kononenko | astronaut mission | Expedition 44
+Oleg Kononenko | astronaut mission | Expedition 30
+Oleg Kononenko | astronaut mission | Expedition 17
+Oleg Kononenko | astronaut mission | Soyuz TMA-17M
+Oleg Kononenko | astronaut mission | Expedition 58
+Richard Mastracchio | astronaut mission | Expedition 38
+Richard Mastracchio | astronaut mission | Soyuz TMA-11M
+Richard Mastracchio | astronaut mission | Expedition 39
+Stephen Frick | astronaut mission | STS-122
+Leonid Kadeniuk | astronaut mission | STS-87
+Christopher Cassidy | astronaut mission | Soyuz TMA-08M
+Christopher Cassidy | astronaut mission | Expedition 35
+Christopher Cassidy | astronaut mission | STS-127
+Thomas P. Stafford | astronaut mission | Gemini 6A
+Oleg Kononenko | astronaut mission | Soyuz MS-11
+Oleg Kononenko | astronaut mission | Expedition 45
+Oleg Kononenko | astronaut mission | Soyuz TMA-12
+Oleg Kononenko | astronaut mission | Expedition 31
+Oleg Kononenko | astronaut mission | Expedition 59
+Oleg Kononenko | astronaut mission | Soyuz TMA-03M
+Oleg Kononenko | astronaut mission | Expedition 44
+Oleg Kononenko | astronaut mission | Expedition 30
+Oleg Kononenko | astronaut mission | Expedition 17
+Oleg Kononenko | astronaut mission | Soyuz TMA-17M
+Oleg Kononenko | astronaut mission | Expedition 58
+Vladimir Komarov | astronaut mission | Soyuz 1
+Charles E. Brady Jr . | astronaut mission | STS-78
+Satoshi Furukawa | astronaut mission | Expedition 28
+Wally Schirra | astronaut mission | Gemini 6A
+Anatoli Ivanishin | astronaut mission | Expedition 29
+Anatoli Ivanishin | astronaut mission | Expedition 30
+Anatoli Ivanishin | astronaut mission | Soyuz TMA-22
+Chris Hadfield | astronaut mission | Soyuz TMA-07M
+Chris Hadfield | astronaut mission | Expedition 34
+Pete Conrad | astronaut mission | Gemini 11
+Pete Conrad | astronaut mission | Apollo 12
+Takao Doi | astronaut mission | STS-123
+Roberto Vittori | astronaut mission | Soyuz TM-34
+Roberto Vittori | astronaut mission | Soyuz TMA-6
+Roberto Vittori | astronaut mission | STS-134
+Thomas David Jones | astronaut mission | STS-80
+Thomas David Jones | astronaut mission | STS-59
+Thomas David Jones | astronaut mission | STS-98
+Thomas David Jones | astronaut mission | STS-68
+Joe Engle | astronaut mission | STS-2
+Wally Schirra | astronaut mission | Mercury-Atlas 8
+Michael T. Good | astronaut mission | STS-132
+Anatoli Ivanishin | astronaut mission | Expedition 29
+Anatoli Ivanishin | astronaut mission | Expedition 30
+Anatoli Ivanishin | astronaut mission | Soyuz TMA-22
+Georgy Grechko | astronaut mission | Soyuz 26
+Georgy Grechko | astronaut mission | Soyuz T-14
+Georgy Grechko | astronaut mission | Soyuz 17
+Oleg Kononenko | astronaut mission | Soyuz MS-11
+Oleg Kononenko | astronaut mission | Expedition 45
+Oleg Kononenko | astronaut mission | Soyuz TMA-12
+Oleg Kononenko | astronaut mission | Expedition 31
+Oleg Kononenko | astronaut mission | Expedition 59
+Oleg Kononenko | astronaut mission | Soyuz TMA-03M
+Oleg Kononenko | astronaut mission | Expedition 44
+Oleg Kononenko | astronaut mission | Expedition 30
+Oleg Kononenko | astronaut mission | Expedition 17
+Oleg Kononenko | astronaut mission | Soyuz TMA-17M
+Oleg Kononenko | astronaut mission | Expedition 58
+Sergey Ryazansky | astronaut mission | Soyuz TMA-10M
+Sergey Ryazansky | astronaut mission | Expedition 37
+Sergey Ryazansky | astronaut mission | Expedition 38
+Andrew J. Feustel | astronaut mission | STS-134
+Yuri Gidzenko | astronaut mission | Soyuz TM-34
+Sunita Williams | astronaut mission | Expedition 33
+Sunita Williams | astronaut mission | Expedition 32
+Alan G. Poindexter | astronaut mission | STS-122
+Alan G. Poindexter | astronaut mission | STS-131
+Chris Hadfield | astronaut mission | Expedition 35
+Mark Kelly | astronaut mission | STS-121
+Mark Kelly | astronaut mission | STS-108
+Mark Kelly | astronaut mission | STS-134
+Mark Kelly | astronaut mission | STS-124
+Yuri Baturin | astronaut mission | Soyuz TM-28
+Yuri Baturin | astronaut mission | Soyuz TM-27
+Takao Doi | astronaut mission | STS-87
+Zhai Zhigang | astronaut mission | Shenzhou 7
+Lee Morin | astronaut mission | STS-110
+Boris Volynov | astronaut mission | Soyuz 5
+Boris Volynov | astronaut mission | Soyuz 21
+Jack Swigert | astronaut mission | Apollo 13
+Vladimir Shatalov | astronaut mission | Soyuz 8
+Vladimir Shatalov | astronaut mission | Soyuz 4
+Vladimir Shatalov | astronaut mission | Soyuz 10
+Ronald McNair | astronaut mission | STS-41-B
+James Irwin | astronaut mission | Apollo 15
+Yelena Kondakova | astronaut mission | STS-84
+Martin J. Fettman | astronaut mission | STS-58
+Fyodor Yurchikhin | astronaut mission | Expedition 37
+Fyodor Yurchikhin | astronaut mission | Soyuz TMA-09M
+Fyodor Yurchikhin | astronaut mission | Expedition 36
+Michael E. Fossum | astronaut mission | Expedition 29
+Michael E. Fossum | astronaut mission | STS-121
+Michael E. Fossum | astronaut mission | Expedition 28
+Michael E. Fossum | astronaut mission | STS-124
+Reinhard Furrer | astronaut mission | STS-61-A
+Mark L. Polansky | astronaut mission | STS-98
+Mark L. Polansky | astronaut mission | STS-116
+Mark L. Polansky | astronaut mission | STS-127
+Dirk Frimout | astronaut mission | STS-45
+Joan Higginbotham | astronaut mission | STS-116
+Fred Haise | astronaut mission | Apollo 13
+Paul J. Weitz | astronaut mission | Skylab 2
+Peggy Whitson | astronaut mission | Expedition 16
+Thomas David Jones | astronaut mission | STS-80
+Thomas David Jones | astronaut mission | STS-59
+Thomas David Jones | astronaut mission | STS-98
+Thomas David Jones | astronaut mission | STS-68
+Koichi Wakata | astronaut mission | Expedition 38
+Koichi Wakata | astronaut mission | Soyuz TMA-11M
+Koichi Wakata | astronaut mission | Expedition 39
+Stephen Frick | astronaut mission | STS-110
+Aleksei Yeliseyev | astronaut mission | Soyuz 5
+Aleksei Yeliseyev | astronaut mission | Soyuz 8
+Aleksei Yeliseyev | astronaut mission | Soyuz 10
+Andrei Borisenko | astronaut mission | Expedition 27
+Andrei Borisenko | astronaut mission | Soyuz TMA-21
+Frank Borman | astronaut mission | Apollo 8
+Viktor Savinykh | astronaut mission | Soyuz T-4
+Viktor Savinykh | astronaut mission | Soyuz TM-5
+Viktor Savinykh | astronaut mission | Soyuz T-13
+William C. McCool | astronaut mission | STS-107
+Soyuz TMA-18M | spacecraft docking/undocking date | 04 September 2015
+Cygnus CRS OA-6 | spacecraft docking/undocking date | 26 March 2016
+Progress M-28M | spacecraft docking/undocking date | 05 July 2015
+Soyuz TMA-20M | spacecraft docking/undocking date | 19 March 2016
+Soyuz TMA-19M | spacecraft docking/undocking date | 15 December 2015
+Soyuz T-12 | backup or reserve team or crew | Igor Volk
+Soyuz TMA-2 | backup or reserve team or crew | Michael Foale
+Soyuz MS-01 | location of landing | Kazakhstan
+Soyuz TMA-19 | location of landing | Kazakhstan
+Mercury-Atlas 6 | location of landing | Atlantic Ocean
+Mercury-Redstone 3 | location of landing | Atlantic Ocean
+Soyuz TMA-20 | location of landing | Kazakhstan
+Soyuz TMA-02M | location of landing | Kazakhstan

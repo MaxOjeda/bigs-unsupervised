@@ -1,0 +1,9 @@
+file,n_original,n_generated,split_type,model_name,embedding_dim,batch_size,hnsw_M,ef_construction,ef_search,encoding_time_s,search_time_s,total_time_s,encode_mem_delta_mb,search_mem_delta_mb,bigs_right,bigs_right_std,bigs_right_median,bigs_left,bigs_left_std,bigs_left_median
+../textualization_neighbors/croatia/langchain/gpt-4o-mini,560,202,sentences,sentence-transformers/all-mpnet-base-v2,768,64,16,200,128,0.416,0.051,0.468,313.6,4.0,0.2943,0.1112,0.2887,0.4688,0.1772,0.4505
+../textualization_neighbors/croatia/langchain/gpt-5,560,653,sentences,sentence-transformers/all-mpnet-base-v2,768,64,16,200,128,0.587,0.111,0.697,361.2,5.0,0.2794,0.115,0.2825,0.4024,0.1864,0.3808
+../textualization_neighbors/croatia/langchain/gpt-4-1,560,559,sentences,sentence-transformers/all-mpnet-base-v2,768,64,16,200,128,0.55,0.1,0.649,327.5,6.0,0.2931,0.116,0.2946,0.4188,0.1706,0.3934
+../textualization_neighbors/croatia/langchain/gpt-5-nano,560,284,sentences,sentence-transformers/all-mpnet-base-v2,768,64,16,200,128,0.45,0.062,0.512,322.4,3.0,0.277,0.1064,0.2813,0.4537,0.1796,0.4399
+../textualization_neighbors/croatia/original/gpt-4o-mini_full,560,398,sentences,sentence-transformers/all-mpnet-base-v2,768,64,16,200,128,0.538,0.078,0.616,359.0,4.0,0.3222,0.0971,0.3268,0.476,0.1657,0.4655
+../textualization_neighbors/croatia/original/gpt-5_full,560,413,sentences,sentence-transformers/all-mpnet-base-v2,768,64,16,200,128,0.56,0.08,0.64,338.1,4.0,0.3027,0.1093,0.3047,0.4687,0.1766,0.4525
+../textualization_neighbors/croatia/original/gpt-4-1_full,560,803,sentences,sentence-transformers/all-mpnet-base-v2,768,64,16,200,128,0.7,0.128,0.829,357.1,5.4,0.3183,0.0979,0.3185,0.4221,0.1659,0.3914
+../textualization_neighbors/croatia/original/gpt-5-nano_full,560,331,sentences,sentence-transformers/all-mpnet-base-v2,768,64,16,200,128,0.509,0.07,0.58,359.3,4.0,0.3142,0.1026,0.3092,0.4598,0.1676,0.4336

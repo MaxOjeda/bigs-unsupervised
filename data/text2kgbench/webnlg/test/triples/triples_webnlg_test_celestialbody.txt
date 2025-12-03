@@ -1,0 +1,223 @@
+(19255)_1994_VK8 | averageSpeed | 4.56 (kilometrePerSeconds)
+(19255)_1994_VK8 | density | 2.0 (gramPerCubicCentimetres)
+(19255)_1994_VK8 | apoapsis | 6603633000.0 (kilometres)
+(19255)_1994_VK8 | density | 2.0 (gramPerCubicCentimetres)
+(19255)_1994_VK8 | escapeVelocity | 0.0925 (kilometrePerSeconds)
+(19255)_1994_VK8 | apoapsis | 6603633000.0 (kilometres)
+(19255)_1994_VK8 | epoch | 2006-12-31
+(19255)_1994_VK8 | mass | 5.6 (kilograms)
+(19255)_1994_VK8 | orbitalPeriod | 8788850000.0
+(19255)_1994_VK8 | epoch | 2006-12-31
+(19255)_1994_VK8 | orbitalPeriod | 8788850000.0
+(19255)_1994_VK8 | apoapsis | 6603633000.0 (kilometres)
+(19255)_1994_VK8 | epoch | 2006-12-31
+(19255)_1994_VK8 | orbitalPeriod | 8788850000.0
+(19255)_1994_VK8 | periapsis | 6155910000000.0
+(19255)_1994_VK8 | epoch | 2006-12-31
+(19255)_1994_VK8 | periapsis | 6155910000000.0
+(19255)_1994_VK8 | apoapsis | 6603633000.0 (kilometres)
+(66391)_1999_KW4 | epoch | 2004-07-14
+(66391)_1999_KW4 | escapeVelocity | 0
+(66391)_1999_KW4 | orbitalPeriod | 16244700.0
+(66391)_1999_KW4 | epoch | 2004-07-14
+(66391)_1999_KW4 | escapeVelocity | 0
+(66391)_1999_KW4 | periapsis | 29919600000.0
+(66391)_1999_KW4 | epoch | 2004-07-14
+(66391)_1999_KW4 | orbitalPeriod | 16244700.0
+(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)
+(66391)_1999_KW4 | epoch | 2004-07-14
+(66391)_1999_KW4 | orbitalPeriod | 16244700.0
+(66391)_1999_KW4 | periapsis | 29919600000.0
+(66391)_1999_KW4 | epoch | 2004-07-14
+(66391)_1999_KW4 | periapsis | 29919600000.0
+(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)
+(66391)_1999_KW4 | escapeVelocity | 0
+(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)
+(66391)_1999_KW4 | density | 2.0 (gramPerCubicCentimetres)
+1036_Ganymed | discoverer | Walter_Baade
+Walter_Baade | almaMater | University_of_Göttingen
+Walter_Baade | doctoralStudent | Allan_Sandage
+1036_Ganymed | discoverer | Walter_Baade
+Walter_Baade | birthPlace | German_Empire
+Walter_Baade | almaMater | University_of_Göttingen
+1036_Ganymed | discoverer | Walter_Baade
+Walter_Baade | birthPlace | Preußisch_Oldendorf
+Walter_Baade | almaMater | University_of_Göttingen
+1036_Ganymed | discoverer | Walter_Baade
+Walter_Baade | deathPlace | Göttingen
+Walter_Baade | almaMater | University_of_Göttingen
+1036_Ganymed | discoverer | Walter_Baade
+Walter_Baade | deathPlace | West_Germany
+Walter_Baade | almaMater | University_of_Göttingen
+1036_Ganymed | discoverer | Walter_Baade
+Walter_Baade | doctoralStudent | Halton_Arp
+Walter_Baade | almaMater | University_of_Göttingen
+1036_Ganymed | discoverer | Walter_Baade
+Walter_Baade | doctoralStudent | Halton_Arp
+Walter_Baade | birthPlace | German_Empire
+1036_Ganymed | discoverer | Walter_Baade
+Walter_Baade | doctoralStudent | Halton_Arp
+Walter_Baade | birthPlace | Preußisch_Oldendorf
+1036_Ganymed | orbitalPeriod | 374976.0 (seconds)
+1036_Ganymed | epoch | 2004-10-22
+1036_Ganymed | apoapsis | 611961000.0 (kilometres)
+1089_Tama | averageSpeed | 19.94 (kilometrePerSeconds)
+1089_Tama | orbitalPeriod | 1202.846 (days)
+1089_Tama | apoapsis | 373513000.0 (kilometres)
+1089_Tama | epoch | 2005-11-26
+1089_Tama | formerName | 1930 ST; 1952 HE4
+1089_Tama | periapsis | 288749000000.0
+1089_Tama | epoch | 2005-11-26
+1089_Tama | formerName | A894 VA; A904 VD;
+1089_Tama | apoapsis | 373513000.0 (kilometres)
+1089_Tama | epoch | 2005-11-26
+1089_Tama | formerName | A894 VA; A904 VD;
+1089_Tama | periapsis | 288749000000.0
+1089_Tama | epoch | 2005-11-26
+1089_Tama | formerName | A919 HA; 1927 WB;
+1089_Tama | apoapsis | 373513000.0 (kilometres)
+1089_Tama | epoch | 2005-11-26
+1089_Tama | formerName | A919 HA; 1927 WB;
+1089_Tama | periapsis | 288749000000.0
+1089_Tama | epoch | 2005-11-26
+1089_Tama | orbitalPeriod | 1202.846 (days)
+1089_Tama | apoapsis | 373513000.0 (kilometres)
+1089_Tama | escapeVelocity | 0.0068 (kilometrePerSeconds)
+1089_Tama | temperature | 179.0 (kelvins)
+1089_Tama | apoapsis | 373513000.0 (kilometres)
+1089_Tama | orbitalPeriod | 1202.846 (days)
+1089_Tama | periapsis | 288749000000.0
+1089_Tama | epoch | 2005-11-26
+110_Lydia | epoch | 2006-12-31
+110_Lydia | mass | 6.7 (kilograms)
+110_Lydia | orbitalPeriod | 142603000.0
+110_Lydia | epoch | 2006-12-31
+110_Lydia | orbitalPeriod | 142603000.0
+110_Lydia | apoapsis | 440756000.0 (kilometres)
+110_Lydia | escapeVelocity | 0.0455 (kilometrePerSeconds)
+110_Lydia | mass | 6.7 (kilograms)
+110_Lydia | apoapsis | 440756000.0 (kilometres)
+110_Lydia | escapeVelocity | 0.0455 (kilometrePerSeconds)
+110_Lydia | temperature | 168.0 (kelvins)
+110_Lydia | apoapsis | 440756000.0 (kilometres)
+Grigory_Neujmin | deathDate | 1946-12-17
+1147_Stavropolis | orbitalPeriod | 1249.6
+1147_Stavropolis | rotationPeriod | 20378.5
+1147_Stavropolis | discoverer | Grigory_Neujmin
+Grigory_Neujmin | deathDate | 1946-12-17
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | rotationPeriod | 20378.5
+1147_Stavropolis | periapsis | 260855000000.0
+1147_Stavropolis | epoch | 31 July 2016 (JD2457600.5)
+1147_Stavropolis | orbitalPeriod | 1249.6
+1147_Stavropolis | orbitalPeriod | 1249.6
+1147_Stavropolis | absoluteMagnitude | 11.5
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | periapsis | 260855000000.0
+1147_Stavropolis | epoch | 31 July 2016 (JD2457600.5)
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | rotationPeriod | 20378.5
+1147_Stavropolis | periapsis | 260855000000.0
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | orbitalPeriod | 1249.6
+1147_Stavropolis | discoverer | Grigory_Neujmin
+1147_Stavropolis | absoluteMagnitude | 11.5
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | periapsis | 260855000000.0
+1147_Stavropolis | discoverer | Grigory_Neujmin
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | rotationPeriod | 20378.5
+1147_Stavropolis | periapsis | 260855000000.0
+1147_Stavropolis | discoverer | Grigory_Neujmin
+1147_Stavropolis | epoch | 31 July 2016 (JD2457600.5)
+1147_Stavropolis | periapsis | 260855000000.0
+1147_Stavropolis | orbitalPeriod | 1249.6
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | absoluteMagnitude | 11.5
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | discoverer | Grigory_Neujmin
+1147_Stavropolis | discoverer | Grigory_Neujmin
+Grigory_Neujmin | birthDate | 1886-01-01
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | rotationPeriod | 20378.5
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | absoluteMagnitude | 11.5
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | absoluteMagnitude | 11.5
+1147_Stavropolis | epoch | 31 July 2016 (JD2457600.5)
+1147_Stavropolis | periapsis | 260855000000.0
+1147_Stavropolis | orbitalPeriod | 1249.6
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | orbitalPeriod | 1249.6
+1147_Stavropolis | discoverer | Grigory_Neujmin
+1147_Stavropolis | absoluteMagnitude | 11.5
+1147_Stavropolis | periapsis | 260855000000.0
+1147_Stavropolis | discoverer | Grigory_Neujmin
+Grigory_Neujmin | birthDate | 1886-01-01
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | periapsis | 260855000000.0
+1147_Stavropolis | discoverer | Grigory_Neujmin
+1147_Stavropolis | absoluteMagnitude | 11.5
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | orbitalPeriod | 1249.6
+1147_Stavropolis | discoverer | Grigory_Neujmin
+1147_Stavropolis | discoverer | Grigory_Neujmin
+Grigory_Neujmin | birthPlace | Tbilisi
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | absoluteMagnitude | 11.5
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | rotationPeriod | 20378.5
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | absoluteMagnitude | 11.5
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | periapsis | 260855000000.0
+1147_Stavropolis | discoverer | Grigory_Neujmin
+1147_Stavropolis | absoluteMagnitude | 11.5
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | orbitalPeriod | 1249.6
+1147_Stavropolis | discoverer | Grigory_Neujmin
+1147_Stavropolis | absoluteMagnitude | 11.5
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | rotationPeriod | 20378.5
+1147_Stavropolis | periapsis | 260855000000.0
+1147_Stavropolis | orbitalPeriod | 1249.6
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | absoluteMagnitude | 11.5
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | orbitalPeriod | 1249.6
+1147_Stavropolis | discoverer | Grigory_Neujmin
+1147_Stavropolis | absoluteMagnitude | 11.5
+1147_Stavropolis | rotationPeriod | 20378.5
+1147_Stavropolis | periapsis | 260855000000.0
+1147_Stavropolis | orbitalPeriod | 1249.6
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | orbitalPeriod | 1249.6
+1147_Stavropolis | discoverer | Grigory_Neujmin
+1147_Stavropolis | absoluteMagnitude | 11.5
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | epoch | 31 July 2016 (JD2457600.5)
+1147_Stavropolis | apoapsis | 418476000000.0
+1147_Stavropolis | discovered | 1929-06-11
+1147_Stavropolis | rotationPeriod | 20378.5
+1147_Stavropolis | periapsis | 260855000000.0
+1147_Stavropolis | epoch | 31 July 2016 (JD2457600.5)
+1147_Stavropolis | orbitalPeriod | 1249.6
+1147_Stavropolis | absoluteMagnitude | 11.5
+(66391)_1999_KW4 | averageSpeed | 37.16 (kilometrePerSeconds)
+(66391)_1999_KW4 | density | 2.0 (gramPerCubicCentimetres)
+(66391)_1999_KW4 | apoapsis | 162164091.8388 (kilometres)
+1036_Ganymed | discoverer | Walter_Baade
+Walter_Baade | nationality | Germany
+Walter_Baade | almaMater | University_of_Göttingen
+110_Lydia | orbitalPeriod | 142603000.0
+110_Lydia | periapsis | 377016000000.0
+110_Lydia | epoch | 2006-12-31

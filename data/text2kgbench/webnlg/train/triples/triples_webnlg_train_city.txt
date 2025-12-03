@@ -1,0 +1,398 @@
+Abilene,_Texas | isPartOf | Jones_County,_Texas
+Abilene,_Texas | country | United_States
+United_States | language | English_language
+Abilene,_Texas | isPartOf | Jones_County,_Texas
+Jones_County,_Texas | country | United_States
+United_States | language | English_language
+Abilene,_Texas | isPartOf | Texas
+Abilene,_Texas | country | United_States
+United_States | language | English_language
+Abilene,_Texas | isPartOf | Texas
+Texas | capital | Austin,_Texas
+Abilene,_Texas | country | United_States
+Abilene,_Texas | isPartOf | Texas
+Texas | capital | Austin,_Texas
+Texas | country | United_States
+Abilene,_Texas | isPartOf | Texas
+United_States | capital | Washington,_D.C.
+Abilene,_Texas | country | United_States
+Akron,_Ohio | country | United_States
+United_States | ethnicGroup | African_Americans
+Akron,_Ohio | isPartOf | Summit_County,_Ohio
+Akron,_Ohio | elevationAboveTheSeaLevel | 306.0
+Akron,_Ohio | populationDensity | 1239.3 (inhabitants per square kilometre)
+Akron,_Ohio | areaTotal | 161.54 (square kilometres)
+Alabama | country | United_States
+United_States | ethnicGroup | African_Americans
+Auburn,_Alabama | isPartOf | Alabama
+Alabama | country | United_States
+United_States | ethnicGroup | Asian_Americans
+Auburn,_Alabama | isPartOf | Alabama
+Albuquerque,_New_Mexico | areaOfLand | 486.2 (square kilometres)
+Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)
+Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)
+Albuquerque,_New_Mexico | leaderTitle | New_Mexico_Senate
+New_Mexico_Senate | leader | John_Sánchez
+Albuquerque,_New_Mexico | country | United_States
+Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)
+Albuquerque,_New_Mexico | leaderTitle | Albuquerque_City_Council
+Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)
+Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)
+Albuquerque,_New_Mexico | leaderTitle | New_Mexico_House_of_Representatives
+Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)
+Albuquerque,_New_Mexico | populationDensity | 1142.3 (inhabitants per square kilometre)
+Albuquerque,_New_Mexico | leaderTitle | New_Mexico_Senate
+Albuquerque,_New_Mexico | areaTotal | 490.9 (square kilometres)
+Alpharetta,_Georgia | areaTotal | 55.4 (square kilometres)
+Alpharetta,_Georgia | elevationAboveTheSeaLevel | 346.0
+Alpharetta,_Georgia | populationDensity | 992.6 (inhabitants per square kilometre)
+Alpharetta,_Georgia | country | United_States
+Alpharetta,_Georgia | isPartOf | Georgia_(U.S._state)
+Alpharetta,_Georgia | isPartOf | Fulton_County,_Georgia
+Amarillo,_Texas | elevationAboveTheSeaLevel | 1099.0
+Amarillo,_Texas | populationDensity | 746.0 (inhabitants per square kilometre)
+Amarillo,_Texas | areaTotal | 233.9 (square kilometres)
+Anaheim,_California | utcOffset | -7
+Anaheim,_California | areaCode | 657, 714
+Anaheim,_California | areaTotal | 131.6 (square kilometres)
+Anaheim,_California | utcOffset | -7
+Anaheim,_California | areaCode | 657
+Anaheim,_California | areaTotal | 131.6 (square kilometres)
+Anaheim,_California | utcOffset | -8
+Anaheim,_California | areaCode | 657
+Anaheim,_California | areaTotal | 131.6 (square kilometres)
+Anaheim,_California | isPartOf | California
+Anaheim,_California | leaderTitle | California_State_Senate
+California_State_Senate | location | California_State_Capitol
+Anaheim,_California | isPartOf | California
+California | country | United_States
+Anaheim,_California | leaderTitle | United_States_House_of_Representatives
+Anaheim,_California | isPartOf | California
+United_States_House_of_Representatives | location | United_States_Capitol
+Anaheim,_California | leaderTitle | United_States_House_of_Representatives
+Anaheim,_California | isPartOf | Orange_County,_California
+Anaheim,_California | leaderTitle | California_State_Assembly
+Anaheim,_California | country | United_States
+Anaheim,_California | isPartOf | Orange_County,_California
+Anaheim,_California | leaderTitle | California_State_Assembly
+California_State_Assembly | location | California_State_Capitol
+Anaheim,_California | isPartOf | Orange_County,_California
+Anaheim,_California | leaderTitle | California_State_Senate
+California_State_Senate | location | California_State_Capitol
+Anaheim,_California | isPartOf | Orange_County,_California
+Orange_County,_California | isPartOf | Greater_Los_Angeles_Area
+Anaheim,_California | country | United_States
+Anderson,_Indiana | isPartOf | Adams_Township,_Madison_County,_Indiana
+Adams_Township,_Madison_County,_Indiana | country | United_States
+Anderson,_Indiana | isPartOf | Indiana
+Anderson,_Indiana | isPartOf | Adams_Township,_Madison_County,_Indiana
+Adams_Township,_Madison_County,_Indiana | country | United_States
+Anderson,_Indiana | isPartOf | Madison_County,_Indiana
+Angola,_Indiana | areaTotal | 16.55 (square kilometres)
+Angola,_Indiana | elevationAboveTheSeaLevel | 324.0
+Angola,_Indiana | populationDensity | 524.5 (inhabitants per square kilometre)
+Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan
+Ann_Arbor,_Michigan | isPartOf | Michigan
+Michigan | capital | Lansing,_Michigan
+Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan
+Michigan | country | United_States
+Ann_Arbor,_Michigan | isPartOf | Michigan
+Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan
+Michigan | largestCity | Detroit
+Ann_Arbor,_Michigan | isPartOf | Michigan
+Ann_Arbor,_Michigan | isPartOf | Washtenaw_County,_Michigan
+Washtenaw_County,_Michigan | country | United_States
+Ann_Arbor,_Michigan | isPartOf | Michigan
+Ann_Arbor,_Michigan | leaderTitle | City Administrator
+Ann_Arbor,_Michigan | populationDensity | 1580.7 (inhabitants per square kilometre)
+Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)
+Ann_Arbor,_Michigan | leaderTitle | Mayor
+Ann_Arbor,_Michigan | populationDensity | 1580.7 (inhabitants per square kilometre)
+Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)
+Ann_Arbor,_Michigan | populationDensity | 1580.7 (inhabitants per square kilometre)
+Ann_Arbor,_Michigan | leaderTitle | City_Manager
+Ann_Arbor,_Michigan | areaTotal | 74.33 (square kilometres)
+Atlanta | areaOfLand | 344.9 (square kilometres)
+Atlanta | populationDensity | 1299.0 (inhabitants per square kilometre)
+Atlanta | areaTotal | 347.1 (square kilometres)
+Atlanta | country | United_States
+Atlanta | isPartOf | Georgia
+Atlanta | isPartOf | Fulton_County,_Georgia
+Atlanta | country | United_States
+Atlanta | isPartOf | Georgia_(U.S._state)
+Atlanta | isPartOf | Georgia
+Auburn,_Washington | country | United_States
+Auburn,_Washington | isPartOf | King_County,_Washington
+Auburn,_Washington | isPartOf | Washington_(state)
+Auburn,_Washington | isPartOf | Pierce_County,_Washington
+Auburn,_Washington | country | United_States
+Auburn,_Washington | isPartOf | King_County,_Washington
+Auburn,_Washington | isPartOf | Pierce_County,_Washington
+Auburn,_Washington | country | United_States
+Auburn,_Washington | isPartOf | Washington_(state)
+Austin,_Texas | areaTotal | 703.95 (square kilometres)
+Austin,_Texas | populationDensity | 1296.65 (inhabitants per square kilometre)
+Austin,_Texas | areaCode | 512
+Michigan | country | United_States
+Ann_Arbor,_Michigan | isPartOf | Michigan
+Michigan | capital | Lansing,_Michigan
+Michigan | largestCity | Detroit
+Ann_Arbor,_Michigan | isPartOf | Michigan
+Michigan | capital | Lansing,_Michigan
+Michigan | largestCity | Detroit
+Michigan | country | United_States
+Ann_Arbor,_Michigan | isPartOf | Michigan
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | leaderTitle | City Manager
+Ciudad_Ayala | type | City
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | country | Mexico
+Ciudad_Ayala | elevationAboveTheSeaLevel | 1147.0
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | leaderTitle | City Manager
+Ciudad_Ayala | type | City
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | leaderTitle | City Manager
+Ciudad_Ayala | type | City
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | country | Mexico
+Ciudad_Ayala | elevationAboveTheSeaLevel | 1147.0
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | isPartOf | Morelos
+Ciudad_Ayala | isPartOf | Morelos
+Morelos | leader | Graco_Ramírez
+Ciudad_Ayala | country | Mexico
+Mexico | areaTotal | 1972550.0
+Ciudad_Ayala | isPartOf | Morelos
+Morelos | type | States_of_Mexico
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | isPartOf | Morelos
+Ciudad_Ayala | country | Mexico
+Ciudad_Ayala | elevationAboveTheSeaLevel | 1147.0
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | elevationAboveTheSeaLevel | 1147.0
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | leaderTitle | City Manager
+Ciudad_Ayala | type | City
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | elevationAboveTheSeaLevel | 1147.0
+Ciudad_Ayala | type | City
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | country | Mexico
+Mexico | populationDensity | 61.0
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | timeZone | Pacific_Standard_Time_Zone
+Ciudad_Ayala | type | City
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | leaderTitle | City Manager
+Ciudad_Ayala | type | City
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | leader | Juan_Nolasco
+Ciudad_Ayala | isPartOf | Morelos
+Morelos | leaderTitle | Governor
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | country | Mexico
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | leaderTitle | City Manager
+Ciudad_Ayala | type | City
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | country | Mexico
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | country | Mexico
+Ciudad_Ayala | timeZone | Pacific_Standard_Time_Zone
+Morelos | leader | Adrián_Rivera_Pérez
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | timeZone | Pacific_Standard_Time_Zone
+Ciudad_Ayala | leader | Juan_Nolasco
+Ciudad_Ayala | type | City
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | isPartOf | Morelos
+Ciudad_Ayala | country | Mexico
+Ciudad_Ayala | elevationAboveTheSeaLevel | 1147.0
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | populationDensity | 1604.0
+Morelos | country | Mexico
+Ciudad_Ayala | isPartOf | Morelos
+Morelos | areaTotal | 4879.0
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | timeZone | Pacific_Standard_Time_Zone
+Ciudad_Ayala | leaderTitle | City Manager
+Ciudad_Ayala | isPartOf | Morelos
+Morelos | isPartOf | Cuernavaca
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | isPartOf | Morelos
+Ciudad_Ayala | country | Mexico
+Morelos | areaTotal | 4879.0
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | leaderTitle | City Manager
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | timeZone | Pacific_Standard_Time_Zone
+Mexico | areaTotal | 1972550.0
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | leaderTitle | City Manager
+Ciudad_Ayala | type | City
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | isPartOf | Morelos
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | elevationAboveTheSeaLevel | 1147.0
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | timeZone | Pacific_Standard_Time_Zone
+Ciudad_Ayala | leader | Juan_Nolasco
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | leaderTitle | City Manager
+Ciudad_Ayala | type | City
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | leaderTitle | Governator
+Mexico | leaderTitle | President of the Senate
+Ciudad_Ayala | type | City
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | country | Mexico
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | elevationAboveTheSeaLevel | 1147.0
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | timeZone | Pacific_Standard_Time_Zone
+Ciudad_Ayala | leader | Juan_Nolasco
+Ciudad_Ayala | isPartOf | Morelos
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | leaderTitle | City Manager
+Ciudad_Ayala | type | City
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | isPartOf | Morelos
+Ciudad_Ayala | country | Mexico
+Mexico | leader | Roberto_Gil_Zuarth
+Ciudad_Ayala | type | City
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | isPartOf | Morelos
+Ciudad_Ayala | type | City
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | type | City
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | isPartOf | Morelos
+Ciudad_Ayala | country | Mexico
+Ciudad_Ayala | elevationAboveTheSeaLevel | 1147.0
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | country | Mexico
+Mexico | leaderTitle | President of the Senate
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | isPartOf | Morelos
+Ciudad_Ayala | country | Mexico
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | timeZone | Pacific_Standard_Time_Zone
+Morelos | leaderTitle | Governor
+Ciudad_Ayala | populationDensity | 1604.0
+Mexico | leaderTitle | President of the Chamber of Deputies
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | country | Mexico
+Ciudad_Ayala | isPartOf | Morelos
+Ciudad_Ayala | country | Mexico
+Ciudad_Ayala | elevationAboveTheSeaLevel | 1147.0
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | timeZone | Pacific_Standard_Time_Zone
+Ciudad_Ayala | leader | Juan_Nolasco
+Ciudad_Ayala | leaderTitle | City Manager
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | isPartOf | Morelos
+Ciudad_Ayala | country | Mexico
+Ciudad_Ayala | elevationAboveTheSeaLevel | 1147.0
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | isPartOf | Morelos
+Ciudad_Ayala | country | Mexico
+Morelos | leader | Adrián_Rivera_Pérez
+Ciudad_Ayala | leaderTitle | City Manager
+Ciudad_Ayala | isPartOf | Morelos
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | isPartOf | Morelos
+Ciudad_Ayala | country | Mexico
+Ciudad_Ayala | elevationAboveTheSeaLevel | 1147.0
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | populationMetro | 1777539
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | leaderTitle | Governator
+Ciudad_Ayala | leaderTitle | City Manager
+Ciudad_Ayala | leaderTitle | City Manager
+Ciudad_Ayala | type | City
+Ciudad_Ayala | governmentType | Council-manager_government
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | utcOffset | −6
+Ciudad_Ayala | country | Mexico
+Ciudad_Ayala | type | City
+Ciudad_Ayala | elevationAboveTheSeaLevel | 1147.0
+Ciudad_Ayala | leader | Juan_Nolasco
+Ciudad_Ayala | populationDensity | 1604.0
+Ciudad_Ayala | isPartOf | Morelos
+Morelos | isPartOf | Cuernavaca
+Mexico | leaderTitle | President of the Chamber of Deputies
+Ciudad_Ayala | country | Mexico
+Ciudad_Ayala | timeZone | Pacific_Daylight_Time
+Ciudad_Ayala | timeZone | Pacific_Standard_Time_Zone

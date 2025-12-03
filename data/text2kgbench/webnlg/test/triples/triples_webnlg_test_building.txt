@@ -1,0 +1,309 @@
+108_St_Georges_Terrace | cost | 120 million (Australian dollars)
+108_St_Georges_Terrace | floorCount | 50
+108_St_Georges_Terrace | completionDate | 1988
+108_St_Georges_Terrace | location | Perth
+Perth | country | Australia
+108_St_Georges_Terrace | buildingStartDate | 1981
+108_St_Georges_Terrace | location | Perth
+Perth | country | Australia
+108_St_Georges_Terrace | completionDate | 1988
+108_St_Georges_Terrace | location | Perth
+Perth | country | Australia
+108_St_Georges_Terrace | floorArea | 39500.0 (square metres)
+108_St_Georges_Terrace | location | Perth
+Perth | country | Australia
+108_St_Georges_Terrace | floorCount | 50
+11_Diagonal_Street | floorCount | 20
+11_Diagonal_Street | architect | Helmut_Jahn
+11_Diagonal_Street | completionDate | 1983
+11_Diagonal_Street | floorCount | 20
+11_Diagonal_Street | owner | Redefine_Properties_Limited
+11_Diagonal_Street | architect | Helmut_Jahn
+11_Diagonal_Street | location | South_Africa
+South_Africa | capital | Cape_Town
+South_Africa | leader | Jacob_Zuma
+11_Diagonal_Street | location | South_Africa
+South_Africa | leader | Cyril_Ramaphosa
+South_Africa | ethnicGroup | Asian_South_Africans
+11_Diagonal_Street | location | South_Africa
+South_Africa | leader | Cyril_Ramaphosa
+South_Africa | ethnicGroup | White_South_African
+11_Diagonal_Street | location | South_Africa
+South_Africa | leader | Cyril_Ramaphosa
+South_Africa | leader | Jacob_Zuma
+11_Diagonal_Street | location | South_Africa
+South_Africa | leader | Jacob_Zuma
+South_Africa | ethnicGroup | Asian_South_Africans
+250_Delaware_Avenue | buildingStartDate | January, 2014
+250_Delaware_Avenue | floorArea | 30843.8 (square metres)
+250_Delaware_Avenue | floorCount | 12
+250_Delaware_Avenue | cost | 110 million (dollars)
+250_Delaware_Avenue | floorArea | 30843.8 (square metres)
+250_Delaware_Avenue | floorCount | 12
+250_Delaware_Avenue | location | Buffalo,_New_York
+250_Delaware_Avenue | buildingStartDate | January, 2014
+250_Delaware_Avenue | floorCount | 12
+250_Delaware_Avenue | location | Buffalo,_New_York
+250_Delaware_Avenue | floorArea | 30843.8 (square metres)
+250_Delaware_Avenue | floorCount | 12
+250_Delaware_Avenue | location | Buffalo,_New_York
+Buffalo,_New_York | isPartOf | Erie_County,_New_York
+Buffalo,_New_York | leader | Byron_Brown
+250_Delaware_Avenue | location | Buffalo,_New_York
+Buffalo,_New_York | leader | Byron_Brown
+Buffalo,_New_York | isPartOf | New_York
+320_South_Boston_Building | architect | George_Winkler
+George_Winkler | country | United_States
+320_South_Boston_Building | buildingStartDate | 1910
+320_South_Boston_Building | architect | George_Winkler
+George_Winkler | country | United_States
+320_South_Boston_Building | completionDate | 1929
+320_South_Boston_Building | height | 121.92 (metres)
+320_South_Boston_Building | completionDate | 1929
+320_South_Boston_Building | floorCount | 22
+3Arena | architect | Populous_(company)
+3Arena | location | North_Wall,_Dublin
+3Arena | completionDate | December 2008
+3Arena | location | East Link Bridge
+3Arena | architect | HOK SVE
+3Arena | completionDate | December 2008
+3Arena | location | East Link Bridge
+3Arena | architect | Populous_(company)
+3Arena | completionDate | December 2008
+3Arena | location | North Wall Quay
+3Arena | architect | Populous_(company)
+3Arena | completionDate | December 2008
+3Arena | location | North_Wall,_Dublin
+3Arena | architect | HOK SVE
+3Arena | completionDate | December 2008
+3Arena | owner | Live_Nation_Entertainment
+3Arena | location | Dublin
+Dublin | isPartOf | Leinster
+3Arena | owner | Live_Nation_Entertainment
+3Arena | location | Dublin
+Dublin | leaderTitle | European_Parliament
+3Arena | owner | Live_Nation_Entertainment
+Dublin | isPartOf | Republic_of_Ireland
+3Arena | location | Dublin
+3Arena | owner | Live_Nation_Entertainment
+Dublin | leader | Críona_Ní_Dhálaigh
+3Arena | location | Dublin
+3Arena | owner | Live_Nation_Entertainment
+Dublin | leaderTitle | Dáil_Éireann
+3Arena | location | Dublin
+Addis_Ababa | isPartOf | Addis_Ababa_Stadium
+Addis_Ababa_City_Hall | country | Ethiopia
+Addis_Ababa_City_Hall | location | Addis_Ababa
+Addis_Ababa | isPartOf | Addis_Ababa_Stadium
+Addis_Ababa_City_Hall | location | Addis_Ababa
+Addis_Ababa | country | Ethiopia
+Addis_Ababa_City_Hall | completionDate | 1964
+Addis_Ababa_City_Hall | buildingStartDate | 1961
+Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)
+Addis_Ababa_City_Hall | completionDate | 1964
+Addis_Ababa_City_Hall | height | 42 m
+Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)
+Adisham_Hall | architecturalStyle | Tudor and Jacabian
+Adisham_Hall | buildingStartDate | 1927
+Adisham_Hall | location | Haputale
+Adisham_Hall | architecturalStyle | Tudor and Jacabian
+Adisham_Hall | location | Haputale, Sri Lanka
+Adisham_Hall | completionDate | 1931
+Adisham_Hall | architecturalStyle | Tudor_Revival_architecture
+Adisham_Hall | completionDate | 1931
+Adisham_Hall | location | Haputale
+Adisham_Hall | country | Sri_Lanka
+Adisham_Hall | location | Haputale, Sri Lanka
+Sri_Lanka | capital | Sri_Jayawardenepura_Kotte
+Adisham_Hall | country | Sri_Lanka
+Adisham_Hall | location | Haputale, Sri Lanka
+Sri_Lanka | leader | Ranil_Wickremesinghe
+Adisham_Hall | country | Sri_Lanka
+Adisham_Hall | location | Haputale
+Sri_Lanka | capital | Sri_Jayawardenepura_Kotte
+Adisham_Hall | country | Sri_Lanka
+Sri_Lanka | capital | Sri_Jayawardenepura_Kotte
+Sri_Lanka | language | Tamil_language
+Adisham_Hall | country | Sri_Lanka
+Sri_Lanka | leader | Ranil_Wickremesinghe
+Sri_Lanka | capital | Sri_Jayawardenepura_Kotte
+Adisham_Hall | country | Sri_Lanka
+Sri_Lanka | leader | Ranil_Wickremesinghe
+Sri_Lanka | currency | Sri_Lankan_rupee
+Adisham_Hall | country | Sri_Lanka
+Sri_Lanka | leader | Ranil_Wickremesinghe
+Sri_Lanka | language | Tamil_language
+Adisham_Hall | location | Haputale, Sri Lanka
+Adisham_Hall | architecturalStyle | Tudor_Revival_architecture
+Adisham_Hall | completionDate | 1931
+Amdavad_ni_Gufa | address | Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road
+Amdavad_ni_Gufa | location | Ahmedabad
+Amdavad_ni_Gufa | country | India
+Amdavad_ni_Gufa | country | India
+India | leader | Narendra_Modi
+India | leader | Sumitra_Mahajan
+Amdavad_ni_Gufa | location | Ahmedabad
+Amdavad_ni_Gufa | country | India
+Amdavad_ni_Gufa | completionDate | 1995
+Amdavad_ni_Gufa | location | Ahmedabad
+Amdavad_ni_Gufa | country | India
+India | leader | Narendra_Modi
+Amdavad_ni_Gufa | location | Ahmedabad
+Amdavad_ni_Gufa | country | India
+India | leader | Sumitra_Mahajan
+Amdavad_ni_Gufa | location | Gujarat
+Amdavad_ni_Gufa | address | Lalbhai Dalpatbhai Campus, near CEPT University, opp. Gujarat University, University Road
+Amdavad_ni_Gufa | country | India
+Amdavad_ni_Gufa | location | Gujarat
+Amdavad_ni_Gufa | country | India
+Amdavad_ni_Gufa | completionDate | 1995
+Amdavad_ni_Gufa | location | Gujarat
+Amdavad_ni_Gufa | country | India
+India | leader | Narendra_Modi
+Amdavad_ni_Gufa | location | Gujarat
+Amdavad_ni_Gufa | country | India
+India | leader | Sumitra_Mahajan
+Amdavad_ni_Gufa | location | Gujarat
+Amdavad_ni_Gufa | location | Ahmedabad
+Amdavad_ni_Gufa | country | India
+Ampara_Hospital | country | Sri_Lanka
+Sri_Lanka | leader | Ranil_Wickremesinghe
+Ampara_Hospital | region | Ampara_District
+Ampara_Hospital | country | Sri_Lanka
+Sri_Lanka | leader | Ranil_Wickremesinghe
+Sri_Lanka | capital | Sri_Jayawardenepura_Kotte
+Asilomar_Conference_Grounds | architect | Julia_Morgan
+Julia_Morgan | birthPlace | California
+Julia_Morgan | significantBuilding | Asilomar_State_Beach
+Asilomar_Conference_Grounds | architect | Julia_Morgan
+Julia_Morgan | birthPlace | San_Francisco
+Julia_Morgan | significantBuilding | Asilomar_State_Beach
+Asilomar_Conference_Grounds | architect | Julia_Morgan
+Julia_Morgan | birthPlace | San_Francisco
+Julia_Morgan | significantBuilding | Chinatown,_San_Francisco
+Asilomar_Conference_Grounds | architect | Julia_Morgan
+Julia_Morgan | birthPlace | San_Francisco
+Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner
+Asilomar_Conference_Grounds | architect | Julia_Morgan
+Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner
+Julia_Morgan | birthPlace | California
+Asilomar_Conference_Grounds | architect | Julia_Morgan
+Julia_Morgan | significantBuilding | Los_Angeles_Herald-Examiner
+Julia_Morgan | significantBuilding | Riverside_Art_Museum
+Asilomar_Conference_Grounds | architect | Julia_Morgan
+Julia_Morgan | significantBuilding | Riverside_Art_Museum
+Julia_Morgan | birthPlace | California
+Asilomar_Conference_Grounds | architect | Julia_Morgan
+Julia_Morgan | significantBuilding | Riverside_Art_Museum
+Julia_Morgan | significantBuilding | Asilomar_State_Beach
+Asilomar_Conference_Grounds | location | Asilomar Blvd., Pacific Grove, California
+Asilomar_Conference_Grounds | NationalRegisterOfHistoricPlacesReferenceNumber | 87000823
+Asilomar_Conference_Grounds | yearOfConstruction | 1913
+Asilomar_Conference_Grounds | location | Asilomar Blvd., Pacific Grove, California
+Asilomar_Conference_Grounds | addedToTheNationalRegisterOfHistoricPlaces | 1987-02-27
+Asilomar_Conference_Grounds | yearOfConstruction | 1913
+Asilomar_Conference_Grounds | location | Asilomar Blvd., Pacific Grove, California
+Asilomar_Conference_Grounds | yearOfConstruction | 1913
+Asilomar_Conference_Grounds | architecture | Arts and Crafts Movement and American craftsman Bungalows
+Asilomar_Conference_Grounds | location | Pacific_Grove,_California
+Asilomar_Conference_Grounds | NationalRegisterOfHistoricPlacesReferenceNumber | 87000823
+Asilomar_Conference_Grounds | yearOfConstruction | 1913
+Asilomar_Conference_Grounds | location | Pacific_Grove,_California
+Asilomar_Conference_Grounds | addedToTheNationalRegisterOfHistoricPlaces | 1987-02-27
+Asilomar_Conference_Grounds | yearOfConstruction | 1913
+Asilomar_Conference_Grounds | location | Pacific_Grove,_California
+Asilomar_Conference_Grounds | yearOfConstruction | 1913
+Asilomar_Conference_Grounds | architecture | Arts and Crafts Movement and American craftsman Bungalows
+Dublin | country | Republic_of_Ireland
+3Arena | location | Dublin
+Dublin | isPartOf | Leinster
+Ethiopia | leader | Hailemariam_Desalegn
+Addis_Ababa_City_Hall | country | Ethiopia
+Addis_Ababa_City_Hall | location | Addis_Ababa
+Ethiopia | leader | Mulatu_Teshome
+Addis_Ababa_City_Hall | country | Ethiopia
+Addis_Ababa_City_Hall | location | Addis_Ababa
+Ethiopia | leader | Mulatu_Teshome
+Addis_Ababa_City_Hall | location | Addis_Ababa
+Addis_Ababa | country | Ethiopia
+Gujarat | leader | Anandiben_Patel
+Amdavad_ni_Gufa | location | Gujarat
+Amdavad_ni_Gufa | country | India
+India | demonym | Indian_people
+Amdavad_ni_Gufa | country | India
+India | leader | Sumitra_Mahajan
+India | leader | T._S._Thakur
+Amdavad_ni_Gufa | country | India
+India | leader | Narendra_Modi
+India | leader | T._S._Thakur
+Amdavad_ni_Gufa | location | Ahmedabad
+Amdavad_ni_Gufa | country | India
+India | leader | T._S._Thakur
+Amdavad_ni_Gufa | location | Gujarat
+Amdavad_ni_Gufa | country | India
+India | leader | T._S._Thakur
+India | demonym | Indian_people
+Amdavad_ni_Gufa | country | India
+United_States | capital | Washington,_D.C.
+United_States | leader | John_Roberts
+250_Delaware_Avenue | location | United_States
+United_States | capital | Washington,_D.C.
+United_States | leader | Paul_Ryan
+250_Delaware_Avenue | location | United_States
+United_States | language | English_language
+United_States | leader | Joe_Biden
+250_Delaware_Avenue | location | United_States
+United_States | language | English_language
+United_States | leader | Paul_Ryan
+250_Delaware_Avenue | location | United_States
+United_States | leaderTitle | President_of_the_United_States
+250_Delaware_Avenue | location | United_States
+United_States | leader | Barack_Obama
+United_States | leaderTitle | President_of_the_United_States
+United_States | leader | Joe_Biden
+250_Delaware_Avenue | location | United_States
+United_States | leaderTitle | President_of_the_United_States
+United_States | leader | John_Roberts
+250_Delaware_Avenue | location | United_States
+United_States | leaderTitle | President_of_the_United_States
+United_States | leader | Paul_Ryan
+250_Delaware_Avenue | location | United_States
+11_Diagonal_Street | location | South_Africa
+South_Africa | capital | Cape_Town
+South_Africa | leader | Cyril_Ramaphosa
+11_Diagonal_Street | location | South_Africa
+South_Africa | leader | Jacob_Zuma
+South_Africa | ethnicGroup | Coloured
+11_Diagonal_Street | location | South_Africa
+South_Africa | leader | Jacob_Zuma
+South_Africa | ethnicGroup | White_South_African
+250_Delaware_Avenue | location | Buffalo,_New_York
+Buffalo,_New_York | isPartOf | Erie_County,_New_York
+Buffalo,_New_York | isPartOf | New_York
+3Arena | location | Dublin
+3Arena | architect | HOK SVE
+3Arena | completionDate | December 2008
+3Arena | location | Dublin
+3Arena | architect | Populous_(company)
+3Arena | completionDate | December 2008
+3Arena | owner | Live_Nation_Entertainment
+Dublin | country | Republic_of_Ireland
+3Arena | location | Dublin
+Addis_Ababa_City_Hall | currentTenants | Government of Addis Ababa
+Addis_Ababa_City_Hall | floorArea | 140000.0 (square metres)
+Addis_Ababa_City_Hall | height | 42 m
+Adisham_Hall | location | Sri_Lanka
+Adisham_Hall | architecturalStyle | Tudor_Revival_architecture
+Adisham_Hall | completionDate | 1931
+Ampara_Hospital | country | Sri_Lanka
+Ampara_Hospital | region | Ampara_District
+Ampara_Hospital | bedCount | 476
+Ampara_Hospital | country | Sri_Lanka
+Sri_Lanka | leader | Ranil_Wickremesinghe
+Ampara_Hospital | state | Eastern_Province,_Sri_Lanka
+Asilomar_Conference_Grounds | location | Pacific_Grove,_California
+Asilomar_Conference_Grounds | addedToTheNationalRegisterOfHistoricPlaces | 1987-02-27
+Asilomar_Conference_Grounds | NationalRegisterOfHistoricPlacesReferenceNumber | 87000823
+India | leader | T._S._Thakur
+Amdavad_ni_Gufa | country | India
+India | leader | Sumitra_Mahajan

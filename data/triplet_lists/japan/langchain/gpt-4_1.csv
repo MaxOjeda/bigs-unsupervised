@@ -1,0 +1,549 @@
+s,p,o
+Japan,ISCONTAINEDIN,East Asia
+Japan,ISRELATEDTO,Pacific Ocean
+Japan,ISRELATEDTO,Sea Of Japan
+Japan,ISRELATEDTO,Sea Of Okhotsk
+Japan,ISRELATEDTO,East China Sea
+Japan,ISCONTAINEDIN,Tokyo
+Japan,ISCONTAINEDIN,Japanese Archipelago
+Japan,ISCONTAINEDIN,47 Administrative Prefectures
+Japan,ISCONTAINEDIN,Eight Traditional Regions
+Japan,ISRELATEDTO,World War Ii
+Japan,ISRELATEDTO,U.S.
+Japan,ISRELATEDTO,Meiji Period
+Japan,ISRELATEDTO,Korea
+Japan,ISRELATEDTO,China
+Japan,ISRELATEDTO,G7
+Japan,ISRELATEDTO,Buddhism
+Japan,ISCONTAINEDIN,National Diet
+World War Ii,ISRELATEDTO,U.S.
+U.S.,ISRELATEDTO,Hiroshima
+U.S.,ISRELATEDTO,Nagasaki
+Japan,ISRELATEDTO,Japanese Paleolithic
+Japanese Paleolithic,ISCONTAINEDIN,Upper Paleolithic
+Nara,ISRELATEDTO,Heian-Kyō
+Shōgun,ISRELATEDTO,Daimyō
+Shōgun,ISRELATEDTO,Samurai
+Samurai,ISRELATEDTO,Daimyō
+Kamakura Shogunate,ISRELATEDTO,Japan
+Ashikaga Shogunate,ISRELATEDTO,Japan
+Tokugawa Shogunate,ISRELATEDTO,Japan
+Tokugawa Shogunate,ISRELATEDTO,Kamakura Shogunate
+Tokugawa Shogunate,ISRELATEDTO,Ashikaga Shogunate
+Tokugawa Shogunate,ISRELATEDTO,Isolationist Foreign Policy
+Japan,ISRELATEDTO,Allied Occupation
+Japan,ISRELATEDTO,Lost Decades
+Japan,ISRELATEDTO,Automotive
+Japan,ISRELATEDTO,Electronics
+Japan,ISRELATEDTO,Robotics
+Japan,ISRELATEDTO,Art
+Japan,ISRELATEDTO,Cuisine
+Japan,ISRELATEDTO,Films
+Japan,ISRELATEDTO,Music
+Japan,ISRELATEDTO,Animation
+Japan,ISRELATEDTO,Comics
+Japan,ISRELATEDTO,Video Games
+Nihon,ISRELATEDTO,Nippon
+Japan,ISRELATEDTO,Nihon
+Japan,ISRELATEDTO,Nippon
+Japan,ISRELATEDTO,Wa
+Japan,ISRELATEDTO,Yamato
+Yamato,ISRELATEDTO,Emperor Jimmu
+Emperor Jimmu,ISRELATEDTO,Amaterasu
+Jōmon Period,ISRELATEDTO,Jōmon People
+Jōmon Period,ISRELATEDTO,Yayoi People
+Jōmon People,ISRELATEDTO,Yayoi People
+Japan,ISRELATEDTO,Book Of Han
+Japan,ISRELATEDTO,Book Of Wei
+Book Of Han,ISRELATEDTO,Book Of Wei
+Japan,ISRELATEDTO,Yamatai
+Buddhism,ISRELATEDTO,Baekje
+Buddhism,ISRELATEDTO,Asuka Period
+Buddhism,ISRELATEDTO,China
+Buddhism,ISRELATEDTO,Prince Shōtoku
+Japan,ISRELATEDTO,Prince Naka No Ōe
+Japan,ISRELATEDTO,Fujiwara No Kamatari
+Prince Naka No Ōe,ISRELATEDTO,Fujiwara No Kamatari
+Taika Reforms,ISRELATEDTO,Confucianism
+Taika Reforms,ISRELATEDTO,China
+Taika Reforms,ISRELATEDTO,Taihō Code
+Taika Reforms,ISRELATEDTO,Ritsuryō State
+Taihō Code,ISRELATEDTO,Ritsuryō State
+Jinshin War,ISRELATEDTO,Prince Ōama
+Jinshin War,ISRELATEDTO,Prince Ōtomo
+Nara Period,ISRELATEDTO,Heijō-Kyō
+Nara Period,ISRELATEDTO,Kojiki
+Nara Period,ISRELATEDTO,Nihon Shoki
+Nara Period,ISRELATEDTO,Emperor Kanmu
+Emperor Kanmu,ISRELATEDTO,Heian-Kyō
+Heian Period,ISRELATEDTO,Murasaki Shikibu
+Heian Period,ISRELATEDTO,The Tale Of Genji
+Heian Period,ISRELATEDTO,Kimigayo
+Samurai,ISRELATEDTO,Minamoto Clan
+Samurai,ISRELATEDTO,Taira Clan
+Genpei War,ISRELATEDTO,Minamoto Clan
+Genpei War,ISRELATEDTO,Taira Clan
+Genpei War,ISRELATEDTO,Minamoto No Yoritomo
+Minamoto No Yoritomo,ISRELATEDTO,Kamakura Shogunate
+Kamakura Shogunate,ISRELATEDTO,Hōjō Clan
+Kamakura Period,ISRELATEDTO,Zen Buddhism
+Zen Buddhism,ISRELATEDTO,China
+Kamakura Shogunate,ISRELATEDTO,Mongol Invasions
+Emperor Go-Daigo,ISRELATEDTO,Ashikaga Takauji
+Ashikaga Takauji,ISRELATEDTO,Muromachi Period
+Muromachi Period,ISRELATEDTO,Ashikaga Shogunate
+Sengoku Period,ISRELATEDTO,Daimyō
+Oda Nobunaga,ISRELATEDTO,Azuchi–Momoyama Period
+Oda Nobunaga,ISRELATEDTO,Toyotomi Hideyoshi
+Toyotomi Hideyoshi,ISRELATEDTO,"Invasions Of Korea (1592, 1597)"
+"Invasions Of Korea (1592, 1597)",ISRELATEDTO,Korea
+Portugal,ISRELATEDTO,Southeast Asia
+Marco Polo,ISRELATEDTO,Cipangu
+Tokugawa Ieyasu,ISRELATEDTO,Toyotomi Hideyori
+Tokugawa Ieyasu,ISPARTOF,Council Of Five Elders
+Tokugawa Ieyasu,WASPRESENTAT,Battle Of Sekigahara
+Tokugawa Ieyasu,ISRELATEDTO,Tokugawa Shogunate
+Tokugawa Shogunate,ISCONTAINEDIN,Edo
+Edo,ISRELATEDTO,Tokyo
+Tokugawa Shogunate,ISRELATEDTO,Buke Shohatto
+Buke Shohatto,ISRELATEDTO,Daimyō
+Tokugawa Shogunate,ISRELATEDTO,Sakoku
+Sakoku,ISPARTOF,Edo Period
+Kaidō,ISPARTOF,Edo Period
+Osaka Rice Brokers,ISRELATEDTO,Futures Contracts
+Osaka Rice Brokers,ISRELATEDTO,Banking And Insurance Of The Osaka Rice Brokers
+Rangaku,ISRELATEDTO,Dutch Enclave In Nagasaki
+Kokugaku,ISPARTOF,Edo Period
+Commodore Matthew C. Perry,ISPARTOF,United States Navy
+Commodore Matthew C. Perry,ISRELATEDTO,Perry Expedition
+Perry Expedition,OCCURSAT,Uraga
+Perry Expedition,ISRELATEDTO,Black Ships
+Perry Expedition,ISRELATEDTO,Convention Of Kanagawa
+Convention Of Kanagawa,ISRELATEDTO,Western Countries
+Meiji Restoration,ISRELATEDTO,Boshin War
+Cabinet,ISRELATEDTO,Privy Council
+Cabinet,ISRELATEDTO,Meiji Constitution
+Cabinet,ISRELATEDTO,Imperial Diet
+Empire Of Japan,ISRELATEDTO,Meiji Period
+Empire Of Japan,ISRELATEDTO,First Sino-Japanese War
+Empire Of Japan,ISRELATEDTO,Russo-Japanese War
+Empire Of Japan,ISCONTAINEDIN,Taiwan
+Empire Of Japan,ISCONTAINEDIN,Korea
+Empire Of Japan,ISCONTAINEDIN,Sakhalin
+Empire Of Japan,ISRELATEDTO,Korea
+Allies,ISRELATEDTO,World War I
+Empire Of Japan,ISRELATEDTO,Great Tokyo Earthquake
+Empire Of Japan,ISRELATEDTO,Statism
+Empire Of Japan,ISRELATEDTO,1931 Invasion Of Manchuria
+Empire Of Japan,ISRELATEDTO,Manchukuo
+Empire Of Japan,ISRELATEDTO,League Of Nations
+Empire Of Japan,ISRELATEDTO,Anti-Comintern Pact
+Empire Of Japan,ISRELATEDTO,Nazi Germany
+Empire Of Japan,ISRELATEDTO,Tripartite Pact
+Tripartite Pact,ISRELATEDTO,Axis Powers
+Empire Of Japan,ISRELATEDTO,Second Sino-Japanese War
+Empire Of Japan,ISRELATEDTO,French Indochina
+Empire Of Japan,ISRELATEDTO,Oil Embargo On Japan
+Empire Of Japan,ISRELATEDTO,World War Ii In The Pacific
+Soviet Invasion Of Manchuria,OCCURSAT,Manchuria
+Atomic Bombings Of Hiroshima And Nagasaki,OCCURSAT,Hiroshima
+Atomic Bombings Of Hiroshima And Nagasaki,OCCURSAT,Nagasaki
+Allies,ISRELATEDTO,International Military Tribunal For The Far East
+1947 Constitution Of Japan,ISRELATEDTO,Japan
+Japan,ISRELATEDTO,Treaty Of San Francisco
+Japan,ISRELATEDTO,United Nations
+2011 Tōhoku Earthquake,ISRELATEDTO,Fukushima Daiichi Nuclear Disaster
+Emperor Akihito,ISRELATEDTO,Naruhito
+Naruhito,ISRELATEDTO,Reiwa Era
+Japanese Archipelago,ISPARTOF,Hokkaido
+Japanese Archipelago,ISPARTOF,Honshu
+Japanese Archipelago,ISPARTOF,Shikoku
+Japanese Archipelago,ISPARTOF,Kyushu
+Japanese Archipelago,ISPARTOF,Okinawa
+Japanese Archipelago,ISPARTOF,Ryukyu Islands
+Japanese Archipelago,ISPARTOF,Nanpō Islands
+Okinawa,ISPARTOF,Ryukyu Islands
+Japan,ISCONTAINEDIN,Lake Biwa
+Japan,ISRELATEDTO,Pacific Ring Of Fire
+Japan,ISRELATEDTO,Great Hanshin Earthquake
+Honshu,ISRELATEDTO,Chūgoku
+Honshu,ISRELATEDTO,Seto Inland Sea
+Environment Ministry,ISRELATEDTO,Japan
+Japan,ISRELATEDTO,Ramsar Wetland Sites
+Japan,ISRELATEDTO,Unesco World Heritage List
+Japan,ISRELATEDTO,World War Ii
+Japan,ISRELATEDTO,Environmental Performance Index
+Japan,ISRELATEDTO,Kyoto Protocol
+Japan,ISRELATEDTO,Carbon Dioxide
+Japan,ISRELATEDTO,Climate Change
+Sanae Takaichi,ISRELATEDTO,Prime Minister
+Naruhito,ISRELATEDTO,Japan
+Naruhito,ISRELATEDTO,Akihito
+Naruhito,ISRELATEDTO,Chrysanthemum Throne
+Japan,ISRELATEDTO,National Diet
+National Diet,ISPARTOF,House Of Representatives
+National Diet,ISPARTOF,House Of Councillors
+Prime Minister,ISRELATEDTO,Cabinet
+Prime Minister,ISRELATEDTO,Japanese People
+Japan,ISRELATEDTO,Six Codes
+Japan,ISRELATEDTO,Supreme Court
+Japan Self-Defense Forces,ISRELATEDTO,Ministry Of Defense
+Japan Self-Defense Forces,ISPARTOF,Japan Ground Self-Defense Force
+Japan Self-Defense Forces,ISPARTOF,Japan Maritime Self-Defense Force
+Japan Self-Defense Forces,ISPARTOF,Japan Air Self-Defense Force
+Japan,ISRELATEDTO,National Security Council
+Japan,ISRELATEDTO,National Security Strategy
+Japan,ISRELATEDTO,National Defense Program Guidelines
+Shinzo Abe,ISRELATEDTO,Japan
+Fumio Kishida,ISRELATEDTO,Japan
+Japan,ISRELATEDTO,National Police Agency
+National Police Agency,ISRELATEDTO,National Public Safety Commission
+National Police Agency,ISRELATEDTO,Special Assault Team
+Japan,ISRELATEDTO,Japan Coast Guard
+Japan,ISPARTOF,United Nations
+Japan,ISPARTOF,G4 Countries
+Japan,ISPARTOF,G7
+Japan,ISPARTOF,Apec
+Japan,ISPARTOF,Asean Plus Three
+Japan,ISRELATEDTO,East Asia Summit
+Japan,ISRELATEDTO,Official Development Assistance
+Japan,ISRELATEDTO,United States
+Japan,ISRELATEDTO,Free And Open Indo-Pacific Vision
+Japan,ISPARTOF,Quadrilateral Security Dialogue
+Quadrilateral Security Dialogue,ISPARTOF,United States
+Quadrilateral Security Dialogue,ISPARTOF,Australia
+Quadrilateral Security Dialogue,ISPARTOF,India
+Quadrilateral Security Dialogue,ISPARTOF,Japan
+Quadrilateral Security Dialogue,ISRELATEDTO,China
+Indo-Pacific Region,ISRELATEDTO,Japan
+Japan,ISRELATEDTO,Southern Kuril Islands
+Southern Kuril Islands,ISRELATEDTO,Russia
+Japan,ISRELATEDTO,Liancourt Rocks
+Liancourt Rocks,ISRELATEDTO,South Korea
+Japan,ISRELATEDTO,Senkaku Islands
+Senkaku Islands,ISRELATEDTO,China
+Senkaku Islands,ISRELATEDTO,Taiwan
+Japan,ISRELATEDTO,Okinotorishima
+Japan,ISRELATEDTO,Global Peace Index
+Japan Self-Defense Forces,ISRELATEDTO,Article 9 Of The Japanese Constitution
+Prefectural Police Departments,ISRELATEDTO,National Police Agency
+Japan,ISRELATEDTO,Firearm And Sword Possession Control Law
+Japan,ISRELATEDTO,United Nations Office On Drugs And Crime
+Japan,ISRELATEDTO,Japanese Constitution
+Japan,ISRELATEDTO,Human Rights Treaties
+Japan,ISRELATEDTO,Same-Sex Marriage
+Japan,ISRELATEDTO,G7 Countries
+Japan,ISRELATEDTO,Japanese Yen
+Japan,ISRELATEDTO,Public Debt
+Japan,ISRELATEDTO,Keiretsu Enterprises
+Japan,ISRELATEDTO,Lifetime Employment
+Japan,ISRELATEDTO,Seniority-Based Career Advancement
+Lifetime Employment,ISPARTOF,Japanese Work Environment
+Seniority-Based Career Advancement,ISPARTOF,Japanese Work Environment
+Japan,ISRELATEDTO,Cooperative Sector
+Cooperative Sector,ISPARTOF,World'S Largest Consumer Cooperative
+Cooperative Sector,ISPARTOF,World'S Largest Agricultural Cooperative
+World'S Largest Consumer Cooperative,ISCONTAINEDIN,2018
+World'S Largest Agricultural Cooperative,ISCONTAINEDIN,2018
+Japan,ISRELATEDTO,Competitiveness
+Japan,ISRELATEDTO,Economic Freedom
+Japan,ISRELATEDTO,International Tourism
+International Tourism,ISCONTAINEDIN,2024
+Japan,ISRELATEDTO,Inbound Tourism
+Inbound Tourism,ISCONTAINEDIN,2019
+Japan,ISRELATEDTO,Travel And Tourism Competitiveness Report
+Travel And Tourism Competitiveness Report,ISCONTAINEDIN,2024
+Japan,ISRELATEDTO,Tourists
+Japan,ISRELATEDTO,Tourism Receipts
+Tourism Receipts,ISCONTAINEDIN,2019
+Japan,ISRELATEDTO,Gdp
+Japanese Agricultural Sector,ISRELATEDTO,Gdp
+Japan,ISRELATEDTO,Arable Land
+Arable Land,ISPARTOF,Terraces
+Japan,ISRELATEDTO,Crop Yields
+Japan,ISRELATEDTO,Agricultural Self-Sufficiency
+Japan,ISRELATEDTO,Subsidies
+Japan,ISRELATEDTO,Protection (Agriculture)
+Japan,ISRELATEDTO,Farmers
+Farmers,ISRELATEDTO,Aging Population
+Japan,ISRELATEDTO,Fish Catch
+Japan,ISRELATEDTO,Fishing Fleets
+Fishing Fleets,ISRELATEDTO,Global Catch
+Japan,ISRELATEDTO,Fish Stock Depletion
+Fish Stock Depletion,ISRELATEDTO,Tuna
+Japan,ISRELATEDTO,Commercial Whaling
+Japan,ISRELATEDTO,Industrial Sector
+Japan,ISRELATEDTO,Motor Vehicles
+Japan,ISRELATEDTO,Machine Tools
+Japan,ISRELATEDTO,Steel And Nonferrous Metals
+Japan,ISRELATEDTO,Ships
+Japan,ISRELATEDTO,Chemical Substances
+Japan,ISRELATEDTO,Textiles
+Japan,ISRELATEDTO,Processed Foods
+Japan,ISRELATEDTO,Manufacturing Output
+Manufacturing Output,ISCONTAINEDIN,2023
+Japan,ISRELATEDTO,Automobile Production
+Japan,ISRELATEDTO,Automobile Export
+Toyota,ISCONTAINEDIN,Japan
+Toyota,ISRELATEDTO,Automobile Production
+Japan,ISRELATEDTO,Shipbuilding Industry
+Shipbuilding Industry,ISRELATEDTO,South Korea
+Shipbuilding Industry,ISRELATEDTO,China
+Japan,ISRELATEDTO,Government Initiative (2020)
+Government Initiative (2020),ISRELATEDTO,Shipbuilding Industry
+Shipbuilding Industry,ISRELATEDTO,Exports
+Japan,ISRELATEDTO,Consumer Electronics Industry
+Consumer Electronics Industry,ISRELATEDTO,South Korea
+Consumer Electronics Industry,ISRELATEDTO,China
+Japan,ISRELATEDTO,Video Game Sector
+Video Game Sector,ISCONTAINEDIN,2014
+Video Game Sector,ISRELATEDTO,Mobile Gaming
+Japan,ISRELATEDTO,Pc Game Market
+Pc Game Market,ISCONTAINEDIN,2015
+Pc Game Market,ISRELATEDTO,China
+Pc Game Market,ISRELATEDTO,United States
+Pc Game Market,ISRELATEDTO,South Korea
+Japan,ISRELATEDTO,Service Sector
+Japan,ISRELATEDTO,Banking
+Japan,ISRELATEDTO,Retail
+Japan,ISRELATEDTO,Transportation
+Japan,ISRELATEDTO,Telecommunications
+Japan,ISRELATEDTO,Mitsubishi Ufj
+Japan,ISRELATEDTO,Ntt
+Japan,ISRELATEDTO,Aeon
+Japan,ISRELATEDTO,Softbank
+Japan,ISRELATEDTO,Hitachi
+Japan,ISRELATEDTO,Itochu
+Japan,ISRELATEDTO,Research And Development Budget
+Japan,ISRELATEDTO,Researchers
+Japan,ISRELATEDTO,Science And Technology
+Japan,ISRELATEDTO,Nobel Laureates
+Japan,ISRELATEDTO,Fields Medalists
+Japan,ISRELATEDTO,Robotics Production And Use
+Japan,ISRELATEDTO,Japan Aerospace Exploration Agency
+Japan Aerospace Exploration Agency,ISRELATEDTO,Space Agency
+Japan Aerospace Exploration Agency,ISRELATEDTO,"Space, Planetary, Aviation Research"
+Japan Aerospace Exploration Agency,ISRELATEDTO,Rockets And Satellites Development
+Japan Aerospace Exploration Agency,ISRELATEDTO,International Space Station
+Japan Aerospace Exploration Agency,ISRELATEDTO,Japanese Experiment Module (Kibō)
+Japanese Experiment Module (Kibō),ISCONTAINEDIN,Space Shuttle Assembly Flights (2008)
+Japan Aerospace Exploration Agency,ISRELATEDTO,Akatsuki
+Akatsuki,ISRELATEDTO,Venus
+Japan Aerospace Exploration Agency,ISRELATEDTO,Moon Base Plan
+Moon Base Plan,ISCONTAINEDIN,2030
+Japan Aerospace Exploration Agency,ISRELATEDTO,Lunar Explorer Selene
+Lunar Explorer Selene,ISRELATEDTO,Tanegashima Space Center
+Lunar Explorer Selene,ISRELATEDTO,Apollo Program
+Lunar Explorer Selene,ISRELATEDTO,Moon
+Japan,ISRELATEDTO,Transportation Infrastructure
+Japan,ISRELATEDTO,Roads
+Japan,ISRELATEDTO,Railway Companies
+Japan,ISRELATEDTO,Privatization (1987)
+Railway Companies,ISPARTOF,Jr Enterprises
+Railway Companies,ISPARTOF,Kintetsu
+Railway Companies,ISPARTOF,Seibu Railway
+Railway Companies,ISPARTOF,Keio Corporation
+Japan,ISRELATEDTO,Shinkansen
+Shinkansen,ISRELATEDTO,Bullet Trains
+Japan,ISRELATEDTO,Airports
+Japan,ISRELATEDTO,Haneda Airport
+Haneda Airport,ISCONTAINEDIN,Tokyo
+Japan,ISRELATEDTO,Keihin Superport Hub
+Japan,ISRELATEDTO,Hanshin Superport Hub
+Japan,ISRELATEDTO,Energy Production
+Energy Production,ISRELATEDTO,Petroleum
+Energy Production,ISRELATEDTO,Coal
+Energy Production,ISRELATEDTO,Natural Gas
+Energy Production,ISRELATEDTO,Hydropower
+Energy Production,ISRELATEDTO,Nuclear Power
+Nuclear Power,ISRELATEDTO,Fukushima Daiichi Nuclear Disaster
+Fukushima Daiichi Nuclear Disaster,ISCONTAINEDIN,March 2011
+Sendai Nuclear Power Plant,ISCONTAINEDIN,2015
+Japan,ISRELATEDTO,Energy Imports
+Japan,ISRELATEDTO,Energy Efficiency
+Japan,ISRELATEDTO,Population
+Population,ISPARTOF,Japanese Nationals
+Population,ISPARTOF,Foreign Residents
+Japan,ISRELATEDTO,Aging Population
+Aging Population,ISRELATEDTO,Post–World War Ii Baby Boom
+Aging Population,ISRELATEDTO,Life Expectancy
+Aging Population,ISRELATEDTO,Birth Rates
+Japan,ISRELATEDTO,Fertility Rate
+Japan,ISRELATEDTO,Median Age
+Japan,ISRELATEDTO,Working Age Population
+Japan,ISRELATEDTO,Immigration
+Japan,ISRELATEDTO,Birth Incentives
+Government Of Japan,ISRELATEDTO,Japan
+Government Of Japan,ISRELATEDTO,Revised Immigration Law (2019)
+Revised Immigration Law (2019),ISCONTAINEDIN,"April 1, 2019"
+Japan,ISRELATEDTO,City Population
+Tokyo,ISCONTAINEDIN,Japan
+Greater Tokyo Area,ISPARTOF,Tokyo
+Japan,ISRELATEDTO,Greater Tokyo Area
+Japan,ISRELATEDTO,Japanese People
+Japanese People,ISRELATEDTO,Ainu
+Japanese People,ISRELATEDTO,Ryukyuan People
+Japan,ISRELATEDTO,Zainichi Koreans
+Japan,ISRELATEDTO,Chinese (Minority In Japan)
+Japan,ISRELATEDTO,Filipinos (Minority In Japan)
+Japan,ISRELATEDTO,Brazilians (Mostly Of Japanese Descent)
+Japan,ISRELATEDTO,Peruvians (Mostly Of Japanese Descent)
+Japan,ISRELATEDTO,Burakumin
+Japan,ISRELATEDTO,Japanese Language
+Japanese Language,ISRELATEDTO,National Language
+Japanese Language,ISRELATEDTO,Kanji
+Japanese Language,ISRELATEDTO,Kana
+Japanese Language,ISRELATEDTO,Latin Alphabet
+Japanese Language,ISRELATEDTO,Arabic Numerals
+Japan,ISRELATEDTO,English
+English,ISRELATEDTO,Business Link Language
+English,ISRELATEDTO,International Link Language
+English,ISRELATEDTO,Junior High Schools
+English,ISRELATEDTO,Senior High Schools
+Japan,ISRELATEDTO,Japanese Sign Language
+Japanese,ISRELATEDTO,Japan
+Ryukyuan Languages,ISCONTAINEDIN,Japan
+Ainu Language,ISCONTAINEDIN,Japan
+Korean,ISRELATEDTO,Japan
+Chinese,ISRELATEDTO,Japan
+Portuguese,ISRELATEDTO,Japan
+Shinto,ISRELATEDTO,Japan
+Buddhism,ISRELATEDTO,Japan
+Taoism,ISRELATEDTO,Japan
+Confucianism,ISRELATEDTO,Japan
+Islam,ISRELATEDTO,Japan
+Hinduism,ISRELATEDTO,Japan
+Judaism,ISRELATEDTO,Japan
+BaháʼÍ Faith,ISRELATEDTO,Japan
+Animist Beliefs Of The Ainu,ISRELATEDTO,Japan
+Fundamental Law Of Education,ISRELATEDTO,Japan
+Elementary School,ISPARTOF,Japan
+Junior High School,ISPARTOF,Japan
+Senior High School,ISPARTOF,Japan
+University Of Tokyo,ISPARTOF,Japan
+Mext,ISPARTOF,Japan
+Oecd,ISRELATEDTO,Japan
+Oecd,ISRELATEDTO,South Korea
+National Health Insurance Program,ISPARTOF,Japan
+Health Care In Japan,ISRELATEDTO,Japan
+Cancer,ISRELATEDTO,Japan
+Cardiovascular Diseases,ISRELATEDTO,Japan
+Suicide,ISRELATEDTO,Japan
+Smoking Among Japanese Men,ISRELATEDTO,Japan
+Heart Disease,ISRELATEDTO,Japan
+Dementia,ISRELATEDTO,Japan
+Unesco World Heritage List,ISRELATEDTO,Japan
+Japonism,ISRELATEDTO,Japan
+World War Ii,ISRELATEDTO,Japan
+Kenzō Tange,ISRELATEDTO,Japan
+Metabolism (Architecture),ISRELATEDTO,Japan
+Kojiki,ISRELATEDTO,Japan
+Nihon Shoki,ISRELATEDTO,Japan
+Man'Yōshū,ISRELATEDTO,Japan
+Kana,ISRELATEDTO,Japan
+The Tale Of The Bamboo Cutter,ISRELATEDTO,Japan
+The Pillow Book,ISRELATEDTO,Japan
+Sei Shōnagon,ISRELATEDTO,The Pillow Book
+The Tale Of Genji,ISRELATEDTO,Japan
+Murasaki Shikibu,ISRELATEDTO,The Tale Of Genji
+Edo Period,ISRELATEDTO,Japan
+Chōnin,ISRELATEDTO,Japan
+Samurai Aristocracy,ISRELATEDTO,Japan
+Saikaku,ISRELATEDTO,Japan
+Bashō,ISRELATEDTO,Japan
+Kokinshū,ISRELATEDTO,Japan
+Haikai,ISRELATEDTO,Bashō
+Oku No Hosomichi,ISRELATEDTO,Bashō
+Meiji Era,ISRELATEDTO,Japan
+Natsume Sōseki,ISRELATEDTO,Japan
+Mori Ōgai,ISRELATEDTO,Japan
+Ryūnosuke Akutagawa,ISRELATEDTO,Japan
+Jun'Ichirō Tanizaki,ISRELATEDTO,Japan
+Kafū Nagai,ISRELATEDTO,Japan
+Haruki Murakami,ISRELATEDTO,Japan
+Kenji Nakagami,ISRELATEDTO,Japan
+Yasunari Kawabata,ISRELATEDTO,Japan
+Kenzaburō Ōe,ISRELATEDTO,Japan
+Japanese Philosophy,ISRELATEDTO,Japan
+Japanese Music,ISRELATEDTO,Japan
+Koto,ISRELATEDTO,Japanese Music
+Shamisen,ISRELATEDTO,Japanese Music
+Kumi-Daiko,ISRELATEDTO,Japan
+J-Pop,ISRELATEDTO,Japan
+Karaoke,ISRELATEDTO,Japan
+Noh,ISRELATEDTO,Japan
+Kyōgen,ISRELATEDTO,Japan
+Kabuki,ISRELATEDTO,Japan
+Bunraku,ISRELATEDTO,Japan
+Nhk,ISRELATEDTO,Japan
+Ishirō Honda,ISRELATEDTO,Godzilla
+Godzilla,ISRELATEDTO,Japan
+Kaiju Films,ISRELATEDTO,Godzilla
+Manga,ISRELATEDTO,Japan
+Anime,ISRELATEDTO,Japan
+Anime,ISRELATEDTO,Manga
+Japan,ISRELATEDTO,National Holiday
+National Holiday,ISRELATEDTO,Public Holiday Law
+Public Holiday Law,ISPARTOF,Japan
+National Holiday,ISRELATEDTO,Happy Monday System
+Japan,ISRELATEDTO,Japanese Cuisine
+Japanese Cuisine,ISPARTOF,Seafood
+Japanese Cuisine,ISPARTOF,Japanese Rice
+Japanese Cuisine,ISPARTOF,Noodles
+Japanese Cuisine,ISRELATEDTO,Japanese Curry
+Japanese Cuisine,ISRELATEDTO,Ramen
+Japanese Cuisine,ISRELATEDTO,Sushi
+Japanese Cuisine,ISRELATEDTO,Wagashi
+Wagashi,ISRELATEDTO,Red Bean Paste
+Wagashi,ISRELATEDTO,Mochi
+Japanese Cuisine,ISRELATEDTO,Green Tea Ice Cream
+Japan,ISRELATEDTO,Sake
+Japan,ISRELATEDTO,Beer
+Japan,ISRELATEDTO,Green Tea
+Green Tea,ISRELATEDTO,Matcha
+Matcha,OCCURSAT,Japanese Tea Ceremony
+Japan,ISRELATEDTO,Sumo
+Japan,ISRELATEDTO,Judo
+Japan,ISRELATEDTO,Kendo
+Japan,ISRELATEDTO,Karate
+Karate,ISRELATEDTO,Ryukyu Kingdom
+Karate,ISRELATEDTO,Olympic Games
+Japan,ISRELATEDTO,Baseball
+Nippon Professional Baseball,ISRELATEDTO,Baseball
+Japan,ISRELATEDTO,Nippon Professional Baseball
+Japan,ISRELATEDTO,Japan Professional Football League
+Japan Professional Football League,ISRELATEDTO,Association Football
+Japan,ISRELATEDTO,Association Football
+2002 Fifa World Cup,OCCURSAT,Japan
+2002 Fifa World Cup,OCCURSAT,South Korea
+Japan,ISRELATEDTO,Japan Men'S National Football Team
+Japan Men'S National Football Team,ISRELATEDTO,Asian Cup
+Japan Men'S National Football Team,ISRELATEDTO,Fifa Women'S World Cup 2011
+Japan,ISRELATEDTO,Golf
+Japan,ISRELATEDTO,Motorsport
+Japanese Automotive Manufacturers,ISRELATEDTO,Motorsport
+Japanese Automotive Manufacturers,ISRELATEDTO,Formula One
+Japanese Automotive Manufacturers,ISRELATEDTO,Motogp
+Japanese Automotive Manufacturers,ISRELATEDTO,World Rally Championship
+Japanese Automotive Manufacturers,ISRELATEDTO,Indianapolis 500
+Japanese Automotive Manufacturers,ISRELATEDTO,24 Hours Of Le Mans
+Japan,ISRELATEDTO,Super Gt
+Japan,ISRELATEDTO,Super Formula
+Japan,ISRELATEDTO,Japanese Grand Prix
+Summer Olympics 1964,OCCURSAT,Tokyo
+Japan,ISRELATEDTO,Summer Olympics 1964
+Winter Olympics 1972,OCCURSAT,Sapporo
+Japan,ISRELATEDTO,Winter Olympics 1972
+Winter Olympics 1998,OCCURSAT,Nagano
+Japan,ISRELATEDTO,Winter Olympics 1998
+Japan,OCCURSAT,2006 Basketball World Championship
+Japan,OCCURSAT,2023 Basketball World Championship
+2020 Summer Olympics (2021),OCCURSAT,Tokyo
+Japan,ISRELATEDTO,2020 Summer Olympics (2021)
+Japan,OCCURSAT,Women'S Volleyball World Championship
+Asian Rugby Union,ISRELATEDTO,Japan
+2019 Irb Rugby World Cup,OCCURSAT,Japan
+Prime Minister Of Japan,ISRELATEDTO,Japan
+Imperial Household Agency,ISRELATEDTO,Japan
+National Diet Library,ISRELATEDTO,Japan
+36°N 138°E,ISCONTAINEDIN,Japan

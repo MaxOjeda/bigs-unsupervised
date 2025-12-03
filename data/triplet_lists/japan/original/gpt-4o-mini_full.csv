@@ -1,0 +1,218 @@
+s,p,o
+lunar mission SELENE launch,OccursAt,tanegashima space center
+lunar mission SELENE launch,IsRelatedTo,japan aerospace exploration agency
+tanegashima space center,IsContainedIn,japan
+lunar mission SELENE crash,OccursAt,japan
+lunar mission SELENE crash,IsRelatedTo,japan aerospace exploration agency
+japan,OccursAt,space probe Akatsuki orbit
+japan,OccursAt,japan opened trade
+japan,OccursAt,imperial power restored
+japan,OccursAt,korea annexed
+japan,OccursAt,china invaded
+japan,OccursAt,u.s. attacked
+japan,OccursAt,surrendered in war
+japan,OccursAt,taika reforms
+japan,OccursAt,jinshin war
+japan,OccursAt,smallpox epidemic
+japan,OccursAt,mongol invasions repel
+japan,OccursAt,mongol invasions repel
+japan,OccursAt,go-daigo's defeat
+japan,OccursAt,sengoku period begins
+japan,OccursAt,sanae takaichi takes office
+japan,OccursAt,japan military budget increase
+japan,OccursAt,statement by shinzo abe
+japan,OccursAt,spending increase instruction
+japan,OccursAt,labor force estimation
+japan,OccursAt,national debt estimate
+japan,OccursAt,international tourism receipts
+japan,OccursAt,tourism ranking
+japan,OccursAt,surrender of japan
+japan,OccursAt,abdication of emperor
+japan,OccursAt,naruhito becomes emperor
+japan,WasPresentAt,yasunari kawabata
+japan,WasPresentAt,kenzaburo oe
+japan,WasPresentAt,ishiro honda
+japan,WasPresentAt,sey shonagon
+japan,WasPresentAt,murasaki shikibu
+japan,WasPresentAt,natsume soseki
+japan,WasPresentAt,mori ogai
+japan,WasPresentAt,ryunosuke akutagawa
+japan,WasPresentAt,jun'ichiro tanizaki
+japan,WasPresentAt,kafu nagai
+japan,WasPresentAt,haruki murakami
+japan,WasPresentAt,kenji nakagami
+japan,WasPresentAt,kenzo tange
+japan,WasPresentAt,naka no Oe
+japan,WasPresentAt,fujiwara no kamatari
+japan,WasPresentAt,takauji ashikaga
+japan,WasPresentAt,sanae takaichi
+japan,WasPresentAt,shinzo abe
+japan,WasPresentAt,fumio kishida
+japan,IsContainedIn,tokyo
+japan,IsContainedIn,nara
+japan,IsContainedIn,heian-kyo
+japan,IsContainedIn,hiroshima
+japan,IsContainedIn,nagasaki
+japan,IsContainedIn,heijo-kyo
+japan,IsContainedIn,kamakura
+japan,IsContainedIn,university of tokyo
+japan,IsContainedIn,ryukyu islands
+japan,IsContainedIn,southern kuril islands
+japan,IsContainedIn,liancourt rocks
+japan,IsContainedIn,senkaku islands
+japan,IsContainedIn,okinotorishima
+japan,IsContainedIn,honshu
+japan,IsContainedIn,okinawa
+japan,IsContainedIn,nagaski
+japan,IsContainedIn,hokkaido
+japan,IsContainedIn,shikoku
+japan,IsContainedIn,kyushu
+japan opened trade,IsRelatedTo,tokugawa shogunate
+imperial power restored,IsRelatedTo,japan
+korea annexed,IsRelatedTo,japan
+china invaded,IsRelatedTo,japan
+u.s. attacked,IsRelatedTo,japan
+surrendered in war,IsRelatedTo,allied forces
+1964 summer olympics,OccursAt,tokyo
+1964 summer olympics,IsRelatedTo,japan
+tokyo,OccursAt,2002 fifa world cup
+tokyo,OccursAt,2006 basketball world championship
+tokyo,OccursAt,2020 summer olympics
+tokyo,OccursAt,2019 rugby world cup
+tokyo,OccursAt,2023 basketball world championship
+tokyo,IsContainedIn,haneda airport
+tokyo,IsContainedIn,tokyo
+tokyo,IsContainedIn,greater tokyo area
+tokyo,IsContainedIn,sapporo
+tokyo,IsContainedIn,nagano
+1972 winter olympics,OccursAt,sapporo
+1972 winter olympics,IsRelatedTo,japan
+1998 winter olympics,OccursAt,nagano
+1998 winter olympics,IsRelatedTo,japan
+2002 fifa world cup,IsRelatedTo,japan
+2006 basketball world championship,IsRelatedTo,japan
+2020 summer olympics,IsRelatedTo,japan
+2019 rugby world cup,IsRelatedTo,japan
+2023 basketball world championship,IsRelatedTo,japan
+repelled mongol invasions,OccursAt,edo
+repelled mongol invasions,IsRelatedTo,kamakura shogunate
+edo,OccursAt,overthrown by go-daigo
+edo,OccursAt,battle of sekigahara
+edo,OccursAt,established tokugawa shogunate
+edo,OccursAt,convention of kanagawa
+edo,OccursAt,meiji constitution
+edo,OccursAt,signed anti-comintern pact
+edo,WasPresentAt,tokugawa ieyasu
+edo,IsContainedIn,nagasaki
+edo,IsContainedIn,taiwan
+overthrown by go-daigo,IsRelatedTo,go daigo
+overthrown by go-daigo,IsRelatedTo,ashikaga takauji
+overthrown by go-daigo,IsRelatedTo,kamakura shogunate
+established tokugawa shogunate,IsRelatedTo,tokugawa ieyasu
+established tokugawa shogunate,IsRelatedTo,tokugawa shogunate
+annexed korea,OccursAt,taiwan
+annexed korea,IsRelatedTo,empire of japan
+taiwan,IsContainedIn,nagasaki
+taiwan,IsContainedIn,manchukuo
+taiwan,IsContainedIn,hong kong
+invaded manchuria,OccursAt,manchukuo
+invaded manchuria,IsRelatedTo,empire of japan
+manchukuo,OccursAt,invaded france indochina
+signed anti-comintern pact,IsRelatedTo,nazi germany
+invaded france indochina,IsRelatedTo,empire of japan
+pearl harbor attacks,OccursAt,pearl harbor
+pearl harbor attacks,IsRelatedTo,empire of japan
+pearl harbor attacks,IsRelatedTo,axis powers
+pearl harbor,OccursAt,pearl harbor attack
+taika reforms,IsRelatedTo,naka no Oe
+taika reforms,IsRelatedTo,fujiwara no kamatari
+taika reforms,IsRelatedTo,imperial court
+jinshin war,IsRelatedTo,kamakura shogunate
+emperor kanmu's capital move,OccursAt,heian-kyo
+heian-kyo,WasPresentAt,murasaki shikibu
+genpei war defeat,OccursAt,kamakura
+genpei war defeat,IsRelatedTo,minamoto clan
+mongol invasions repel,IsRelatedTo,hojo clan
+mongol invasions repel,IsRelatedTo,hojo clan
+go-daigo's defeat,IsRelatedTo,takauji ashikaga
+go-daigo's defeat,IsRelatedTo,ashikaga shogunate
+sanae takaichi takes office,IsRelatedTo,sanae takaichi
+sanae takaichi takes office,IsRelatedTo,liberal democratic party
+japan military budget increase,IsRelatedTo,fumio kishida
+japan military budget increase,IsRelatedTo,ministry of defense
+japan's military overseas deployment,OccursAt,iraq
+japan's military overseas deployment,IsRelatedTo,japan self-defense forces
+statement by shinzo abe,IsRelatedTo,shinzo abe
+statement by shinzo abe,IsRelatedTo,national police agency
+statement by shinzo abe,IsRelatedTo,national public safety commission
+statement by shinzo abe,IsRelatedTo,japan coast guard
+statement by shinzo abe,IsRelatedTo,united nations office on drugs and crime
+spending increase instruction,IsRelatedTo,fumio kishida
+spending increase instruction,IsRelatedTo,japan self-defense forces (jsdf)
+spending increase instruction,IsRelatedTo,united nations office on drugs and crime
+highest temperature recorded,OccursAt,sea of japan
+highest temperature recorded,IsRelatedTo,environment ministry
+sea of japan,WasPresentAt,sanae takaichi
+environmental laws introduced,OccursAt,honshu
+environmental laws introduced,IsRelatedTo,environment ministry
+honshu,OccursAt,carbon neutrality target announced
+honshu,OccursAt,emperor Naruhito's accession
+honshu,OccursAt,Takaichi's prime ministership
+honshu,IsContainedIn,ryukyu islands
+honshu,IsContainedIn,chugoku region
+honshu,IsContainedIn,shikoku region
+honshu,IsContainedIn,seto inland sea
+honshu,IsContainedIn,nanpo islands
+honshu,IsContainedIn,okinawa
+carbon neutrality target announced,IsRelatedTo,environment ministry
+Takaichi's prime ministership,IsRelatedTo,sanae takaichi
+pearl harbor attack,IsRelatedTo,japan
+pearl harbor attack,IsRelatedTo,allies
+surrender of japan,IsRelatedTo,japan
+surrender of japan,IsRelatedTo,allies
+surrender of japan,IsRelatedTo,international military tribunal for the far east
+tohoku earthquake,OccursAt,fukushima daiichi
+tohoku earthquake,IsRelatedTo,japan
+yasunari kawabata,IsRelatedTo,national government of japan
+yasunari kawabata,IsRelatedTo,japan
+national government of japan,IsRelatedTo,kenzaburo oe
+national government of japan,IsRelatedTo,sey shonagon
+national government of japan,IsRelatedTo,murasaki shikibu
+national government of japan,IsRelatedTo,natsume soseki
+national government of japan,IsRelatedTo,mori ogai
+national government of japan,IsRelatedTo,ryunosuke akutagawa
+national government of japan,IsRelatedTo,jun'ichiro tanizaki
+national government of japan,IsRelatedTo,kafu nagai
+national government of japan,IsRelatedTo,haruki murakami
+national government of japan,IsRelatedTo,kenji nakagami
+national government of japan,IsRelatedTo,kenzo tange
+national government of japan,IsPartOf,local governments of japan
+japan,IsRelatedTo,kenzaburo oe
+japan,IsRelatedTo,sanae takaichi
+japan,IsPartOf,government of japan
+ishiro honda,IsRelatedTo,nippon professional baseball
+go daigo,IsRelatedTo,kamakura shogunate
+kamakura shogunate,IsPartOf,ashikaga shogunate
+kamakura shogunate,IsPartOf,minamoto clan
+kamakura shogunate,IsPartOf,hojo clan
+ashikaga takauji,IsRelatedTo,ashikaga shogunate
+ashikaga shogunate,IsRelatedTo,takauji ashikaga
+tokugawa ieyasu,IsRelatedTo,tokugawa shogunate
+matthew perry,WasPresentAt,hong kong
+matthew perry,WasPresentAt,singapore
+matthew perry,WasPresentAt,nagasaki
+naka no Oe,IsRelatedTo,imperial court
+imperial court,IsRelatedTo,fujiwara no kamatari
+sanae takaichi,WasPresentAt,okinawa
+sanae takaichi,IsRelatedTo,liberal democratic party
+sanae takaichi,IsRelatedTo,government of japan
+liberal democratic party,IsRelatedTo,shinzo abe
+liberal democratic party,IsRelatedTo,fumio kishida
+liberal democratic party,IsPartOf,ishin
+government of japan,IsRelatedTo,shinzo abe
+government of japan,IsRelatedTo,fumio kishida
+government of japan,IsPartOf,mext
+government of japan,IsPartOf,oecd
+shinzo abe,IsRelatedTo,japan self-defense forces (jsdf)
+japan self-defense forces (jsdf),IsRelatedTo,fumio kishida
+national police agency,IsPartOf,national public safety commission

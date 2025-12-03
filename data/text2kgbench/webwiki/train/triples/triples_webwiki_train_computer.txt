@@ -1,0 +1,294 @@
+Neverwinter Nights 2: Storm of Zehir | developer | Obsidian Entertainment
+The Elder Scrolls III: Tribunal | developer | Bethesda Game Studios
+Diablo II: Lord of Destruction | developer | Blizzard North
+Grand Theft Auto: The Ballad of Gay Tony | developer | Rockstar North
+Neverwinter Nights: Hordes of the Underdark | developer | BioWare
+Windows XP | developer | Microsoft
+BSD/OS | developer | Berkeley Software Design
+Age of Empires II: The Forgotten | developer | Forgotten Empires
+Black & White: Creature Isle | developer | Lionhead Studios
+Opera Mini | developer | Opera Software
+Grand Theft Auto IV: The Lost and Damned | developer | Rockstar North
+Age of Conan: Rise of the Godslayer | developer | Funcom
+Mass Effect 2: Arrival | developer | BioWare
+DX10 | developer | Texas Instruments
+Destiny: Rise of Iron | developer | Bungie
+Magic Cap | developer | General Magic
+Windows Mobile 6.0 | developer | Microsoft
+Half-Life: Opposing Force | developer | Gearbox Software
+Crysis Warhead | developer | Crytek
+F.E.A.R. Perseus Mandate | developer | TimeGate Studios
+K42 | developer | IBM
+Heroes of Might and Magic III: Armageddon's Blade | developer | New World Computing
+Fallout 4: Far Harbor | developer | Bethesda Game Studios
+webOS | developer | LG Electronics
+The Last of Us: Left Behind | developer | Naughty Dog
+Infamous: Festival of Blood | developer | Sucker Punch Productions
+Avid Free DV | developer | Avid Technology
+The Sims 2: University | developer | Maxis
+Dynix | developer | IBM
+X-COM: Alliance | developer | MicroProse
+Pinnacle Studio | developer | Pinnacle Systems
+Opera GX | developer | Opera Software
+Contract J.A.C.K. | developer | Monolith Productions
+EROFS | developer | Huawei
+Guild Wars 2: Path of Fire | developer | ArenaNet
+Oryx/Pecos | developer | Bell Labs
+MUSIC/SP | developer | McGill University
+Delta Force: Task Force Dagger | developer | Zombie Studios
+Gothic 3: Forsaken Gods | developer | Mad Vulture Games
+Windows Home Server 2011 | developer | Microsoft
+ChorusOS | developer | Chorus Systèmes
+Multi-Environment Real-Time | developer | Bell Labs
+Company of Heroes: Opposing Fronts | developer | Relic Entertainment
+RISC OS | developer | Acorn Computers
+Mass Effect 2: Lair of the Shadow Broker | developer | BioWare
+General Comprehensive Operating System | developer | General Electric
+Act of War: High Treason | developer | Eugen Systems
+Edos | developer | The Computer Software Company
+Free Studio | developer | DVDVideoSoft
+Ultrix | developer | Digital Equipment Corporation
+Windows Server 2008 | developer | Microsoft
+OS/2 | developer | Microsoft
+Transaction Management eXecutive | developer | NCR Corporation
+SUPER-UX | developer | NEC
+GlobalView | developer | Xerox
+Heroes Chronicles | developer | New World Computing
+Ultima Online: Samurai Empire | developer | Electronic Arts
+GNOSIS | developer | Tymshare
+Call of Duty: United Offensive | developer | Gray Matter Interactive
+DC/OSx | developer | Pyramid Technology
+CB UNIX | developer | Bell Labs
+Myst Online: Uru Live | developer | Cyan Worlds
+Acorn MOS | developer | Acorn Computers
+Reiser4 | developer | Namesys
+Painkiller: Overdose | developer | Mindware Studios
+Opera Coast | developer | Opera Software
+PowerDirector | developer | CyberLink
+Domain/OS | developer | Apollo Computer
+Destiny 2: Forsaken | developer | Bungie
+Internet Explorer Mobile | developer | Microsoft
+OpenVMS | developer | Digital Equipment Corporation
+OS/390 | developer | IBM
+Stronghold: Crusader | developer | Firefly Studios
+Adobe Persuasion | developer | Aldus
+TOPS-10 | developer | Digital Equipment Corporation
+Operating System Embedded | developer | ENEA AB
+Ulead MediaStudio Pro | developer | Ulead Systems
+Age of Mythology: The Titans | developer | Ensemble Studios
+Age of Empires II: The Forgotten | developer | SkyBox Labs
+Pillars of Eternity: The White March | developer | Obsidian Entertainment
+The Pirate Bay | creator | Fredrik Neij
+Vampirella | creator | Forrest J Ackerman
+Billoo | creator | Pran Kumar Sharma
+QRpedia | creator | Roger Bamkin
+Mezangelle | creator | Mez Breeze
+EyeWriter | creator | James Powderly
+Doom engine | creator | John Carmack
+DaySide | creator | Linda Vester
+Vitruvian Man | creator | Leonardo da Vinci
+GNU Emacs | creator | Richard Stallman
+River Raid | creator | Carol Shaw
+Vue.js | creator | Evan You
+GeoGebra | creator | Markus Hohenwarter
+EyeWriter | creator | Evan Roth
+PHP | creator | Rasmus Lerdorf
+All The Stations | creator | Geoff Marshall
+One Love Manchester | creator | Ariana Grande
+OpenStreetMap | creator | Steve Coast
+Digg | creator | Kevin Rose
+suprnova.org | creator | Andrej Preston
+Electronic Document System | creator | Sandor Nagy
+PHYLIP | creator | Joseph Felsenstein
+Adler-32 | creator | Mark Adler
+The Castle Doctrine | creator | Jason Rohrer
+Sci-Hub | creator | Alexandra Elbakyan
+Truth or Consequences | creator | Ralph Edwards
+MacTutor History of Mathematics archive | creator | John O'Connor
+Demon Attack | creator | Rob Fulop
+Tor2web | creator | Aaron Swartz
+The Interactive Encyclopedia System | creator | Don Hopkins
+Angry Little Girls | creator | Lela Lee
+Teenage Mutant Ninja Turtles | creator | Peter Laird
+Geraldo at Large | creator | Geraldo Rivera
+Ain't It Cool News | creator | Harry Knowles
+600 Seconds | creator | Alexander Nevzorov
+Tiny C Compiler | creator | Fabrice Bellard
+Indigenous Tweets | creator | Kevin Scannell
+Pinakes | creator | Callimachus
+EyeWriter | creator | Theo Watson
+File Retrieval and Editing System | creator | Andries van Dam
+CyberLeninka | creator | Dmitry Semyachkin
+Encyclopedia Astronautica | creator | Mark Wade
+TypeShift | creator | Zach Gage
+Nextcloud | creator | Frank Karlitschek
+Matplotlib | creator | John D. Hunter
+MAPS.ME | creator | Yury Melnichek
+PROSITE | creator | Amos Bairoch
+TypeScript | creator | Anders Hejlsberg
+Papers, Please | creator | Lucas Pope
+Wikia Search | creator | Jimmy Wales
+Sonic Pi | creator | Sam Aaron
+Mr. Hero the Newmatic Man | creator | Neil Gaiman
+Linux kernel | creator | Linus Torvalds
+Man or boy test | creator | Donald Knuth
+LDraw | creator | James Jessiman
+My Boyfriend Came Back From The War | creator | Olia Lialina
+CP/M | creator | Gary Kildall
+Severny Vestnik | creator | Anna Yevreinova
+Iruresa | creator | Lasantha Wickrematunge
+Geet Ramayan | creator | Sudhir Phadke
+Nightline | creator | Roone Arledge
+FAR Manager | creator | Eugene Roshal
+Kiwix | creator | Renaud Gaudin
+QRpedia | creator | Terence Eden
+Dunzhin | platform | Commodore 64
+The Datestones of Ryn | platform | Commodore PET
+Canyon Climber | platform | TRS-80 Color Computer
+Laser Squad | platform | Commodore 64
+Frak! | platform | Acorn Electron
+NLTSS | platform | Cray Y-MP
+B.C. II: Grog's Revenge | platform | Commodore 64
+LUnix | platform | Commodore 128
+Zork III | platform | Atari ST
+007: Licence to Kill | platform | Atari ST
+Eddie Kidd Jump Challenge | platform | Commodore 64
+Blasteroids | platform | Atari ST
+Ballblazer | platform | Amstrad CPC
+Sherlock Holmes: Consulting Detective | platform | Tandy Video Information System
+Acorn MOS | platform | BBC Master
+iOS 4 | platform | iPhone 3G
+Star Control | platform | Amstrad CPC
+Aztec Challenge | platform | Commodore 64
+Blasteroids | platform | Amstrad CPC
+iOS 4 | platform | iPhone 4
+Starglider | platform | Amstrad PCW
+Wizard of Wor | platform | Commodore 64
+Spacewar! | platform | PDP-1
+The Faery Tale Adventure | platform | Commodore 64
+Nether Earth | platform | Amstrad CPC
+Battle Chess | platform | Commodore 64
+OpenVMS | platform | VAX
+WAITS | platform | PDP-6
+Acorn MOS | platform | BBC Micro
+Barbarian: The Ultimate Warrior | platform | Commodore 64
+NOS/VE | platform | CDC Cyber
+Eddie Kidd Jump Challenge | platform | MSX
+Loopz | platform | Commodore 64
+Robinson's Requiem | platform | Atari Falcon
+Dragon Buster | platform | MSX
+Temple of Apshai | platform | Commodore PET
+Loopz | platform | Amstrad CPC
+River Raid | platform | Commodore 64
+Chase H.Q. | platform | Commodore 64
+Nether Earth | platform | Commodore 64
+Bonecruncher | platform | Acorn Electron
+iPhone OS 2 | platform | iPhone 3G
+Mystery House | platform | Apple II
+Ballblazer | platform | MSX
+Impossible Mission | platform | Amstrad CPC
+LUnix | platform | Commodore 64
+Castle Wolfenstein | platform | Atari 8-bit family
+Yie Ar Kung-Fu II | platform | MSX
+Radar Rat Race | platform | Commodore VIC-20
+Cosmic Camouflage | platform | Acorn Electron
+Wargame Construction Set | platform | Atari 8-bit family
+Murder on the Mississippi | platform | Apple II
+Zynaps | platform | Atari ST
+The Activision Decathlon | platform | MSX
+Realm of Nauga | platform | TRS-80 Color Computer
+NLTSS | platform | Cray X-MP
+Hellfire Warrior | platform | Commodore PET
+Army Moves | platform | MSX
+Archon: The Light and the Dark | platform | Commodore 64
+HDOS | platform | Heathkit H8
+Microprose Soccer | platform | Commodore 64
+Sinclair QDOS | platform | Sinclair QL
+Cray Time Sharing System | platform | Cray-1
+Cauldron II: The Pumpkin Strikes Back | platform | Commodore 64
+Wings of Fury | platform | Commodore 64
+Halls of the Things | platform | Amstrad CPC
+Magic Pockets | platform | Acorn Archimedes
+Leisure Suit Larry in the Land of the Lounge Lizards | platform | Atari ST
+iOS 5 | platform | iPhone 4S
+TSX-Plus | platform | PDP-11
+007: Licence to Kill | platform | BBC Micro
+Laser Squad | platform | Amstrad CPC
+Army Moves | platform | Commodore 64
+EmuTOS | platform | Atari ST
+ASCI Blue Mountain | platform | SGI Origin 2000
+Battle Chess | platform | Apple IIGS
+Fortress of the Mutant Waffles | platform | TRS-80 Color Computer
+Yie Ar Kung-Fu II | platform | Commodore 64
+Scarfman | platform | TRS-80 Color Computer
+MiNT | platform | Atari ST
+SGI Prism | operating system | Linux
+Gigabyte M912 | operating system | Linux
+SGI Visual Workstation | operating system | Windows 2000
+SGI Onyx2 | operating system | IRIX
+IBM System 9000 | operating system | Computer System Operating System
+SGI Origin 200 | operating system | IRIX
+SGI Visual Workstation | operating system | Windows NT 4.0
+SGI Crimson | operating system | IRIX
+gPXE | derivative work | iPXE
+StarOffice | derivative work | OpenOffice.org
+MySQL | derivative work | MariaDB
+Red Hat Linux | derivative work | Red Hat Enterprise Linux
+Windows NT 4.0 | derivative work | Windows 2000
+Mandriva Linux | derivative work | Mageia
+ircII | derivative work | BitchX
+Mozilla Application Suite | derivative work | SeaMonkey
+OS/2 | derivative work | ArcaOS
+OpenOffice.org | derivative work | Apache OpenOffice
+SimCity 64 | distribution format | 64DD
+Ys IV: The Dawn of Ys | distribution format | CD-ROM
+Speed Racer: The Videogame | distribution format | DVD
+Disgaea 2 | distribution format | DVD
+Gus Goes to Cybertown | distribution format | CD-ROM
+The Walt Disney World Explorer | distribution format | CD-ROM
+Slam City with Scottie Pippen | distribution format | CD-ROM
+Star Parodier | distribution format | CD-ROM
+Skyborg: Into the Vortex | distribution format | CD-ROM
+GTR Evolution | distribution format | DVD
+Dark Sun: Wake of the Ravager | distribution format | floppy disk
+Rui wa Tomo o Yobu | distribution format | DVD
+Star Wars: Rebel Assault | distribution format | CD-ROM
+World Championship Poker | distribution format | DVD
+Chip 'n Dale Rescue Rangers: The Adventures in Nimnul's Castle | distribution format | floppy disk
+Doshin the Giant | distribution format | 64DD
+Cotton: Fantastic Night Dreams | distribution format | CD-ROM
+Root After and Another | distribution format | DVD
+The Case of the Cautious Condor | distribution format | CD-ROM
+Prince Interactive | distribution format | CD-ROM
+Ai Senshi Nicol | distribution format | Family Computer Disk System
+Cosmology of Kyoto | distribution format | CD-ROM
+Scooby-Doo! First Frights | distribution format | DVD
+The Last Bounty Hunter | distribution format | LaserDisc
+Dark Wizard | distribution format | Sega CD
+Flyable Heart | distribution format | DVD
+Popful Mail | distribution format | CD-ROM
+Operation Sabotage | distribution format | floppy disk
+GNU Compiler Collection | implementation of | C++
+JScript | implementation of | ECMAScript
+OpenMS | uses | The OpenMS Proteomics Pipeline
+TweetDeck | uses | Twitter
+QRpedia | uses | Wikipedia
+Insight Segmentation and Registration Toolkit | uses | CMake
+Structurae | uses | MySQL
+Macintosh Classic II | CPU | Motorola 68030
+Nexus 6P | CPU | Snapdragon 810
+Amiga 1000 | CPU | Motorola 68000
+Xiaomi Mi 2S | CPU | Qualcomm Snapdragon
+Amiga 600 | CPU | Motorola 68000
+Micro-Professor MPF-I | CPU | Zilog Z80
+Sharp PC-5000 | CPU | Intel 8088
+Samsung Galaxy A7 (2017) | CPU | ARM Cortex-A53
+AWK | named after | Brian Kernighan
+Sather | named after | Sather Tower
+one-time pad | discoverer or inventor | Gilbert Vernam
+Manchester Baby | discoverer or inventor | Tom Kilburn
+OCB mode | discoverer or inventor | Phillip Rogaway
+Analytical Engine | discoverer or inventor | Charles Babbage
+Cangjie input method | discoverer or inventor | Chu Bong-Foo
+Mersenne twister | discoverer or inventor | Makoto Matsumoto
+Bombe | discoverer or inventor | Alan Turing

@@ -1,0 +1,213 @@
+s,p,o
+Japan,ISRELATEDTO,East Asia
+Tokyo,ISPARTOF,Japan
+Nara,ISPARTOF,Japan
+Heian-Kyō,ISPARTOF,Japan
+Korea,ISCONTAINEDIN,East Asia
+Baekje,ISPARTOF,Korea
+Minamoto No Yoritomo,ISRELATEDTO,Kamakura Shogunate
+Kamakura Shogunate,OCCURSAT,Japan
+Ashikaga Takauji,ISRELATEDTO,Ashikaga Shogunate
+Fujiwara No Kamatari,ISRELATEDTO,Taika Reforms
+Prince Naka No Ōe,ISRELATEDTO,Taika Reforms
+Meiji Period,OCCURSAT,Japan
+World War Ii,OCCURSAT,Japan
+Pacific War,ISRELATEDTO,World War Ii
+Allied Occupation,OCCURSAT,Japan
+1853 American Fleet Opens Trade,OCCURSAT,Japan
+1868 Restoration Of Imperial Power,OCCURSAT,Japan
+1910 Annexation Of Korea,OCCURSAT,Korea
+1937 Invasion Of China,OCCURSAT,China
+1941 Attack On Us And European Powers,OCCURSAT,Japan
+1945 Surrender,OCCURSAT,Japan
+Atomic Bombing Of Hiroshima,OCCURSAT,Hiroshima
+Atomic Bombing Of Nagasaki,OCCURSAT,Nagasaki
+Hiroshima,ISRELATEDTO,World War Ii
+Nagasaki,ISRELATEDTO,World War Ii
+World War Ii,ISRELATEDTO,Pacific War
+Lost Decades,OCCURSAT,Japan
+National Diet,ISPARTOF,Japan
+G7,ISRELATEDTO,Japan
+Upper Paleolithic In Japan,OCCURSAT,Japan
+Jinshin War,OCCURSAT,Japan
+Kamakura Period,OCCURSAT,Japan
+Tokugawa_Ieyasu,ISPARTOF,Council_Of_Five_Elders
+Tokugawa_Ieyasu,ISRELATEDTO,Toyotomi_Hideyori
+Toyotomi_Hideyori,ISRELATEDTO,Toyotomi_Hideyoshi
+Battle_Of_Sekigahara,OCCURSAT,Sekigahara
+Tokugawa_Ieyasu,WASPRESENTAT,Battle_Of_Sekigahara
+Emperor_Go_Yozei,ISRELATEDTO,Tokugawa_Ieyasu
+Tokugawa_Shogunate,ISRELATEDTO,Edo
+Tokugawa_Shogunate,ISRELATEDTO,Buke_Shohato
+Sakoku,ISRELATEDTO,Edo_Period
+Edo,ISRELATEDTO,Edo_Period
+Rangaku,ISRELATEDTO,Nagasaki
+Matthew_C_Perry,WASPRESENTAT,Perry_Expedition
+Perry_Expedition,OCCURSAT,Uraga
+Perry_Expedition,ISRELATEDTO,Convention_Of_Kanagawa
+Convention_Of_Kanagawa,OCCURSAT,Uraga
+Meiji_Restoration,ISRELATEDTO,Empire_Of_Japan
+Cabinet,ISRELATEDTO,Privy_Council
+Meiji_Constitution,ISRELATEDTO,Imperial_Diet
+Imperial_Diet,ISRELATEDTO,Meiji_Constitution
+Empire_Of_Japan,ISRELATEDTO,Japan
+First_Sino_Japanese_War,ISRELATEDTO,Empire_Of_Japan
+Russo_Japanese_War,ISRELATEDTO,Empire_Of_Japan
+Korea,ISRELATEDTO,First_Sino_Japanese_War
+Taiwan,ISRELATEDTO,First_Sino_Japanese_War
+Sakhalin,ISRELATEDTO,Russo_Japanese_War
+Manchukuo,ISRELATEDTO,Russo_Japanese_War
+League_Of_Nations,ISRELATEDTO,Empire_Of_Japan
+Anti_Comintern_Pact,ISRELATEDTO,Empire_Of_Japan
+Tripartite_Pact,ISRELATEDTO,Empire_Of_Japan
+Pearl_Harbor,ISRELATEDTO,Empire_Of_Japan
+Great_Tokyo_Earthquake_1923,OCCURSAT,Tokyo
+Naruhito,ISRELATEDTO,Reiwa_Era_Begins
+Reiwa_Era_Begins,ISRELATEDTO,Japan
+Emperor_Akihito,ISRELATEDTO,Naruhito
+Tohoku_Earthquake_2011,OCCURSAT,Japan
+Tohoku_Earthquake_2011,ISRELATEDTO,Fukushima_Daiichi
+Great_Tokyo_Earthquake_1923,ISRELATEDTO,Tokyo
+Perry_Expedition,OCCURSAT,Uraga
+Perry_Expedition,ISRELATEDTO,Convention_Of_Kanagawa
+Meiji_Restoration,ISRELATEDTO,Meiji_Constitution
+Empire_Of_Japan,ISRELATEDTO,United_Nations
+World War Ii,ISRELATEDTO,Japan
+Environmental Protection Laws (1970),OCCURSAT,Japan
+Oil Crisis (1973),OCCURSAT,Japan
+Energy Efficiency,ISRELATEDTO,Oil Crisis (1973)
+Environmental Performance Index (2018),ISRELATEDTO,Japan
+Kyoto Protocol,ISRELATEDTO,Japan
+Carbon Neutrality By 2050,OCCURSAT,Japan
+Nox And Urban Air Pollutants,OCCURSAT,Japan
+Environmental Issues In Japan,OCCURSAT,Japan
+Naruhito,ISRELATEDTO,Japan
+Akihito,ISRELATEDTO,Japan
+Sanae Takaichi,ISRELATEDTO,Liberal Democratic Party
+House Of Representatives,ISPARTOF,National Diet
+House Of Councillors,ISPARTOF,National Diet
+Sanae Takaichi,ISRELATEDTO,House Of Representatives
+Senkaku Islands,ISRELATEDTO,Japan
+Liancourt Rocks,ISRELATEDTO,Japan
+Southern Kuril Islands,ISRELATEDTO,Japan
+Okinotorishima,ISRELATEDTO,Japan
+Quad,ISRELATEDTO,Japan
+G7,ISRELATEDTO,Japan
+Apec,ISRELATEDTO,Japan
+East Asia Summit,ISRELATEDTO,Japan
+United States,ISRELATEDTO,Japan
+Japan Self-Defense Forces,ISRELATEDTO,United States
+Constitution Of Japan (1947),ISRELATEDTO,Article 9 Of The Constitution
+Kujikata Osadamegaki,ISRELATEDTO,Bürgerliches Gesetzbuch
+Six Codes,ISRELATEDTO,Bürgerliches Gesetzbuch
+Japan,ISRELATEDTO,Keiretsu
+Japan,ISRELATEDTO,Lifetime_Employment
+Japan,ISRELATEDTO,Seniority_Based_Career_Advancement
+Cooperative_Sector_In_Japan,ISRELATEDTO,Largest_Consumer_Cooperative
+Cooperative_Sector_In_Japan,ISRELATEDTO,Largest_Agricultural_Cooperative
+Largest_Consumer_Cooperative,ISRELATEDTO,Three_Largest_Cooperatives
+Largest_Agricultural_Cooperative,ISRELATEDTO,Three_Largest_Cooperatives
+Japan,ISRELATEDTO,Toyota
+Japan,ISRELATEDTO,Mitsubishi_Ufj
+Japan,ISRELATEDTO,Ntt
+Japan,ISRELATEDTO,Aeon
+Japan,ISRELATEDTO,Softbank
+Japan,ISRELATEDTO,Hitachi
+Japan,ISRELATEDTO,Itochu
+Japan,ISRELATEDTO,Kintetsu
+Japan,ISRELATEDTO,Seibu_Railway
+Japan,ISRELATEDTO,Keio_Corporation
+Japan,ISRELATEDTO,Jr_Enterprises
+Jr_Enterprises,ISPARTOF,Privatization_Of_Jr_1987
+Jaxa,ISRELATEDTO,Japan
+Selene,WASPRESENTAT,Moon
+Akatsuki,ISRELATEDTO,Jaxa
+Privatization_Of_Jr_1987,ISRELATEDTO,Jr_Enterprises
+Privatization_Of_Jr_1987,ISRELATEDTO,Japan
+Greater_Tokyo_Area,ISRELATEDTO,Tokyo
+Tokyo,ISRELATEDTO,Haneda_Airport
+Airports_In_Japan,ISRELATEDTO,Japan
+Travelandtourismreport2024,ISRELATEDTO,Japan
+Inbound_Tourism_2019_Rank11,ISRELATEDTO,Japan
+Ryukyuan Languages,ISRELATEDTO,Japonic Language Family
+Amami,ISPARTOF,Ryukyuan Languages
+Kunigami,ISPARTOF,Ryukyuan Languages
+Okinawan,ISPARTOF,Ryukyuan Languages
+Miyako,ISPARTOF,Ryukyuan Languages
+Yaeyama,ISPARTOF,Ryukyuan Languages
+Yonaguni,ISPARTOF,Ryukyuan Languages
+Amami,WASPRESENTAT,Ryukyu Islands Chain
+Kunigami,WASPRESENTAT,Ryukyu Islands Chain
+Okinawan,WASPRESENTAT,Ryukyu Islands Chain
+Miyako,WASPRESENTAT,Ryukyu Islands Chain
+Yaeyama,WASPRESENTAT,Ryukyu Islands Chain
+Yonaguni,WASPRESENTAT,Ryukyu Islands Chain
+Ainu,ISRELATEDTO,Language Isolate
+Shinto,ISRELATEDTO,Japan
+Buddhism,ISRELATEDTO,Japan
+Taoism,ISRELATEDTO,Japan
+Confucianism,ISRELATEDTO,Japan
+Christianity,ISRELATEDTO,Japan
+Islam,ISRELATEDTO,Japan
+Hinduism,ISRELATEDTO,Japan
+Judaism,ISRELATEDTO,Japan
+Bahá'Í Faith,ISRELATEDTO,Japan
+Ainu Animist Beliefs,ISRELATEDTO,Ainu
+University Of Tokyo,ISRELATEDTO,Japan
+Pisa,ISRELATEDTO,Oecd
+Pisa,ISRELATEDTO,Japan
+Oecd,ISRELATEDTO,Japan
+Mext,ISRELATEDTO,Japan
+Kenzō Tange,ISRELATEDTO,Japanese Architecture
+Ishirō Honda,ISRELATEDTO,Godzilla
+Godzilla,ISRELATEDTO,Godzilla Film Franchise
+Noh,ISRELATEDTO,Japanese Theater
+Kyōgen,ISRELATEDTO,Japanese Theater
+Kabuki,ISRELATEDTO,Japanese Theater
+Bunraku,ISRELATEDTO,Japanese Theater
+Kojiki,ISRELATEDTO,Japanese Literature
+Nihon Shoki,ISRELATEDTO,Japanese Literature
+Man'Yōshū,ISRELATEDTO,Japanese Literature
+Tale Of The Bamboo Cutter,ISRELATEDTO,Japanese Literature
+Pillow Book,ISRELATEDTO,Japanese Literature
+Tale Of Genji,ISRELATEDTO,Japanese Literature
+Haruki Murakami,ISRELATEDTO,Japanese Literature
+Kenji Nakagami,ISRELATEDTO,Japanese Literature
+Natsume Soseki,ISRELATEDTO,Japanese Literature
+Mori Ogai,ISRELATEDTO,Japanese Literature
+Ryūnosuke Akutagawa,ISRELATEDTO,Japanese Literature
+Yasunari Kawabata,ISRELATEDTO,Japanese Literature
+Kenzaburō Ōe,ISRELATEDTO,Japanese Literature
+Unesco World Heritage List,ISRELATEDTO,Japan
+Twenty-Two Sites Inscribed On Unesco World Heritage List,ISRELATEDTO,Japan
+Korean,ISRELATEDTO,Zainichi Korean Dialect
+Korean,ISRELATEDTO,Korean Language
+New Year'S Day,ISRELATEDTO,Public Holiday Law
+Coming Of Age Day,ISRELATEDTO,Public Holiday Law
+National Foundation Day,ISRELATEDTO,Public Holiday Law
+The Emperor'S Birthday,ISRELATEDTO,Public Holiday Law
+Vernal Equinox Day,ISRELATEDTO,Public Holiday Law
+Shōwa Day,ISRELATEDTO,Public Holiday Law
+Constitution Memorial Day,ISRELATEDTO,Public Holiday Law
+Greenery Day,ISRELATEDTO,Public Holiday Law
+Children'S Day,ISRELATEDTO,Public Holiday Law
+Marine Day,ISRELATEDTO,Public Holiday Law
+Mountain Day,ISRELATEDTO,Public Holiday Law
+Respect For The Aged Day,ISRELATEDTO,Public Holiday Law
+Autumnal Equinox,ISRELATEDTO,Public Holiday Law
+Health And Sports Day,ISRELATEDTO,Public Holiday Law
+Culture Day,ISRELATEDTO,Public Holiday Law
+Labor Thanksgiving Day,ISRELATEDTO,Public Holiday Law
+Coming Of Age Day,ISRELATEDTO,Happy Monday System
+Marine Day,ISRELATEDTO,Happy Monday System
+Respect For The Aged Day,ISRELATEDTO,Happy Monday System
+Health And Sports Day,ISRELATEDTO,Happy Monday System
+Summer Olympics 1964,OCCURSAT,Tokyo
+Winter Olympics 1972,OCCURSAT,Sapporo
+Winter Olympics 1998,OCCURSAT,Nagano
+2002 Fifa World Cup,OCCURSAT,Japan
+2002 Fifa World Cup,OCCURSAT,South Korea
+2011 Fifa Women'S World Cup,OCCURSAT,Japan
+2019 Rugby World Cup,OCCURSAT,Japan
+2006 Basketball World Championship,OCCURSAT,Japan
+2023 Basketball World Championship,OCCURSAT,Japan

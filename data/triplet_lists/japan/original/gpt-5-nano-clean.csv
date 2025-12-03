@@ -1,0 +1,123 @@
+s,p,o
+revised immigration law enacted,IsRelatedTo,japan
+revised immigration law enacted,IsRelatedTo,government of japan
+japan,OccursAt,buddhism introduced japan
+japan,OccursAt,taika reforms
+japan,OccursAt,jinshin war
+japan,OccursAt,taiho code promulgation
+japan,OccursAt,kojiki completion
+japan,OccursAt,nihon shoki completion
+japan,OccursAt,smallpox epidemic
+japan,OccursAt,heian period begins
+japan,OccursAt,mongol invasion repelled 1274
+japan,OccursAt,mongol invasion repelled 1281
+japan,OccursAt,sengoku period begins
+japan,OccursAt,genpei war
+japan,OccursAt,"['muromachi period begins', 'go-daigo defeat ashikaga']"
+japan,OccursAt,nine-year schooling start
+japan,OccursAt,record temperature high
+japan,IsContainedIn,tokyo
+japan,IsContainedIn,fukushima daiichi nuclear power plant
+japan,IsContainedIn,sendai nuclear power plant
+japan,IsContainedIn,keihin superport hub
+japan,IsContainedIn,hanshin superport hub
+japan,IsContainedIn,tanegashima space center
+japan,IsContainedIn,nara
+japan,IsContainedIn,kamakura
+japan,IsContainedIn,ashikaga
+japan,IsContainedIn,hiroshima
+japan,IsContainedIn,nagasaki
+japan,IsContainedIn,okinotorishima
+japan,WasPresentAt,fumio kishida
+japan,IsRelatedTo,yasunari kawabata
+japan,IsRelatedTo,kenzaburo oe
+japan,IsRelatedTo,ryunosuke akutagawa
+japan,IsRelatedTo,junichiro tanizaki
+japan,IsRelatedTo,kafu nagai
+japan,IsRelatedTo,haruki murakami
+japan,IsRelatedTo,kenji nakagami
+japan,IsRelatedTo,natsume soseki
+japan,IsRelatedTo,mori ogai
+japan,IsRelatedTo,murasaki shikibu
+japan,IsRelatedTo,sei shonagon
+japan,WasPresentAt,shinzo abe
+japan,IsPartOf,united nations
+japan,IsPartOf,g4
+japan,IsPartOf,g7
+japan,IsPartOf,apec
+japan,IsPartOf,asean plus three
+japan,IsPartOf,east asia summit
+japan,IsPartOf,quadrilateral security dialogue
+japan,IsPartOf,"ministry of education, culture, sports, science and technology"
+japan,IsPartOf,local governments
+selene orbit insertion,OccursAt,moon
+selene orbit insertion,IsRelatedTo,japan aerospace exploration agency
+moon,OccursAt,selene moon crash
+moon,IsContainedIn,moon base
+selene moon crash,IsRelatedTo,japan aerospace exploration agency
+meiji constitution,IsRelatedTo,privy council
+great tokyo earthquake,OccursAt,edo
+edo,WasPresentAt,tokugawa ieyasu
+japan in book of han,OccursAt,china
+china,IsContainedIn,hong kong
+nara period begins,OccursAt,nara
+capital move to heian-kyoto,OccursAt,heian-kyo
+heian-kyo,WasPresentAt,murasaki shikibu
+kamakura shogunate established,OccursAt,kamakura
+kamakura shogunate established,IsRelatedTo,kamakura shogunate
+kamakura,WasPresentAt,go daigo
+genpei war,IsRelatedTo,minamoto clan
+genpei war,IsRelatedTo,taira clan
+"['muromachi period begins', 'go-daigo defeat ashikaga']",IsRelatedTo,ashikaga shogunate
+nine-year schooling start,IsRelatedTo,"ministry of education, culture, sports, science and technology"
+record temperature high,IsRelatedTo,environment ministry
+['pearl harbor attack'],OccursAt,pearl harbor
+['pearl harbor attack'],OccursAt,hong kong
+['pearl harbor attack'],OccursAt,singapore
+['pearl harbor attack'],OccursAt,malaya
+['pearl harbor attack'],IsRelatedTo,empire of japan
+tokyo,IsContainedIn,greater tokyo area
+tokyo,IsContainedIn,haneda airport
+south korea,IsContainedIn,liancourt rocks
+europe,WasPresentAt,yasunari kawabata
+europe,WasPresentAt,kenzaburo oe
+muromachi,WasPresentAt,ashikaga takauji
+azuchi,WasPresentAt,oda nobunaga
+azuchi,WasPresentAt,toyotomi hideyoshi
+uraga,IsContainedIn,kanagawa
+manchuria,IsContainedIn,manchukuo
+ryukyu islands,IsContainedIn,amami
+ryukyu islands,IsContainedIn,okinawa
+southern kuril islands,IsContainedIn,russia
+fumio kishida,IsRelatedTo,government of japan
+government of japan,IsRelatedTo,sanae takaichi
+government of japan,IsRelatedTo,shinzo abe
+murasaki shikibu,IsRelatedTo,imperial court
+tokugawa ieyasu,IsRelatedTo,council of five elders
+go daigo,IsRelatedTo,kamakura shogunate
+kamakura shogunate,IsPartOf,hojo clan
+takauji ashikaga,IsRelatedTo,ashikaga shogunate
+sanae takaichi,IsRelatedTo,national diet
+sanae takaichi,IsRelatedTo,ishin
+sanae takaichi,IsRelatedTo,liberal democratic party
+shinzo abe,IsRelatedTo,united nations office on drugs and crime
+shinzo abe,IsRelatedTo,japan coast guard
+shinzo abe,IsRelatedTo,counter-nbc terrorism squads
+shinzo abe,IsRelatedTo,anti-firearms squads
+shinzo abe,IsRelatedTo,special assault team
+shinzo abe,IsRelatedTo,national public safety commission
+shinzo abe,IsRelatedTo,prefectural police departments
+shinzo abe,IsRelatedTo,national police agency
+national public safety commission,IsPartOf,national police agency
+prefectural police departments,IsPartOf,national police agency
+united nations,IsPartOf,empire of japan
+the government of japan,IsPartOf,the imperial household agency
+privy council,IsPartOf,empire of japan
+empire of japan,IsPartOf,imperial diet
+empire of japan,IsPartOf,axis powers
+empire of japan,IsPartOf,manchukuo
+axis powers,IsPartOf,nazi germany
+league of nations,IsPartOf,manchukuo
+japan self-defense forces,IsPartOf,japan ground self-defense force
+japan self-defense forces,IsPartOf,japan maritime self-defense force
+japan self-defense forces,IsPartOf,japan air self-defense force

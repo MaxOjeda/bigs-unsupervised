@@ -1,0 +1,647 @@
+1955_Dodge | engine | V8_engine
+1955_Dodge | alternativeName | Dodge Custom Royal
+1955_Dodge | bodyStyle | Hardtop
+1955_Dodge | engine | V8_engine
+1955_Dodge | manufacturer | Dodge
+1955_Dodge | wheelbase | 120.0 (inches)
+1955_Dodge | engine | V8_engine
+1955_Dodge | transmission | 3-speed automatic
+1955_Dodge | alternativeName | Dodge Custom Royal
+1955_Dodge | engine | V8_engine
+1955_Dodge | transmission | 3-speed automatic
+1955_Dodge | alternativeName | Dodge Suburban
+1955_Dodge | engine | V8_engine
+1955_Dodge | transmission | 3-speed automatic
+1955_Dodge | bodyStyle | Hardtop
+1955_Dodge | engine | V8_engine
+1955_Dodge | transmission | 3-speed automatic
+1955_Dodge | bodyStyle | Station_wagon
+1955_Dodge | relatedMeanOfTransportation | DeSoto_Custom
+1955_Dodge | relatedMeanOfTransportation | Plymouth_Plaza
+1955_Dodge | manufacturer | Dodge
+1955_Dodge | relatedMeanOfTransportation | DeSoto_Custom
+1955_Dodge | relatedMeanOfTransportation | Plymouth_Plaza
+DeSoto_Custom | manufacturer | DeSoto_(automobile)
+1955_Dodge | relatedMeanOfTransportation | DeSoto_Custom
+DeSoto_Custom | relatedMeanOfTransportation | Chrysler_Newport
+1955_Dodge | manufacturer | Dodge
+1955_Dodge | relatedMeanOfTransportation | DeSoto_Custom
+DeSoto_Custom | relatedMeanOfTransportation | Chrysler_Newport
+DeSoto_Custom | manufacturer | DeSoto_(automobile)
+1955_Dodge | relatedMeanOfTransportation | DeSoto_Custom
+DeSoto_Custom | relatedMeanOfTransportation | Dodge_Coronet
+1955_Dodge | manufacturer | Dodge
+1955_Dodge | relatedMeanOfTransportation | Plymouth_Plaza
+1955_Dodge | relatedMeanOfTransportation | DeSoto_Custom
+Plymouth_Plaza | manufacturer | Plymouth_(automobile)
+ALCO_RS-3 | builder | American_Locomotive_Company
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | engine | Four-stroke_engine
+ALCO_RS-3 | builder | American_Locomotive_Company
+ALCO_RS-3 | cylinderCount | 12
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | builder | American_Locomotive_Company
+ALCO_RS-3 | engine | V12_engine
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | builder | American_Locomotive_Company
+ALCO_RS-3 | powerType | Diesel-electric_transmission
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | builder | American_Locomotive_Company
+ALCO_RS-3 | totalProduction | 1418
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | builder | American_Locomotive_Company
+American_Locomotive_Company | foundationPlace | United_States
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | builder | American_Locomotive_Company
+American_Locomotive_Company | country | United_States
+American_Locomotive_Company | foundationPlace | Schenectady,_New_York
+ALCO_RS-3 | builder | Montreal_Locomotive_Works
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | engine | Four-stroke_engine
+ALCO_RS-3 | builder | Montreal_Locomotive_Works
+ALCO_RS-3 | engine | Four-stroke_engine
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | builder | Montreal_Locomotive_Works
+ALCO_RS-3 | engine | V12_engine
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | builder | Montreal_Locomotive_Works
+ALCO_RS-3 | engine | V12_engine
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | builder | Montreal_Locomotive_Works
+ALCO_RS-3 | powerType | Diesel-electric_transmission
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | builder | Montreal_Locomotive_Works
+ALCO_RS-3 | totalProduction | 1418
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALV_X-1 | countryOrigin | United_States
+ALV_X-1 | diameter | 1.524 (metres)
+ALV_X-1 | launchSite | Mid-Atlantic_Regional_Spaceport
+ALV_X-1 | countryOrigin | United_States
+United_States | ethnicGroup | African_Americans
+United_States | anthem | The_Star-Spangled_Banner
+ALV_X-1 | countryOrigin | United_States
+United_States | ethnicGroup | African_Americans
+United_States | capital | Washington,_D.C.
+ALV_X-1 | countryOrigin | United_States
+United_States | ethnicGroup | Asian_Americans
+United_States | anthem | The_Star-Spangled_Banner
+ALV_X-1 | countryOrigin | United_States
+United_States | ethnicGroup | Asian_Americans
+United_States | capital | Washington,_D.C.
+ALV_X-1 | countryOrigin | United_States
+United_States | ethnicGroup | Asian_Americans
+United_States | demonym | Americans
+ALV_X-1 | countryOrigin | United_States
+United_States | ethnicGroup | Native_Americans_in_the_United_States
+United_States | anthem | The_Star-Spangled_Banner
+ALV_X-1 | countryOrigin | United_States
+United_States | ethnicGroup | Native_Americans_in_the_United_States
+United_States | demonym | Americans
+ALV_X-1 | diameter | 1.524 (metres)
+ALV_X-1 | failedLaunches | 1
+ALV_X-1 | rocketStages | 2
+ALV_X-1 | diameter | 1.524 (metres)
+ALV_X-1 | launchSite | Mid-Atlantic_Regional_Spaceport
+ALV_X-1 | totalLaunches | 1
+ALV_X-1 | launchSite | Mid-Atlantic_Regional_Spaceport
+ALV_X-1 | diameter | 1.524 (metres)
+ALV_X-1 | rocketStages | 2
+AMC_Matador | alternativeName | American Motors Matador
+AMC_Matador | assembly | Australia
+AMC_Matador | engine | AMC_V8_engine
+AMC_Matador | alternativeName | VAM Classic
+AMC_Matador | assembly | Mexico_City
+AMC_Matador | engine | AMC_V8_engine
+AMC_Matador | alternativeName | VAM Classic
+AMC_Matador | assembly | Thames,_New_Zealand
+AMC_Matador | engine | AMC_V8_engine
+AMC_Matador | assembly | Australia
+AMC_Matador | modelYears | 1971
+AMC_Matador | relatedMeanOfTransportation | AMC_Ambassador
+AMC_Matador | assembly | USA
+AMC_Matador | modelYears | 1971
+AMC_Matador | relatedMeanOfTransportation | AMC_Ambassador
+AMC_Matador | assembly | Kenosha,_Wisconsin
+AMC_Matador | modelYears | 1971
+AMC_Matador | relatedMeanOfTransportation | AMC_Ambassador
+AMC_Matador | assembly | Mexico_City
+AMC_Matador | modelYears | 1971
+AMC_Matador | relatedMeanOfTransportation | AMC_Ambassador
+AMC_Matador | assembly | Port_Melbourne,_Victoria
+AMC_Matador | modelYears | 1974
+AMC_Matador | relatedMeanOfTransportation | AMC_Ambassador
+AMC_Matador | assembly | Thames,_New_Zealand
+AMC_Matador | modelYears | 1971
+AMC_Matador | relatedMeanOfTransportation | AMC_Ambassador
+AMC_Matador | assembly | Thames,_New_Zealand
+AMC_Matador | modelYears | 1974
+AMC_Matador | relatedMeanOfTransportation | AMC_Ambassador
+AMC_Matador | manufacturer | American_Motors
+American_Motors | fate | Chrysler
+American_Motors | keyPerson | Roy_D._Chapin,_Jr.
+AMC_Matador | modelYears | 1971
+AMC_Matador | relatedMeanOfTransportation | AMC_Ambassador
+AMC_Matador | assembly | Australian_Motor_Industries
+ARA_Veinticinco_de_Mayo_(V-2) | builder | Cammell_Laird
+Argentina | capital | Buenos_Aires
+ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina
+ARA_Veinticinco_de_Mayo_(V-2) | length | 192000.0 (millimetres)
+ARA_Veinticinco_de_Mayo_(V-2) | shipBeam | 24.4
+ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina
+ARA_Veinticinco_de_Mayo_(V-2) | shipBeam | 24.4
+ARA_Veinticinco_de_Mayo_(V-2) | status | Provided spare parts for NAeL Minas Geraisand and remainder was scrapped in 2000
+ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina
+Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone
+Abarth | foundationPlace | Bologna
+Abarth_1000_GT_Coupé | manufacturer | Abarth
+Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone
+Abarth_1000_GT_Coupé | manufacturer | Abarth
+Abarth | foundationPlace | Italy
+Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone
+Gruppo_Bertone | foundationPlace | Italy
+Abarth_1000_GT_Coupé | manufacturer | Abarth
+Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone
+Gruppo_Bertone | foundationPlace | Italy
+Gruppo_Bertone | foundationPlace | Turin
+Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone
+Gruppo_Bertone | foundationPlace | Italy
+Gruppo_Bertone | foundedBy | Giovanni_Bertone
+Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone
+Gruppo_Bertone | foundationPlace | Italy
+Gruppo_Bertone | city | Turin
+Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone
+Gruppo_Bertone | foundationPlace | Turin
+Abarth_1000_GT_Coupé | manufacturer | Abarth
+Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone
+Gruppo_Bertone | foundationPlace | Turin
+Gruppo_Bertone | foundedBy | Giovanni_Bertone
+Abarth_1000_GT_Coupé | productionEndYear | 1958
+Abarth_1000_GT_Coupé | bodyStyle | Two door coupé
+Abarth_1000_GT_Coupé | engine | Straight-four_engine
+Abarth_1000_GT_Coupé | productionEndYear | 1958
+Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)
+Abarth_1000_GT_Coupé | bodyStyle | Two door coupé
+Abarth_1000_GT_Coupé | productionEndYear | 1958
+Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)
+Abarth_1000_GT_Coupé | bodyStyle | Coupé
+Abarth_1000_GT_Coupé | productionStartYear | 1958
+Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)
+Abarth_1000_GT_Coupé | bodyStyle | Two door coupé
+Abarth_1000_GT_Coupé | productionStartYear | 1958
+Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)
+Abarth_1000_GT_Coupé | bodyStyle | Coupé
+Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)
+Abarth_1000_GT_Coupé | bodyStyle | Two door coupé
+Abarth_1000_GT_Coupé | engine | Straight-four_engine
+Abarth_1000_GT_Coupé | wheelbase | 2160.0 (millimetres)
+Abarth_1000_GT_Coupé | bodyStyle | Coupé
+Abarth_1000_GT_Coupé | engine | Straight-four_engine
+Acura_TLX | manufacturer | Honda
+Acura_TLX | engine | Honda_K_engine
+Acura_TLX | relatedMeanOfTransportation | Honda_Accord
+Acura_TLX | manufacturer | Honda
+Honda | division | Acura
+Acura_TLX | engine | 2.4 (litres)
+Acura_TLX | manufacturer | Honda
+Honda | division | Acura
+Acura_TLX | engine | 3.5 (litres)
+Acura_TLX | manufacturer | Honda
+Honda | division | Acura
+Acura_TLX | engine | Honda_J_engine
+Acura_TLX | manufacturer | Honda
+Honda | division | Acura
+Acura_TLX | engine | Honda_K_engine
+Acura_TLX | manufacturer | Honda
+Honda | division | Acura
+Acura_TLX | engine | Inline-four_engine
+Acura_TLX | manufacturer | Honda
+Honda | division | Acura
+Acura_TLX | engine | V6_engine
+Acura_TLX | manufacturer | Honda
+Honda | division | Acura
+Acura_TLX | relatedMeanOfTransportation | Honda_Accord
+Alfa_Romeo_164 | alternativeName | Alfa Romeo 168
+Alfa_Romeo_164 | class | Mid-size luxury / Executive car
+Alfa_Romeo_164 | engine | 2.5 (litres)
+Alfa_Romeo_164 | assembly | Italy
+Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000
+Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema
+Alfa_Romeo_164 | assembly | Italy
+Italy | capital | Rome
+Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000
+Alfa_Romeo_164 | assembly | Milan
+Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema
+Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000
+Alfa_Romeo_164 | assembly | Milan
+Milan | saint | Ambrose
+Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema
+Alfa_Romeo_164 | class | Executive_car
+Alfa_Romeo_164 | engine | Straight-four_engine
+Alfa_Romeo_164 | alternativeName | Alfa Romeo 168
+Alfa_Romeo_164 | class | Luxury_vehicle
+Alfa_Romeo_164 | engine | Straight-four_engine
+Alfa_Romeo_164 | alternativeName | Alfa Romeo 168
+Alfa_Romeo_164 | engine | Straight-four_engine
+Alfa_Romeo_164 | alternativeName | Alfa Romeo 168
+Alfa_Romeo_164 | class | Mid-size luxury / Executive car
+Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma
+Alfa_Romeo_164 | assembly | Arese
+Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000
+Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma
+Alfa_Romeo_164 | assembly | Italy
+Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000
+Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma
+Alfa_Romeo_164 | assembly | Milan
+Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema
+Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma
+Alfa_Romeo_164 | assembly | Milan
+Milan | saint | Ambrose
+Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma
+Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema
+Alfa_Romeo_164 | assembly | Italy
+Alfa_Romeo_164 | relatedMeanOfTransportation | Saab_9000
+Alfa_Romeo_164 | assembly | Milan
+Milan | saint | Ambrose
+Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company
+Alvis_Car_and_Engineering_Company | foundationPlace | Coventry
+Alvis_Speed_25 | engine | 4387.0 (cubicCentimetres)
+Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company
+Alvis_Car_and_Engineering_Company | foundationPlace | Coventry
+Alvis_Speed_25 | engine | Straight-six_engine
+Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company
+Alvis_Car_and_Engineering_Company | city | Coventry
+Alvis_Car_and_Engineering_Company | successor | Rover_Company
+Alvis_Speed_25 | transmission | single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle
+Alvis_Speed_25 | class | Full-size luxury car
+Alvis_Speed_25 | engine | 31.48 tax horsepower
+Alvis_Speed_25 | transmission | single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle
+Alvis_Speed_25 | engine | 31.48 tax horsepower
+Alvis_Speed_25 | class | Full-size_car
+Alvis_Speed_25 | transmission | single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle
+Alvis_Speed_25 | wheelbase | 127.0 (inches)
+Alvis_Speed_25 | class | Full-size_car
+Alvis_Speed_25 | wheelbase | 127.0 (inches)
+Alvis_Speed_25 | class | Full-size luxury car
+Alvis_Speed_25 | transmission | single plate clutch, separate 4-speed gearbox all-silent and all-syncromesh, centre change lever, open tubular propellor shaft with metal joints , spiral bevel fully floating back axle
+American_Motors | subsidiary | Wheel_Horse
+AMC_Matador | manufacturer | American_Motors
+American_Motors | keyPerson | Roy_D._Chapin,_Jr.
+American_submarine_NR-1 | shipLaunch | 1969-01-25
+American_submarine_NR-1 | topSpeed | 8.334
+American_submarine_NR-1 | shipBeam | 3.8 m
+American_submarine_NR-1 | topSpeed | 8.334
+American_submarine_NR-1 | length | 45000.0 (millimetres)
+American_submarine_NR-1 | shipBeam | 3.8 m
+American_submarine_NR-1 | topSpeed | 8.334
+American_submarine_NR-1 | shipDraft | 4.6 m
+American_submarine_NR-1 | shipBeam | 3.8 m
+Antares_(rocket) | comparable | Delta_II
+Delta_II | countryOrigin | United_States
+Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0
+Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport
+Antares_(rocket) | comparable | Delta_II
+Delta_II | countryOrigin | United_States
+Antares_(rocket) | maidenFlight | 2013-04-21
+Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office
+Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport
+Antares_(rocket) | maidenFlight | 2014-01-09
+Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office
+Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport
+Antares_(rocket) | manufacturer | Orbital_ATK
+Antares_(rocket) | function | Medium expendable launch system
+Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport
+Antares_(rocket) | manufacturer | Orbital_ATK
+Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0
+Antares_(rocket) | function | Medium expendable launch system
+Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office
+Antares_(rocket) | function | Medium expendable launch system
+Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport
+Argentina | capital | Buenos_Aires
+Argentina | leader | Gabriela_Michetti
+ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina
+Aston_Martin_V8 | engine | 5.3 (litres)
+Aston_Martin_V8 | assembly | United_Kingdom
+Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1
+Aston_Martin_V8 | engine | 5.3 (litres)
+Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1
+Aston_Martin_V8 | assembly | Newport_Pagnell
+Aston_Martin_V8 | manufacturer | Aston_Martin
+Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1
+Aston_Martin_V8 | successor | Aston_Martin_Virage
+Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS
+Aston_Martin_DBS | successor | Aston_Martin_Vantage
+Aston_Martin_DBS | manufacturer | Aston_Martin
+Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS
+Aston_Martin_DBS | successor | Aston_Martin_Vantage
+Aston_Martin_V8 | manufacturer | Aston_Martin
+Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS
+Aston_Martin_V8 | manufacturer | Aston_Martin
+Aston_Martin_V8 | successor | Aston_Martin_Virage
+Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS
+Aston_Martin_V8 | successor | Aston_Martin_Virage
+Aston_Martin_DBS | manufacturer | Aston_Martin
+Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS
+Aston_Martin_V8 | successor | Aston_Martin_Virage
+Aston_Martin_Virage | manufacturer | Aston_Martin
+Aston_Martin_Virage | relatedMeanOfTransportation | Aston_Martin_DBS
+Aston_Martin_V8 | manufacturer | Aston_Martin
+Aston_Martin_V8 | successor | Aston_Martin_Virage
+Aston_Martin_Virage | relatedMeanOfTransportation | Aston_Martin_DBS
+Aston_Martin_V8 | successor | Aston_Martin_Virage
+Aston_Martin_DBS | manufacturer | Aston_Martin
+Atlas_II | countryOrigin | United_States
+Atlas_II | launchSite | Cape_Canaveral_Air_Force_Station
+Atlas_II | launchSite | Vandenberg_AFB_Space_Launch_Complex_3
+Atlas_II | countryOrigin | United_States
+Atlas_II | launchSite | Vandenberg_Air_Force_Base
+Atlas_II | launchSite | Spaceport_Florida_Launch_Complex_36
+Atlas_II | countryOrigin | United_States
+Atlas_II | launchSite | Vandenberg_Air_Force_Base
+Atlas_II | manufacturer | Lockheed_Martin
+Atlas_II | countryOrigin | United_States
+Atlas_II | manufacturer | Lockheed_Martin
+Atlas_II | launchSite | Spaceport_Florida_Launch_Complex_36
+Atlas_II | countryOrigin | United_States
+Atlas_II | manufacturer | Lockheed_Martin
+Atlas_II | launchSite | Vandenberg_AFB_Space_Launch_Complex_3
+Atlas_II | countryOrigin | United_States
+United_States | ethnicGroup | African_Americans
+United_States | leaderTitle | President_of_the_United_States
+Atlas_II | launchSite | Cape_Canaveral_Air_Force_Station
+Atlas_II | countryOrigin | United_States
+Atlas_II | manufacturer | Lockheed_Martin
+Atlas_II | launchSite | Spaceport_Florida_Launch_Complex_36
+Atlas_II | manufacturer | Lockheed_Martin
+Lockheed_Martin | location | Bethesda,_Maryland
+DeSoto_Custom | relatedMeanOfTransportation | Dodge_Coronet
+1955_Dodge | relatedMeanOfTransportation | DeSoto_Custom
+DeSoto_Custom | manufacturer | DeSoto_(automobile)
+Delta_II | launchSite | Cape_Canaveral_Air_Force_Station
+Antares_(rocket) | comparable | Delta_II
+Delta_II | countryOrigin | United_States
+Delta_II | launchSite | Cape_Canaveral_Air_Force_Station_Space_Launch_Complex_17
+Antares_(rocket) | comparable | Delta_II
+Delta_II | countryOrigin | United_States
+Delta_II | launchSite | Vandenberg_Air_Force_Base
+Antares_(rocket) | comparable | Delta_II
+Delta_II | countryOrigin | United_States
+Delta_II | manufacturer | United_Launch_Alliance
+Antares_(rocket) | comparable | Delta_II
+Delta_II | countryOrigin | United_States
+Fiat_Croma | relatedMeanOfTransportation | Opel_Vectra
+Alfa_Romeo_164 | assembly | Italy
+Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma
+Fiat_Croma | relatedMeanOfTransportation | Opel_Vectra
+Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma
+Alfa_Romeo_164 | assembly | Arese
+General_Dynamics_Electric_Boat | parentCompany | General_Dynamics
+American_submarine_NR-1 | builder | General_Dynamics_Electric_Boat
+General_Dynamics_Electric_Boat | city | Groton,_Connecticut
+Honda | division | Acura
+Acura_TLX | engine | Honda_J_engine
+Honda_J_engine | manufacturer | Honda
+Honda | division | Acura
+Acura_TLX | engine | Honda_K_engine
+Honda_K_engine | manufacturer | Honda
+Honda | division | Acura
+Honda_Accord | manufacturer | Honda
+Acura_TLX | relatedMeanOfTransportation | Honda_Accord
+Lancia_Thema | relatedMeanOfTransportation | Saab_9000
+Alfa_Romeo_164 | assembly | Italy
+Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema
+United_States | capital | Washington,_D.C.
+Atlas_II | countryOrigin | United_States
+United_States | ethnicGroup | African_Americans
+United_States | capital | Washington,_D.C.
+Atlas_II | countryOrigin | United_States
+United_States | ethnicGroup | Native_Americans_in_the_United_States
+United_States | demonym | Americans
+Atlas_II | countryOrigin | United_States
+United_States | ethnicGroup | Native_Americans_in_the_United_States
+United_States | ethnicGroup | Asian_Americans
+Atlas_II | countryOrigin | United_States
+United_States | leaderTitle | President_of_the_United_States
+United_States | ethnicGroup | Asian_Americans
+United_States | capital | Washington,_D.C.
+Atlas_II | countryOrigin | United_States
+United_States | ethnicGroup | Asian_Americans
+United_States | demonym | Americans
+Atlas_II | countryOrigin | United_States
+United_States | ethnicGroup | White_Americans
+ALV_X-1 | countryOrigin | United_States
+United_States | anthem | The_Star-Spangled_Banner
+United_States | ethnicGroup | White_Americans
+ALV_X-1 | countryOrigin | United_States
+United_States | capital | Washington,_D.C.
+United_States | language | English_language
+Atlas_II | countryOrigin | United_States
+United_States | ethnicGroup | African_Americans
+ALCO_RS-3 | engine | Four-stroke_engine
+ALCO_RS-3 | cylinderCount | 12
+ALCO_RS-3 | length | 17068.8 (millimetres)
+Pontiac_Rageous | assembly | Michigan
+Pontiac_Rageous | assembly | Detroit
+Pontiac_Rageous | productionEndYear | 1997
+Detroit | areaTotal | 370.03
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | builder | Montreal_Locomotive_Works
+Pontiac_Rageous | assembly | Detroit
+Detroit | areaTotal | 370.03
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | cylinderCount | 12
+ALCO_RS-3 | length | 17068.8 (millimetres)
+Pontiac_Rageous | productionStartYear | 1997
+Pontiac_Rageous | productionEndYear | 1997
+Pontiac_Rageous | manufacturer | Pontiac
+Pontiac_Rageous | productionStartYear | 1997
+Pontiac_Rageous | manufacturer | Pontiac
+Pontiac_Rageous | assembly | Michigan
+Michigan | areaTotal | 250493000000.0
+Pontiac_Rageous | productionStartYear | 1997
+Pontiac_Rageous | assembly | Michigan
+Pontiac_Rageous | assembly | Detroit
+Pontiac_Rageous | productionEndYear | 1997
+Pontiac_Rageous | bodyStyle | Coupe
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | cylinderCount | 12
+ALCO_RS-3 | builder | Montreal_Locomotive_Works
+ALCO_RS-3 | length | 17068.8 (millimetres)
+Pontiac_Rageous | assembly | Detroit
+Detroit | isPartOf | Wayne_County,_Michigan
+Detroit | isPartOf | Michigan
+Pontiac_Rageous | manufacturer | Pontiac
+Pontiac_Rageous | manufacturer | Pontiac
+Pontiac | parentCompany | General_Motors
+Pontiac_Rageous | assembly | Michigan
+Pontiac_Rageous | assembly | Detroit
+Pontiac_Rageous | assembly | Michigan
+Michigan | language | English_language
+ALCO_RS-3 | totalProduction | 1418
+ALCO_RS-3 | length | 17068.8 (millimetres)
+Detroit | isPartOf | Michigan
+Detroit | isPartOf | Wayne_County,_Michigan
+Pontiac_Rageous | productionStartYear | 1997
+Pontiac_Rageous | bodyStyle | Coupe
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | engine | V12_engine
+ALCO_RS-3 | cylinderCount | 12
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | cylinderCount | 12
+ALCO_RS-3 | builder | Montreal_Locomotive_Works
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | engine | Four-stroke_engine
+ALCO_RS-3 | length | 17068.8 (millimetres)
+Pontiac | successor | Buick
+Pontiac_Rageous | productionStartYear | 1997
+Pontiac_Rageous | assembly | Michigan
+Pontiac_Rageous | assembly | Detroit
+Pontiac_Rageous | productionEndYear | 1997
+Pontiac_Rageous | bodyStyle | Coupe
+Pontiac_Rageous | manufacturer | Pontiac
+Pontiac_Rageous | assembly | Michigan
+Pontiac_Rageous | bodyStyle | Coupe
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | engine | V12_engine
+ALCO_RS-3 | powerType | Diesel-electric_transmission
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | engine | V12_engine
+ALCO_RS-3 | cylinderCount | 12
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | cylinderCount | 12
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | engine | V12_engine
+ALCO_RS-3 | length | 17068.8 (millimetres)
+Pontiac_Rageous | productionStartYear | 1997
+Pontiac_Rageous | assembly | Michigan
+Pontiac_Rageous | assembly | Detroit
+Pontiac_Rageous | productionEndYear | 1997
+Pontiac_Rageous | manufacturer | Pontiac
+Pontiac_Rageous | productionStartYear | 1997
+Pontiac_Rageous | productionEndYear | 1997
+Pontiac_Rageous | bodyStyle | Coupe
+Pontiac_Rageous | manufacturer | Pontiac
+Pontiac_Rageous | assembly | Detroit
+Pontiac_Rageous | assembly | Michigan
+Michigan | areaTotal | 250493000000.0
+Pontiac_Rageous | assembly | Detroit
+Pontiac_Rageous | bodyStyle | Coupe
+Pontiac_Rageous | manufacturer | Pontiac
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | engine | V12_engine
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | powerType | Diesel-electric_transmission
+ALCO_RS-3 | builder | American_Locomotive_Company
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | builder | American_Locomotive_Company
+ALCO_RS-3 | cylinderCount | 12
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | builder | American_Locomotive_Company
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | builder | American_Locomotive_Company
+ALCO_RS-3 | cylinderCount | 12
+ALCO_RS-3 | totalProduction | 1418
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | builder | American_Locomotive_Company
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | powerType | Diesel-electric_transmission
+ALCO_RS-3 | length | 17068.8 (millimetres)
+Pontiac | extinctionDate | 2010-10-31
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | builder | American_Locomotive_Company
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | builder | Montreal_Locomotive_Works
+ALCO_RS-3 | length | 17068.8 (millimetres)
+Pontiac_Rageous | manufacturer | Pontiac
+Pontiac_Rageous | assembly | Michigan
+Pontiac_Rageous | productionEndYear | 1997
+Pontiac_Rageous | bodyStyle | Coupe
+Pontiac_Rageous | productionStartYear | 1997
+Pontiac_Rageous | productionEndYear | 1997
+Pontiac_Rageous | bodyStyle | Coupe
+ALCO_RS-3 | engine | Four-stroke_engine
+ALCO_RS-3 | powerType | Diesel-electric_transmission
+ALCO_RS-3 | length | 17068.8 (millimetres)
+Pontiac | parentCompany | General_Motors
+Pontiac_Rageous | productionStartYear | 1997
+Pontiac_Rageous | assembly | Michigan
+ALCO_RS-3 | buildDate | May 1950 - August 1956
+ALCO_RS-3 | engine | Four-stroke_engine
+ALCO_RS-3 | powerType | Diesel-electric_transmission
+ALCO_RS-3 | length | 17068.8 (millimetres)
+Pontiac | product | Automobile
+Pontiac_Rageous | manufacturer | Pontiac
+Pontiac | successor | Buick
+Pontiac_Rageous | productionStartYear | 1997
+Pontiac_Rageous | assembly | Michigan
+Pontiac_Rageous | assembly | Detroit
+Pontiac_Rageous | bodyStyle | Coupe
+Pontiac_Rageous | manufacturer | Pontiac
+Pontiac | foundationPlace | United_States
+Pontiac_Rageous | productionStartYear | 1997
+Pontiac | successor | Buick
+Pontiac_Rageous | productionEndYear | 1997
+Pontiac_Rageous | assembly | Michigan
+Pontiac_Rageous | productionStartYear | 1997
+Pontiac_Rageous | assembly | Michigan
+Pontiac_Rageous | productionEndYear | 1997
+1955_Dodge | engine | V8_engine
+1955_Dodge | alternativeName | Dodge Coronet
+1955_Dodge | bodyStyle | Hardtop
+1955_Dodge | engine | V8_engine
+1955_Dodge | transmission | 3-speed automatic
+1955_Dodge | alternativeName | Dodge Coronet
+ALCO_RS-3 | cylinderCount | 12
+ALCO_RS-3 | builder | Montreal_Locomotive_Works
+ALCO_RS-3 | length | 17068.8 (millimetres)
+ALV_X-1 | countryOrigin | United_States
+United_States | ethnicGroup | African_Americans
+United_States | demonym | Americans
+AMC_Matador | assembly | Kenosha,_Wisconsin
+AMC_Matador | modelYears | 1974
+AMC_Matador | relatedMeanOfTransportation | AMC_Ambassador
+AMC_Matador | assembly | Port_Melbourne,_Victoria
+AMC_Matador | modelYears | 1971
+AMC_Matador | relatedMeanOfTransportation | AMC_Ambassador
+Abarth_1000_GT_Coupé | designCompany | Gruppo_Bertone
+Gruppo_Bertone | foundationPlace | Turin
+Gruppo_Bertone | country | Italy
+Alfa_Romeo_164 | assembly | Italy
+Italy | capital | Rome
+Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema
+Alfa_Romeo_164 | relatedMeanOfTransportation | Fiat_Croma
+Alfa_Romeo_164 | assembly | Arese
+Alfa_Romeo_164 | relatedMeanOfTransportation | Lancia_Thema
+Alvis_Speed_25 | manufacturer | Alvis_Car_and_Engineering_Company
+Alvis_Car_and_Engineering_Company | foundationPlace | Coventry
+Alvis_Car_and_Engineering_Company | successor | Rover_Company
+American_Motors | successor | Eagle_(automobile)
+AMC_Matador | manufacturer | American_Motors
+American_Motors | keyPerson | Roy_D._Chapin,_Jr.
+Antares_(rocket) | manufacturer | Yuzhnoye_Design_Office
+Antares_(rocket) | launchSite | Mid-Atlantic_Regional_Spaceport_Launch_Pad_0
+Antares_(rocket) | maidenFlight | 2013-04-21
+Argentina | capital | Buenos_Aires
+Argentina | leader | Mauricio_Macri
+ARA_Veinticinco_de_Mayo_(V-2) | country | Argentina
+Aston_Martin_V8 | assembly | Newport Pagnell, Buckinghamshire, England, United Kingdom
+Aston_Martin_V8 | engine | 5.3 (litres)
+Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1
+Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_DBS
+Aston_Martin_V8 | assembly | Newport Pagnell, Buckinghamshire, England, United Kingdom
+Aston_Martin_V8 | engine | 5.3 (litres)
+Aston_Martin_V8 | relatedMeanOfTransportation | Aston_Martin_RHAM/1
+Aston_Martin_V8 | successor | Aston_Martin_Virage
+Aston_Martin_Virage | manufacturer | Aston_Martin
+Atlas_II | countryOrigin | United_States
+United_States | ethnicGroup | Native_Americans_in_the_United_States
+United_States | leaderTitle | President_of_the_United_States
+United_States | ethnicGroup | White_Americans
+ALV_X-1 | countryOrigin | United_States
+United_States | demonym | Americans

@@ -1,0 +1,276 @@
+A-Rosa_Luna | builder | Germany
+MTU_Friedrichshafen | city | Friedrichshafen
+A-Rosa_Luna | powerType | MTU_Friedrichshafen
+A-Rosa_Luna | shipDisplacement | 1850.0 (tonnes)
+A-Rosa_Luna | builder | Neptun Werft, Warnemünde,
+A-Rosa_Luna | length | 125800.0 (millimetres)
+A-Rosa_Luna | shipDisplacement | 1850.0 (tonnes)
+A-Rosa_Luna | christeningDate | 2005-04-07
+A-Rosa_Luna | length | 125800.0 (millimetres)
+A-Rosa_Luna | shipDisplacement | 1850.0 (tonnes)
+A-Rosa_Luna | completionDate | 2005-04-06
+A-Rosa_Luna | length | 125800.0 (millimetres)
+A-Rosa_Luna | shipDisplacement | 1850.0 (tonnes)
+A-Rosa_Luna | shipClass | Cruise_ship
+A-Rosa_Luna | length | 125800.0 (millimetres)
+AIDA_Cruises | location | Germany
+AIDAluna | owner | AIDA_Cruises
+AIDAluna | powerType | Caterpillar_Inc.
+AIDA_Cruises | location | Germany
+AIDAstella | operator | AIDA_Cruises
+AIDAstella | builder | Meyer_Werft
+AIDA_Cruises | location | Rostock
+AIDAluna | owner | AIDA_Cruises
+AIDAluna | powerType | Caterpillar_Inc.
+AIDA_Cruises | location | Rostock
+AIDAstella | operator | AIDA_Cruises
+AIDAstella | owner | Costa_Crociere
+AIDAluna | christeningDate | 2009-04-04
+AIDAluna | length | 252000.0 (millimetres)
+AIDAluna | activeYearsStartDate | 2009-03-22
+AIDAluna | length | 252000.0 (millimetres)
+AIDAluna | powerType | Caterpillar_Inc.
+AIDAluna | activeYearsStartDate | 2009-03-22
+AIDAluna | length | 252000.0 (millimetres)
+AIDAluna | powerType | Caterpillar_Inc.
+AIDAluna | christeningDate | 2009-04-04
+AIDAluna | maidenVoyage | 2009-03-22
+AIDAluna | christeningDate | 2009-04-04
+AIDAluna | length | 252000.0 (millimetres)
+AIDAluna | maidenVoyage | 2009-03-22
+AIDAluna | length | 252000.0 (millimetres)
+AIDAluna | powerType | Caterpillar_Inc.
+AIDAluna | maidenVoyage | 2009-03-22
+AIDAluna | shipBeam | 32.2
+AIDAluna | length | 252000.0 (millimetres)
+AIDAluna | owner | AIDA_Cruises
+AIDAluna | length | 252000.0 (millimetres)
+AIDAluna | builder | Meyer_Werft
+AIDAluna | shipBeam | 32.2
+AIDAluna | length | 252000.0 (millimetres)
+AIDAluna | activeYearsStartDate | 2009-03-22
+AIDAluna | shipBeam | 32.2
+AIDAluna | length | 252000.0 (millimetres)
+AIDAluna | christeningDate | 2009-04-04
+AIDAstella | christeningDate | 2013-03-16
+AIDAstella | length | 253260.0 (millimetres)
+AIDAstella | activeYearsStartDate | 2013-03-17
+AIDAstella | christeningDate | 2013-03-16
+AIDAstella | shipClass | Sphinx-class cruise ship
+AIDAstella | length | 253260.0 (millimetres)
+AIDAstella | length | 253260.0 (millimetres)
+AIDAstella | shipBeam | 32.2
+AIDAstella | builder | Meyer_Werft
+AIDAstella | length | 253260.0 (millimetres)
+AIDAstella | shipBeam | 32.2
+AIDAstella | owner | Costa_Crociere
+AIDAstella | maidenVoyage | 2013-03-17
+AIDAstella | christeningDate | 2013-03-16
+AIDAstella | length | 253260.0 (millimetres)
+AIDAstella | maidenVoyage | 2013-03-17
+AIDAstella | shipBeam | 32.2
+AIDAstella | length | 253260.0 (millimetres)
+AIDAstella | operator | AIDA_Cruises
+AIDAstella | builder | Meyer_Werft
+AIDAstella | length | 253260.0 (millimetres)
+AIDAstella | operator | AIDA_Cruises
+AIDAstella | builder | Meyer_Werft
+Meyer_Werft | location | Papenburg
+AIDAstella | operator | AIDA_Cruises
+Costa_Crociere | location | Italy
+AIDAstella | owner | Costa_Crociere
+AIDAstella | operator | AIDA_Cruises
+Meyer_Werft | location | Germany
+AIDAstella | builder | Meyer_Werft
+Aleksey_Chirikov_(icebreaker) | builder | Finland
+Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard
+Finland | leader | Sauli_Niinistö
+Aleksey_Chirikov_(icebreaker) | builder | Finland
+Aleksey_Chirikov_(icebreaker) | builder | Helsinki
+Finland | leader | Sauli_Niinistö
+Aleksey_Chirikov_(icebreaker) | builder | Finland
+Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2
+Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard
+Aleksey_Chirikov_(icebreaker) | builder | Finland
+Aleksey_Chirikov_(icebreaker) | shipBeam | 21.2
+Aleksey_Chirikov_(icebreaker) | builder | Helsinki
+Aleksey_Chirikov_(icebreaker) | builder | Finland
+Aleksey_Chirikov_(icebreaker) | status | In service
+Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard
+Aleksey_Chirikov_(icebreaker) | builder | Finland
+Aleksey_Chirikov_(icebreaker) | status | In service
+Aleksey_Chirikov_(icebreaker) | builder | Helsinki
+Aleksey_Chirikov_(icebreaker) | builder | Finland
+Finland | leader | Juha_Sipilä
+Aleksey_Chirikov_(icebreaker) | builder | Helsinki
+Aleksey_Chirikov_(icebreaker) | status | In service
+Aleksey_Chirikov_(icebreaker) | builder | Helsinki
+Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard
+Alhambra | owner | P&O_(company)
+Alhambra | powerType | Humphrys,_Tennant_and_Dykes
+Humphrys,_Tennant_and_Dykes | location | Deptford
+Alhambra | owner | P&O_(company)
+Alhambra | powerType | Humphrys,_Tennant_and_Dykes
+Humphrys,_Tennant_and_Dykes | location | London
+Alhambra | owner | P&O_(company)
+P&O_(company) | location | London
+Alhambra | powerType | Humphrys,_Tennant_and_Dykes
+Alhambra | powerType | Humphrys,_Tennant_and_Dykes
+Humphrys,_Tennant_and_Dykes | location | Deptford
+Alhambra | builder | Samuda_Brothers
+Alhambra | powerType | Humphrys,_Tennant_and_Dykes
+Humphrys,_Tennant_and_Dykes | location | Deptford
+Alhambra | length | 63800.0 (millimetres)
+Alhambra | powerType | Humphrys,_Tennant_and_Dykes
+Humphrys,_Tennant_and_Dykes | location | London
+Alhambra | builder | Samuda_Brothers
+Alhambra | powerType | Humphrys,_Tennant_and_Dykes
+Humphrys,_Tennant_and_Dykes | location | London
+Alhambra | length | 63800.0 (millimetres)
+Alhambra | shipBeam | 8.3 m
+Alhambra | length | 63800.0 (millimetres)
+Alhambra | topSpeed | 18.52
+Alhambra | shipBeam | 8.3 m
+Alhambra | status | Wrecked
+Alhambra | topSpeed | 18.52
+Ariane_5 | finalFlight | 2009-12-18
+Ariane_5 | launchSite | Guiana_Space_Centre
+Ariane_5 | manufacturer | ESA and Arianespace
+Ariane_5 | finalFlight | 2009-12-18
+Ariane_5 | manufacturer | European_Space_Agency
+Ariane_5 | launchSite | Guiana_Space_Centre
+Ariane_5 | launchSite | ELA-3
+Ariane_5 | manufacturer | Airbus_Defence_and_Space
+Ariane_5 | finalFlight | 2003-09-27
+Ariane_5 | launchSite | ELA-3
+Ariane_5 | manufacturer | Airbus_Defence_and_Space
+Ariane_5 | finalFlight | 2004-12-18
+Ariane_5 | launchSite | ELA-3
+Ariane_5 | manufacturer | European_Space_Agency
+Ariane_5 | finalFlight | 2004-12-18
+Ariane_5 | launchSite | Guiana_Space_Centre
+Ariane_5 | manufacturer | ESA and Arianespace
+Ariane_5 | finalFlight | 2003-09-27
+Ariane_5 | launchSite | Guiana_Space_Centre
+Ariane_5 | manufacturer | ESA and Arianespace
+Ariane_5 | finalFlight | 2004-12-18
+Ariane_5 | manufacturer | Arianespace
+Ariane_5 | finalFlight | 2009-12-18
+Ariane_5 | launchSite | Guiana_Space_Centre
+Ariane_5 | manufacturer | Arianespace
+Ariane_5 | launchSite | Guiana_Space_Centre
+Ariane_5 | finalFlight | 2003-09-27
+Ariane_5 | manufacturer | Arianespace
+Ariane_5 | launchSite | Guiana_Space_Centre
+Ariane_5 | finalFlight | 2004-12-18
+Arianespace | city | Courcouronnes
+Ariane_5 | launchSite | ELA-3
+ELA-3 | operator | Arianespace
+Arianespace | country | France
+Ariane_5 | launchSite | ELA-3
+ELA-3 | operator | Arianespace
+Audi_A1 | engine | 1.2 (litres)
+Audi_A1 | assembly | Brussels, Belgium
+Audi_A1 | bodyStyle | Hatchback
+Audi_A1 | engine | 1.2 (litres)
+Audi_A1 | transmission | 5-speed manual
+Audi_A1 | assembly | Brussels, Belgium
+Audi_A1 | engine | 1.2 (litres)
+Audi_A1 | transmission | 5-speed manual
+Audi_A1 | assembly | Audi_Brussels
+Audi_A1 | manufacturer | Audi
+Audi | division | Audi_e-tron
+Audi | subsidiary | Quattro_GmbH
+Audi_A1 | manufacturer | Audi
+Audi | foundedBy | August_Horch
+Audi | division | Audi_e-tron
+Audi_A1 | manufacturer | Audi
+Audi | foundedBy | August_Horch
+Audi | subsidiary | Ducati
+Audi_A1 | manufacturer | Audi
+Audi | foundedBy | August_Horch
+Audi | subsidiary | Lamborghini
+Audi_A1 | manufacturer | Audi
+Audi | foundedBy | August_Horch
+Audi | subsidiary | Quattro_GmbH
+Caterpillar_Inc. | foundationPlace | California
+Caterpillar_Inc. | location | United_States
+AIDAluna | powerType | Caterpillar_Inc.
+Caterpillar_Inc. | foundationPlace | United_States
+Caterpillar_Inc. | location | Peoria,_Illinois
+AIDAluna | powerType | Caterpillar_Inc.
+Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman
+Caterpillar_Inc. | location | Illinois
+AIDAluna | powerType | Caterpillar_Inc.
+Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman
+Caterpillar_Inc. | location | Peoria,_Illinois
+AIDAluna | powerType | Caterpillar_Inc.
+Caterpillar_Inc. | location | Peoria,_Illinois
+AIDAluna | owner | AIDA_Cruises
+AIDAluna | powerType | Caterpillar_Inc.
+Caterpillar_Inc. | location | United_States
+AIDAluna | owner | AIDA_Cruises
+AIDAluna | powerType | Caterpillar_Inc.
+ELA-3 | site | Guiana_Space_Centre
+Ariane_5 | launchSite | ELA-3
+Ariane_5 | manufacturer | European_Space_Agency
+ELA-3 | site | Guiana_Space_Centre
+Ariane_5 | launchSite | ELA-3
+ELA-3 | operator | Arianespace
+Finland | leader | Juha_Sipilä
+Aleksey_Chirikov_(icebreaker) | builder | Finland
+Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard
+Finland | leader | Sauli_Niinistö
+Finland | leader | Juha_Sipilä
+Aleksey_Chirikov_(icebreaker) | builder | Finland
+MTU_Friedrichshafen | city | Friedrichshafen
+A-Rosa_Luna | builder | Neptun_Werft
+A-Rosa_Luna | powerType | MTU_Friedrichshafen
+MTU_Friedrichshafen | city | Friedrichshafen
+A-Rosa_Luna | builder | Rostock
+A-Rosa_Luna | powerType | MTU_Friedrichshafen
+MTU_Friedrichshafen | city | Friedrichshafen
+MTU_Friedrichshafen | owner | Rolls-Royce_Holdings
+A-Rosa_Luna | powerType | MTU_Friedrichshafen
+MTU_Friedrichshafen | city | Friedrichshafen
+MTU_Friedrichshafen | parentCompany | Rolls-Royce_Power_Systems
+A-Rosa_Luna | powerType | MTU_Friedrichshafen
+MTU_Friedrichshafen | parentCompany | Rolls-Royce_Power_Systems
+MTU_Friedrichshafen | owner | Rolls-Royce_Holdings
+A-Rosa_Luna | powerType | MTU_Friedrichshafen
+Neptun_Werft | city | Rostock
+A-Rosa_Luna | builder | Neptun_Werft
+A-Rosa_Luna | powerType | MTU_Friedrichshafen
+Neptun_Werft | city | Rostock
+Rostock | country | Germany
+A-Rosa_Luna | builder | Neptun_Werft
+A-Rosa_Luna | shipClass | Cruise_ship
+A-Rosa_Luna | length | 125800.0 (millimetres)
+A-Rosa_Luna | shipOrdered | 2004-01-22
+AIDA_Cruises | location | Germany
+AIDAstella | operator | AIDA_Cruises
+AIDAstella | owner | Costa_Crociere
+Aleksey_Chirikov_(icebreaker) | builder | Finland
+Finland | demonym | Finns
+Aleksey_Chirikov_(icebreaker) | builder | Arctech_Helsinki_Shipyard
+Alhambra | shipBeam | 8.3 m
+Alhambra | length | 63800.0 (millimetres)
+Alhambra | status | Wrecked
+Audi_A1 | engine | 1.2 (litres)
+Audi_A1 | assembly | Audi_Brussels
+Audi_A1 | bodyStyle | Hatchback
+Audi_A1 | manufacturer | Audi
+Audi_A1 | relatedMeanOfTransportation | SEAT_Ibiza
+Audi_A1 | relatedMeanOfTransportation | Volkswagen_Polo
+Caterpillar_Inc. | foundationPlace | California
+Caterpillar_Inc. | location | Peoria,_Illinois
+AIDAluna | powerType | Caterpillar_Inc.
+Caterpillar_Inc. | keyPerson | Douglas_R._Oberhelman
+Caterpillar_Inc. | location | United_States
+AIDAluna | powerType | Caterpillar_Inc.
+Guiana_Space_Centre | headquarter | Kourou,_French_Guiana
+ELA-3 | site | Guiana_Space_Centre
+Ariane_5 | launchSite | ELA-3
+Guiana_Space_Centre | location | French_Guiana
+ELA-3 | site | Guiana_Space_Centre
+Ariane_5 | launchSite | ELA-3
