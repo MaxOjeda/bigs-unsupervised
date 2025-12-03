@@ -9,23 +9,13 @@ import re
 from tqdm.auto import tqdm
 from scipy.spatial.distance import cdist
 from pathlib import Path
+import pandas as pd
+import matplotlib.pyplot as plt
 from textwrap import dedent
 
 
 serialized_triples_list = []
 sentences_list = []
-
-with open("quadruples/quadruples-train-100000.tsv", "r", encoding="utf-8") as f:
-    for line in tqdm(f, desc="Reading lines"):
-        obj = json.loads(line)
-        temp_triples = [' '.join(triples) for triples in obj['triples']]
-        serialized_triples_list.append(temp_triples)
-        sentences_list.append(obj["sentence"])
-serialized_triples_list = [text for ls in serialized_triples_list for text in ls]
-print(f"Collected {len(serialized_triples_list)} items.")
-for i in range(min(3, len(serialized_triples_list))):
-    print(f"- serialized_triples: {serialized_triples_list[i]}")
-    print(f"  sentence          : {sentences_list[i]}")
 
 def parse_tsv_json_lines(data_path: Path):
     """Cada línea del archivo es un JSON con 'serialized_triples' y 'sentence'."""
@@ -129,11 +119,6 @@ def bigs_scores_hnsw(
 
     d = X.shape[1]
 
-    # en macbook m1 necesitaba agregar esto o daba error:
-    #try:
-    #    faiss.omp_set_num_threads(1)
-    #except Exception:
-    #    pass
 
     print("Calculating BIGS -> ...")
 
@@ -221,7 +206,7 @@ def run_experiment_for_tsv(
     )
     print("Embeddings generated.")
     print(f"Encoding time: {enc_time:.4f}s, memory delta: {enc_mem:.2f} MB")
-    return
+    
     orig_emb, gen_emb = embeds
     d = int(orig_emb.shape[1])
 
@@ -251,6 +236,7 @@ def run_experiment_for_tsv(
     return {
         # dataset / model
         "file": tsv_path.name,
+        "faiss": use_faiss,
         "samples": n,
         "model_name": model_name,
         "embedding_dim": d,
@@ -276,11 +262,10 @@ def run_experiment_for_tsv(
     }
 
 
-# add near the top of your file:
 import csv
 
 CSV_COLS = [
-    "file", "samples", "model_name", "embedding_dim", "batch_size",
+    "file", "faiss", "samples", "model_name", "embedding_dim", "batch_size",
     "hnsw_M", "ef_construction", "ef_search",
     "encode_time_s", "search_time_s", "total_time_s",
     "encode_mem_delta_mb", "search_mem_delta_mb",
@@ -318,7 +303,11 @@ def run_experiments(
     Returns the list of result dicts.
     """
     rows: list[dict[str, object]] = []
-    for p in tsv_paths[1:]:
+    if use_faiss:
+        end = len(tsv_paths)
+    else:
+        end = 3  # Limit to first 3 for normal BIGS (slow)
+    for p in tsv_paths[:end]:
         print(f"[run] {p.name} ...")
         print(f"{p.name}: use_faiss={use_faiss}")
         row = run_experiment_for_tsv(
@@ -348,113 +337,93 @@ def sort_key(path: Path) -> int:
 tsv_paths = sorted(data_dir.glob("*.tsv"), key=sort_key)
 print([p.name for p in tsv_paths])
 
-out_csv = Path("bigs_results/bigs_normal_exp_faiss.csv")
+out_csv = Path("results/scalability/scalability_experiments.csv")
 out_csv.parent.mkdir(parents=True, exist_ok=True)
 
-# results_50k_faiss = run_experiment_for_tsv(
-#     tsv_paths[0],
-#     model_name="sentence-transformers/all-mpnet-base-v2",  # "sentence-transformers/all-mpnet-base-v2"
-#     batch_size=256,
-#     hnsw_M=16, ef_construction=200, ef_search=128, use_faiss=True
-# )
-# print(results_50k_faiss)
+for use_faiss in [False, True]:
+    print(f"\n=== Running experiments with use_faiss={use_faiss} ===\n")
+    rows = run_experiments(
+        tsv_paths=tsv_paths,
+        model_name="sentence-transformers/all-mpnet-base-v2",
+        out_csv=out_csv,
+        batch_size=256,
+        hnsw_M=16, ef_construction=200, ef_search=128,
+        use_faiss=use_faiss,
+    )
+    
+################### PLOTS #######################
 
-results_50k_normal = run_experiment_for_tsv(
-    tsv_paths[-1],
-    model_name="sentence-transformers/all-mpnet-base-v2",  # "sentence-transformers/all-mpnet-base-v2"
-    batch_size=256,
-    hnsw_M=16, ef_construction=200, ef_search=128, use_faiss=True
-)
-print(results_50k_normal)
+csv_path = Path("results/scalability/scalability_experiments.csv")
+df = pd.read_csv(csv_path)
+df = df.sort_values("samples")
+df["method"] = "hnsw"
 
-# # Mostar como tabla ambos resultats
-# import pandas as pd
-# df = pd.DataFrame([results_50k_faiss, results_50k_normal])
-# print(df)
+N = df["samples"].to_numpy()
 
+# ---------- helper: fit slope (scaling exponent) ----------
+def lin_slope(x, y):
+    x = np.asarray(x, float); y = np.asarray(y, float)
+    m = (x > 0) & (y > 0)
+    if m.sum() < 2:
+        return np.nan
+    return np.polyfit(x[m], y[m], 1)[0]
 
-# rows = run_experiments(
-#     tsv_paths=tsv_paths,
-#     model_name="sentence-transformers/all-mpnet-base-v2",  # "sentence-transformers/all-mpnet-base-v2"
-#     out_csv=out_csv,
-#     batch_size=256,
-#     hnsw_M=16, ef_construction=200, ef_search=128,
-#     use_faiss=False,
-# )
+# ---------- 1) TIME PLOT (linear, by method) ----------
+plt.figure(figsize=(9,5))
+for method in df['method'].unique():
+    d = df[df['method'] == method]
+    N_m = d['samples'].to_numpy()
+    plt.plot(N_m, d['encode_time_s'], 'o-', label=f"Encode time ({method})")
+    plt.plot(N_m, d['search_time_s'], 'o-', label=f"Index+Search time ({method})")
+    plt.plot(N_m, d['total_time_s'],  'o-', label=f"Total time ({method})")
+    # Add text annotations for N
+    for i, txt in enumerate(N_m):
+        if i > 2:
+            plt.annotate(f"{d['encode_time_s'].iloc[i]:.0f}", (N_m[i], d["encode_time_s"].iloc[i]), textcoords="offset points", xytext=(0,10), ha='center', fontsize=8)
+            plt.annotate(f"{d['search_time_s'].iloc[i]:.0f}", (N_m[i], d["search_time_s"].iloc[i]), textcoords="offset points", xytext=(0,-15), ha='center', fontsize=8)
+            plt.annotate(f"{d['total_time_s'].iloc[i]:.0f}", (N_m[i], d["total_time_s"].iloc[i]), textcoords="offset points", xytext=(0,25), ha='center', fontsize=8)
 
+plt.xlabel("Dataset size N")
+plt.ylabel("Time (seconds)")
+plt.title("Relationship Between Dataset Size and Runtime Components.")
+plt.ylim(0, 5500)
+plt.grid(True, which="both", ls="--", lw=0.5)
+plt.legend()
+plt.tight_layout()
 
-# import pandas as pd
-# import matplotlib.pyplot as plt
+out_png_time = csv_path.with_name("results/scalability/bigs_hnsw_components.png")
+plt.savefig(out_png_time, dpi=160)
+print(f"Saved {out_png_time}")
 
-# # Path to your CSV (same one you wrote in run_experiments)
-# csv_path = Path("bigs_results/bigs_normal_runs.csv")
+# ---------- 2) TOTAL TIME ONLY (log-log, by method) ----------
+csv_path = Path("results/scalability/scalability_experiments.csv")
+df = pd.read_csv(csv_path)
+naive = df.iloc[:3].copy()
+hnsw = df.iloc[3:].copy()
 
-# df = pd.read_csv(csv_path)
-# df = df.sort_values("samples")
+naive["method"] = "naive"
+hnsw["method"] = "hnsw"
 
-# N = df["samples"].to_numpy()
+df = pd.concat([naive, hnsw], ignore_index=True)
 
-# # ---------- helper: fit slope on log–log (scaling exponent) ----------
-# def loglog_slope(x, y):
-#     x = np.asarray(x, float); y = np.asarray(y, float)
-#     m = (x > 0) & (y > 0)
-#     if m.sum() < 2:
-#         return np.nan
-#     return np.polyfit(np.log10(x[m]), np.log10(y[m]), 1)[0]
+N = df["samples"].to_numpy()
 
-# # ---------- 1) TIME PLOT ----------
-# plt.figure(figsize=(7,5))
-# plt.loglog(N, df["encode_time_s"], "o-", label="Encode time")
-# plt.loglog(N, df["search_time_s"], "o-", label="Index+Search time")
-# plt.loglog(N, df["total_time_s"],  "o-", label="Total time")
+plt.figure(figsize=(7,5))
+for method in df['method'].unique():
+    d = df[df['method'] == method]
+    N_m = d['samples'].to_numpy()
+    plt.loglog(N_m, d['total_time_s'], 'o-', label=f"Total time ({method})")
+    for i, txt in enumerate(N_m):
+        plt.annotate(txt, (N_m[i], d["total_time_s"].iloc[i]), textcoords="offset points", xytext=(0,10), ha='center', fontsize=8)
 
-# # Add text annotations for N
-# for i, txt in enumerate(N):
-#     plt.annotate(txt, (N[i], df["encode_time_s"].iloc[i]), textcoords="offset points", xytext=(0,10), ha='center')
-#     plt.annotate(txt, (N[i], df["search_time_s"].iloc[i]), textcoords="offset points", xytext=(0,-15), ha='center')
+plt.xlabel("Dataset size N")
+plt.ylabel("Total Time (seconds)")
+plt.title("Total Runtime vs Dataset Size (Log–Log Scale)")
+plt.ylim((0, 9000))
+plt.grid(True, which="both", ls="--", lw=0.5)
+plt.legend()
+plt.tight_layout()
 
-
-# plt.xlabel("Dataset size N (log)")
-# plt.ylabel("Time (seconds, log)")
-# plt.title("Scalability: Time vs N (log–log)")
-# plt.grid(True, which="both", ls="--", lw=0.5)
-# plt.legend()
-# plt.tight_layout()
-
-# # (optional) save
-# out_png_time = csv_path.with_name("bigs_scalability_time.png")
-# plt.savefig(out_png_time, dpi=160)
-# print(f"Saved {out_png_time}")
-
-# # Show rough scaling exponents (slope in log–log)
-# print("Time scaling exponents (slope in log–log):")
-# for col in ["encode_time_s", "search_time_s", "total_time_s"]:
-#     s = loglog_slope(N, df[col])
-#     print(f"  {col}: ~ N^{s:.2f}")
-
-# # ---------- 2) MEMORY PLOT ----------
-# plt.figure(figsize=(7,5))
-# plt.loglog(N, df["encode_mem_delta_mb"], "o-", label="Encode mem Δ (MB)")
-# plt.loglog(N, df["search_mem_delta_mb"], "o-", label="Search mem Δ (MB)")
-
-# # Add text annotations for N
-# for i, txt in enumerate(N):
-#     plt.annotate(txt, (N[i], df["encode_mem_delta_mb"].iloc[i]), textcoords="offset points", xytext=(0,10), ha='center')
-#     plt.annotate(txt, (N[i], df["search_mem_delta_mb"].iloc[i]), textcoords="offset points", xytext=(0,-15), ha='center')
-
-
-# plt.xlabel("Dataset size N (log)")
-# plt.ylabel("Memory (MB, log)")
-# plt.title("Scalability: Memory vs N (log–log)")
-# plt.grid(True, which="both", ls="--", lw=0.5)
-# plt.legend()
-# plt.tight_layout()
-
-# out_png_mem = csv_path.with_name("bigs_scalability_memory.png")
-# plt.savefig(out_png_mem, dpi=160)
-# print(f"Saved {out_png_mem}")
-
-# print("Memory scaling exponents (slope in log–log):")
-# for col in ["encode_mem_delta_mb", "search_mem_delta_mb"]:
-#     s = loglog_slope(N, df[col])
-#     print(f"  {col}: ~ N^{s:.2f}")
+out_png_total_time_log = csv_path.with_name("results/scalability/bigs_naive_vs_hnsw.png")
+plt.savefig(out_png_total_time_log, dpi=160)
+print(f"Saved {out_png_total_time_log}")

@@ -212,9 +212,6 @@ if __name__ == "__main__":
     categories = load_category_names(args.bench_name, args.split_type)
     output_path = Path(f"{args.output_name}_{args.bench_name}_{args.split_type}_{args.split}.csv")
 
-    # header = ["category", "n_original", "n_generated", "split", "model_name", "emb_dim", "batch_size",
-    #     "bigs_left", "bigs_left_std", "bigs_left_median", "bigs_right", "bigs_right_std", "bigs_right_median", "exec_time_s"]
-    
     header = ["category", "n_original", "n_generated", "split_type", "model_name", "embedding_dim", "batch_size", "hnsw_M", "ef_construction", "ef_search", "encoding_time_s", "search_time_s", "total_time_s", "encode_mem_delta_mb", "search_mem_delta_mb",
         "bigs_right", "bigs_right_std", "bigs_right_median", "bigs_left", "bigs_left_std", "bigs_left_median"]
     write_header = not output_path.exists()
@@ -232,7 +229,6 @@ if __name__ == "__main__":
             print(f"# original units:  {len(originals):,}")
             print(f"# generated texts: {len(generated):,}")
 
-            # (right_mean, right_std, right_med, left_mean, left_std, left_med, elapsed) = bigs_scores(originals, generated, model, args.batch_size)
             model = SentenceTransformer(args.model_name, device=device)
 
             (embeds, enc_time, enc_mem) = _measure(
@@ -242,7 +238,6 @@ if __name__ == "__main__":
             )
             orig_emb, gen_emb = embeds
 
-            #(score_r, score_r_std, score_r_med, score_l, score_l_std, score_l_med, elapsed) = bigs_scores(originals, generated, model, args.batch_size)
             (bigs, search_time, search_mem) = _measure(
                     bigs_scores_hnsw,
                     orig_emb, gen_emb,
@@ -252,15 +247,6 @@ if __name__ == "__main__":
             )
             (score_r, score_r_std, score_r_med,
             score_l, score_l_std, score_l_med) = bigs
-
-            # writer.writerow(
-            #     [
-            #         cat, len(originals), len(generated), args.split, args.model_name,
-            #         model.get_sentence_embedding_dimension(), args.batch_size,
-            #         round(left_mean, 4), round(left_std, 4), round(left_med, 4),
-            #         round(right_mean, 4), round(right_std, 4), round(right_med, 4), round(elapsed, 2)
-            #     ]
-            # )
 
             writer.writerow(
                 [
@@ -272,7 +258,7 @@ if __name__ == "__main__":
                 round(score_r_std, 4), round(score_r_med, 4),
                 ]
             )
-            print(f"✓  Saved results for '{cat}'")
+            print(f"Saved results for '{cat}'")
 
     print(f"\nResults appended to  {output_path.resolve()}")
 

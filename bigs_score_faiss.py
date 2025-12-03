@@ -97,9 +97,6 @@ def load_generated_texts(filename: str):
 def load_original_docs(case: str):
     """Read raw documents for a given *case*."""
     DOC_PATHS = {
-        "lonquen": "data/docs_texts/lonquen.txt",
-        "20_docs": "data/docs_texts/20_docs.txt",
-        "san_gregorio": "data/docs_texts/san_gregorio.txt",
         "japan": "data/docs_texts/japan_wiki.txt",
         "croatia": "data/docs_texts/croatia_wiki.txt",
     }
@@ -117,7 +114,7 @@ def load_original_docs(case: str):
 def read_files(kg_text_path: str, case: str, split: str = "sentences", *, chunk_size: int = 10, overlap: int = 2) -> Tuple[List[str], List[str]]:
     """Return cleaned and optionally split corpora."""
     originals = load_original_docs(case)
-    generated = load_generated_texts(f"data/textualization/{kg_text_path}.pkl")
+    generated = load_generated_texts(f"data/{kg_text_path}.pkl")
 
     if split == "sentences":
         originals = sentences_from_docs(originals)
@@ -192,11 +189,6 @@ def bigs_scores_hnsw(
 
     d = X.shape[1]
 
-    # en macbook m1 necesitaba agregar esto o daba error:
-    #try:
-    #    faiss.omp_set_num_threads(1)
-    #except Exception:
-    #    pass
 
     print("Calculating BIGS -> ...")
 
@@ -238,7 +230,7 @@ if __name__ == "__main__":
     parser.add_argument("--model_name", default="all-mpnet-base-v2", help="Sentence-BERT model.")
     parser.add_argument("--batch_size", type=int, default=32, help="Batch size for encoding.")
     parser.add_argument("--kg_text_path", default="texts_gpt3_no_resolution", help="Pickle file with KG texts (no ext).")
-    parser.add_argument("--case", default="lonquen", choices=["lonquen", "20_docs", "san_gregorio", "japan", "croatia"])
+    parser.add_argument("--case", default="japan", choices=["japan", "croatia"])
     parser.add_argument("--split", default="sentences", choices=["sentences", "chunks"])
     parser.add_argument("--filename", default="results.csv", help="CSV file to append the scores.")
     parser.add_argument("--hnsw_M", type=int, default=16, help="HNSW M parameter.")
@@ -260,7 +252,6 @@ if __name__ == "__main__":
     )
     orig_emb, gen_emb = embeds
 
-    #(score_r, score_r_std, score_r_med, score_l, score_l_std, score_l_med, elapsed) = bigs_scores(originals, generated, model, args.batch_size)
     (bigs, search_time, search_mem) = _measure(
             bigs_scores_hnsw,
             orig_emb, gen_emb,
@@ -270,6 +261,11 @@ if __name__ == "__main__":
     )
     (score_r, score_r_std, score_r_med,
     score_l, score_l_std, score_l_med) = bigs
+
+    if "neighbor" in args.kg_text_path:
+        #base_name = args.kg_text_path
+        args.filename = args.filename.replace("results/", "results/neighbor_")
+        # args.filename = f"{args.filename}.csv"
 
     out_path = Path(args.filename)
     header = ["file", "n_original", "n_generated", "split_type", "model_name", "embedding_dim", "batch_size", "hnsw_M", "ef_construction", "ef_search", "encoding_time_s", "search_time_s", "total_time_s", "encode_mem_delta_mb", "search_mem_delta_mb",

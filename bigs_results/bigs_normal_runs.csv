@@ -1,4 +1,0 @@
-file,samples,model_name,embedding_dim,batch_size,hnsw_M,ef_construction,ef_search,encode_time_s,search_time_s,total_time_s,encode_mem_delta_mb,search_mem_delta_mb,bigs_r_mean,bigs_r_std,bigs_r_med,bigs_l_mean,bigs_l_std,bigs_l_med
-quadruples-train-50000.tsv,50000,sentence-transformers/all-mpnet-base-v2,768,256,16,200,128,27.4967,1649.2625,1676.7592,809.01,6531.43,0.284171,0.114906,0.271381,0.286398,0.117599,0.272242
-quadruples-train-100000.tsv,75000,sentence-transformers/all-mpnet-base-v2,768,256,16,200,128,40.834,3710.635,3751.4691,1012.55,9824.45,0.281945,0.112518,0.270491,0.284528,0.11547,0.271576
-quadruples-train-100000.tsv,100000,sentence-transformers/all-mpnet-base-v2,768,256,16,200,128,54.6281,6598.0501,6652.6781,1252.7,13111.5,0.280493,0.110458,0.270175,0.283502,0.113831,0.271501
