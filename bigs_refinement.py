@@ -64,10 +64,10 @@ def bigs_scores_hnsw(
     d = X.shape[1]
 
     # troubleshoot for m1 macbook:
-    try:
-        faiss.omp_set_num_threads(1)
-    except Exception:
-        pass
+    # try:
+    #     faiss.omp_set_num_threads(1)
+    # except Exception:
+    #     pass
 
     print("Calculating BIGS -> ...")
 

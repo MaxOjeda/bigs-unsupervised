@@ -77,6 +77,16 @@ python graph_to_texts/benchmarks_textualization.py --bench webwiki --split test
 
 ## Re-create experiments
 
+Experiments on graph refinement:
+```bash
+python bigs_refinement.py
+```
+
+Experiments on verbalization methods:
+```bash
+python bigs_verbalization_comparison.py
+```
+
 Experiments on benchmarks:
 ```bash
 python bigs_bench.py --bench webwiki --split test
