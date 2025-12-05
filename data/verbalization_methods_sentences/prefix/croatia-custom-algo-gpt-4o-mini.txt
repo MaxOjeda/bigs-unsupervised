@@ -1,0 +1,345 @@
+S:franjo bucar | P:was present at | O:croatia
+S:franjo bucar | P:is related to | O:national sport programme
+S:franjo bucar | P:is related to | O:national sport programme
+S:franjo bucar | P:is related to | O:croatian olympic committee
+S:franjo bucar | P:is related to | O:croatian sports association
+S:franjo bucar | P:is related to | O:hrvatski sokol
+S:croatia | P:is related to | O:branimir unspecified
+S:croatia | P:is related to | O:tomislav unspecified
+S:croatia | P:is related to | O:ferdinand i of austria
+S:croatia | P:is related to | O:trpimir i of croatia
+S:croatia | P:was present at | O:petar kresimir iv
+S:croatia | P:is related to | O:dmitar zvonimir
+S:croatia | P:was present at | O:ladislaus i
+S:croatia | P:was present at | O:louis ii
+S:croatia | P:was present at | O:charles iii
+S:croatia | P:was present at | O:maria theresa
+S:croatia | P:was present at | O:josip jelacic
+S:croatia | P:is related to | O:ivo josipovic
+S:croatia | P:is related to | O:andrej plenkovic
+S:croatia | P:is related to | O:zoran milanovic
+S:croatia | P:was present at | O:vladimir zerjavic
+S:croatia | P:was present at | O:bogoljub kocovic
+S:croatia | P:was present at | O:franjo tuđman
+S:croatia | P:was present at | O:josip juraj strossmayer
+S:croatia | P:was present at | O:vlaho bukovac
+S:croatia | P:was present at | O:ivan mestrovic
+S:croatia | P:was present at | O:ivan generalic
+S:croatia | P:was present at | O:marko marulic
+S:croatia | P:was present at | O:marin drzic
+S:croatia | P:was present at | O:ivan gundulic
+S:croatia | P:was present at | O:ivan mazuranic
+S:croatia | P:was present at | O:august senoa
+S:croatia | P:was present at | O:ivana brlic-mazuranic
+S:croatia | P:was present at | O:marija juric zagorka
+S:croatia | P:was present at | O:antun gustav Matos
+S:croatia | P:was present at | O:antun branko simic
+S:croatia | P:was present at | O:miroslav krleza
+S:croatia | P:was present at | O:tin ujevic
+S:croatia | P:was present at | O:ivo andric
+S:croatia | P:was present at | O:vatroslav lisinski
+S:croatia | P:was present at | O:ivan zajc
+S:croatia | P:was present at | O:ivo pogorelic
+S:croatia | P:occurs at | O:joined erp II
+S:croatia | P:occurs at | O:['abolished conscription', 'abolishment of compulsory conscription']
+S:croatia | P:occurs at | O:['reintroduced conscription', 'introduction of new conscription', "2025 World Men's Handball Championship"]
+S:croatia | P:occurs at | O:national sport programme
+S:croatia | P:occurs at | O:1998 World Cup bronze
+S:croatia | P:occurs at | O:2018 World Cup silver
+S:croatia | P:occurs at | O:2022 World Cup bronze
+S:croatia | P:occurs at | O:2020 Summer Olympics gold
+S:croatia | P:occurs at | O:2009 World Men's Handball Championship
+S:croatia | P:occurs at | O:2007 World Table Tennis Championships
+S:croatia | P:occurs at | O:2000 World Rowing Championships
+S:croatia | P:occurs at | O:1987 Summer Universiade
+S:croatia | P:occurs at | O:1979 Mediterranean Games
+S:croatia | P:occurs at | O:["2024 Men's European Water Polo Championship", 'high GDP projection']
+S:croatia | P:occurs at | O:2018 World Men's Handball Championship
+S:croatia | P:is related to | O:international recognition
+S:croatia | P:is related to | O:merger into kingdom
+S:croatia | P:is related to | O:['declaration of independence', 'independence declaration']
+S:croatia | P:occurs at | O:first king of croatia
+S:croatia | P:occurs at | O:battle of krbava field
+S:croatia | P:occurs at | O:battle of sisak
+S:croatia | P:occurs at | O:pragmatic sanction
+S:croatia | P:occurs at | O:battle of vis
+S:croatia | P:occurs at | O:return of military frontier
+S:croatia | P:occurs at | O:export of military equipment
+S:croatia | P:occurs at | O:unemployment rate change
+S:croatia | P:is related to | O:croatia joins peace partnership
+S:croatia | P:is related to | O:wto membership
+S:croatia | P:is related to | O:stabilisation agreement signed
+S:croatia | P:is related to | O:eu accession negotiations
+S:croatia | P:is related to | O:accession treaty signed
+S:croatia | P:is related to | O:eu membership referendum
+S:croatia | P:is related to | O:croatia joins eu
+S:croatia | P:occurs at | O:plenkovic becomes prime minister
+S:croatia | P:occurs at | O:presidential elections
+S:croatia | P:occurs at | O:oecd accession negotiations
+S:croatia | P:is related to | O:['croatia joins schengen area', 'joined eurozone', 'joined schengen area', 'croatia adopts euro']
+S:croatia | P:is related to | O:['healthcare expenditure report', 'obesity report']
+S:croatia | P:is related to | O:cardiovascular disease death
+S:croatia | P:occurs at | O:declaration implementation
+S:croatia | P:occurs at | O:diplomatic recognition
+S:croatia | P:occurs at | O:victory day
+S:croatia | P:is related to | O:['erdut agreement']
+S:croatia | P:occurs at | O:declaration of independence
+S:croatia | P:occurs at | O:6 January Dictatorship establishment
+S:croatia | P:occurs at | O:Cvetkovic–Macek Agreement
+S:croatia | P:occurs at | O:invasion of Yugoslavia
+S:croatia | P:occurs at | O:control of Yugoslavia
+S:croatia | P:is contained in | O:plitvice lakes national park
+S:croatia | P:is contained in | O:velebit nature park
+S:croatia | P:is contained in | O:istria
+S:croatia | P:is contained in | O:krk
+S:croatia | P:is contained in | O:dalmatia
+S:croatia | P:is contained in | O:rijeka
+S:croatia | P:is contained in | O:osijek
+S:croatia | P:is contained in | O:zadar
+S:croatia | P:is contained in | O:vukovar
+S:croatia | P:is contained in | O:krk island
+S:croatia | P:is contained in | O:benkovac
+S:croatia | P:is contained in | O:slavonia
+S:croatia | P:is contained in | O:dubrovnik
+S:croatia | P:is contained in | O:smiljin
+S:croatia | P:is contained in | O:sisak
+S:croatia | P:is contained in | O:bjelovar
+S:croatia | P:is contained in | O:gospic
+S:croatia | P:is contained in | O:ogulin
+S:croatia | P:is contained in | O:pozega
+S:croatia | P:is contained in | O:varazdin
+S:croatia | P:is contained in | O:university of zadar
+S:croatia | P:is contained in | O:university of zagreb
+S:croatia | P:is contained in | O:peljesac bridge
+S:croatia | P:is contained in | O:city of zagreb
+S:croatia | P:is contained in | O:city of split
+S:croatia | P:is contained in | O:eastern slavonia
+S:croatia | P:is contained in | O:western slavonia
+S:croatia | P:is contained in | O:baranja
+S:croatia | P:is contained in | O:međimurje
+S:croatia | P:is contained in | O:jasenovac
+S:croatia | P:is contained in | O:kamesnica
+S:croatia | P:is contained in | O:lipa
+S:croatia | P:is contained in | O:zagreb fair
+S:croatia | P:is contained in | O:karlovac
+S:croatia | P:is contained in | O:trogir
+S:croatia | P:is related to | O:['tourism income estimation', 'tourist destination popularity']
+S:croatia | P:is related to | O:tourist number rise
+S:croatia | P:is related to | O:['solo travel index ranking', 'honeymoon destination popularity']
+S:croatia | P:is related to | O:['corruption index ranking', 'swimming water quality ranking']
+S:croatia | P:is part of | O:european union
+S:croatia | P:is part of | O:nato
+S:croatia | P:is part of | O:united nations
+S:croatia | P:is part of | O:osce
+S:croatia | P:is part of | O:world trade organization
+S:croatia | P:is part of | O:union for the mediterranean
+S:croatia | P:is part of | O:oecd
+S:croatia | P:is part of | O:hrvatska elektroprivreda
+S:national sport programme | P:is related to | O:national sport programme
+S:croatian olympic committee | P:is related to | O:['reintroduced conscription', 'introduction of new conscription', "2025 World Men's Handball Championship"]
+S:croatian olympic committee | P:is part of | O:croatian government
+S:croatian olympic committee | P:is related to | O:eurovision contest
+S:croatian olympic committee | P:is related to | O:2018 World Men's Handball Championship
+S:croatian olympic committee | P:is related to | O:["2024 Men's European Water Polo Championship", 'high GDP projection']
+S:croatian olympic committee | P:is related to | O:1979 Mediterranean Games
+S:croatian olympic committee | P:is related to | O:1987 Summer Universiade
+S:croatian olympic committee | P:is related to | O:2000 World Rowing Championships
+S:croatian olympic committee | P:is related to | O:2007 World Table Tennis Championships
+S:croatian olympic committee | P:is related to | O:2009 World Men's Handball Championship
+S:croatian olympic committee | P:is related to | O:2022 World Cup bronze
+S:croatian olympic committee | P:is related to | O:2018 World Cup silver
+S:croatian olympic committee | P:is related to | O:1998 World Cup bronze
+S:croatian olympic committee | P:is related to | O:2020 Summer Olympics gold
+S:branimir unspecified | P:was present at | O:benkovac
+S:branimir unspecified | P:is related to | O:international recognition
+S:benkovac | P:occurs at | O:branimir inscription
+S:international recognition | P:is related to | O:tomislav unspecified
+S:international recognition | P:is related to | O:ferdinand i of austria
+S:international recognition | P:is related to | O:zvonimir unspecified
+S:international recognition | P:is related to | O:trpimir i of croatia
+S:ferdinand i of austria | P:was present at | O:cetina
+S:ferdinand i of austria | P:is related to | O:parliament meeting
+S:ferdinand i of austria | P:is related to | O:kingdom of croatia
+S:cetina | P:occurs at | O:parliament meeting
+S:parliament meeting | P:is related to | O:sabor
+S:kingdom of croatia | P:is related to | O:petar kresimir iv
+S:kingdom of croatia | P:is related to | O:dmitar zvonimir
+S:kingdom of croatia | P:is related to | O:ladislaus i
+S:kingdom of croatia | P:is related to | O:louis ii
+S:kingdom of croatia | P:is related to | O:charles iii
+S:kingdom of croatia | P:is related to | O:maria theresa
+S:kingdom of croatia | P:is related to | O:josip jelacic
+S:kingdom of croatia | P:is related to | O:nikola tesla
+S:kingdom of croatia | P:is related to | O:first king of croatia
+S:kingdom of croatia | P:is part of | O:sabor
+S:trpimir i of croatia | P:was present at | O:krapina
+S:trpimir i of croatia | P:is related to | O:trpimir charter
+S:trpimir i of croatia | P:is related to | O:duchy of croatia
+S:trpimir charter | P:occurs at | O:dalmatia
+S:trpimir charter | P:is related to | O:duchy of croatia
+S:duchy of croatia | P:is part of | O:principality of lower pannonia
+S:dmitar zvonimir | P:is related to | O:end of trpimirovic dynasty
+S:dmitar zvonimir | P:is related to | O:medieval croatian kingdom
+S:end of trpimirovic dynasty | P:occurs at | O:dalmatia
+S:end of trpimirovic dynasty | P:is related to | O:medieval croatian kingdom
+S:medieval croatian kingdom | P:is related to | O:peter kresimir iv
+S:louis ii | P:is related to | O:battle of mohacs
+S:charles iii | P:is related to | O:pragmatic sanction
+S:pragmatic sanction | P:is related to | O:maria theresa
+S:pragmatic sanction | P:is related to | O:austro-hungarian empire
+S:josip jelacic | P:is related to | O:battle of krbava field
+S:battle of krbava field | P:is related to | O:croatian military frontier
+S:nikola tesla | P:was present at | O:smiljin
+S:nikola tesla | P:is related to | O:birth of nikola tesla
+S:smiljin | P:occurs at | O:birth of nikola tesla
+S:julius nepos | P:was present at | O:split
+S:julius nepos | P:is related to | O:julius nepos rule
+S:split | P:occurs at | O:diocletian abdication
+S:split | P:occurs at | O:julius nepos rule
+S:split | P:is contained in | O:slavonia
+S:split | P:is contained in | O:bijaci
+S:ivo josipovic | P:is related to | O:plenkovic becomes prime minister
+S:plenkovic becomes prime minister | P:is related to | O:andrej plenkovic
+S:zoran milanovic | P:is related to | O:presidential elections
+S:dusan vukotic | P:was present at | O:pula
+S:dusan vukotic | P:is related to | O:academy awards nomination
+S:dusan vukotic | P:is related to | O:ministry of culture
+S:pula | P:occurs at | O:eurovision contest
+S:pula | P:occurs at | O:academy awards nomination
+S:pula | P:is contained in | O:istria
+S:academy awards nomination | P:is related to | O:nebojsа slijepcevic
+S:academy awards nomination | P:is related to | O:ministry of culture
+S:ministry of culture | P:is related to | O:branko lustig
+S:ministry of culture | P:is related to | O:nebojsа slijepcevic
+S:branko lustig | P:was present at | O:zagreb
+S:zagreb | P:occurs at | O:['agreement signed', 'aircraft delivery']
+S:zagreb | P:occurs at | O:new flights launched
+S:zagreb | P:occurs at | O:proclamation of state
+S:zagreb | P:is contained in | O:korcula
+S:zagreb | P:is contained in | O:lastovo
+S:zagreb | P:is contained in | O:ruđer boskovic institute
+S:zagreb | P:is contained in | O:croatian academy of sciences and arts
+S:nebojsа slijepcevic | P:was present at | O:korcula
+S:korcula | P:is contained in | O:slavonia
+S:korcula | P:is contained in | O:adratic sea
+S:vladimir zerjavic | P:is related to | O:['declaration of independence', 'independence declaration']
+S:vladimir zerjavic | P:is related to | O:['erdut agreement']
+S:vladimir zerjavic | P:is related to | O:victory day
+S:vladimir zerjavic | P:is related to | O:diplomatic recognition
+S:vladimir zerjavic | P:is related to | O:declaration implementation
+S:vladimir zerjavic | P:is related to | O:state anti-fascist council for the national liberation of croatia
+S:['declaration of independence', 'independence declaration'] | P:is related to | O:bogoljub kocovic
+S:['declaration of independence', 'independence declaration'] | P:is related to | O:franjo tuđman
+S:['declaration of independence', 'independence declaration'] | P:is related to | O:nato
+S:['declaration of independence', 'independence declaration'] | P:is related to | O:european union
+S:['declaration of independence', 'independence declaration'] | P:is related to | O:united nations
+S:['declaration of independence', 'independence declaration'] | P:is related to | O:osce
+S:['declaration of independence', 'independence declaration'] | P:is related to | O:partisan movement
+S:['declaration of independence', 'independence declaration'] | P:is related to | O:state anti-fascist council for the national liberation of croatia
+S:['declaration of independence', 'independence declaration'] | P:is related to | O:avnoj
+S:['erdut agreement'] | P:is related to | O:bogoljub kocovic
+S:['erdut agreement'] | P:is related to | O:united nations
+S:['erdut agreement'] | P:is related to | O:untaes
+S:victory day | P:is related to | O:bogoljub kocovic
+S:victory day | P:is related to | O:republic of serbian krajina
+S:diplomatic recognition | P:is related to | O:bogoljub kocovic
+S:diplomatic recognition | P:is related to | O:united nations
+S:diplomatic recognition | P:is related to | O:european economic community
+S:declaration implementation | P:is related to | O:bogoljub kocovic
+S:declaration implementation | P:is related to | O:franjo tuđman
+S:declaration implementation | P:is related to | O:state anti-fascist council for the national liberation of croatia
+S:state anti-fascist council for the national liberation of croatia | P:is related to | O:bogoljub kocovic
+S:state anti-fascist council for the national liberation of croatia | P:is part of | O:partisan movement
+S:state anti-fascist council for the national liberation of croatia | P:is related to | O:Tehran Conference recognition
+S:franjo tuđman | P:is related to | O:communist party
+S:stjepan radic | P:was present at | O:rijeka
+S:stjepan radic | P:is related to | O:assassination of Stjepan Radic
+S:stjepan radic | P:is related to | O:croatian peasant party
+S:rijeka | P:was present at | O:punisa racic
+S:rijeka | P:was present at | O:ante pavelic
+S:assassination of Stjepan Radic | P:is related to | O:punisa racic
+S:assassination of Stjepan Radic | P:occurs at | O:belgrade
+S:assassination of Stjepan Radic | P:is related to | O:croatian peasant party
+S:croatian peasant party | P:is related to | O:vladko macek
+S:croatian peasant party | P:is related to | O:declaration of independence
+S:vladko macek | P:is related to | O:Cvetkovic–Macek Agreement
+S:ante pavelic | P:is related to | O:invasion of Yugoslavia
+S:ante pavelic | P:is related to | O:independent state of croatia
+S:invasion of Yugoslavia | P:is related to | O:independent state of croatia
+S:josip broz | P:was present at | O:sisak
+S:josip broz | P:is related to | O:formation of 1st Sisak Partisan Detachment
+S:josip broz | P:is related to | O:yugoslav partisan movement
+S:sisak | P:occurs at | O:formation of 1st Sisak Partisan Detachment
+S:formation of 1st Sisak Partisan Detachment | P:is related to | O:1st sisak partisan detachment
+S:yugoslav partisan movement | P:is part of | O:1st sisak partisan detachment
+S:yugoslav partisan movement | P:is related to | O:control of Yugoslavia
+S:josip juraj strossmayer | P:is related to | O:croatian radiotelevision (hrt)
+S:croatian radiotelevision (hrt) | P:is related to | O:vlaho bukovac
+S:croatian radiotelevision (hrt) | P:is related to | O:ivan mestrovic
+S:croatian radiotelevision (hrt) | P:is related to | O:ivan generalic
+S:croatian radiotelevision (hrt) | P:is part of | O:croatian government
+S:vatroslav lisinski | P:is related to | O:croatian government
+S:croatian government | P:is related to | O:ivan zajc
+S:croatian government | P:is related to | O:proclamation of state
+S:croatian government | P:is part of | O:office of displaced persons and refugees
+S:['abolished conscription', 'abolishment of compulsory conscription'] | P:is related to | O:ministry of the interior
+S:['abolished conscription', 'abolishment of compulsory conscription'] | P:is related to | O:croatian armed forces
+S:['abolished conscription', 'abolishment of compulsory conscription'] | P:is related to | O:nato
+S:['abolished conscription', 'abolishment of compulsory conscription'] | P:is related to | O:united nations
+S:['abolished conscription', 'abolishment of compulsory conscription'] | P:is related to | O:kfor
+S:['reintroduced conscription', 'introduction of new conscription', "2025 World Men's Handball Championship"] | P:is related to | O:ministry of the interior
+S:['reintroduced conscription', 'introduction of new conscription', "2025 World Men's Handball Championship"] | P:is related to | O:croatian armed forces
+S:['agreement signed', 'aircraft delivery'] | P:is related to | O:croatian railways
+S:['agreement signed', 'aircraft delivery'] | P:is related to | O:european investment bank
+S:construction started | P:occurs at | O:krk island
+S:construction started | P:is related to | O:european union
+S:construction started | P:is related to | O:hrvatske ceste
+S:construction started | P:is related to | O:china road and bridge corporation
+S:krk island | P:occurs at | O:construction completed
+S:krk island | P:occurs at | O:terminal operations begun
+S:['corruption index ranking', 'swimming water quality ranking'] | P:occurs at | O:opatija
+S:['corruption index ranking', 'swimming water quality ranking'] | P:is related to | O:transparency international
+S:opatija | P:occurs at | O:['tourism income estimation', 'tourist destination popularity']
+S:opatija | P:occurs at | O:tourist number rise
+S:opatija | P:occurs at | O:['solo travel index ranking', 'honeymoon destination popularity']
+S:opatija | P:is contained in | O:slavonia
+S:['tourism income estimation', 'tourist destination popularity'] | P:is related to | O:world tourism organization
+S:battle of sisak | P:is related to | O:croatian military frontier
+S:return of military frontier | P:is related to | O:austro-hungarian empire
+S:branimir inscription | P:is related to | O:dux cruatorvm
+S:dalmatia | P:occurs at | O:beginning of roman rule
+S:dalmatia | P:occurs at | O:dukedom formation
+S:dalmatia | P:occurs at | O:branimir papal recognition
+S:dalmatia | P:occurs at | O:tomislav recognition
+S:branimir papal recognition | P:is related to | O:papal recognition
+S:tomislav recognition | P:is related to | O:papal recognition
+S:export of military equipment | P:is related to | O:croatian armed forces
+S:croatia joins eu | P:is related to | O:united nations
+S:oecd accession negotiations | P:is related to | O:oecd
+S:['croatia joins schengen area', 'joined eurozone', 'joined schengen area', 'croatia adopts euro'] | P:is related to | O:croatian democratic union
+S:['croatia joins schengen area', 'joined eurozone', 'joined schengen area', 'croatia adopts euro'] | P:is related to | O:social democratic party of croatia
+S:['croatia joins schengen area', 'joined eurozone', 'joined schengen area', 'croatia adopts euro'] | P:is related to | O:croatian ministry of foreign affairs and european integration
+S:EIB loan to Zagreb | P:occurs at | O:city of zagreb
+S:EIB loan to Zagreb | P:is related to | O:european investment bank (eib)
+S:city of zagreb | P:is contained in | O:ruđer boskovic institute
+S:city of zagreb | P:is contained in | O:croatian academy of sciences and arts
+S:EIB loan to Split | P:occurs at | O:city of split
+S:EIB loan to Split | P:is related to | O:european investment bank (eib)
+S:union with Serbia | P:occurs at | O:serbia
+S:Tehran Conference recognition | P:occurs at | O:tehran
+S:bosnia and herzegovina | P:is contained in | O:neum
+S:lastovo | P:is contained in | O:adratic sea
+S:slavonia | P:is contained in | O:vis
+S:slavonia | P:is contained in | O:sibenik
+S:adratic sea | P:is contained in | O:hvar
+S:adratic sea | P:is contained in | O:vis
+S:cakovec | P:is contained in | O:lika
+S:lika | P:is contained in | O:ploce
+S:croatian armed forces | P:is part of | O:kfor
+S:croatian armed forces | P:is part of | O:nato
+S:croatian armed forces | P:is part of | O:united nations
+S:european union | P:is part of | O:hrvatske ceste
+S:hrvatske ceste | P:is part of | O:china road and bridge corporation
+S:china road and bridge corporation | P:is part of | O:hrvatska elektroprivreda
+S:croatian military frontier | P:is part of | O:austro-hungarian empire
+S:austro-hungarian empire | P:is part of | O:croatian national revival

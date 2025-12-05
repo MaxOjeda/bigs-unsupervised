@@ -1,0 +1,302 @@
+S:zagreb | P:is contained in | O:croatia
+S:zagreb | P:is contained in | O:zagreb county
+S:zagreb | P:is contained in | O:banski dvori
+S:zagreb | P:is contained in | O:rudjer boskovic institute
+S:zagreb | P:is contained in | O:croatian academy of sciences and arts
+S:zagreb | P:is contained in | O:zagreb fair
+S:zagreb | P:is contained in | O:franjo tudman airport
+S:zagreb | P:occurs at | O:hamburg zagreb service
+S:croatia | P:is contained in | O:plitvice lakes national park
+S:croatia | P:is contained in | O:zrmanja canyon
+S:croatia | P:is contained in | O:krka canyon
+S:croatia | P:is contained in | O:drava
+S:croatia | P:is contained in | O:adriatic islands
+S:croatia | P:is contained in | O:dinaric mountains
+S:croatia | P:is contained in | O:pannonian mixed forests
+S:croatia | P:is contained in | O:illyrian deciduous forests
+S:croatia | P:is contained in | O:istrian
+S:croatia | P:is contained in | O:krk
+S:croatia | P:is contained in | O:dalmatia
+S:croatia | P:is contained in | O:slavonia
+S:croatia | P:is contained in | O:dubrovnik
+S:croatia | P:is contained in | O:rijeka
+S:croatia | P:is contained in | O:osijek
+S:croatia | P:is contained in | O:zadar
+S:croatia | P:is contained in | O:lastovo
+S:croatia | P:is contained in | O:peljesac bridge
+S:croatia | P:is contained in | O:trogir
+S:croatia | P:is contained in | O:benkovac
+S:croatia | P:is contained in | O:bijaci
+S:croatia | P:is contained in | O:vis
+S:croatia | P:is contained in | O:hvar
+S:croatia | P:is contained in | O:korcula
+S:croatia | P:is contained in | O:sava
+S:croatia | P:is contained in | O:university of zadar
+S:croatia | P:is contained in | O:dinara peak
+S:croatia | P:is contained in | O:cres
+S:croatia | P:is contained in | O:hrvatsko zagorje
+S:croatia | P:is contained in | O:dinaric alps
+S:croatia | P:is contained in | O:plitvice lakes
+S:croatia | P:is contained in | O:bisevo
+S:croatia | P:is contained in | O:svetac
+S:croatia | P:is contained in | O:risnjak
+S:croatia | P:is contained in | O:sneznik
+S:croatia | P:is contained in | O:dinaric mountains mixed forests
+S:croatia | P:is related to | O:andrej plenkovic
+S:croatia | P:is related to | O:ivo josipovic
+S:croatia | P:is related to | O:zoran milanovic
+S:croatia | P:was present at | O:vatroslav lisinski
+S:croatia | P:is contained in | O:sabor
+S:croatia | P:is related to | O:independence recognized
+S:croatia | P:occurs at | O:independence declared
+S:croatia | P:occurs at | O:conscription abolished
+S:croatia | P:occurs at | O:conscription reintroduced 2025
+S:croatia | P:is related to | O:global peace index 2024
+S:croatia | P:occurs at | O:counties abolished 1920s
+S:croatia | P:occurs at | O:counties reintroduced 1992
+S:croatia | P:is related to | O:eight counties 1918
+S:croatia | P:occurs at | O:counties borders revised 2006
+S:croatia | P:occurs at | O:conscription duration reduced 2001
+S:croatia | P:occurs at | O:eu referendum
+S:croatia | P:occurs at | O:constitution adopted
+S:croatia | P:occurs at | O:record low temperature
+S:croatia | P:occurs at | O:record high temperature
+S:croatia | P:occurs at | O:croatia independence
+S:croatia | P:is part of | O:european union
+S:croatia | P:is part of | O:eurozone
+S:croatia | P:is part of | O:schengen area
+S:croatia | P:is part of | O:nato
+S:croatia | P:is part of | O:united nations
+S:croatia | P:is part of | O:council of europe
+S:croatia | P:is part of | O:organization for security and cooperation in europe
+S:croatia | P:is part of | O:world trade organization
+S:croatia | P:is part of | O:union for the mediterranean
+S:croatia | P:is part of | O:partnership for peace
+S:croatia | P:is part of | O:socialist federal republic of yugoslavia
+S:croatia | P:is part of | O:croatian military
+S:croatia | P:is contained in | O:city of zagreb
+S:croatia | P:occurs at | O:join erm ii
+S:croatia | P:occurs at | O:1991 croatia displacements
+S:croatia | P:occurs at | O:un report 2013
+S:croatia | P:occurs at | O:debt to gdp 2020
+S:croatia | P:occurs at | O:trade 2018
+S:croatia | P:occurs at | O:motorway mileage 2020
+S:croatia | P:occurs at | O:tourist visits 2017
+S:croatia | P:occurs at | O:['wedding trends 2023', 'bounce index 2023']
+S:croatia | P:occurs at | O:['stays 2019', 'tourism 2019 income']
+S:croatia | P:occurs at | O:territorial split
+S:croatia | P:occurs at | O:parliament pragmatic sanction
+S:croatia | P:occurs at | O:jelacic defeats hungarians
+S:croatia | P:occurs at | O:croatia hungary settlement
+S:croatia | P:occurs at | O:frontier return croatia
+S:croatia | P:occurs at | O:trpimir charter
+S:croatia | P:occurs at | O:duchy croatia attested
+S:croatia | P:occurs at | O:christianisation begins croats
+S:croatia | P:occurs at | O:christianisation completes croats
+S:croatia | P:occurs at | O:petar kresimir iv reign
+S:croatia | P:occurs at | O:dmitar zvonimir reign
+S:croatia | P:occurs at | O:stjepan ii death
+S:croatia | P:occurs at | O:arms exports 2020
+S:croatia | P:occurs at | O:['literacy rate 2021', '2021 census', 'census 2021']
+S:croatia | P:occurs at | O:ec language survey 2005
+S:croatia | P:occurs at | O:foreign language survey 2011
+S:croatia | P:occurs at | O:education law 2007
+S:croatia | P:occurs at | O:['r&d expenditure 2022', 'corruption index 2022']
+S:croatia | P:occurs at | O:partnership for peace
+S:croatia | P:occurs at | O:wto membership
+S:croatia | P:occurs at | O:eu-saa signing
+S:croatia | P:occurs at | O:eu accession completed
+S:croatia | P:occurs at | O:acc treaty signed
+S:croatia | P:occurs at | O:eu membership
+S:croatia | P:occurs at | O:nato accession
+S:croatia | P:occurs at | O:dec 2011 elections
+S:croatia | P:occurs at | O:plenkovic prime minister
+S:croatia | P:occurs at | O:presidential election 2020
+S:croatia | P:occurs at | O:oecd accession opened
+S:croatia | P:occurs at | O:['schengen membership', 'join schengen eurozone', 'euro adoption']
+S:croatia | P:occurs at | O:moratorium on indecision
+S:croatia | P:occurs at | O:eec recognition
+S:croatia | P:occurs at | O:war end 1995
+S:croatia | P:occurs at | O:independence declaration
+S:dalmatia | P:is contained in | O:italy
+S:dalmatia | P:is contained in | O:split
+S:dalmatia | P:occurs at | O:dalmatia venetian control
+S:dalmatia | P:occurs at | O:dalmatia formed
+S:dalmatia | P:occurs at | O:roman annexation croatia
+S:rijeka | P:occurs at | O:rijeka corpus separatum
+S:osijek | P:is contained in | O:osijek-baranja
+S:osijek | P:is contained in | O:tvrdja fortress
+S:split | P:was present at | O:julius nepos
+S:split | P:occurs at | O:julius nepos rule
+S:zadar | P:is contained in | O:church of st donatus in zadar
+S:krk island | P:is contained in | O:adriatic sea
+S:krk island | P:is contained in | O:baska
+S:vukovar | P:is contained in | O:vukovar-syrmia
+S:belgrade | P:occurs at | O:union with serbia
+S:belgrade | P:occurs at | O:6 january dictatorship
+S:berlin | P:occurs at | O:treaty of berlin
+S:hamburg | P:occurs at | O:hamburg zagreb service
+S:krsko | P:is contained in | O:krsko nuclear power plant
+S:trogir | P:is contained in | O:trogir cathedral
+S:north-western bosnia | P:is contained in | O:bosnia and herzegovina
+S:bosnia and herzegovina | P:is contained in | O:neum
+S:bosnia and herzegovina | P:occurs at | O:great turkish war begins
+S:vienna | P:is contained in | O:austria
+S:vienna | P:occurs at | O:vienna literary agreement
+S:austria | P:is contained in | O:medimurje
+S:austria | P:is contained in | O:baranja
+S:austria | P:occurs at | O:1848 revolution
+S:austria | P:occurs at | O:austro-hungarian compromise
+S:austria | P:occurs at | O:world war i halts reforms
+S:krbava field | P:occurs at | O:krbava field battle
+S:mohacs | P:was present at | O:louis ii
+S:mohacs | P:occurs at | O:battle mohacs
+S:cetin | P:was present at | O:ferdinand i
+S:cetin | P:occurs at | O:cetin election
+S:ragusa | P:occurs at | O:illyrian provinces established
+S:ragusa | P:occurs at | O:illyrian provinces captured
+S:vis | P:occurs at | O:battle of vis
+S:smiljin | P:was present at | O:nikola tesla
+S:sisak | P:was present at | O:josip tito
+S:sisak | P:occurs at | O:first sisak detachment
+S:bjelovar | P:is contained in | O:bjelovar-bilogora
+S:pozega | P:is contained in | O:pozega-slavonia
+S:afghanistan | P:occurs at | O:isaf troops afghanistan 2019
+S:kosovo | P:occurs at | O:kfor troops kosovo 2019
+S:university of zadar | P:occurs at | O:zadar university founded
+S:university of zadar | P:occurs at | O:zadar renewed university
+S:university of zagreb | P:is contained in | O:southeast europe
+S:university of zagreb | P:occurs at | O:zagreb university founded
+S:rudjer boskovic institute | P:was present at | O:rudjer boskovic
+S:rudjer boskovic institute | P:occurs at | O:['r&d expenditure 2022', 'corruption index 2022']
+S:croatian academy of sciences and arts | P:occurs at | O:croatian academy inception
+S:zagreb fair | P:was present at | O:interliber
+S:sibenik | P:is contained in | O:cathedral of st james in sibenik
+S:tehran | P:was present at | O:josip tito
+S:cathedral of st james in sibenik | P:was present at | O:giorgio da sebenico
+S:cathedral of st james in sibenik | P:was present at | O:nicolas of florence
+S:franjo bucar | P:is related to | O:croatian olympic committee
+S:croatian olympic committee | P:is part of | O:croatian sports association
+S:franjo tudman | P:is related to | O:croatian government
+S:franjo tudman | P:is related to | O:franjo tudman airport
+S:croatian government | P:is related to | O:1991 croatia displacements
+S:croatian government | P:is related to | O:independence declared
+S:croatian government | P:is part of | O:office of displaced persons and refugees
+S:petar kresimir iv | P:is related to | O:kingdom of croatia
+S:kingdom of croatia | P:is related to | O:dmitar zvonimir
+S:kingdom of croatia | P:is related to | O:louis ii
+S:kingdom of croatia | P:is related to | O:ferdinand i
+S:kingdom of croatia | P:is related to | O:stjepan ii
+S:kingdom of croatia | P:is related to | O:ladislaus crown claim
+S:kingdom of croatia | P:is related to | O:croatia hungary union
+S:kingdom of croatia | P:is related to | O:dmitar zvonimir reign
+S:kingdom of croatia | P:is related to | O:petar kresimir iv reign
+S:kingdom of croatia | P:is related to | O:tomislav king recognition
+S:kingdom of croatia | P:is related to | O:jelacic defeats hungarians
+S:kingdom of croatia | P:is related to | O:hungary croatia union
+S:kingdom of croatia | P:is related to | O:tomislav recognized as king
+S:ladislaus i | P:is related to | O:hungary croatia union
+S:hungary croatia union | P:occurs at | O:hungary
+S:louis ii | P:is related to | O:battle mohacs
+S:battle mohacs | P:is related to | O:ottoman empire
+S:ferdinand i | P:is related to | O:cetin election
+S:ferdinand i | P:is related to | O:house of habsburg
+S:cetin election | P:is related to | O:sabor
+S:house of habsburg | P:is part of | O:military frontier
+S:maria theresa | P:is related to | O:austrian empire
+S:austrian empire | P:is related to | O:1848 revolution
+S:austrian empire | P:is related to | O:dalmatia formed
+S:austrian empire | P:is related to | O:illyrian provinces captured
+S:austrian empire | P:is related to | O:rijeka corpus separatum
+S:charles iii | P:is related to | O:parliament pragmatic sanction
+S:charles iii | P:is related to | O:sabor
+S:parliament pragmatic sanction | P:is related to | O:sabor
+S:sabor | P:occurs at | O:parliament dissolution
+S:sabor | P:occurs at | O:sabor dissolution
+S:josip jelacic | P:is related to | O:jelacic defeats hungarians
+S:julius nepos | P:is related to | O:julius nepos rule
+S:julius nepos | P:is related to | O:roman empire
+S:julius nepos rule | P:is related to | O:roman empire
+S:roman empire | P:is related to | O:roman annexation croatia
+S:andrej plenkovic | P:is related to | O:plenkovic prime minister
+S:ivo josipovic | P:is related to | O:dec 2011 elections
+S:ivo josipovic | P:is related to | O:sabor dissolution
+S:zoran milanovic | P:is related to | O:presidential election 2020
+S:vladimir zerjavic | P:is related to | O:state anti-fascist council for the national liberation of croatia
+S:state anti-fascist council for the national liberation of croatia | P:is related to | O:bogoljub kocovic
+S:stjepan radic | P:is related to | O:croatian peasant party
+S:croatian peasant party | P:is related to | O:vladko macek
+S:punisa racic | P:is related to | O:narodna radikalna stranka
+S:ante pavelic | P:is related to | O:independent state of croatia
+S:josip tito | P:is related to | O:yugoslav partisan movement
+S:yugoslav partisan movement | P:is related to | O:first sisak detachment
+S:yugoslav partisan movement | P:is part of | O:first sisak partisan detachment
+S:ministry of the interior | P:is part of | O:security and intelligence agency
+S:croatian armed forces | P:is part of | O:education and training command
+S:croatian armed forces | P:is part of | O:support command
+S:croatian armed forces | P:is part of | O:croatian air force
+S:croatian armed forces | P:is part of | O:croatian army
+S:croatian armed forces | P:is part of | O:croatian navy
+S:european union | P:is related to | O:['schengen membership', 'join schengen eurozone', 'euro adoption']
+S:european union | P:is related to | O:eu membership
+S:european union | P:is related to | O:acc treaty signed
+S:european union | P:is related to | O:eu accession completed
+S:european union | P:is related to | O:eu-saa signing
+S:european union | P:is related to | O:croatia joins eu
+S:european union | P:is part of | O:eurostat
+S:european union | P:is part of | O:european environment agency
+S:['schengen membership', 'join schengen eurozone', 'euro adoption'] | P:is related to | O:ministry of foreign affairs and european integration
+S:ministry of foreign affairs and european integration | P:is related to | O:join erm ii
+S:republic of croatia | P:is related to | O:['literacy rate 2021', '2021 census', 'census 2021']
+S:republic of croatia | P:is related to | O:education law 2007
+S:republic of croatia | P:is related to | O:foreign language survey 2011
+S:republic of croatia | P:is related to | O:ec language survey 2005
+S:republic of croatia | P:is part of | O:european union language association
+S:eurotap | P:is related to | O:motorway mileage 2020
+S:motorway mileage 2020 | P:is related to | O:eurotest
+S:croatia airlines | P:is related to | O:hamburg zagreb service
+S:hrvatska elektroprivreda | P:is part of | O:krsko nuclear power plant
+S:independence declared | P:is related to | O:croatian parliament
+S:croatia independence | P:is related to | O:yugoslav people's army
+S:nato | P:is related to | O:nato accession
+S:nato | P:is related to | O:isaf troops afghanistan 2019
+S:united nations | P:is related to | O:peacekeeping deployments may 2019
+S:world trade organization | P:is related to | O:wto membership
+S:partnership for peace | P:is related to | O:partnership for peace
+S:1991 croatia displacements | P:is related to | O:office of displaced persons and refugees
+S:1991 croatia displacements | P:is related to | O:serb forces
+S:isaf troops afghanistan 2019 | P:is related to | O:croatian military
+S:peacekeeping deployments may 2019 | P:is related to | O:croatian military
+S:transparency international | P:is related to | O:['r&d expenditure 2022', 'corruption index 2022']
+S:bounce | P:is related to | O:['wedding trends 2023', 'bounce index 2023']
+S:republic of venice | P:is related to | O:dalmatia venetian control
+S:military frontier | P:is related to | O:territorial split
+S:ottoman empire | P:is related to | O:great turkish war begins
+S:ottoman empire | P:is related to | O:battle sisak
+S:ottoman empire | P:is related to | O:krbava field battle
+S:austro-hungarian empire | P:is related to | O:world war i halts reforms
+S:austro-hungarian empire | P:is related to | O:frontier return croatia
+S:austro-hungarian empire | P:is related to | O:treaty berlin 1878
+S:austro-hungarian empire | P:is related to | O:croatia hungary settlement
+S:austro-hungarian empire | P:is related to | O:austro-hungarian compromise
+S:illyrian provinces | P:is related to | O:illyrian provinces established
+S:royal navy | P:is related to | O:battle of vis
+S:croatian national revival | P:is related to | O:croatian national revival
+S:duchy of croatia | P:is related to | O:branimir papal recognition
+S:duchy of croatia | P:is related to | O:duchy croatia attested
+S:duchy of croatia | P:is related to | O:trpimir charter
+S:duchy of croatia | P:is part of | O:francia
+S:trpimirovic dynasty | P:is related to | O:stjepan ii death
+S:croatian military | P:is related to | O:kfor troops kosovo 2019
+S:kfor troops kosovo 2019 | P:is related to | O:kfor
+S:hs produkt | P:is related to | O:arms exports 2020
+S:arms exports 2020 | P:is related to | O:djuro djakovic factory
+S:organization for economic co-operation and development | P:is related to | O:oecd accession opened
+S:european economic community | P:is related to | O:eec recognition
+S:state of slovenes, croats, and serbs | P:is related to | O:union with serbia
+S:state of slovenes, croats, and serbs | P:is part of | O:kingdom of serbs, croats, and slovenes
+S:union with serbia | P:is related to | O:kingdom of serbia
+S:kingdom of serbs, croats, and slovenes | P:is part of | O:kingdom of serbia
+S:croatian parliament (sabor) | P:is related to | O:6 january dictatorship
+S:croatian parliament (sabor) | P:is related to | O:independence declaration
+S:first sisak detachment | P:is related to | O:first sisak partisan detachment

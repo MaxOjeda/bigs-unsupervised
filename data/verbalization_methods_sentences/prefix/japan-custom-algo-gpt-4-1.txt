@@ -1,0 +1,435 @@
+S:japan | P:is related to | O:naruhito ascends throne
+S:japan | P:is related to | O:abdication of emperor akihito
+S:japan | P:is related to | O:tokyo earthquake
+S:japan | P:occurs at | O:great hanshin earthquake
+S:japan | P:is related to | O:fukushima nuclear disaster
+S:japan | P:is related to | O:tohoku earthquake
+S:japan | P:occurs at | O:japan joins un
+S:japan | P:occurs at | O:allied occupation ends
+S:japan | P:occurs at | O:new constitution adoption
+S:japan | P:occurs at | O:japan unconditional surrender
+S:japan | P:is related to | O:nagasaki atomic bombing
+S:japan | P:is related to | O:hiroshima atomic bombing
+S:japan | P:occurs at | O:41.8c temperature record
+S:japan | P:occurs at | O:japan inbound tourism record
+S:japan | P:occurs at | O:abe's security policy statement
+S:japan | P:occurs at | O:quad is reformed
+S:japan | P:occurs at | O:free and open indo-pacific announced
+S:japan | P:occurs at | O:cancer accounts 2018 deaths
+S:japan | P:occurs at | O:cancer as top cause
+S:japan | P:occurs at | O:japan surrenders wwii
+S:japan | P:is related to | O:attack on pearl harbor
+S:japan | P:is related to | O:['second sino-japanese war begins', 'invasion of china']
+S:japan | P:is related to | O:annexation of korea
+S:japan | P:is related to | O:fifa women's world cup win
+S:japan | P:occurs at | O:['2002 fifa world cup japan', '2002 fifa world cup']
+S:japan | P:is related to | O:sendai plant restarted
+S:japan | P:occurs at | O:all nuclear plants offline
+S:japan | P:is related to | O:fukushima daiichi nuclear disaster
+S:japan | P:is contained in | O:unesco world heritage list
+S:japan | P:is part of | O:global peace index
+S:japan | P:is part of | O:quadrilateral security dialogue
+S:japan | P:is part of | O:east asia summit
+S:japan | P:is part of | O:asean plus three
+S:japan | P:is part of | O:apec
+S:japan | P:is part of | O:g7
+S:japan | P:is part of | O:g4 countries
+S:japan | P:is part of | O:government of japan
+S:japan | P:is part of | O:jr enterprises
+S:japan | P:is part of | O:kintetsu
+S:japan | P:is part of | O:seibu railway
+S:japan | P:is part of | O:keio corporation
+S:japan | P:is part of | O:toyota
+S:japan | P:is part of | O:japan aerospace exploration agency
+S:japan | P:is contained in | O:international space station
+S:japan | P:is part of | O:mitsubishi ufj
+S:japan | P:is part of | O:ntt
+S:japan | P:is part of | O:aeon
+S:japan | P:is part of | O:softbank
+S:japan | P:is part of | O:hitachi
+S:japan | P:is part of | O:itochu
+S:japan | P:is part of | O:nhk
+S:japan | P:is part of | O:nippon professional baseball
+S:japan | P:is part of | O:japan professional football league
+S:japan | P:is part of | O:kamakura shogunate
+S:japan | P:is part of | O:ashikaga shogunate
+S:japan | P:is part of | O:national and local governments
+S:japan | P:is part of | O:imperial court
+S:japan | P:is part of | O:mext
+S:japan | P:is part of | O:university of tokyo
+S:japan | P:is contained in | O:sendai nuclear power plant
+S:japan | P:is contained in | O:fukushima daiichi nuclear power plant
+S:japan | P:is contained in | O:greater tokyo area
+S:japan | P:is contained in | O:tanegashima space center
+S:japan | P:is contained in | O:ryukyu kingdom
+S:japan | P:is contained in | O:nara
+S:japan | P:is contained in | O:heian-kyo
+S:japan | P:is contained in | O:kamakura
+S:japan | P:is contained in | O:ashikaga
+S:japan | P:is contained in | O:hiroshima
+S:japan | P:is contained in | O:nagasaki
+S:japan | P:is contained in | O:sapporo
+S:japan | P:is contained in | O:nagano
+S:japan | P:is contained in | O:edo
+S:japan | P:is contained in | O:osaka
+S:japan | P:is contained in | O:uraga
+S:japan | P:is contained in | O:kanagawa
+S:japan | P:is contained in | O:heijo-kyo
+S:japan | P:is contained in | O:ryukyu islands
+S:japan | P:is contained in | O:senkaku islands
+S:japan | P:is contained in | O:okinotorishima
+S:japan | P:is contained in | O:honshu
+S:japan | P:is contained in | O:shikoku
+S:japan | P:is contained in | O:pacific coast
+S:japan | P:is contained in | O:nanpo islands
+S:japan | P:is contained in | O:ryukyu
+S:japan | P:is contained in | O:hokkaido
+S:japan | P:is contained in | O:kyushu
+S:japan | P:is contained in | O:lake biwa
+S:japan | P:is related to | O:yasunari kawabata
+S:japan | P:is related to | O:kenzaburo oe
+S:japan | P:is related to | O:ishiro honda
+S:japan | P:is related to | O:marco polo
+S:japan | P:is related to | O:sei shonagon
+S:japan | P:is related to | O:murasaki shikibu
+S:japan | P:is related to | O:natsume soseki
+S:japan | P:is related to | O:mori ogai
+S:japan | P:is related to | O:ryunosuke akutagawa
+S:japan | P:is related to | O:junichiro tanizaki
+S:japan | P:is related to | O:kafu nagai
+S:japan | P:is related to | O:haruki murakami
+S:japan | P:is related to | O:kenji nakagami
+S:japan | P:is related to | O:kenzo tange
+S:japan | P:was present at | O:go daigo
+S:japan | P:was present at | O:ashikaga takauji
+S:japan | P:was present at | O:oda nobunaga
+S:japan | P:was present at | O:toyotomi hideyoshi
+S:japan | P:was present at | O:toyotomi hideyori
+S:japan | P:was present at | O:tokugawa ieyasu
+S:japan | P:was present at | O:go yozei
+S:japan | P:is related to | O:jimmu emperor
+S:japan | P:was present at | O:shotoku prince
+S:japan | P:was present at | O:naka no ooe
+S:japan | P:was present at | O:fujiwara no kamatari
+S:japan | P:was present at | O:oama prince
+S:japan | P:was present at | O:ootomo prince
+S:japan | P:was present at | O:go-daigo emperor
+S:japan | P:is related to | O:sanae takaichi
+S:japan | P:is related to | O:shinzo abe
+S:japan | P:is related to | O:fumio kishida
+S:japan | P:is related to | O:naruhito unspecified
+S:japan | P:is related to | O:akihito unspecified
+S:japan | P:occurs at | O:revised immigration law enacted
+S:japan | P:occurs at | O:american fleet opens japan
+S:japan | P:occurs at | O:imperial restoration
+S:japan | P:occurs at | O:jleague established
+S:japan | P:occurs at | O:2011 women's world cup win
+S:japan | P:occurs at | O:basketball world championship 2006
+S:japan | P:occurs at | O:basketball world championship 2023
+S:japan | P:occurs at | O:2019 rugby world cup
+S:japan | P:occurs at | O:mongol invasion repelled
+S:japan | P:occurs at | O:['ashikaga defeats go-daigo', 'go-daigo defeated']
+S:japan | P:occurs at | O:onset of sengoku period
+S:japan | P:occurs at | O:death of oda nobunaga
+S:japan | P:occurs at | O:['battle of sekigahara', 'tokugawa unification']
+S:japan | P:occurs at | O:sakoku policy enacted
+S:japan | P:occurs at | O:convention of kanagawa
+S:japan | P:occurs at | O:meiji constitution introduced
+S:japan | P:occurs at | O:japan resigns from league
+S:japan | P:occurs at | O:['anti-comintern pact signed', 'npb established']
+S:japan | P:occurs at | O:tripartite pact signed
+S:japan | P:occurs at | O:introduction of buddhism
+S:japan | P:occurs at | O:taika reforms
+S:japan | P:occurs at | O:jinshin war
+S:japan | P:occurs at | O:genpei war ends
+S:japan | P:occurs at | O:['second mongol invasion repelled', 'mongol invasion repelled']
+S:japan | P:occurs at | O:2014 ainu language report
+S:japan | P:occurs at | O:2016 muslim population report
+S:japan | P:occurs at | O:['2018 mosques and muslims report', '2018 christian population report']
+S:japan | P:occurs at | O:2016 integrated schooling start
+S:japan | P:occurs at | O:2021 education gdp report
+S:japan | P:occurs at | O:2023 tertiary education ranking
+S:japan | P:occurs at | O:takaichi becomes prime minister
+S:japan | P:occurs at | O:kishida orders budget increase
+S:japan | P:occurs at | O:abe responsibilities speech
+S:japan | P:occurs at | O:kishida defense spending instruction
+S:japan | P:occurs at | O:un violent crime statistics report
+S:japan | P:occurs at | O:takaichi becomes prime minister
+S:naruhito ascends throne | P:occurs at | O:tokyo
+S:abdication of emperor akihito | P:occurs at | O:tokyo
+S:tokyo earthquake | P:occurs at | O:tokyo
+S:fukushima nuclear disaster | P:occurs at | O:fukushima daiichi nuclear disaster
+S:tohoku earthquake | P:occurs at | O:tohoku
+S:japan unconditional surrender | P:is related to | O:korea
+S:japan unconditional surrender | P:is related to | O:taiwan
+S:nagasaki atomic bombing | P:is related to | O:united states
+S:nagasaki atomic bombing | P:occurs at | O:nagasaki
+S:hiroshima atomic bombing | P:is related to | O:united states
+S:hiroshima atomic bombing | P:occurs at | O:hiroshima
+S:41.8c temperature record | P:is related to | O:unesco
+S:41.8c temperature record | P:is related to | O:environment ministry
+S:41.8c temperature record | P:is related to | O:ramsar
+S:41.8c temperature record | P:is related to | O:naruhito unspecified
+S:japan inbound tourism record | P:is related to | O:g7
+S:japan inbound tourism record | P:is related to | O:china
+S:japan inbound tourism record | P:is related to | O:united states
+S:japan inbound tourism record | P:is related to | O:australia
+S:abe's security policy statement | P:is related to | O:shinzo abe
+S:quad is reformed | P:is related to | O:quadrilateral security dialogue
+S:attack on pearl harbor | P:is related to | O:axis power
+S:attack on pearl harbor | P:occurs at | O:united states
+S:['second sino-japanese war begins', 'invasion of china'] | P:is related to | O:empire of japan
+S:['second sino-japanese war begins', 'invasion of china'] | P:occurs at | O:china
+S:annexation of korea | P:is related to | O:empire of japan
+S:annexation of korea | P:occurs at | O:korea
+S:fifa women's world cup win | P:occurs at | O:asia
+S:['2002 fifa world cup japan', '2002 fifa world cup'] | P:is related to | O:japan professional football league
+S:['2002 fifa world cup japan', '2002 fifa world cup'] | P:is related to | O:fifa
+S:['2002 fifa world cup japan', '2002 fifa world cup'] | P:is related to | O:asian cup
+S:['2002 fifa world cup japan', '2002 fifa world cup'] | P:is related to | O:ishiro honda
+S:['2002 fifa world cup japan', '2002 fifa world cup'] | P:occurs at | O:south korea
+S:sendai plant restarted | P:is related to | O:government of japan
+S:sendai plant restarted | P:occurs at | O:sendai nuclear power plant
+S:fukushima daiichi nuclear disaster | P:occurs at | O:fukushima daiichi nuclear power plant
+S:government of japan | P:is related to | O:takaichi becomes prime minister
+S:government of japan | P:is related to | O:kishida orders budget increase
+S:government of japan | P:is related to | O:revised immigration law enacted
+S:government of japan | P:is part of | O:prime minister of japan and his cabinet
+S:government of japan | P:is part of | O:imperial household agency
+S:government of japan | P:is part of | O:national diet library
+S:government of japan | P:is part of | O:national security council
+S:government of japan | P:is part of | O:environment ministry
+S:government of japan | P:is related to | O:sanae takaichi
+S:government of japan | P:is related to | O:shinzo abe
+S:government of japan | P:is related to | O:fumio kishida
+S:takaichi becomes prime minister | P:is related to | O:national diet
+S:takaichi becomes prime minister | P:is related to | O:liberal democratic party
+S:takaichi becomes prime minister | P:is related to | O:ishin
+S:takaichi becomes prime minister | P:is related to | O:house of representatives
+S:takaichi becomes prime minister | P:is related to | O:house of councillors
+S:takaichi becomes prime minister | P:is related to | O:sanae takaichi
+S:kishida orders budget increase | P:is related to | O:fumio kishida
+S:japanese railway companies | P:is part of | O:jr enterprises
+S:japanese railway companies | P:is part of | O:kintetsu
+S:japanese railway companies | P:is part of | O:seibu railway
+S:japanese railway companies | P:is part of | O:keio corporation
+S:japan aerospace exploration agency | P:is related to | O:selene crashed on moon
+S:japan aerospace exploration agency | P:is related to | O:selene enters lunar orbit
+S:japan aerospace exploration agency | P:is related to | O:selene lunar launch
+S:japan aerospace exploration agency | P:is part of | O:international space station
+S:selene crashed on moon | P:occurs at | O:moon
+S:selene enters lunar orbit | P:occurs at | O:moon
+S:selene lunar launch | P:occurs at | O:tanegashima space center
+S:nippon professional baseball | P:is related to | O:['anti-comintern pact signed', 'npb established']
+S:['anti-comintern pact signed', 'npb established'] | P:is related to | O:empire of japan
+S:['anti-comintern pact signed', 'npb established'] | P:is related to | O:nazi germany
+S:['anti-comintern pact signed', 'npb established'] | P:is related to | O:anti-comintern pact
+S:japan professional football league | P:is related to | O:jleague established
+S:national diet | P:is part of | O:house of representatives
+S:national diet | P:is part of | O:house of councillors
+S:shogunate | P:is related to | O:american fleet opens japan
+S:shogunate | P:is part of | O:tokugawa shogunate
+S:shogunate | P:is part of | O:kamakura shogunate
+S:shogunate | P:is part of | O:ashikaga shogunate
+S:american fleet opens japan | P:is related to | O:tokugawa shogunate
+S:tokugawa shogunate | P:is related to | O:['battle of sekigahara', 'tokugawa unification']
+S:tokugawa shogunate | P:is related to | O:sakoku policy enacted
+S:tokugawa shogunate | P:is related to | O:tokugawa made shogun
+S:tokugawa shogunate | P:is related to | O:imperial restoration
+S:tokugawa shogunate | P:is related to | O:tokugawa ieyasu
+S:['battle of sekigahara', 'tokugawa unification'] | P:is related to | O:kamakura shogunate
+S:['battle of sekigahara', 'tokugawa unification'] | P:is related to | O:ashikaga shogunate
+S:['battle of sekigahara', 'tokugawa unification'] | P:is related to | O:daimyo
+S:['battle of sekigahara', 'tokugawa unification'] | P:is related to | O:samurai
+S:['battle of sekigahara', 'tokugawa unification'] | P:is related to | O:council of five elders
+S:['battle of sekigahara', 'tokugawa unification'] | P:is related to | O:toyotomi hideyori
+S:['battle of sekigahara', 'tokugawa unification'] | P:is related to | O:tokugawa ieyasu
+S:sakoku policy enacted | P:is related to | O:tokugawa ieyasu
+S:tokugawa made shogun | P:is related to | O:tokugawa ieyasu
+S:tokugawa made shogun | P:is related to | O:go yozei
+S:tokugawa made shogun | P:occurs at | O:edo
+S:kamakura shogunate | P:is related to | O:['second mongol invasion repelled', 'mongol invasion repelled']
+S:kamakura shogunate | P:is related to | O:genpei war ends
+S:kamakura shogunate | P:is related to | O:mongol invasion repelled
+S:kamakura shogunate | P:is related to | O:go daigo
+S:kamakura shogunate | P:is related to | O:yoritomo minamoto
+S:kamakura shogunate | P:is related to | O:go-daigo emperor
+S:genpei war ends | P:is related to | O:yoritomo minamoto
+S:ashikaga shogunate | P:is related to | O:['ashikaga defeats go-daigo', 'go-daigo defeated']
+S:ashikaga shogunate | P:is related to | O:onset of sengoku period
+S:ashikaga shogunate | P:is related to | O:go daigo
+S:ashikaga shogunate | P:is related to | O:ashikaga takauji
+S:ashikaga shogunate | P:is related to | O:takauji ashikaga
+S:['ashikaga defeats go-daigo', 'go-daigo defeated'] | P:is related to | O:go daigo
+S:['ashikaga defeats go-daigo', 'go-daigo defeated'] | P:is related to | O:ashikaga takauji
+S:['ashikaga defeats go-daigo', 'go-daigo defeated'] | P:is related to | O:go-daigo emperor
+S:['ashikaga defeats go-daigo', 'go-daigo defeated'] | P:is related to | O:takauji ashikaga
+S:fifa women's world cup | P:is related to | O:2011 women's world cup win
+S:olympics | P:is related to | O:tokyo summer olympics 2020
+S:olympics | P:is related to | O:nagano winter olympics
+S:olympics | P:is related to | O:sapporo winter olympics
+S:olympics | P:is related to | O:tokyo summer olympics 1964
+S:tokyo summer olympics 2020 | P:occurs at | O:tokyo
+S:nagano winter olympics | P:occurs at | O:nagano
+S:sapporo winter olympics | P:occurs at | O:sapporo
+S:tokyo summer olympics 1964 | P:is related to | O:women's volleyball world championship
+S:tokyo summer olympics 1964 | P:occurs at | O:tokyo
+S:irb rugby world cup | P:is related to | O:2019 rugby world cup
+S:basketball world championship | P:is related to | O:basketball world championship 2023
+S:basketball world championship | P:is related to | O:basketball world championship 2006
+S:national and local governments | P:is part of | O:government committee
+S:national and local governments | P:is part of | O:local governments
+S:national and local governments | P:is part of | O:government-sponsored insurance
+S:local governments | P:is related to | O:2014 ainu language report
+S:unesco | P:is related to | O:yasunari kawabata
+S:unesco | P:is related to | O:kenzaburo oe
+S:unesco | P:is related to | O:kenzo tange
+S:empire of japan | P:is related to | O:['attack on british malaya', 'malaya singapore hong kong attack']
+S:empire of japan | P:is related to | O:['attack on pearl harbor', 'pearl harbor attack']
+S:empire of japan | P:is related to | O:soviet invasion of manchuria
+S:empire of japan | P:is related to | O:attack on hong kong
+S:empire of japan | P:is related to | O:attack on singapore
+S:empire of japan | P:is related to | O:japan invades french indochina
+S:empire of japan | P:is related to | O:tripartite pact signed
+S:empire of japan | P:is related to | O:japan resigns from league
+S:empire of japan | P:is related to | O:manchukuo established
+S:empire of japan | P:is related to | O:japan invades manchuria
+S:empire of japan | P:is related to | O:great tokyo earthquake
+S:empire of japan | P:is related to | O:russo-japanese war ends
+S:empire of japan | P:is related to | O:russo-japanese war begins
+S:empire of japan | P:is related to | O:end of first sino-japanese war
+S:empire of japan | P:is related to | O:first sino-japanese war
+S:empire of japan | P:is part of | O:cabinet
+S:empire of japan | P:is part of | O:privy council
+S:empire of japan | P:is part of | O:imperial diet
+S:empire of japan | P:is part of | O:allies
+S:empire of japan | P:is part of | O:axis powers
+S:empire of japan | P:is part of | O:korea
+S:empire of japan | P:is part of | O:taiwan
+S:['attack on british malaya', 'malaya singapore hong kong attack'] | P:is related to | O:britain
+S:['attack on british malaya', 'malaya singapore hong kong attack'] | P:occurs at | O:hong kong
+S:['attack on british malaya', 'malaya singapore hong kong attack'] | P:occurs at | O:malaya
+S:['attack on british malaya', 'malaya singapore hong kong attack'] | P:occurs at | O:singapore
+S:['attack on pearl harbor', 'pearl harbor attack'] | P:occurs at | O:pearl harbor
+S:soviet invasion of manchuria | P:is related to | O:soviet union
+S:soviet invasion of manchuria | P:occurs at | O:manchuria
+S:attack on hong kong | P:occurs at | O:hong kong
+S:attack on singapore | P:occurs at | O:singapore
+S:japan invades french indochina | P:occurs at | O:french indochina
+S:tripartite pact signed | P:is related to | O:axis powers
+S:japan resigns from league | P:is related to | O:league of nations
+S:manchukuo established | P:occurs at | O:manchukuo
+S:japan invades manchuria | P:occurs at | O:manchuria
+S:great tokyo earthquake | P:occurs at | O:edo
+S:russo-japanese war ends | P:occurs at | O:china
+S:russo-japanese war begins | P:occurs at | O:china
+S:end of first sino-japanese war | P:occurs at | O:china
+S:first sino-japanese war | P:is related to | O:allies
+S:first sino-japanese war | P:occurs at | O:china
+S:council of five elders | P:is related to | O:toyotomi hideyori
+S:council of five elders | P:is related to | O:tokugawa ieyasu
+S:cabinet | P:is related to | O:meiji constitution introduced
+S:meiji constitution introduced | P:is related to | O:privy council
+S:meiji constitution introduced | P:is related to | O:imperial diet
+S:allies | P:is related to | O:international military tribunal far east
+S:international military tribunal far east | P:is related to | O:international military tribunal for the far east
+S:international military tribunal far east | P:occurs at | O:tokyo
+S:axis powers | P:is part of | O:nazi germany
+S:axis powers | P:is part of | O:anti-comintern pact
+S:china | P:is related to | O:taika reforms
+S:china | P:is related to | O:introduction of buddhism
+S:china | P:is contained in | O:manchuria
+S:china | P:is contained in | O:hong kong
+S:china | P:is related to | O:marco polo
+S:taika reforms | P:is related to | O:imperial court
+S:taika reforms | P:is related to | O:naka no ooe
+S:taika reforms | P:is related to | O:fujiwara no kamatari
+S:introduction of buddhism | P:is related to | O:baekje
+S:introduction of buddhism | P:is related to | O:korea
+S:introduction of buddhism | P:is related to | O:shotoku prince
+S:baekje | P:was present at | O:shotoku prince
+S:korea | P:was present at | O:toyotomi hideyoshi
+S:korea | P:occurs at | O:toyotomi hideyoshi korean invasion
+S:korea | P:occurs at | O:toyotomi hideyoshi second korean invasion
+S:imperial court | P:is related to | O:move to heian kyo
+S:imperial court | P:is related to | O:murasaki shikibu
+S:imperial court | P:is related to | O:shotoku prince
+S:imperial court | P:is related to | O:naka no ooe
+S:imperial court | P:is related to | O:fujiwara no kamatari
+S:imperial court | P:is related to | O:oama prince
+S:imperial court | P:is related to | O:ootomo prince
+S:imperial court | P:is related to | O:kanmu emperor
+S:move to heian kyo | P:is related to | O:murasaki shikibu
+S:move to heian kyo | P:is related to | O:kanmu emperor
+S:move to heian kyo | P:occurs at | O:heian-kyo
+S:mext | P:is related to | O:2016 integrated schooling start
+S:programme for international student assessment | P:is related to | O:2023 tertiary education ranking
+S:programme for international student assessment | P:is related to | O:2021 education gdp report
+S:2023 tertiary education ranking | P:is related to | O:university of tokyo
+S:liberal democratic party | P:is related to | O:takaichi becomes prime minister
+S:liberal democratic party | P:is related to | O:sanae takaichi
+S:takaichi becomes prime minister | P:is related to | O:ishin
+S:takaichi becomes prime minister | P:is related to | O:sanae takaichi
+S:ishin | P:is related to | O:sanae takaichi
+S:united states | P:is contained in | O:pearl harbor
+S:russia | P:is contained in | O:kuril islands
+S:south korea | P:is contained in | O:liancourt rocks
+S:japan self-defense forces | P:is part of | O:ministry of defense
+S:japan self-defense forces | P:is part of | O:japan ground self-defense force
+S:japan self-defense forces | P:is part of | O:japan maritime self-defense force
+S:japan self-defense forces | P:is part of | O:japan air self-defense force
+S:jsdf | P:is related to | O:kishida defense spending instruction
+S:kishida defense spending instruction | P:is related to | O:fumio kishida
+S:prefectural police departments | P:is related to | O:un violent crime statistics report
+S:prefectural police departments | P:is part of | O:national police agency
+S:prefectural police departments | P:is part of | O:anti-firearms squads
+S:prefectural police departments | P:is part of | O:counter-nbc terrorism squads
+S:un violent crime statistics report | P:is related to | O:national police agency
+S:un violent crime statistics report | P:is related to | O:national public safety commission
+S:un violent crime statistics report | P:is related to | O:special assault team
+S:un violent crime statistics report | P:is related to | O:anti-firearms squads
+S:un violent crime statistics report | P:is related to | O:counter-nbc terrorism squads
+S:un violent crime statistics report | P:is related to | O:japan coast guard
+S:un violent crime statistics report | P:is related to | O:united nations office on drugs and crime
+S:un violent crime statistics report | P:is related to | O:un
+S:national police agency | P:is part of | O:national public safety commission
+S:national police agency | P:is part of | O:special assault team
+S:united nations office on drugs and crime | P:is part of | O:un
+S:haneda airport | P:is contained in | O:tokyo
+S:tokyo | P:is contained in | O:honshu
+S:tokyo | P:is contained in | O:greater tokyo area
+S:honshu | P:is contained in | O:sea of japan
+S:honshu | P:is contained in | O:kyoto
+S:honshu | P:is contained in | O:chugoku
+S:honshu | P:is contained in | O:seto inland sea
+S:honshu | P:is contained in | O:tohoku
+S:honshu | P:is contained in | O:central highland
+S:heian-kyo | P:was present at | O:murasaki shikibu
+S:heian-kyo | P:was present at | O:kanmu emperor
+S:kamakura | P:was present at | O:go daigo
+S:kamakura | P:was present at | O:yoritomo minamoto
+S:kamakura | P:was present at | O:go-daigo emperor
+S:yamato | P:was present at | O:jimmu emperor
+S:edo | P:was present at | O:tokugawa ieyasu
+S:uraga | P:was present at | O:matthew c perry
+S:uraga | P:occurs at | O:perry expedition arrives
+S:kanagawa | P:was present at | O:matthew c perry
+S:manchuria | P:is contained in | O:manchukuo
+S:pearl harbor | P:is contained in | O:san francisco
+S:cipangu | P:was present at | O:marco polo
+S:muromachi | P:was present at | O:takauji ashikaga
+S:ryukyu islands | P:is contained in | O:okinawa
+S:afghanistan | P:was present at | O:shinzo abe
+S:iraq | P:was present at | O:shinzo abe
+S:shikoku | P:is contained in | O:seto inland sea
+S:seto inland sea | P:is contained in | O:kyushu
+S:nanpo islands | P:is contained in | O:bonin islands
+S:tohoku | P:is contained in | O:fukushima daiichi nuclear disaster
+S:oda nobunaga | P:is related to | O:death of oda nobunaga
+S:toyotomi hideyoshi | P:is related to | O:toyotomi hideyoshi second korean invasion
+S:toyotomi hideyoshi | P:is related to | O:toyotomi hideyoshi korean invasion
+S:matthew c perry | P:is related to | O:convention of kanagawa
+S:matthew c perry | P:is related to | O:perry expedition arrives
+S:oama prince | P:is related to | O:jinshin war
+S:jinshin war | P:is related to | O:ootomo prince
+S:shinzo abe | P:is related to | O:abe responsibilities speech

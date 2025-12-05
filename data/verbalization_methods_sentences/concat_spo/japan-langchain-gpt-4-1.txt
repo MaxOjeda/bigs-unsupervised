@@ -1,0 +1,548 @@
+Japan is contained in East Asia
+Japan is related to Pacific Ocean
+Japan is related to Sea Of Japan
+Japan is related to Sea Of Okhotsk
+Japan is related to East China Sea
+Japan is contained in Tokyo
+Japan is contained in Japanese Archipelago
+Japan is contained in 47 Administrative Prefectures
+Japan is contained in Eight Traditional Regions
+Japan is related to World War Ii
+Japan is related to U.S.
+Japan is related to Meiji Period
+Japan is related to Korea
+Japan is related to China
+Japan is related to G7
+Japan is related to Buddhism
+Japan is contained in National Diet
+World War Ii is related to U.S.
+U.S. is related to Hiroshima
+U.S. is related to Nagasaki
+Japan is related to Japanese Paleolithic
+Japanese Paleolithic is contained in Upper Paleolithic
+Nara is related to Heian-Kyō
+Shōgun is related to Daimyō
+Shōgun is related to Samurai
+Samurai is related to Daimyō
+Kamakura Shogunate is related to Japan
+Ashikaga Shogunate is related to Japan
+Tokugawa Shogunate is related to Japan
+Tokugawa Shogunate is related to Kamakura Shogunate
+Tokugawa Shogunate is related to Ashikaga Shogunate
+Tokugawa Shogunate is related to Isolationist Foreign Policy
+Japan is related to Allied Occupation
+Japan is related to Lost Decades
+Japan is related to Automotive
+Japan is related to Electronics
+Japan is related to Robotics
+Japan is related to Art
+Japan is related to Cuisine
+Japan is related to Films
+Japan is related to Music
+Japan is related to Animation
+Japan is related to Comics
+Japan is related to Video Games
+Nihon is related to Nippon
+Japan is related to Nihon
+Japan is related to Nippon
+Japan is related to Wa
+Japan is related to Yamato
+Yamato is related to Emperor Jimmu
+Emperor Jimmu is related to Amaterasu
+Jōmon Period is related to Jōmon People
+Jōmon Period is related to Yayoi People
+Jōmon People is related to Yayoi People
+Japan is related to Book Of Han
+Japan is related to Book Of Wei
+Book Of Han is related to Book Of Wei
+Japan is related to Yamatai
+Buddhism is related to Baekje
+Buddhism is related to Asuka Period
+Buddhism is related to China
+Buddhism is related to Prince Shōtoku
+Japan is related to Prince Naka No Ōe
+Japan is related to Fujiwara No Kamatari
+Prince Naka No Ōe is related to Fujiwara No Kamatari
+Taika Reforms is related to Confucianism
+Taika Reforms is related to China
+Taika Reforms is related to Taihō Code
+Taika Reforms is related to Ritsuryō State
+Taihō Code is related to Ritsuryō State
+Jinshin War is related to Prince Ōama
+Jinshin War is related to Prince Ōtomo
+Nara Period is related to Heijō-Kyō
+Nara Period is related to Kojiki
+Nara Period is related to Nihon Shoki
+Nara Period is related to Emperor Kanmu
+Emperor Kanmu is related to Heian-Kyō
+Heian Period is related to Murasaki Shikibu
+Heian Period is related to The Tale Of Genji
+Heian Period is related to Kimigayo
+Samurai is related to Minamoto Clan
+Samurai is related to Taira Clan
+Genpei War is related to Minamoto Clan
+Genpei War is related to Taira Clan
+Genpei War is related to Minamoto No Yoritomo
+Minamoto No Yoritomo is related to Kamakura Shogunate
+Kamakura Shogunate is related to Hōjō Clan
+Kamakura Period is related to Zen Buddhism
+Zen Buddhism is related to China
+Kamakura Shogunate is related to Mongol Invasions
+Emperor Go-Daigo is related to Ashikaga Takauji
+Ashikaga Takauji is related to Muromachi Period
+Muromachi Period is related to Ashikaga Shogunate
+Sengoku Period is related to Daimyō
+Oda Nobunaga is related to Azuchi–Momoyama Period
+Oda Nobunaga is related to Toyotomi Hideyoshi
+Toyotomi Hideyoshi is related to Invasions Of Korea (1592, 1597)
+Invasions Of Korea (1592, 1597) is related to Korea
+Portugal is related to Southeast Asia
+Marco Polo is related to Cipangu
+Tokugawa Ieyasu is related to Toyotomi Hideyori
+Tokugawa Ieyasu is part of Council Of Five Elders
+Tokugawa Ieyasu was present at Battle Of Sekigahara
+Tokugawa Ieyasu is related to Tokugawa Shogunate
+Tokugawa Shogunate is contained in Edo
+Edo is related to Tokyo
+Tokugawa Shogunate is related to Buke Shohatto
+Buke Shohatto is related to Daimyō
+Tokugawa Shogunate is related to Sakoku
+Sakoku is part of Edo Period
+Kaidō is part of Edo Period
+Osaka Rice Brokers is related to Futures Contracts
+Osaka Rice Brokers is related to Banking And Insurance Of The Osaka Rice Brokers
+Rangaku is related to Dutch Enclave In Nagasaki
+Kokugaku is part of Edo Period
+Commodore Matthew C. Perry is part of United States Navy
+Commodore Matthew C. Perry is related to Perry Expedition
+Perry Expedition occurs at Uraga
+Perry Expedition is related to Black Ships
+Perry Expedition is related to Convention Of Kanagawa
+Convention Of Kanagawa is related to Western Countries
+Meiji Restoration is related to Boshin War
+Cabinet is related to Privy Council
+Cabinet is related to Meiji Constitution
+Cabinet is related to Imperial Diet
+Empire Of Japan is related to Meiji Period
+Empire Of Japan is related to First Sino-Japanese War
+Empire Of Japan is related to Russo-Japanese War
+Empire Of Japan is contained in Taiwan
+Empire Of Japan is contained in Korea
+Empire Of Japan is contained in Sakhalin
+Empire Of Japan is related to Korea
+Allies is related to World War I
+Empire Of Japan is related to Great Tokyo Earthquake
+Empire Of Japan is related to Statism
+Empire Of Japan is related to 1931 Invasion Of Manchuria
+Empire Of Japan is related to Manchukuo
+Empire Of Japan is related to League Of Nations
+Empire Of Japan is related to Anti-Comintern Pact
+Empire Of Japan is related to Nazi Germany
+Empire Of Japan is related to Tripartite Pact
+Tripartite Pact is related to Axis Powers
+Empire Of Japan is related to Second Sino-Japanese War
+Empire Of Japan is related to French Indochina
+Empire Of Japan is related to Oil Embargo On Japan
+Empire Of Japan is related to World War Ii In The Pacific
+Soviet Invasion Of Manchuria occurs at Manchuria
+Atomic Bombings Of Hiroshima And Nagasaki occurs at Hiroshima
+Atomic Bombings Of Hiroshima And Nagasaki occurs at Nagasaki
+Allies is related to International Military Tribunal For The Far East
+1947 Constitution Of Japan is related to Japan
+Japan is related to Treaty Of San Francisco
+Japan is related to United Nations
+2011 Tōhoku Earthquake is related to Fukushima Daiichi Nuclear Disaster
+Emperor Akihito is related to Naruhito
+Naruhito is related to Reiwa Era
+Japanese Archipelago is part of Hokkaido
+Japanese Archipelago is part of Honshu
+Japanese Archipelago is part of Shikoku
+Japanese Archipelago is part of Kyushu
+Japanese Archipelago is part of Okinawa
+Japanese Archipelago is part of Ryukyu Islands
+Japanese Archipelago is part of Nanpō Islands
+Okinawa is part of Ryukyu Islands
+Japan is contained in Lake Biwa
+Japan is related to Pacific Ring Of Fire
+Japan is related to Great Hanshin Earthquake
+Honshu is related to Chūgoku
+Honshu is related to Seto Inland Sea
+Environment Ministry is related to Japan
+Japan is related to Ramsar Wetland Sites
+Japan is related to Unesco World Heritage List
+Japan is related to World War Ii
+Japan is related to Environmental Performance Index
+Japan is related to Kyoto Protocol
+Japan is related to Carbon Dioxide
+Japan is related to Climate Change
+Sanae Takaichi is related to Prime Minister
+Naruhito is related to Japan
+Naruhito is related to Akihito
+Naruhito is related to Chrysanthemum Throne
+Japan is related to National Diet
+National Diet is part of House Of Representatives
+National Diet is part of House Of Councillors
+Prime Minister is related to Cabinet
+Prime Minister is related to Japanese People
+Japan is related to Six Codes
+Japan is related to Supreme Court
+Japan Self-Defense Forces is related to Ministry Of Defense
+Japan Self-Defense Forces is part of Japan Ground Self-Defense Force
+Japan Self-Defense Forces is part of Japan Maritime Self-Defense Force
+Japan Self-Defense Forces is part of Japan Air Self-Defense Force
+Japan is related to National Security Council
+Japan is related to National Security Strategy
+Japan is related to National Defense Program Guidelines
+Shinzo Abe is related to Japan
+Fumio Kishida is related to Japan
+Japan is related to National Police Agency
+National Police Agency is related to National Public Safety Commission
+National Police Agency is related to Special Assault Team
+Japan is related to Japan Coast Guard
+Japan is part of United Nations
+Japan is part of G4 Countries
+Japan is part of G7
+Japan is part of Apec
+Japan is part of Asean Plus Three
+Japan is related to East Asia Summit
+Japan is related to Official Development Assistance
+Japan is related to United States
+Japan is related to Free And Open Indo-Pacific Vision
+Japan is part of Quadrilateral Security Dialogue
+Quadrilateral Security Dialogue is part of United States
+Quadrilateral Security Dialogue is part of Australia
+Quadrilateral Security Dialogue is part of India
+Quadrilateral Security Dialogue is part of Japan
+Quadrilateral Security Dialogue is related to China
+Indo-Pacific Region is related to Japan
+Japan is related to Southern Kuril Islands
+Southern Kuril Islands is related to Russia
+Japan is related to Liancourt Rocks
+Liancourt Rocks is related to South Korea
+Japan is related to Senkaku Islands
+Senkaku Islands is related to China
+Senkaku Islands is related to Taiwan
+Japan is related to Okinotorishima
+Japan is related to Global Peace Index
+Japan Self-Defense Forces is related to Article 9 Of The Japanese Constitution
+Prefectural Police Departments is related to National Police Agency
+Japan is related to Firearm And Sword Possession Control Law
+Japan is related to United Nations Office On Drugs And Crime
+Japan is related to Japanese Constitution
+Japan is related to Human Rights Treaties
+Japan is related to Same-Sex Marriage
+Japan is related to G7 Countries
+Japan is related to Japanese Yen
+Japan is related to Public Debt
+Japan is related to Keiretsu Enterprises
+Japan is related to Lifetime Employment
+Japan is related to Seniority-Based Career Advancement
+Lifetime Employment is part of Japanese Work Environment
+Seniority-Based Career Advancement is part of Japanese Work Environment
+Japan is related to Cooperative Sector
+Cooperative Sector is part of World'S Largest Consumer Cooperative
+Cooperative Sector is part of World'S Largest Agricultural Cooperative
+World'S Largest Consumer Cooperative is contained in 2018
+World'S Largest Agricultural Cooperative is contained in 2018
+Japan is related to Competitiveness
+Japan is related to Economic Freedom
+Japan is related to International Tourism
+International Tourism is contained in 2024
+Japan is related to Inbound Tourism
+Inbound Tourism is contained in 2019
+Japan is related to Travel And Tourism Competitiveness Report
+Travel And Tourism Competitiveness Report is contained in 2024
+Japan is related to Tourists
+Japan is related to Tourism Receipts
+Tourism Receipts is contained in 2019
+Japan is related to Gdp
+Japanese Agricultural Sector is related to Gdp
+Japan is related to Arable Land
+Arable Land is part of Terraces
+Japan is related to Crop Yields
+Japan is related to Agricultural Self-Sufficiency
+Japan is related to Subsidies
+Japan is related to Protection (Agriculture)
+Japan is related to Farmers
+Farmers is related to Aging Population
+Japan is related to Fish Catch
+Japan is related to Fishing Fleets
+Fishing Fleets is related to Global Catch
+Japan is related to Fish Stock Depletion
+Fish Stock Depletion is related to Tuna
+Japan is related to Commercial Whaling
+Japan is related to Industrial Sector
+Japan is related to Motor Vehicles
+Japan is related to Machine Tools
+Japan is related to Steel And Nonferrous Metals
+Japan is related to Ships
+Japan is related to Chemical Substances
+Japan is related to Textiles
+Japan is related to Processed Foods
+Japan is related to Manufacturing Output
+Manufacturing Output is contained in 2023
+Japan is related to Automobile Production
+Japan is related to Automobile Export
+Toyota is contained in Japan
+Toyota is related to Automobile Production
+Japan is related to Shipbuilding Industry
+Shipbuilding Industry is related to South Korea
+Shipbuilding Industry is related to China
+Japan is related to Government Initiative (2020)
+Government Initiative (2020) is related to Shipbuilding Industry
+Shipbuilding Industry is related to Exports
+Japan is related to Consumer Electronics Industry
+Consumer Electronics Industry is related to South Korea
+Consumer Electronics Industry is related to China
+Japan is related to Video Game Sector
+Video Game Sector is contained in 2014
+Video Game Sector is related to Mobile Gaming
+Japan is related to Pc Game Market
+Pc Game Market is contained in 2015
+Pc Game Market is related to China
+Pc Game Market is related to United States
+Pc Game Market is related to South Korea
+Japan is related to Service Sector
+Japan is related to Banking
+Japan is related to Retail
+Japan is related to Transportation
+Japan is related to Telecommunications
+Japan is related to Mitsubishi Ufj
+Japan is related to Ntt
+Japan is related to Aeon
+Japan is related to Softbank
+Japan is related to Hitachi
+Japan is related to Itochu
+Japan is related to Research And Development Budget
+Japan is related to Researchers
+Japan is related to Science And Technology
+Japan is related to Nobel Laureates
+Japan is related to Fields Medalists
+Japan is related to Robotics Production And Use
+Japan is related to Japan Aerospace Exploration Agency
+Japan Aerospace Exploration Agency is related to Space Agency
+Japan Aerospace Exploration Agency is related to Space, Planetary, Aviation Research
+Japan Aerospace Exploration Agency is related to Rockets And Satellites Development
+Japan Aerospace Exploration Agency is related to International Space Station
+Japan Aerospace Exploration Agency is related to Japanese Experiment Module (Kibō)
+Japanese Experiment Module (Kibō) is contained in Space Shuttle Assembly Flights (2008)
+Japan Aerospace Exploration Agency is related to Akatsuki
+Akatsuki is related to Venus
+Japan Aerospace Exploration Agency is related to Moon Base Plan
+Moon Base Plan is contained in 2030
+Japan Aerospace Exploration Agency is related to Lunar Explorer Selene
+Lunar Explorer Selene is related to Tanegashima Space Center
+Lunar Explorer Selene is related to Apollo Program
+Lunar Explorer Selene is related to Moon
+Japan is related to Transportation Infrastructure
+Japan is related to Roads
+Japan is related to Railway Companies
+Japan is related to Privatization (1987)
+Railway Companies is part of Jr Enterprises
+Railway Companies is part of Kintetsu
+Railway Companies is part of Seibu Railway
+Railway Companies is part of Keio Corporation
+Japan is related to Shinkansen
+Shinkansen is related to Bullet Trains
+Japan is related to Airports
+Japan is related to Haneda Airport
+Haneda Airport is contained in Tokyo
+Japan is related to Keihin Superport Hub
+Japan is related to Hanshin Superport Hub
+Japan is related to Energy Production
+Energy Production is related to Petroleum
+Energy Production is related to Coal
+Energy Production is related to Natural Gas
+Energy Production is related to Hydropower
+Energy Production is related to Nuclear Power
+Nuclear Power is related to Fukushima Daiichi Nuclear Disaster
+Fukushima Daiichi Nuclear Disaster is contained in March 2011
+Sendai Nuclear Power Plant is contained in 2015
+Japan is related to Energy Imports
+Japan is related to Energy Efficiency
+Japan is related to Population
+Population is part of Japanese Nationals
+Population is part of Foreign Residents
+Japan is related to Aging Population
+Aging Population is related to Post–World War Ii Baby Boom
+Aging Population is related to Life Expectancy
+Aging Population is related to Birth Rates
+Japan is related to Fertility Rate
+Japan is related to Median Age
+Japan is related to Working Age Population
+Japan is related to Immigration
+Japan is related to Birth Incentives
+Government Of Japan is related to Japan
+Government Of Japan is related to Revised Immigration Law (2019)
+Revised Immigration Law (2019) is contained in April 1, 2019
+Japan is related to City Population
+Tokyo is contained in Japan
+Greater Tokyo Area is part of Tokyo
+Japan is related to Greater Tokyo Area
+Japan is related to Japanese People
+Japanese People is related to Ainu
+Japanese People is related to Ryukyuan People
+Japan is related to Zainichi Koreans
+Japan is related to Chinese (Minority In Japan)
+Japan is related to Filipinos (Minority In Japan)
+Japan is related to Brazilians (Mostly Of Japanese Descent)
+Japan is related to Peruvians (Mostly Of Japanese Descent)
+Japan is related to Burakumin
+Japan is related to Japanese Language
+Japanese Language is related to National Language
+Japanese Language is related to Kanji
+Japanese Language is related to Kana
+Japanese Language is related to Latin Alphabet
+Japanese Language is related to Arabic Numerals
+Japan is related to English
+English is related to Business Link Language
+English is related to International Link Language
+English is related to Junior High Schools
+English is related to Senior High Schools
+Japan is related to Japanese Sign Language
+Japanese is related to Japan
+Ryukyuan Languages is contained in Japan
+Ainu Language is contained in Japan
+Korean is related to Japan
+Chinese is related to Japan
+Portuguese is related to Japan
+Shinto is related to Japan
+Buddhism is related to Japan
+Taoism is related to Japan
+Confucianism is related to Japan
+Islam is related to Japan
+Hinduism is related to Japan
+Judaism is related to Japan
+BaháʼÍ Faith is related to Japan
+Animist Beliefs Of The Ainu is related to Japan
+Fundamental Law Of Education is related to Japan
+Elementary School is part of Japan
+Junior High School is part of Japan
+Senior High School is part of Japan
+University Of Tokyo is part of Japan
+Mext is part of Japan
+Oecd is related to Japan
+Oecd is related to South Korea
+National Health Insurance Program is part of Japan
+Health Care In Japan is related to Japan
+Cancer is related to Japan
+Cardiovascular Diseases is related to Japan
+Suicide is related to Japan
+Smoking Among Japanese Men is related to Japan
+Heart Disease is related to Japan
+Dementia is related to Japan
+Unesco World Heritage List is related to Japan
+Japonism is related to Japan
+World War Ii is related to Japan
+Kenzō Tange is related to Japan
+Metabolism (Architecture) is related to Japan
+Kojiki is related to Japan
+Nihon Shoki is related to Japan
+Man'Yōshū is related to Japan
+Kana is related to Japan
+The Tale Of The Bamboo Cutter is related to Japan
+The Pillow Book is related to Japan
+Sei Shōnagon is related to The Pillow Book
+The Tale Of Genji is related to Japan
+Murasaki Shikibu is related to The Tale Of Genji
+Edo Period is related to Japan
+Chōnin is related to Japan
+Samurai Aristocracy is related to Japan
+Saikaku is related to Japan
+Bashō is related to Japan
+Kokinshū is related to Japan
+Haikai is related to Bashō
+Oku No Hosomichi is related to Bashō
+Meiji Era is related to Japan
+Natsume Sōseki is related to Japan
+Mori Ōgai is related to Japan
+Ryūnosuke Akutagawa is related to Japan
+Jun'Ichirō Tanizaki is related to Japan
+Kafū Nagai is related to Japan
+Haruki Murakami is related to Japan
+Kenji Nakagami is related to Japan
+Yasunari Kawabata is related to Japan
+Kenzaburō Ōe is related to Japan
+Japanese Philosophy is related to Japan
+Japanese Music is related to Japan
+Koto is related to Japanese Music
+Shamisen is related to Japanese Music
+Kumi-Daiko is related to Japan
+J-Pop is related to Japan
+Karaoke is related to Japan
+Noh is related to Japan
+Kyōgen is related to Japan
+Kabuki is related to Japan
+Bunraku is related to Japan
+Nhk is related to Japan
+Ishirō Honda is related to Godzilla
+Godzilla is related to Japan
+Kaiju Films is related to Godzilla
+Manga is related to Japan
+Anime is related to Japan
+Anime is related to Manga
+Japan is related to National Holiday
+National Holiday is related to Public Holiday Law
+Public Holiday Law is part of Japan
+National Holiday is related to Happy Monday System
+Japan is related to Japanese Cuisine
+Japanese Cuisine is part of Seafood
+Japanese Cuisine is part of Japanese Rice
+Japanese Cuisine is part of Noodles
+Japanese Cuisine is related to Japanese Curry
+Japanese Cuisine is related to Ramen
+Japanese Cuisine is related to Sushi
+Japanese Cuisine is related to Wagashi
+Wagashi is related to Red Bean Paste
+Wagashi is related to Mochi
+Japanese Cuisine is related to Green Tea Ice Cream
+Japan is related to Sake
+Japan is related to Beer
+Japan is related to Green Tea
+Green Tea is related to Matcha
+Matcha occurs at Japanese Tea Ceremony
+Japan is related to Sumo
+Japan is related to Judo
+Japan is related to Kendo
+Japan is related to Karate
+Karate is related to Ryukyu Kingdom
+Karate is related to Olympic Games
+Japan is related to Baseball
+Nippon Professional Baseball is related to Baseball
+Japan is related to Nippon Professional Baseball
+Japan is related to Japan Professional Football League
+Japan Professional Football League is related to Association Football
+Japan is related to Association Football
+2002 Fifa World Cup occurs at Japan
+2002 Fifa World Cup occurs at South Korea
+Japan is related to Japan Men'S National Football Team
+Japan Men'S National Football Team is related to Asian Cup
+Japan Men'S National Football Team is related to Fifa Women'S World Cup 2011
+Japan is related to Golf
+Japan is related to Motorsport
+Japanese Automotive Manufacturers is related to Motorsport
+Japanese Automotive Manufacturers is related to Formula One
+Japanese Automotive Manufacturers is related to Motogp
+Japanese Automotive Manufacturers is related to World Rally Championship
+Japanese Automotive Manufacturers is related to Indianapolis 500
+Japanese Automotive Manufacturers is related to 24 Hours Of Le Mans
+Japan is related to Super Gt
+Japan is related to Super Formula
+Japan is related to Japanese Grand Prix
+Summer Olympics 1964 occurs at Tokyo
+Japan is related to Summer Olympics 1964
+Winter Olympics 1972 occurs at Sapporo
+Japan is related to Winter Olympics 1972
+Winter Olympics 1998 occurs at Nagano
+Japan is related to Winter Olympics 1998
+Japan occurs at 2006 Basketball World Championship
+Japan occurs at 2023 Basketball World Championship
+2020 Summer Olympics (2021) occurs at Tokyo
+Japan is related to 2020 Summer Olympics (2021)
+Japan occurs at Women'S Volleyball World Championship
+Asian Rugby Union is related to Japan
+2019 Irb Rugby World Cup occurs at Japan
+Prime Minister Of Japan is related to Japan
+Imperial Household Agency is related to Japan
+National Diet Library is related to Japan
+36°N 138°E is contained in Japan

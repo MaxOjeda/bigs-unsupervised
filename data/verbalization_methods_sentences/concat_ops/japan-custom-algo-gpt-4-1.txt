@@ -1,0 +1,435 @@
+naruhito ascends throne is related to japan
+abdication of emperor akihito is related to japan
+tokyo earthquake is related to japan
+great hanshin earthquake occurs at japan
+fukushima nuclear disaster is related to japan
+tohoku earthquake is related to japan
+japan joins un occurs at japan
+allied occupation ends occurs at japan
+new constitution adoption occurs at japan
+japan unconditional surrender occurs at japan
+nagasaki atomic bombing is related to japan
+hiroshima atomic bombing is related to japan
+41.8c temperature record occurs at japan
+japan inbound tourism record occurs at japan
+abe's security policy statement occurs at japan
+quad is reformed occurs at japan
+free and open indo-pacific announced occurs at japan
+cancer accounts 2018 deaths occurs at japan
+cancer as top cause occurs at japan
+japan surrenders wwii occurs at japan
+attack on pearl harbor is related to japan
+['second sino-japanese war begins', 'invasion of china'] is related to japan
+annexation of korea is related to japan
+fifa women's world cup win is related to japan
+['2002 fifa world cup japan', '2002 fifa world cup'] occurs at japan
+sendai plant restarted is related to japan
+all nuclear plants offline occurs at japan
+fukushima daiichi nuclear disaster is related to japan
+unesco world heritage list is contained in japan
+global peace index is part of japan
+quadrilateral security dialogue is part of japan
+east asia summit is part of japan
+asean plus three is part of japan
+apec is part of japan
+g7 is part of japan
+g4 countries is part of japan
+government of japan is part of japan
+jr enterprises is part of japan
+kintetsu is part of japan
+seibu railway is part of japan
+keio corporation is part of japan
+toyota is part of japan
+japan aerospace exploration agency is part of japan
+international space station is contained in japan
+mitsubishi ufj is part of japan
+ntt is part of japan
+aeon is part of japan
+softbank is part of japan
+hitachi is part of japan
+itochu is part of japan
+nhk is part of japan
+nippon professional baseball is part of japan
+japan professional football league is part of japan
+kamakura shogunate is part of japan
+ashikaga shogunate is part of japan
+national and local governments is part of japan
+imperial court is part of japan
+mext is part of japan
+university of tokyo is part of japan
+sendai nuclear power plant is contained in japan
+fukushima daiichi nuclear power plant is contained in japan
+greater tokyo area is contained in japan
+tanegashima space center is contained in japan
+ryukyu kingdom is contained in japan
+nara is contained in japan
+heian-kyo is contained in japan
+kamakura is contained in japan
+ashikaga is contained in japan
+hiroshima is contained in japan
+nagasaki is contained in japan
+sapporo is contained in japan
+nagano is contained in japan
+edo is contained in japan
+osaka is contained in japan
+uraga is contained in japan
+kanagawa is contained in japan
+heijo-kyo is contained in japan
+ryukyu islands is contained in japan
+senkaku islands is contained in japan
+okinotorishima is contained in japan
+honshu is contained in japan
+shikoku is contained in japan
+pacific coast is contained in japan
+nanpo islands is contained in japan
+ryukyu is contained in japan
+hokkaido is contained in japan
+kyushu is contained in japan
+lake biwa is contained in japan
+yasunari kawabata is related to japan
+kenzaburo oe is related to japan
+ishiro honda is related to japan
+marco polo is related to japan
+sei shonagon is related to japan
+murasaki shikibu is related to japan
+natsume soseki is related to japan
+mori ogai is related to japan
+ryunosuke akutagawa is related to japan
+junichiro tanizaki is related to japan
+kafu nagai is related to japan
+haruki murakami is related to japan
+kenji nakagami is related to japan
+kenzo tange is related to japan
+go daigo was present at japan
+ashikaga takauji was present at japan
+oda nobunaga was present at japan
+toyotomi hideyoshi was present at japan
+toyotomi hideyori was present at japan
+tokugawa ieyasu was present at japan
+go yozei was present at japan
+jimmu emperor is related to japan
+shotoku prince was present at japan
+naka no ooe was present at japan
+fujiwara no kamatari was present at japan
+oama prince was present at japan
+ootomo prince was present at japan
+go-daigo emperor was present at japan
+sanae takaichi is related to japan
+shinzo abe is related to japan
+fumio kishida is related to japan
+naruhito unspecified is related to japan
+akihito unspecified is related to japan
+revised immigration law enacted occurs at japan
+american fleet opens japan occurs at japan
+imperial restoration occurs at japan
+jleague established occurs at japan
+2011 women's world cup win occurs at japan
+basketball world championship 2006 occurs at japan
+basketball world championship 2023 occurs at japan
+2019 rugby world cup occurs at japan
+mongol invasion repelled occurs at japan
+['ashikaga defeats go-daigo', 'go-daigo defeated'] occurs at japan
+onset of sengoku period occurs at japan
+death of oda nobunaga occurs at japan
+['battle of sekigahara', 'tokugawa unification'] occurs at japan
+sakoku policy enacted occurs at japan
+convention of kanagawa occurs at japan
+meiji constitution introduced occurs at japan
+japan resigns from league occurs at japan
+['anti-comintern pact signed', 'npb established'] occurs at japan
+tripartite pact signed occurs at japan
+introduction of buddhism occurs at japan
+taika reforms occurs at japan
+jinshin war occurs at japan
+genpei war ends occurs at japan
+['second mongol invasion repelled', 'mongol invasion repelled'] occurs at japan
+2014 ainu language report occurs at japan
+2016 muslim population report occurs at japan
+['2018 mosques and muslims report', '2018 christian population report'] occurs at japan
+2016 integrated schooling start occurs at japan
+2021 education gdp report occurs at japan
+2023 tertiary education ranking occurs at japan
+takaichi becomes prime minister occurs at japan
+kishida orders budget increase occurs at japan
+abe responsibilities speech occurs at japan
+kishida defense spending instruction occurs at japan
+un violent crime statistics report occurs at japan
+takaichi becomes prime minister occurs at japan
+tokyo occurs at naruhito ascends throne
+tokyo occurs at abdication of emperor akihito
+tokyo occurs at tokyo earthquake
+fukushima daiichi nuclear disaster occurs at fukushima nuclear disaster
+tohoku occurs at tohoku earthquake
+korea is related to japan unconditional surrender
+taiwan is related to japan unconditional surrender
+united states is related to nagasaki atomic bombing
+nagasaki occurs at nagasaki atomic bombing
+united states is related to hiroshima atomic bombing
+hiroshima occurs at hiroshima atomic bombing
+unesco is related to 41.8c temperature record
+environment ministry is related to 41.8c temperature record
+ramsar is related to 41.8c temperature record
+naruhito unspecified is related to 41.8c temperature record
+g7 is related to japan inbound tourism record
+china is related to japan inbound tourism record
+united states is related to japan inbound tourism record
+australia is related to japan inbound tourism record
+shinzo abe is related to abe's security policy statement
+quadrilateral security dialogue is related to quad is reformed
+axis power is related to attack on pearl harbor
+united states occurs at attack on pearl harbor
+empire of japan is related to ['second sino-japanese war begins', 'invasion of china']
+china occurs at ['second sino-japanese war begins', 'invasion of china']
+empire of japan is related to annexation of korea
+korea occurs at annexation of korea
+asia occurs at fifa women's world cup win
+japan professional football league is related to ['2002 fifa world cup japan', '2002 fifa world cup']
+fifa is related to ['2002 fifa world cup japan', '2002 fifa world cup']
+asian cup is related to ['2002 fifa world cup japan', '2002 fifa world cup']
+ishiro honda is related to ['2002 fifa world cup japan', '2002 fifa world cup']
+south korea occurs at ['2002 fifa world cup japan', '2002 fifa world cup']
+government of japan is related to sendai plant restarted
+sendai nuclear power plant occurs at sendai plant restarted
+fukushima daiichi nuclear power plant occurs at fukushima daiichi nuclear disaster
+takaichi becomes prime minister is related to government of japan
+kishida orders budget increase is related to government of japan
+revised immigration law enacted is related to government of japan
+prime minister of japan and his cabinet is part of government of japan
+imperial household agency is part of government of japan
+national diet library is part of government of japan
+national security council is part of government of japan
+environment ministry is part of government of japan
+sanae takaichi is related to government of japan
+shinzo abe is related to government of japan
+fumio kishida is related to government of japan
+national diet is related to takaichi becomes prime minister
+liberal democratic party is related to takaichi becomes prime minister
+ishin is related to takaichi becomes prime minister
+house of representatives is related to takaichi becomes prime minister
+house of councillors is related to takaichi becomes prime minister
+sanae takaichi is related to takaichi becomes prime minister
+fumio kishida is related to kishida orders budget increase
+jr enterprises is part of japanese railway companies
+kintetsu is part of japanese railway companies
+seibu railway is part of japanese railway companies
+keio corporation is part of japanese railway companies
+selene crashed on moon is related to japan aerospace exploration agency
+selene enters lunar orbit is related to japan aerospace exploration agency
+selene lunar launch is related to japan aerospace exploration agency
+international space station is part of japan aerospace exploration agency
+moon occurs at selene crashed on moon
+moon occurs at selene enters lunar orbit
+tanegashima space center occurs at selene lunar launch
+['anti-comintern pact signed', 'npb established'] is related to nippon professional baseball
+empire of japan is related to ['anti-comintern pact signed', 'npb established']
+nazi germany is related to ['anti-comintern pact signed', 'npb established']
+anti-comintern pact is related to ['anti-comintern pact signed', 'npb established']
+jleague established is related to japan professional football league
+house of representatives is part of national diet
+house of councillors is part of national diet
+american fleet opens japan is related to shogunate
+tokugawa shogunate is part of shogunate
+kamakura shogunate is part of shogunate
+ashikaga shogunate is part of shogunate
+tokugawa shogunate is related to american fleet opens japan
+['battle of sekigahara', 'tokugawa unification'] is related to tokugawa shogunate
+sakoku policy enacted is related to tokugawa shogunate
+tokugawa made shogun is related to tokugawa shogunate
+imperial restoration is related to tokugawa shogunate
+tokugawa ieyasu is related to tokugawa shogunate
+kamakura shogunate is related to ['battle of sekigahara', 'tokugawa unification']
+ashikaga shogunate is related to ['battle of sekigahara', 'tokugawa unification']
+daimyo is related to ['battle of sekigahara', 'tokugawa unification']
+samurai is related to ['battle of sekigahara', 'tokugawa unification']
+council of five elders is related to ['battle of sekigahara', 'tokugawa unification']
+toyotomi hideyori is related to ['battle of sekigahara', 'tokugawa unification']
+tokugawa ieyasu is related to ['battle of sekigahara', 'tokugawa unification']
+tokugawa ieyasu is related to sakoku policy enacted
+tokugawa ieyasu is related to tokugawa made shogun
+go yozei is related to tokugawa made shogun
+edo occurs at tokugawa made shogun
+['second mongol invasion repelled', 'mongol invasion repelled'] is related to kamakura shogunate
+genpei war ends is related to kamakura shogunate
+mongol invasion repelled is related to kamakura shogunate
+go daigo is related to kamakura shogunate
+yoritomo minamoto is related to kamakura shogunate
+go-daigo emperor is related to kamakura shogunate
+yoritomo minamoto is related to genpei war ends
+['ashikaga defeats go-daigo', 'go-daigo defeated'] is related to ashikaga shogunate
+onset of sengoku period is related to ashikaga shogunate
+go daigo is related to ashikaga shogunate
+ashikaga takauji is related to ashikaga shogunate
+takauji ashikaga is related to ashikaga shogunate
+go daigo is related to ['ashikaga defeats go-daigo', 'go-daigo defeated']
+ashikaga takauji is related to ['ashikaga defeats go-daigo', 'go-daigo defeated']
+go-daigo emperor is related to ['ashikaga defeats go-daigo', 'go-daigo defeated']
+takauji ashikaga is related to ['ashikaga defeats go-daigo', 'go-daigo defeated']
+2011 women's world cup win is related to fifa women's world cup
+tokyo summer olympics 2020 is related to olympics
+nagano winter olympics is related to olympics
+sapporo winter olympics is related to olympics
+tokyo summer olympics 1964 is related to olympics
+tokyo occurs at tokyo summer olympics 2020
+nagano occurs at nagano winter olympics
+sapporo occurs at sapporo winter olympics
+women's volleyball world championship is related to tokyo summer olympics 1964
+tokyo occurs at tokyo summer olympics 1964
+2019 rugby world cup is related to irb rugby world cup
+basketball world championship 2023 is related to basketball world championship
+basketball world championship 2006 is related to basketball world championship
+government committee is part of national and local governments
+local governments is part of national and local governments
+government-sponsored insurance is part of national and local governments
+2014 ainu language report is related to local governments
+yasunari kawabata is related to unesco
+kenzaburo oe is related to unesco
+kenzo tange is related to unesco
+['attack on british malaya', 'malaya singapore hong kong attack'] is related to empire of japan
+['attack on pearl harbor', 'pearl harbor attack'] is related to empire of japan
+soviet invasion of manchuria is related to empire of japan
+attack on hong kong is related to empire of japan
+attack on singapore is related to empire of japan
+japan invades french indochina is related to empire of japan
+tripartite pact signed is related to empire of japan
+japan resigns from league is related to empire of japan
+manchukuo established is related to empire of japan
+japan invades manchuria is related to empire of japan
+great tokyo earthquake is related to empire of japan
+russo-japanese war ends is related to empire of japan
+russo-japanese war begins is related to empire of japan
+end of first sino-japanese war is related to empire of japan
+first sino-japanese war is related to empire of japan
+cabinet is part of empire of japan
+privy council is part of empire of japan
+imperial diet is part of empire of japan
+allies is part of empire of japan
+axis powers is part of empire of japan
+korea is part of empire of japan
+taiwan is part of empire of japan
+britain is related to ['attack on british malaya', 'malaya singapore hong kong attack']
+hong kong occurs at ['attack on british malaya', 'malaya singapore hong kong attack']
+malaya occurs at ['attack on british malaya', 'malaya singapore hong kong attack']
+singapore occurs at ['attack on british malaya', 'malaya singapore hong kong attack']
+pearl harbor occurs at ['attack on pearl harbor', 'pearl harbor attack']
+soviet union is related to soviet invasion of manchuria
+manchuria occurs at soviet invasion of manchuria
+hong kong occurs at attack on hong kong
+singapore occurs at attack on singapore
+french indochina occurs at japan invades french indochina
+axis powers is related to tripartite pact signed
+league of nations is related to japan resigns from league
+manchukuo occurs at manchukuo established
+manchuria occurs at japan invades manchuria
+edo occurs at great tokyo earthquake
+china occurs at russo-japanese war ends
+china occurs at russo-japanese war begins
+china occurs at end of first sino-japanese war
+allies is related to first sino-japanese war
+china occurs at first sino-japanese war
+toyotomi hideyori is related to council of five elders
+tokugawa ieyasu is related to council of five elders
+meiji constitution introduced is related to cabinet
+privy council is related to meiji constitution introduced
+imperial diet is related to meiji constitution introduced
+international military tribunal far east is related to allies
+international military tribunal for the far east is related to international military tribunal far east
+tokyo occurs at international military tribunal far east
+nazi germany is part of axis powers
+anti-comintern pact is part of axis powers
+taika reforms is related to china
+introduction of buddhism is related to china
+manchuria is contained in china
+hong kong is contained in china
+marco polo is related to china
+imperial court is related to taika reforms
+naka no ooe is related to taika reforms
+fujiwara no kamatari is related to taika reforms
+baekje is related to introduction of buddhism
+korea is related to introduction of buddhism
+shotoku prince is related to introduction of buddhism
+shotoku prince was present at baekje
+toyotomi hideyoshi was present at korea
+toyotomi hideyoshi korean invasion occurs at korea
+toyotomi hideyoshi second korean invasion occurs at korea
+move to heian kyo is related to imperial court
+murasaki shikibu is related to imperial court
+shotoku prince is related to imperial court
+naka no ooe is related to imperial court
+fujiwara no kamatari is related to imperial court
+oama prince is related to imperial court
+ootomo prince is related to imperial court
+kanmu emperor is related to imperial court
+murasaki shikibu is related to move to heian kyo
+kanmu emperor is related to move to heian kyo
+heian-kyo occurs at move to heian kyo
+2016 integrated schooling start is related to mext
+2023 tertiary education ranking is related to programme for international student assessment
+2021 education gdp report is related to programme for international student assessment
+university of tokyo is related to 2023 tertiary education ranking
+takaichi becomes prime minister is related to liberal democratic party
+sanae takaichi is related to liberal democratic party
+ishin is related to takaichi becomes prime minister
+sanae takaichi is related to takaichi becomes prime minister
+sanae takaichi is related to ishin
+pearl harbor is contained in united states
+kuril islands is contained in russia
+liancourt rocks is contained in south korea
+ministry of defense is part of japan self-defense forces
+japan ground self-defense force is part of japan self-defense forces
+japan maritime self-defense force is part of japan self-defense forces
+japan air self-defense force is part of japan self-defense forces
+kishida defense spending instruction is related to jsdf
+fumio kishida is related to kishida defense spending instruction
+un violent crime statistics report is related to prefectural police departments
+national police agency is part of prefectural police departments
+anti-firearms squads is part of prefectural police departments
+counter-nbc terrorism squads is part of prefectural police departments
+national police agency is related to un violent crime statistics report
+national public safety commission is related to un violent crime statistics report
+special assault team is related to un violent crime statistics report
+anti-firearms squads is related to un violent crime statistics report
+counter-nbc terrorism squads is related to un violent crime statistics report
+japan coast guard is related to un violent crime statistics report
+united nations office on drugs and crime is related to un violent crime statistics report
+un is related to un violent crime statistics report
+national public safety commission is part of national police agency
+special assault team is part of national police agency
+un is part of united nations office on drugs and crime
+tokyo is contained in haneda airport
+honshu is contained in tokyo
+greater tokyo area is contained in tokyo
+sea of japan is contained in honshu
+kyoto is contained in honshu
+chugoku is contained in honshu
+seto inland sea is contained in honshu
+tohoku is contained in honshu
+central highland is contained in honshu
+murasaki shikibu was present at heian-kyo
+kanmu emperor was present at heian-kyo
+go daigo was present at kamakura
+yoritomo minamoto was present at kamakura
+go-daigo emperor was present at kamakura
+jimmu emperor was present at yamato
+tokugawa ieyasu was present at edo
+matthew c perry was present at uraga
+perry expedition arrives occurs at uraga
+matthew c perry was present at kanagawa
+manchukuo is contained in manchuria
+san francisco is contained in pearl harbor
+marco polo was present at cipangu
+takauji ashikaga was present at muromachi
+okinawa is contained in ryukyu islands
+shinzo abe was present at afghanistan
+shinzo abe was present at iraq
+seto inland sea is contained in shikoku
+kyushu is contained in seto inland sea
+bonin islands is contained in nanpo islands
+fukushima daiichi nuclear disaster is contained in tohoku
+death of oda nobunaga is related to oda nobunaga
+toyotomi hideyoshi second korean invasion is related to toyotomi hideyoshi
+toyotomi hideyoshi korean invasion is related to toyotomi hideyoshi
+convention of kanagawa is related to matthew c perry
+perry expedition arrives is related to matthew c perry
+jinshin war is related to oama prince
+ootomo prince is related to jinshin war
+abe responsibilities speech is related to shinzo abe

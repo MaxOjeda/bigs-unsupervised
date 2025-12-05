@@ -1,0 +1,199 @@
+occurs at tanegashima space center lunar mission SELENE launch
+is related to japan aerospace exploration agency lunar mission SELENE launch
+is contained in japan tanegashima space center
+occurs at japan lunar mission SELENE crash
+is related to japan aerospace exploration agency lunar mission SELENE crash
+occurs at space probe Akatsuki orbit japan
+occurs at japan opened trade japan
+is related to imperial power restored japan
+is related to korea annexed japan
+is related to china invaded japan
+is related to u.s. attacked japan
+occurs at surrendered in war japan
+occurs at taika reforms japan
+occurs at jinshin war japan
+occurs at smallpox epidemic japan
+occurs at mongol invasions repel japan
+occurs at mongol invasions repel japan
+occurs at go-daigo's defeat japan
+occurs at sengoku period begins japan
+occurs at ['sanae takaichi takes office', "Takaichi's prime ministership"] japan
+occurs at statement by shinzo abe japan
+occurs at ['spending increase instruction', 'japan military budget increase'] japan
+occurs at labor force estimation japan
+occurs at national debt estimate japan
+occurs at international tourism receipts japan
+occurs at tourism ranking japan
+is related to surrender of japan japan
+occurs at abdication of emperor japan
+occurs at naruhito becomes emperor japan
+is related to yasunari kawabata japan
+is related to kenzaburo oe japan
+was present at ishiro honda japan
+was present at sey shonagon japan
+was present at murasaki shikibu japan
+was present at natsume soseki japan
+was present at mori ogai japan
+was present at ryunosuke akutagawa japan
+was present at jun'ichiro tanizaki japan
+was present at kafu nagai japan
+was present at haruki murakami japan
+was present at kenji nakagami japan
+was present at kenzo tange japan
+was present at naka no Oe japan
+was present at fujiwara no kamatari japan
+was present at takauji ashikaga japan
+is related to sanae takaichi japan
+was present at shinzo abe japan
+was present at fumio kishida japan
+is contained in tokyo japan
+is contained in nara japan
+is contained in heian-kyo japan
+is contained in hiroshima japan
+is contained in nagasaki japan
+is contained in heijo-kyo japan
+is contained in kamakura japan
+is contained in university of tokyo japan
+is contained in southern kuril islands japan
+is contained in liancourt rocks japan
+is contained in senkaku islands japan
+is contained in okinotorishima japan
+is contained in honshu japan
+is contained in nagaski japan
+is contained in hokkaido japan
+is contained in shikoku japan
+is contained in kyushu japan
+is related to 1964 summer olympics japan
+is related to 1972 winter olympics japan
+is related to 1998 winter olympics japan
+is related to 2002 fifa world cup japan
+is related to 2006 basketball world championship japan
+is related to 2020 summer olympics japan
+is related to 2019 rugby world cup japan
+is related to 2023 basketball world championship japan
+is related to ['pearl harbor attacks', 'pearl harbor attack'] japan
+is related to tohoku earthquake japan
+is part of government of japan japan
+is related to tokugawa shogunate japan opened trade
+is related to allied forces surrendered in war
+occurs at tokyo 1964 summer olympics
+occurs at 2002 fifa world cup tokyo
+occurs at 2006 basketball world championship tokyo
+occurs at 2020 summer olympics tokyo
+occurs at 2019 rugby world cup tokyo
+occurs at 2023 basketball world championship tokyo
+is contained in haneda airport tokyo
+is contained in greater tokyo area tokyo
+occurs at sapporo 1972 winter olympics
+occurs at nagano 1998 winter olympics
+occurs at edo repelled mongol invasions
+is related to kamakura shogunate repelled mongol invasions
+occurs at overthrown by go-daigo edo
+occurs at battle of sekigahara edo
+occurs at established tokugawa shogunate edo
+occurs at convention of kanagawa edo
+occurs at meiji constitution edo
+occurs at signed anti-comintern pact edo
+was present at tokugawa ieyasu edo
+is contained in taiwan edo
+is related to go daigo overthrown by go-daigo
+is related to ashikaga takauji overthrown by go-daigo
+is related to kamakura shogunate overthrown by go-daigo
+is related to tokugawa ieyasu established tokugawa shogunate
+is related to tokugawa shogunate established tokugawa shogunate
+occurs at taiwan annexed korea
+is related to empire of japan annexed korea
+is contained in nagasaki taiwan
+is contained in manchukuo taiwan
+is contained in hong kong taiwan
+occurs at manchukuo invaded manchuria
+is related to empire of japan invaded manchuria
+occurs at invaded france indochina manchukuo
+is related to nazi germany signed anti-comintern pact
+is related to empire of japan invaded france indochina
+occurs at pearl harbor ['pearl harbor attacks', 'pearl harbor attack']
+is related to empire of japan ['pearl harbor attacks', 'pearl harbor attack']
+is related to axis powers ['pearl harbor attacks', 'pearl harbor attack']
+is related to allies ['pearl harbor attacks', 'pearl harbor attack']
+is related to naka no Oe taika reforms
+is related to fujiwara no kamatari taika reforms
+is related to imperial court taika reforms
+is related to kamakura shogunate jinshin war
+occurs at heian-kyo emperor kanmu's capital move
+was present at murasaki shikibu heian-kyo
+occurs at kamakura genpei war defeat
+is related to minamoto clan genpei war defeat
+is related to hojo clan mongol invasions repel
+is related to hojo clan mongol invasions repel
+is related to takauji ashikaga go-daigo's defeat
+is related to ashikaga shogunate go-daigo's defeat
+occurs at honshu ['sanae takaichi takes office', "Takaichi's prime ministership"]
+is related to sanae takaichi ['sanae takaichi takes office', "Takaichi's prime ministership"]
+is related to liberal democratic party ['sanae takaichi takes office', "Takaichi's prime ministership"]
+occurs at environmental laws introduced honshu
+occurs at carbon neutrality target announced honshu
+occurs at emperor Naruhito's accession honshu
+is contained in ryukyu islands honshu
+is contained in chugoku region honshu
+is contained in shikoku region honshu
+is contained in seto inland sea honshu
+is contained in nanpo islands honshu
+is contained in okinawa honshu
+occurs at iraq japan's military overseas deployment
+is related to japan self-defense forces japan's military overseas deployment
+is related to shinzo abe statement by shinzo abe
+is related to national police agency statement by shinzo abe
+is related to national public safety commission statement by shinzo abe
+is related to japan coast guard statement by shinzo abe
+is related to united nations office on drugs and crime statement by shinzo abe
+is related to fumio kishida ['spending increase instruction', 'japan military budget increase']
+is related to ministry of defense ['spending increase instruction', 'japan military budget increase']
+is related to japan self-defense forces (jsdf) ['spending increase instruction', 'japan military budget increase']
+is related to united nations office on drugs and crime ['spending increase instruction', 'japan military budget increase']
+occurs at sea of japan highest temperature recorded
+is related to environment ministry highest temperature recorded
+was present at sanae takaichi sea of japan
+is related to environment ministry environmental laws introduced
+is related to environment ministry carbon neutrality target announced
+is related to allies surrender of japan
+is related to international military tribunal for the far east surrender of japan
+occurs at fukushima daiichi tohoku earthquake
+is related to national government of japan yasunari kawabata
+is related to kenzaburo oe national government of japan
+is related to sey shonagon national government of japan
+is related to murasaki shikibu national government of japan
+is related to natsume soseki national government of japan
+is related to mori ogai national government of japan
+is related to ryunosuke akutagawa national government of japan
+is related to jun'ichiro tanizaki national government of japan
+is related to kafu nagai national government of japan
+is related to haruki murakami national government of japan
+is related to kenji nakagami national government of japan
+is related to kenzo tange national government of japan
+is part of local governments of japan national government of japan
+is related to nippon professional baseball ishiro honda
+is related to kamakura shogunate go daigo
+is part of ashikaga shogunate kamakura shogunate
+is part of minamoto clan kamakura shogunate
+is part of hojo clan kamakura shogunate
+is related to ashikaga shogunate ashikaga takauji
+is related to takauji ashikaga ashikaga shogunate
+is related to tokugawa shogunate tokugawa ieyasu
+was present at hong kong matthew perry
+was present at singapore matthew perry
+was present at nagasaki matthew perry
+is related to imperial court naka no Oe
+is related to fujiwara no kamatari imperial court
+was present at okinawa sanae takaichi
+is related to liberal democratic party sanae takaichi
+is related to government of japan sanae takaichi
+is related to shinzo abe liberal democratic party
+is related to fumio kishida liberal democratic party
+is part of ishin liberal democratic party
+is related to shinzo abe government of japan
+is related to fumio kishida government of japan
+is part of mext government of japan
+is part of oecd government of japan
+is related to japan self-defense forces (jsdf) shinzo abe
+is related to fumio kishida japan self-defense forces (jsdf)
+is part of national public safety commission national police agency

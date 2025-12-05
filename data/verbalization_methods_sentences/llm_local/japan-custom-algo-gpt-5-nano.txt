@@ -1,0 +1,128 @@
+The revised immigration law enacted is related to Japan.
+The revised immigration law enacted is related to the government of Japan.
+Buddhism was introduced in Japan.
+Taika reforms occurred in Japan.
+The Jinshin War occurred in Japan.
+Taiho Code was promulgated in Japan.
+The Kojiki was completed in Japan.
+The Nihon Shoki was completed in Japan.
+A smallpox epidemic occurred in Japan.
+The Heian period began in Japan.
+The Mongol invasion of 1274 was repelled in Japan.
+The Mongol invasion of 1281 was repelled in Japan.
+The Sengoku period began in Japan.
+The Genpei War occurred in Japan.
+Japan's nine-year schooling starts at Japan.
+Japan occurred at a record temperature high.
+Tokyo is contained within Japan.
+Fukushima Daiichi Nuclear Power Plant is contained in Japan.
+The Sendai Nuclear Power Plant is contained in Japan.
+Keihin Superport is contained in Japan.
+The Hanshin Superport Hub is contained in Japan.
+The Tanegashima Space Center is contained in Japan.
+Nara is contained in Japan.
+Kamakura is contained in Japan.
+Ashikaga is contained in Japan.
+Hiroshima is contained within Japan.
+Nagasaki is contained within Japan.
+Okinotorishima is contained in Japan.
+Fumio Kishida was present in Japan.
+Yasunari Kawabata is related to Japan.
+Kenzaburo Oe is related to Japan.
+Ryunosuke Akutagawa is related to Japan.
+Japan is related to Junichiro Tanizaki.
+Kafu Nagai is related to Japan.
+Haruki Murakami is related to Japan.
+Kenji Nakagami is related to Japan.
+Natsume Soseki is related to Japan.
+Japan is related to mori ogai.
+Murasaki Shikibu is related to Japan.
+Sei Shōnagon is from Japan.
+Shinzo Abe was present in Japan.
+Japan is part of the United Nations.
+Japan is part of G4.
+G7 is part of Japan.
+APEC is part of Japan.
+Japan is part of ASEAN Plus Three.
+Japan is part of the East Asia Summit.
+Japan is part of the quadrilateral security dialogue.
+Local governments are part of Japan.
+Selene's orbit insertion occurs at the moon.
+Selene is related to Japan Aerospace Exploration Agency.
+The moon occurs at the Selene Moon Crash.
+The moon is contained within the moon base.
+The Selene moon crashed into Japan Aerospace Exploration Agency.
+The Meiji Constitution is related to the Privy Council.
+The great Tokyo earthquake occurred at Edo.
+Tokugawa Ieyasu was present at Edo.
+Japan is found in 'Book of Han' which occurred in China.
+Hong Kong is contained in China.
+The Nara period began at Nara.
+The capital was moved to Heian-Kyoto.
+Murasaki Shikibu was present at Heian-kyo.
+The Kamakura Shogunate was established at Kamakura.
+The IsRelatedTo relation does not directly imply a cause-and-effect relationship.
+A more accurate approach is to rephrase it as:
+
+The IsRelatedTo relation implies the connection of the two subjects without specifying their nature.
+However, this still might not be considered natural language.
+A better way to express this triple would be: 
+
+ The kamakura shogunate established and the kamakura shogunate are connected in some manner.
+Or simply
+
+ The kamakura shogunate is connected to itself.
+Kamakura was present at Go-Daigo.
+The Genpei War is related to the Minamoto Clan.
+The Genpei War is related to the Taira clan.
+The government department in charge of environmental matters is related to the record temperature high.
+The Pearl Harbor attack occurs at Pearl Harbor.
+The Pearl Harbor attack occurs at Hong Kong.
+The pearl harbor attack occurred in Singapore.
+The Pearl Harbor attack occurs at Malaya.
+The Pearl Harbor attack is related to the Empire of Japan.
+Tokyo is contained within the Greater Tokyo Area.
+Haneda Airport is contained in Tokyo.
+Liancourt Rocks are contained in South Korea.
+Yasunari Kawabata was present in Europe.
+Europe was present at Kenzaburo Oe.
+The Ashikaga Takauji was present at Muromachi.
+Oda Nobunaga was present at Azuchi.
+Toyotomi Hideyoshi was at Azuchi.
+Uraga is contained in Kanagawa.
+Manchuria is contained within Manchukuo.
+The Ryukyu Islands are contained within the Amami.
+The Ryukyu Islands are contained in Okinawa.
+The Southern Kuril Islands are contained in Russia.
+Fumio Kishida is related to the government of Japan.
+Sanae Takaichi is related to the government of Japan.
+Shinzo Abe is related to the government of Japan.
+Murasaki Shikibu is related to the Imperial Court.
+Tokugawa Ieyasu was influenced by the Council of Five Elders.
+Go Daigo was influenced by the Kamakura Shogunate.
+The Kamakura Shogunate was the IsPartOf of the Hojo Clan.
+Takauji Ashikaga is related to the Ashikaga Shogunate.
+Sanae Takaichi is related to the national diet.
+Sanae Takaichi is related to Ishin.
+Sanae Takaichi is related to the Liberal Democratic Party.
+Shinzo Abe was involved with the United Nations Office on Drugs and Crime.
+Shinzo Abe is related to the Japan Coast Guard.
+Shinzo Abe was involved with the Counter-NBC Terrorism Squads.
+Shinzo Abe is related to anti-firearms squads.
+Shinzo Abe was part of the Special Assault Team.
+Shinzo Abe is related to the National Public Safety Commission.
+Shinzo Abe is related to prefectural police departments.
+Shinzo Abe is related to the national police agency.
+The national public safety commission is part of the national police agency.
+The prefectural police departments are part of the national police agency.
+The United Nations is part of the Empire of Japan.
+The government of Japan is part of the Imperial Household Agency.
+The Privy Council is part of the Empire of Japan.
+The Imperial Diet is part of the Empire of Japan.
+The Axis Powers are part of the Empire of Japan.
+The Empire of Japan was the empire that Manchukuo was a part of.
+The Axis powers were part of Nazi Germany.
+The League of Nations is part of Manchukuo.
+The Japan Self-Defense Forces are part of the Japan Ground Self-Defense Force.
+The Japan Self-Defense Forces are part of the Japan Maritime Self-Defense Force.
+The Japan Self-Defense Forces is part of the Japan Air Self-Defense Force.

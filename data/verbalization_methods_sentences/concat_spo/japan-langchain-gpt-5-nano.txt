@@ -1,0 +1,212 @@
+Japan is related to East Asia
+Tokyo is part of Japan
+Nara is part of Japan
+Heian-Kyō is part of Japan
+Korea is contained in East Asia
+Baekje is part of Korea
+Minamoto No Yoritomo is related to Kamakura Shogunate
+Kamakura Shogunate occurs at Japan
+Ashikaga Takauji is related to Ashikaga Shogunate
+Fujiwara No Kamatari is related to Taika Reforms
+Prince Naka No Ōe is related to Taika Reforms
+Meiji Period occurs at Japan
+World War Ii occurs at Japan
+Pacific War is related to World War Ii
+Allied Occupation occurs at Japan
+1853 American Fleet Opens Trade occurs at Japan
+1868 Restoration Of Imperial Power occurs at Japan
+1910 Annexation Of Korea occurs at Korea
+1937 Invasion Of China occurs at China
+1941 Attack On Us And European Powers occurs at Japan
+1945 Surrender occurs at Japan
+Atomic Bombing Of Hiroshima occurs at Hiroshima
+Atomic Bombing Of Nagasaki occurs at Nagasaki
+Hiroshima is related to World War Ii
+Nagasaki is related to World War Ii
+World War Ii is related to Pacific War
+Lost Decades occurs at Japan
+National Diet is part of Japan
+G7 is related to Japan
+Upper Paleolithic In Japan occurs at Japan
+Jinshin War occurs at Japan
+Kamakura Period occurs at Japan
+Tokugawa_Ieyasu is part of Council_Of_Five_Elders
+Tokugawa_Ieyasu is related to Toyotomi_Hideyori
+Toyotomi_Hideyori is related to Toyotomi_Hideyoshi
+Battle_Of_Sekigahara occurs at Sekigahara
+Tokugawa_Ieyasu was present at Battle_Of_Sekigahara
+Emperor_Go_Yozei is related to Tokugawa_Ieyasu
+Tokugawa_Shogunate is related to Edo
+Tokugawa_Shogunate is related to Buke_Shohato
+Sakoku is related to Edo_Period
+Edo is related to Edo_Period
+Rangaku is related to Nagasaki
+Matthew_C_Perry was present at Perry_Expedition
+Perry_Expedition occurs at Uraga
+Perry_Expedition is related to Convention_Of_Kanagawa
+Convention_Of_Kanagawa occurs at Uraga
+Meiji_Restoration is related to Empire_Of_Japan
+Cabinet is related to Privy_Council
+Meiji_Constitution is related to Imperial_Diet
+Imperial_Diet is related to Meiji_Constitution
+Empire_Of_Japan is related to Japan
+First_Sino_Japanese_War is related to Empire_Of_Japan
+Russo_Japanese_War is related to Empire_Of_Japan
+Korea is related to First_Sino_Japanese_War
+Taiwan is related to First_Sino_Japanese_War
+Sakhalin is related to Russo_Japanese_War
+Manchukuo is related to Russo_Japanese_War
+League_Of_Nations is related to Empire_Of_Japan
+Anti_Comintern_Pact is related to Empire_Of_Japan
+Tripartite_Pact is related to Empire_Of_Japan
+Pearl_Harbor is related to Empire_Of_Japan
+Great_Tokyo_Earthquake_1923 occurs at Tokyo
+Naruhito is related to Reiwa_Era_Begins
+Reiwa_Era_Begins is related to Japan
+Emperor_Akihito is related to Naruhito
+Tohoku_Earthquake_2011 occurs at Japan
+Tohoku_Earthquake_2011 is related to Fukushima_Daiichi
+Great_Tokyo_Earthquake_1923 is related to Tokyo
+Perry_Expedition occurs at Uraga
+Perry_Expedition is related to Convention_Of_Kanagawa
+Meiji_Restoration is related to Meiji_Constitution
+Empire_Of_Japan is related to United_Nations
+World War Ii is related to Japan
+Environmental Protection Laws (1970) occurs at Japan
+Oil Crisis (1973) occurs at Japan
+Energy Efficiency is related to Oil Crisis (1973)
+Environmental Performance Index (2018) is related to Japan
+Kyoto Protocol is related to Japan
+Carbon Neutrality By 2050 occurs at Japan
+Nox And Urban Air Pollutants occurs at Japan
+Environmental Issues In Japan occurs at Japan
+Naruhito is related to Japan
+Akihito is related to Japan
+Sanae Takaichi is related to Liberal Democratic Party
+House Of Representatives is part of National Diet
+House Of Councillors is part of National Diet
+Sanae Takaichi is related to House Of Representatives
+Senkaku Islands is related to Japan
+Liancourt Rocks is related to Japan
+Southern Kuril Islands is related to Japan
+Okinotorishima is related to Japan
+Quad is related to Japan
+G7 is related to Japan
+Apec is related to Japan
+East Asia Summit is related to Japan
+United States is related to Japan
+Japan Self-Defense Forces is related to United States
+Constitution Of Japan (1947) is related to Article 9 Of The Constitution
+Kujikata Osadamegaki is related to Bürgerliches Gesetzbuch
+Six Codes is related to Bürgerliches Gesetzbuch
+Japan is related to Keiretsu
+Japan is related to Lifetime_Employment
+Japan is related to Seniority_Based_Career_Advancement
+Cooperative_Sector_In_Japan is related to Largest_Consumer_Cooperative
+Cooperative_Sector_In_Japan is related to Largest_Agricultural_Cooperative
+Largest_Consumer_Cooperative is related to Three_Largest_Cooperatives
+Largest_Agricultural_Cooperative is related to Three_Largest_Cooperatives
+Japan is related to Toyota
+Japan is related to Mitsubishi_Ufj
+Japan is related to Ntt
+Japan is related to Aeon
+Japan is related to Softbank
+Japan is related to Hitachi
+Japan is related to Itochu
+Japan is related to Kintetsu
+Japan is related to Seibu_Railway
+Japan is related to Keio_Corporation
+Japan is related to Jr_Enterprises
+Jr_Enterprises is part of Privatization_Of_Jr_1987
+Jaxa is related to Japan
+Selene was present at Moon
+Akatsuki is related to Jaxa
+Privatization_Of_Jr_1987 is related to Jr_Enterprises
+Privatization_Of_Jr_1987 is related to Japan
+Greater_Tokyo_Area is related to Tokyo
+Tokyo is related to Haneda_Airport
+Airports_In_Japan is related to Japan
+Travelandtourismreport2024 is related to Japan
+Inbound_Tourism_2019_Rank11 is related to Japan
+Ryukyuan Languages is related to Japonic Language Family
+Amami is part of Ryukyuan Languages
+Kunigami is part of Ryukyuan Languages
+Okinawan is part of Ryukyuan Languages
+Miyako is part of Ryukyuan Languages
+Yaeyama is part of Ryukyuan Languages
+Yonaguni is part of Ryukyuan Languages
+Amami was present at Ryukyu Islands Chain
+Kunigami was present at Ryukyu Islands Chain
+Okinawan was present at Ryukyu Islands Chain
+Miyako was present at Ryukyu Islands Chain
+Yaeyama was present at Ryukyu Islands Chain
+Yonaguni was present at Ryukyu Islands Chain
+Ainu is related to Language Isolate
+Shinto is related to Japan
+Buddhism is related to Japan
+Taoism is related to Japan
+Confucianism is related to Japan
+Christianity is related to Japan
+Islam is related to Japan
+Hinduism is related to Japan
+Judaism is related to Japan
+Bahá'Í Faith is related to Japan
+Ainu Animist Beliefs is related to Ainu
+University Of Tokyo is related to Japan
+Pisa is related to Oecd
+Pisa is related to Japan
+Oecd is related to Japan
+Mext is related to Japan
+Kenzō Tange is related to Japanese Architecture
+Ishirō Honda is related to Godzilla
+Godzilla is related to Godzilla Film Franchise
+Noh is related to Japanese Theater
+Kyōgen is related to Japanese Theater
+Kabuki is related to Japanese Theater
+Bunraku is related to Japanese Theater
+Kojiki is related to Japanese Literature
+Nihon Shoki is related to Japanese Literature
+Man'Yōshū is related to Japanese Literature
+Tale Of The Bamboo Cutter is related to Japanese Literature
+Pillow Book is related to Japanese Literature
+Tale Of Genji is related to Japanese Literature
+Haruki Murakami is related to Japanese Literature
+Kenji Nakagami is related to Japanese Literature
+Natsume Soseki is related to Japanese Literature
+Mori Ogai is related to Japanese Literature
+Ryūnosuke Akutagawa is related to Japanese Literature
+Yasunari Kawabata is related to Japanese Literature
+Kenzaburō Ōe is related to Japanese Literature
+Unesco World Heritage List is related to Japan
+Twenty-Two Sites Inscribed On Unesco World Heritage List is related to Japan
+Korean is related to Zainichi Korean Dialect
+Korean is related to Korean Language
+New Year'S Day is related to Public Holiday Law
+Coming Of Age Day is related to Public Holiday Law
+National Foundation Day is related to Public Holiday Law
+The Emperor'S Birthday is related to Public Holiday Law
+Vernal Equinox Day is related to Public Holiday Law
+Shōwa Day is related to Public Holiday Law
+Constitution Memorial Day is related to Public Holiday Law
+Greenery Day is related to Public Holiday Law
+Children'S Day is related to Public Holiday Law
+Marine Day is related to Public Holiday Law
+Mountain Day is related to Public Holiday Law
+Respect For The Aged Day is related to Public Holiday Law
+Autumnal Equinox is related to Public Holiday Law
+Health And Sports Day is related to Public Holiday Law
+Culture Day is related to Public Holiday Law
+Labor Thanksgiving Day is related to Public Holiday Law
+Coming Of Age Day is related to Happy Monday System
+Marine Day is related to Happy Monday System
+Respect For The Aged Day is related to Happy Monday System
+Health And Sports Day is related to Happy Monday System
+Summer Olympics 1964 occurs at Tokyo
+Winter Olympics 1972 occurs at Sapporo
+Winter Olympics 1998 occurs at Nagano
+2002 Fifa World Cup occurs at Japan
+2002 Fifa World Cup occurs at South Korea
+2011 Fifa Women'S World Cup occurs at Japan
+2019 Rugby World Cup occurs at Japan
+2006 Basketball World Championship occurs at Japan
+2023 Basketball World Championship occurs at Japan

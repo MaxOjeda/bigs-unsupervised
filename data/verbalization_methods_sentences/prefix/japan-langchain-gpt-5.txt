@@ -1,0 +1,409 @@
+S:Japan | P:is contained in | O:East Asia
+S:Japan | P:is contained in | O:Pacific Ocean
+S:Sea Of Japan | P:is related to | O:Japan
+S:Sea Of Okhotsk | P:is related to | O:Japan
+S:East China Sea | P:is related to | O:Japan
+S:Japanese Archipelago | P:is part of | O:Japan
+S:Hokkaido | P:is part of | O:Japanese Archipelago
+S:Honshu | P:is part of | O:Japanese Archipelago
+S:Shikoku | P:is part of | O:Japanese Archipelago
+S:Kyushu | P:is part of | O:Japanese Archipelago
+S:Okinawa | P:is part of | O:Japanese Archipelago
+S:Ryukyu Islands | P:is part of | O:Japan
+S:Okinawa | P:is part of | O:Ryukyu Islands
+S:Nanpō Islands | P:is part of | O:Japan
+S:Tokyo | P:is part of | O:Japan
+S:Nara | P:is part of | O:Japan
+S:Heijō-Kyō | P:is related to | O:Nara
+S:Heian-Kyō | P:is related to | O:Kyoto
+S:Kyoto | P:is part of | O:Japan
+S:Kamakura | P:is part of | O:Japan
+S:Edo | P:is part of | O:Japan
+S:Edo | P:is related to | O:Tokyo
+S:Osaka | P:is part of | O:Japan
+S:Nagasaki | P:is part of | O:Japan
+S:Hiroshima | P:is part of | O:Japan
+S:Uraga | P:is part of | O:Japan
+S:Kanagawa | P:is part of | O:Japan
+S:Lake Biwa | P:is part of | O:Japan
+S:Fukushima Daiichi | P:is part of | O:Japan
+S:Manchuria | P:is part of | O:China
+S:Manchukuo | P:is contained in | O:Manchuria
+S:Korea | P:is part of | O:East Asia
+S:Taiwan | P:is part of | O:East Asia
+S:Karafuto | P:is related to | O:Sakhalin
+S:Kurils | P:is related to | O:Japan
+S:Pacific Ring Of Fire | P:is related to | O:Japan
+S:Japan | P:is part of | O:G7
+S:National Diet | P:is contained in | O:Japan
+S:Imperial Diet | P:is contained in | O:Japan
+S:Privy Council | P:is contained in | O:Japan
+S:Cabinet | P:is contained in | O:Japan
+S:Kamakura Shogunate | P:is contained in | O:Japan
+S:Ashikaga Shogunate | P:is contained in | O:Japan
+S:Tokugawa Shogunate | P:is contained in | O:Japan
+S:Council Of Five Elders | P:is contained in | O:Japan
+S:Hōjō Clan | P:is contained in | O:Japan
+S:Minamoto Clan | P:is contained in | O:Japan
+S:Taira Clan | P:is contained in | O:Japan
+S:Empire Of Japan | P:is related to | O:Japan
+S:League Of Nations | P:is related to | O:Japan
+S:Nazi Germany | P:is part of | O:Axis Powers
+S:Japan | P:is part of | O:Axis Powers
+S:Allies | P:is related to | O:Japan
+S:United Nations | P:is related to | O:Japan
+S:International Military Tribunal For The Far East | P:is related to | O:Japan
+S:United States Navy | P:is contained in | O:United States
+S:Environment Ministry | P:is contained in | O:Japan
+S:World Risk Index | P:is related to | O:Japan
+S:Environmental Performance Index | P:is related to | O:Japan
+S:Portuguese Traders | P:is related to | O:Japan
+S:United States | P:is part of | O:Allies
+S:Upper Paleolithic | P:occurs at | O:Japanese Archipelago
+S:Japanese Paleolithic | P:occurs at | O:Japanese Archipelago
+S:Jōmon Period | P:occurs at | O:Japan
+S:Yayoi Period | P:occurs at | O:Japan
+S:Asuka Period | P:occurs at | O:Japan
+S:Nara Period | P:occurs at | O:Heijō-Kyō
+S:Heian Period | P:occurs at | O:Heian-Kyō
+S:Kamakura Period | P:occurs at | O:Kamakura
+S:Muromachi Period | P:occurs at | O:Japan
+S:Sengoku Period | P:occurs at | O:Japan
+S:Azuchi–Momoyama Period | P:occurs at | O:Japan
+S:Edo Period | P:occurs at | O:Edo
+S:Meiji Period | P:occurs at | O:Japan
+S:Taishō Democracy | P:occurs at | O:Japan
+S:Taika Reforms | P:occurs at | O:Japan
+S:Taika Reforms | P:is related to | O:China
+S:Taihō Code | P:occurs at | O:Japan
+S:Jinshin War | P:occurs at | O:Japan
+S:Jinshin War | P:is related to | O:Taihō Code
+S:Move Of Capital To Heian-Kyō (794) | P:occurs at | O:Heian-Kyō
+S:Move Of Capital To Heian-Kyō (794) | P:is related to | O:Heian Period
+S:Genpei War | P:occurs at | O:Japan
+S:Mongol Invasions Of Japan | P:occurs at | O:Japan
+S:Establishment Of Kamakura Shogunate | P:occurs at | O:Kamakura
+S:Establishment Of Kamakura Shogunate | P:is related to | O:Kamakura Shogunate
+S:Overthrow Of Kamakura Shogunate | P:occurs at | O:Japan
+S:Overthrow Of Kamakura Shogunate | P:is related to | O:Kamakura Shogunate
+S:Defeat Of Go-Daigo (1336) | P:occurs at | O:Japan
+S:Defeat Of Go-Daigo (1336) | P:is related to | O:Muromachi Period
+S:Defeat Of Go-Daigo (1336) | P:is related to | O:Ashikaga Shogunate
+S:Unification By Toyotomi Hideyoshi | P:occurs at | O:Japan
+S:Japanese Invasions Of Korea (1592–1598) | P:occurs at | O:Korea
+S:Battle Of Sekigahara | P:occurs at | O:Japan
+S:Establishment Of Tokugawa Shogunate | P:occurs at | O:Edo
+S:Establishment Of Tokugawa Shogunate | P:is related to | O:Tokugawa Shogunate
+S:Enactment Of Buke Shohatto | P:occurs at | O:Japan
+S:Sakoku Policy (1639) | P:occurs at | O:Japan
+S:Perry Expedition | P:occurs at | O:Uraga
+S:Perry Expedition | P:is related to | O:United States Navy
+S:Convention Of Kanagawa | P:occurs at | O:Kanagawa
+S:Convention Of Kanagawa | P:is related to | O:Japan
+S:Convention Of Kanagawa | P:is related to | O:United States
+S:Boshin War | P:occurs at | O:Japan
+S:Meiji Restoration | P:occurs at | O:Japan
+S:Boshin War | P:is related to | O:Meiji Restoration
+S:Meiji Constitution | P:occurs at | O:Japan
+S:Meiji Constitution | P:is related to | O:Imperial Diet
+S:Meiji Constitution | P:is related to | O:Privy Council
+S:Meiji Constitution | P:is related to | O:Cabinet
+S:First Sino-Japanese War | P:occurs at | O:East Asia
+S:Russo-Japanese War | P:occurs at | O:East Asia
+S:Annexation Of Korea (1910) | P:occurs at | O:Korea
+S:Annexation Of Korea (1910) | P:is related to | O:Japan
+S:World War I | P:occurs at | O:Japan
+S:Establishment Of Manchukuo (1932) | P:occurs at | O:Manchuria
+S:Establishment Of Manchukuo (1932) | P:is related to | O:Manchukuo
+S:Establishment Of Manchukuo (1932) | P:is related to | O:Japan
+S:Anti-Comintern Pact (1936) | P:is related to | O:Japan
+S:Anti-Comintern Pact (1936) | P:is related to | O:Nazi Germany
+S:Tripartite Pact (1940) | P:is related to | O:Japan
+S:Tripartite Pact (1940) | P:is related to | O:Axis Powers
+S:Axis Powers | P:was present at | O:World War Ii
+S:Allies | P:was present at | O:World War Ii
+S:Empire Of Japan | P:was present at | O:World War Ii
+S:Invasion Of China (1937) | P:occurs at | O:China
+S:Invasion Of China (1937) | P:is related to | O:Japan
+S:Invasion Of French Indochina (1940) | P:occurs at | O:French Indochina
+S:Invasion Of French Indochina (1940) | P:is related to | O:Japan
+S:Attack On Pearl Harbor | P:occurs at | O:Pearl Harbor
+S:Attack On Pearl Harbor | P:is related to | O:Japan
+S:Attacks On Malaya, Singapore, And Hong Kong (1941) | P:occurs at | O:Malaya
+S:Attacks On Malaya, Singapore, And Hong Kong (1941) | P:occurs at | O:Singapore
+S:Attacks On Malaya, Singapore, And Hong Kong (1941) | P:occurs at | O:Hong Kong
+S:Attacks On Malaya, Singapore, And Hong Kong (1941) | P:is related to | O:Japan
+S:Pacific War | P:occurs at | O:Pacific Ocean
+S:Pacific War | P:is part of | O:World War Ii
+S:Second Sino-Japanese War | P:occurs at | O:China
+S:Second Sino-Japanese War | P:is part of | O:World War Ii
+S:Atomic Bombings Of Hiroshima And Nagasaki | P:occurs at | O:Hiroshima
+S:Atomic Bombings Of Hiroshima And Nagasaki | P:occurs at | O:Nagasaki
+S:Atomic Bombings Of Hiroshima And Nagasaki | P:is part of | O:World War Ii
+S:Soviet Invasion Of Manchuria | P:occurs at | O:Manchuria
+S:Soviet Invasion Of Manchuria | P:is part of | O:World War Ii
+S:Surrender Of Japan (1945) | P:occurs at | O:Japan
+S:Surrender Of Japan (1945) | P:is part of | O:World War Ii
+S:Allied Occupation Of Japan | P:occurs at | O:Japan
+S:Allied Occupation Of Japan | P:is related to | O:Allies
+S:Allied Occupation Of Japan | P:is related to | O:United States
+S:Adoption Of 1947 Constitution | P:occurs at | O:Japan
+S:Treaty Of San Francisco | P:occurs at | O:San Francisco
+S:Treaty Of San Francisco | P:is related to | O:Allied Occupation Of Japan
+S:Treaty Of San Francisco | P:is related to | O:Japan
+S:United Nations Membership (1956) | P:occurs at | O:Japan
+S:United Nations Membership (1956) | P:is related to | O:United Nations
+S:Collapse Of Japanese Asset Price Bubble | P:occurs at | O:Japan
+S:Lost Decades | P:occurs at | O:Japan
+S:Collapse Of Japanese Asset Price Bubble | P:is related to | O:Lost Decades
+S:1923 Great Tokyo Earthquake | P:occurs at | O:Tokyo
+S:1995 Great Hanshin Earthquake | P:occurs at | O:Japan
+S:2011 Tōhoku Earthquake | P:occurs at | O:Japan
+S:2011 Tōhoku Earthquake | P:is related to | O:Fukushima Daiichi Nuclear Disaster
+S:Fukushima Daiichi Nuclear Disaster | P:occurs at | O:Fukushima Daiichi
+S:Abdication Of Emperor Akihito (2019) | P:occurs at | O:Japan
+S:Beginning Of Reiwa Era (2019) | P:occurs at | O:Japan
+S:Abdication Of Emperor Akihito (2019) | P:is related to | O:Beginning Of Reiwa Era (2019)
+S:Record Temperature In Japan (2025-08-05) | P:occurs at | O:Japan
+S:Environmental Protection Laws (1970) | P:occurs at | O:Japan
+S:1973 Oil Crisis | P:is related to | O:Japan
+S:Kyoto Protocol (1997) | P:occurs at | O:Kyoto
+S:Kyoto Protocol (1997) | P:is related to | O:Japan
+S:Japan 2050 Carbon-Neutrality Target (2020) | P:occurs at | O:Japan
+S:Introduction Of Buddhism To Japan (552) | P:occurs at | O:Japan
+S:Introduction Of Buddhism To Japan (552) | P:is related to | O:Baekje
+S:Introduction Of Buddhism To Japan (552) | P:is related to | O:China
+S:Prince Shōtoku | P:was present at | O:Introduction Of Buddhism To Japan (552)
+S:Prince Shōtoku | P:was present at | O:Asuka Period
+S:Prince Naka No Ōe | P:was present at | O:Taika Reforms
+S:Fujiwara No Kamatari | P:was present at | O:Taika Reforms
+S:Prince Ōama | P:was present at | O:Jinshin War
+S:Prince Ōtomo | P:was present at | O:Jinshin War
+S:Emperor Kanmu | P:was present at | O:Move Of Capital To Heian-Kyō (794)
+S:Murasaki Shikibu | P:was present at | O:Heian Period
+S:Minamoto Clan | P:was present at | O:Genpei War
+S:Taira Clan | P:was present at | O:Genpei War
+S:Minamoto No Yoritomo | P:was present at | O:Genpei War
+S:Minamoto No Yoritomo | P:was present at | O:Establishment Of Kamakura Shogunate
+S:Hōjō Clan | P:was present at | O:Kamakura Period
+S:Emperor Go-Daigo | P:was present at | O:Overthrow Of Kamakura Shogunate
+S:Emperor Go-Daigo | P:was present at | O:Defeat Of Go-Daigo (1336)
+S:Ashikaga Takauji | P:was present at | O:Defeat Of Go-Daigo (1336)
+S:Oda Nobunaga | P:was present at | O:Azuchi–Momoyama Period
+S:Toyotomi Hideyoshi | P:was present at | O:Unification By Toyotomi Hideyoshi
+S:Toyotomi Hideyoshi | P:was present at | O:Japanese Invasions Of Korea (1592–1598)
+S:Tokugawa Ieyasu | P:was present at | O:Battle Of Sekigahara
+S:Tokugawa Ieyasu | P:was present at | O:Establishment Of Tokugawa Shogunate
+S:Toyotomi Hideyori | P:is related to | O:Council Of Five Elders
+S:Tokugawa Ieyasu | P:is part of | O:Council Of Five Elders
+S:Emperor Go-Yōzei | P:was present at | O:Establishment Of Tokugawa Shogunate
+S:Matthew C. Perry | P:was present at | O:Perry Expedition
+S:United States Navy | P:was present at | O:Perry Expedition
+S:Legendary Founding By Emperor Jimmu (660 Bc) | P:occurs at | O:Japan
+S:Emperor Jimmu | P:was present at | O:Legendary Founding By Emperor Jimmu (660 Bc)
+S:Amaterasu | P:is related to | O:Emperor Jimmu
+S:Emperor Akihito | P:was present at | O:Abdication Of Emperor Akihito (2019)
+S:Naruhito | P:was present at | O:Beginning Of Reiwa Era (2019)
+S:National Diet | P:was present at | O:Adoption Of 1947 Constitution
+S:United Nations | P:was present at | O:United Nations Membership (1956)
+S:Completion Of Kojiki (712) | P:occurs at | O:Heijō-Kyō
+S:Completion Of Nihon Shoki (720) | P:occurs at | O:Heijō-Kyō
+S:735–737 Smallpox Epidemic In Japan | P:occurs at | O:Japan
+S:Writing Of Kimigayo Lyrics | P:occurs at | O:Japan
+S:Writing Of Kimigayo Lyrics | P:is related to | O:Heian Period
+S:Creation Of The Tale Of Genji | P:occurs at | O:Japan
+S:Creation Of The Tale Of Genji | P:is related to | O:Heian Period
+S:Murasaki Shikibu | P:was present at | O:Creation Of The Tale Of Genji
+S:Meiji Period | P:is related to | O:Empire Of Japan
+S:Meiji Period | P:is related to | O:First Sino-Japanese War
+S:Meiji Period | P:is related to | O:Russo-Japanese War
+S:Treaty Of San Francisco | P:is related to | O:United States
+S:Portuguese Traders | P:is related to | O:Southeast Asia
+S:Portuguese Traders | P:is related to | O:Europe
+S:Government Of Japan | P:is contained in | O:Japan
+S:National Diet | P:is part of | O:Government Of Japan
+S:Cabinet | P:is part of | O:Government Of Japan
+S:Supreme Court | P:is part of | O:Government Of Japan
+S:Ministry Of Defense | P:is part of | O:Government Of Japan
+S:Japan Self-Defense Forces (Sjdf) | P:is part of | O:Ministry Of Defense
+S:Japan Ground Self-Defense Force | P:is part of | O:Japan Self-Defense Forces (Sjdf)
+S:Japan Maritime Self-Defense Force | P:is part of | O:Japan Self-Defense Forces (Sjdf)
+S:Japan Air Self-Defense Force | P:is part of | O:Japan Self-Defense Forces (Sjdf)
+S:Japan Self-Defense Forces (Sjdf) | P:is related to | O:Article 9 Of The Constitution Of Japan
+S:Article 9 Of The Constitution Of Japan | P:is part of | O:Constitution Of Japan
+S:National Security Council | P:is part of | O:Government Of Japan
+S:Prefectural Police Departments | P:is related to | O:National Police Agency
+S:National Police Agency | P:is related to | O:National Public Safety Commission
+S:Special Assault Team | P:is related to | O:National Police Agency
+S:Special Assault Team | P:is related to | O:Anti-Firearms Squads
+S:Special Assault Team | P:is related to | O:Counter-Nbc Terrorism Squads
+S:Japan Coast Guard | P:is part of | O:Government Of Japan
+S:Japan Coast Guard | P:is contained in | O:Japan
+S:Japan | P:is part of | O:United Nations
+S:Japan | P:is part of | O:G4
+S:G4 | P:is related to | O:United Nations Security Council
+S:United Nations Security Council | P:is part of | O:United Nations
+S:Japan | P:is part of | O:G7
+S:Japan | P:is part of | O:Apec
+S:Japan | P:is part of | O:Asean Plus Three
+S:Japan | P:is part of | O:East Asia Summit
+S:Japan | P:is part of | O:Quadrilateral Security Dialogue
+S:United States | P:is part of | O:Quadrilateral Security Dialogue
+S:Australia | P:is part of | O:Quadrilateral Security Dialogue
+S:India | P:is part of | O:Quadrilateral Security Dialogue
+S:Japan | P:is related to | O:United States
+S:Fukushima Daiichi Nuclear Disaster | P:occurs at | O:Japan
+S:All Nuclear Power Plants Taken Offline (May 2012) | P:occurs at | O:Japan
+S:Sendai Nuclear Power Plant Restart (2015) | P:occurs at | O:Sendai Nuclear Power Plant
+S:Deployment Of Troops To Iraq And Afghanistan | P:occurs at | O:Iraq
+S:Deployment Of Troops To Iraq And Afghanistan | P:occurs at | O:Afghanistan
+S:Japan Self-Defense Forces (Sjdf) | P:was present at | O:Deployment Of Troops To Iraq And Afghanistan
+S:Tokyo | P:is contained in | O:Japan
+S:Tokyo | P:is part of | O:Greater Tokyo Area
+S:Haneda Airport | P:is contained in | O:Tokyo
+S:Keihin | P:is contained in | O:Japan
+S:Hanshin | P:is contained in | O:Japan
+S:Tanegashima Space Center | P:is contained in | O:Japan
+S:Japan Aerospace Exploration Agency | P:is contained in | O:Japan
+S:Japan Aerospace Exploration Agency | P:is related to | O:International Space Station
+S:Japanese Experiment Module (Kibō) | P:is part of | O:International Space Station
+S:Kibō Added To International Space Station (2008) | P:occurs at | O:International Space Station
+S:Japanese Experiment Module (Kibō) | P:was present at | O:Kibō Added To International Space Station (2008)
+S:Akatsuki | P:is related to | O:Japan Aerospace Exploration Agency
+S:Akatsuki Launch (2010) | P:occurs at | O:Tanegashima Space Center
+S:Akatsuki | P:was present at | O:Akatsuki Launch (2010)
+S:Akatsuki Orbit Around Venus (2015) | P:occurs at | O:Venus
+S:Akatsuki | P:was present at | O:Akatsuki Orbit Around Venus (2015)
+S:Selene (Selenological And Engineering Explorer) | P:is related to | O:Japan Aerospace Exploration Agency
+S:Selene Launch (2007) | P:occurs at | O:Tanegashima Space Center
+S:Selene (Selenological And Engineering Explorer) | P:was present at | O:Selene Launch (2007)
+S:Selene Lunar Orbit Insertion (2007) | P:occurs at | O:Moon
+S:Selene (Selenological And Engineering Explorer) | P:was present at | O:Selene Lunar Orbit Insertion (2007)
+S:Selene Impact On Moon (2009) | P:occurs at | O:Moon
+S:Selene (Selenological And Engineering Explorer) | P:was present at | O:Selene Impact On Moon (2009)
+S:Jr Enterprises | P:is contained in | O:Japan
+S:Kintetsu | P:is contained in | O:Japan
+S:Seibu Railway | P:is contained in | O:Japan
+S:Keio Corporation | P:is contained in | O:Japan
+S:Shinkansen | P:is contained in | O:Japan
+S:Shinkansen | P:is related to | O:Jr Enterprises
+S:Toyota | P:is contained in | O:Japan
+S:Mitsubishi Ufj | P:is contained in | O:Japan
+S:Ntt | P:is contained in | O:Japan
+S:Aeon | P:is contained in | O:Japan
+S:Softbank | P:is contained in | O:Japan
+S:Hitachi | P:is contained in | O:Japan
+S:Itochu | P:is contained in | O:Japan
+S:Southern Kuril Islands | P:is related to | O:Japan
+S:Southern Kuril Islands | P:is related to | O:Russia
+S:Liancourt Rocks | P:is related to | O:Japan
+S:Liancourt Rocks | P:is related to | O:South Korea
+S:Senkaku Islands | P:is related to | O:Japan
+S:Senkaku Islands | P:is related to | O:China
+S:Senkaku Islands | P:is related to | O:Taiwan
+S:Okinotorishima | P:is related to | O:Japan
+S:Okinotorishima | P:is related to | O:China
+S:Okinotorishima | P:is related to | O:Taiwan
+S:United Nations Office On Drugs And Crime | P:is related to | O:Japan
+S:World War Ii | P:occurs at | O:Japan
+S:Emperor Of Japan | P:is related to | O:Constitution Of Japan
+S:National Diet | P:is related to | O:Constitution Of Japan
+S:House Of Representatives | P:is part of | O:National Diet
+S:House Of Councillors | P:is part of | O:National Diet
+S:Liberal Democratic Party | P:is contained in | O:Japan
+S:Ishin | P:is contained in | O:Japan
+S:Sanae Takaichi | P:is related to | O:Government Of Japan
+S:Sanae Takaichi | P:is related to | O:Liberal Democratic Party
+S:Sanae Takaichi | P:was present at | O:2025 Liberal Democratic Party Leadership Election
+S:2025 Liberal Democratic Party Leadership Election | P:occurs at | O:Japan
+S:Ishin | P:is related to | O:Sanae Takaichi
+S:Cabinet | P:is related to | O:Sanae Takaichi
+S:Naruhito | P:is related to | O:Emperor Of Japan
+S:Naruhito | P:is related to | O:Akihito
+S:Accession To The Chrysanthemum Throne (2019) | P:occurs at | O:Japan
+S:Naruhito | P:was present at | O:Accession To The Chrysanthemum Throne (2019)
+S:Accession To The Chrysanthemum Throne (2019) | P:is related to | O:Chrysanthemum Throne
+S:Naruhito | P:is contained in | O:Japan
+S:Akihito | P:is contained in | O:Japan
+S:Shinzo Abe | P:is related to | O:Government Of Japan
+S:Fumio Kishida | P:is related to | O:Government Of Japan
+S:Japan Revised Immigration Law Enacted (2019) | P:occurs at | O:Japan
+S:Tokyo | P:is contained in | O:Japan
+S:Sapporo | P:is contained in | O:Japan
+S:Nagano | P:is contained in | O:Japan
+S:Government Of Japan | P:is contained in | O:Japan
+S:Imperial Household Agency | P:is contained in | O:Japan
+S:Imperial House Of Japan | P:is contained in | O:Japan
+S:National Diet Library | P:is contained in | O:Japan
+S:Japangov | P:is part of | O:Government Of Japan
+S:Japangov | P:is contained in | O:Japan
+S:Prime Minister Of Japan And His Cabinet | P:is part of | O:Government Of Japan
+S:Prime Minister Of Japan And His Cabinet | P:is contained in | O:Japan
+S:Mext | P:is contained in | O:Japan
+S:University Of Tokyo | P:is contained in | O:Tokyo
+S:Nippon Professional Baseball | P:is contained in | O:Japan
+S:Japan Professional Football League (J.League) | P:is contained in | O:Japan
+S:Super Gt | P:is contained in | O:Japan
+S:Super Formula | P:is contained in | O:Japan
+S:Unesco World Heritage List | P:is part of | O:Unesco
+S:Programme For International Student Assessment (Pisa) | P:is part of | O:Oecd
+S:Oecd | P:is related to | O:Japan
+S:Unesco | P:is related to | O:Japan
+S:Unesco World Heritage List | P:is related to | O:Japan
+S:Programme For International Student Assessment (Pisa) | P:is related to | O:Japan
+S:University Of Tokyo | P:is related to | O:Japan
+S:Formula One | P:is related to | O:Japan
+S:Motogp | P:is related to | O:Japan
+S:World Rally Championship | P:is related to | O:Japan
+S:Ucb Libraries Govpubs | P:is related to | O:Japan
+S:Bbc News | P:is related to | O:Japan
+S:Openstreetmap | P:is related to | O:Japan
+S:Asia | P:is related to | O:Japan
+S:Europe | P:is related to | O:Japan
+S:North America | P:is related to | O:Japan
+S:Ryukyu Kingdom | P:is related to | O:Japan
+S:Kenzō Tange | P:is related to | O:Japan
+S:Natsume Sōseki | P:is related to | O:Japan
+S:Mori Ōgai | P:is related to | O:Japan
+S:Ryūnosuke Akutagawa | P:is related to | O:Japan
+S:Jun'Ichirō Tanizaki | P:is related to | O:Japan
+S:Kafū Nagai | P:is related to | O:Japan
+S:Haruki Murakami | P:is related to | O:Japan
+S:Kenji Nakagami | P:is related to | O:Japan
+S:Yasunari Kawabata | P:is related to | O:Japan
+S:Kenzaburō Ōe | P:is related to | O:Japan
+S:Sei Shōnagon | P:is related to | O:Japan
+S:Murasaki Shikibu | P:is related to | O:Japan
+S:Bashō | P:is related to | O:Japan
+S:Saikaku | P:is related to | O:Japan
+S:Ishirō Honda | P:is related to | O:Japan
+S:Yasunari Kawabata | P:is related to | O:Nobel Prize
+S:Kenzaburō Ōe | P:is related to | O:Nobel Prize
+S:Japanese Grand Prix | P:occurs at | O:Japan
+S:Japanese Grand Prix | P:is related to | O:Formula One
+S:1964 Summer Olympics | P:occurs at | O:Tokyo
+S:1972 Winter Olympics | P:occurs at | O:Sapporo
+S:1998 Winter Olympics | P:occurs at | O:Nagano
+S:2002 Fifa World Cup | P:occurs at | O:Japan
+S:2002 Fifa World Cup | P:occurs at | O:South Korea
+S:2020 Summer Olympics | P:occurs at | O:Tokyo
+S:2019 Irb Rugby World Cup | P:occurs at | O:Japan
+S:2006 Basketball World Championship | P:occurs at | O:Japan
+S:2023 Basketball World Championship | P:occurs at | O:Japan
+S:April 2016 Nine-Year Compulsory Schooling Integration | P:occurs at | O:Japan
+S:New Year'S Day | P:occurs at | O:Japan
+S:Coming Of Age Day | P:occurs at | O:Japan
+S:National Foundation Day | P:occurs at | O:Japan
+S:The Emperor'S Birthday | P:occurs at | O:Japan
+S:Vernal Equinox Day | P:occurs at | O:Japan
+S:Shōwa Day | P:occurs at | O:Japan
+S:Constitution Memorial Day | P:occurs at | O:Japan
+S:Greenery Day | P:occurs at | O:Japan
+S:Children'S Day | P:occurs at | O:Japan
+S:Marine Day | P:occurs at | O:Japan
+S:Mountain Day | P:occurs at | O:Japan
+S:Respect For The Aged Day | P:occurs at | O:Japan
+S:Autumnal Equinox | P:occurs at | O:Japan
+S:Health And Sports Day | P:occurs at | O:Japan
+S:Culture Day | P:occurs at | O:Japan
+S:Labor Thanksgiving Day | P:occurs at | O:Japan

@@ -1,0 +1,548 @@
+East Asia is contained in Japan.
+Japan is related to the Pacific Ocean.
+Japan is related to the Sea of Japan.
+The Sea of Okhotsk is related to Japan.
+East China Sea is related to Japan.
+Tokyo is contained within Japan.
+The Japanese Archipelago is contained within Japan.
+Forty-seven Administrative Prefectures are contained in Japan.
+Eight Traditional Regions is contained in Japan.
+Japan was influenced by World War II.
+The U.S.
+is related to Japan.
+The Meiji Period is related to Japan.
+Korea is related to Japan.
+China is related to Japan.
+The G7 is related to Japan.
+Buddhism is related to Japan.
+The National Diet is contained within Japan.
+World War II is related to the U.S.
+The U.S.
+is related to Hiroshima.
+The United States is related to Nagasaki.
+Japan is related to the Japanese Paleolithic.
+The Japanese Paleolithic is contained within the Upper Paleolithic.
+Nara is related to Heian-Kyō.
+The Shōgun was a Daimyō.
+The Shōgun is related to Samurai.
+A Samurai is related to a Daimyō.
+The Kamakura Shogunate was related to Japan.
+The Ashikaga Shogunate was related to Japan.
+The Tokugawa Shogunate is related to Japan.
+The Tokugawa Shogunate was related to the Kamakura Shogunate.
+The Tokugawa Shogunate was related to the Ashikaga Shogunate.
+The Tokugawa Shogunate pursued an isolationist foreign policy.
+The Allied Occupation is related to Japan.
+The Lost Decades are related to Japan.
+Japan influenced Automotive.
+Electronics is related to Japan.
+Robotics originated in Japan.
+Art is related to Japan.
+Cuisine is related to Japan.
+Films are related to Japan.
+Music is related to Japan.
+Animation is related to Japan.
+Comics are related to Japan.
+Video games are related to Japan.
+Japan is related to Japan.
+Nihon is related to Japan.
+Nippon is related to Japan.
+Japan was related to Wa.
+Yamato is related to Japan.
+Emperor Jimmu is related to Yamato.
+Amaterasu is Emperor Jimmu's related person.
+The Jōmon Period is related to the Jōmon People.
+The Jōmon Period is related to the Yayoi People.
+The Yayoi People are related to the Jōmon People.
+Japan was written about in the Book of Han.
+The Book of Wei is related to Japan.
+The Book of Han is related to the Book of Wei.
+Japan is related to Yamatai.
+Baekje is related to Buddhism.
+Buddhism is related to the Asuka Period.
+China is related to Buddhism.
+Prince Shōtoku is related to Buddhism.
+Prince Naka No Ōe is related to Japan.
+Fujiwara No Kamatari is related to Japan.
+Prince Naka No Ōe is related to Fujiwara No Kamatari.
+Taika Reforms is related to Confucianism.
+Taika Reforms was related to China.
+The Taika Reforms are related to the Taihō Code.
+Taika Reforms influenced the Ritsuryō State.
+The Taihō Code is related to the Ritsuryō State.
+The Jinshin War is related to Prince Ōama.
+Prince Ōtomo is related to the Jinshin War.
+The Heijō-Kyō is related to the Nara Period.
+The Nara Period is related to the Kojiki.
+The Nihon Shoki is related to the Nara Period.
+Emperor Kanmu was influenced by the Nara Period.
+The Emperor Kanmu was related to the Heian-Kyō.
+The Heian Period influenced Murasaki Shikibu.
+The Heian Period is related to The Tale Of Genji.
+The Heian Period influenced Kimigayo.
+The Samurai is related to the Minamoto Clan.
+The Samurai is related to the Taira Clan.
+The Genpei War was influenced by the Minamoto Clan.
+The Genpei War is related to the Taira Clan.
+The Genpei War is related to Minamoto No Yoritomo.
+Minamoto No Yoritomo is related to the Kamakura Shogunate.
+The Kamakura Shogunate was related to the Hōjō Clan.
+The Kamakura Period is related to Zen Buddhism.
+China is related to Zen Buddhism.
+The Kamakura Shogunate was related to the Mongol invasions.
+Ashikaga Takauji was related to Emperor Go-Daigo.
+Ashikaga Takauji was related to the Muromachi Period.
+The Ashikaga Shogunate is related to the Muromachi Period.
+The Daimyō was related to the Sengoku Period.
+Oda Nobunaga was related to the Azuchi–Momoyama Period.
+Oda Nobunaga is related to Toyotomi Hideyoshi.
+Southeast Asia is related to Portugal.
+Marco Polo was related to Cipangu.
+Tokugawa Ieyasu is related to Toyotomi Hideyori.
+Tokugawa Ieyasu was a member of the Council Of Five Elders.
+Tokugawa Ieyasu was present at the Battle of Sekigahara.
+Tokugawa Ieyasu is related to the Tokugawa Shogunate.
+The Tokugawa Shogunate is contained within Edo.
+Tokyo is related to Edo.
+The Tokugawa Shogunate is related to the Buke Shohatto.
+Daimyō is related to Buke Shohatto.
+The Tokugawa Shogunate was related to the policy of Sakoku.
+The Edo Period is part of Sakoku.
+Kaidō is part of the Edo Period.
+The Osaka Rice Brokers are related to futures contracts.
+The Osaka Rice Brokers are related to Banking and Insurance of the Osaka Rice Brokers.
+Rangaku is related to the Dutch Enclave in Nagasaki.
+The school of Kokugaku is part of the Edo period.
+Commodore Matthew C.
+Perry was part of the United States Navy.
+Commodore Matthew C.
+Perry is related to the Perry Expedition.
+The Perry Expedition occurred at Uraga.
+The Perry Expedition is related to Black Ships.
+The Perry Expedition is related to the Convention of Kanagawa.
+The Convention of Kanagawa is related to Western Countries.
+The Meiji Restoration is related to the Boshin War.
+The Cabinet is related to the Privy Council.
+The Cabinet is related to the Meiji Constitution.
+The Cabinet is related to the Imperial Diet.
+The Empire of Japan is related to the Meiji Period.
+The Empire of Japan was related to the First Sino-Japanese War.
+The Empire of Japan was involved in the Russo-Japanese War.
+The Empire of Japan is contained in Taiwan.
+Korea is contained within the Empire of Japan.
+The Empire of Japan is contained in Sakhalin.
+The Empire of Japan is related to Korea.
+World War I is related to Allies.
+The Empire of Japan was related to the Great Tokyo Earthquake.
+The Empire of Japan is related to statism.
+The Empire of Japan influenced the 1931 invasion of Manchuria.
+The Empire of Japan is related to Manchukuo.
+The Empire of Japan was a member of the League of Nations.
+The Empire of Japan is related to the Anti-Comintern Pact.
+The Empire of Japan was related to the Nazi Germany.
+The Empire of Japan is related to the Tripartite Pact.
+The Tripartite Pact is related to the Axis Powers.
+The Empire of Japan was involved in the Second Sino-Japanese War.
+The Empire of Japan was related to French Indochina.
+The Empire of Japan was related to the oil embargo on Japan.
+The Empire of Japan is related to World War II in the Pacific.
+The Soviet invasion of Manchuria occurred in 1931.
+The Atomic Bombings of Hiroshima and Nagasaki occurred.
+The Atomic Bombings of Hiroshima and Nagasaki occurred.
+The Allies were related to the International Military Tribunal For The Far East.
+The 1947 Constitution of Japan is related to Japan.
+The Treaty of San Francisco is related to Japan.
+The United Nations is related to Japan.
+The 2011 Tōhoku Earthquake is related to the Fukushima Daiichi Nuclear Disaster.
+Naruhito is Emperor Akihito's son.
+Naruhito is related to the Reiwa Era.
+The Japanese Archipelago is part of Hokkaido.
+The Japanese Archipelago is part of Honshu.
+The Japanese Archipelago is part of Shikoku.
+The Japanese Archipelago is part of Kyushu.
+The Japanese Archipelago is part of Okinawa.
+The Japanese Archipelago is part of the Ryukyu Islands.
+The Japanese Archipelago is part of the Nanpō Islands.
+Okinawa is part of the Ryukyu Islands.
+Lake Biwa is contained within Japan.
+Japan is related to the Pacific Ring of Fire.
+The Great Hanshin Earthquake is related to Japan.
+Chūgoku is related to Honshu.
+Honshu is related to the Seto Inland Sea.
+The Environment Ministry is related to Japan.
+Japan is related to Ramsar Wetland Sites.
+Japan is related to the Unesco World Heritage List.
+Japan was involved in World War II.
+Japan scored in the Environmental Performance Index.
+The Japan is related to the Kyoto Protocol.
+Carbon dioxide is related to Japan.
+Climate change is related to Japan.
+Sanae Takaichi is related to the Prime Minister.
+Naruhito is related to Japan.
+Naruhito is related to Akihito.
+Naruhito is related to the Chrysanthemum Throne.
+The National Diet of Japan is related to Japan.
+The National Diet is part of the House of Representatives.
+The National Diet is part of the House Of Councillors.
+The Prime Minister is related to the Cabinet.
+The Prime Minister is related to the Japanese People.
+Six Codes is related to Japan.
+The Supreme Court is related to Japan.
+The Ministry of Defense is related to the Japan Self-Defense Forces.
+The Japan Self-Defense Forces are part of the Japan Ground Self-Defense Force.
+The Japan Self-Defense Forces are part of the Japan Maritime Self-Defense Force.
+The Japan Self-Defense Forces are part of the Japan Air Self-Defense Force.
+Japan influenced the National Security Council.
+The National Security Strategy is related to Japan.
+The National Defense Program Guidelines are related to Japan.
+Shinzo Abe is related to Japan.
+Fumio Kishida is related to Japan.
+The National Police Agency is related to Japan.
+The National Police Agency is related to the National Public Safety Commission.
+The National Police Agency is related to the Special Assault Team.
+The Japan Coast Guard is related to Japan.
+Japan is part of the United Nations.
+G4 Countries are part of Japan.
+Japan is part of the G7.
+Japan is part of ASEAN.
+Japan is part of ASEAN Plus Three.
+The Japan is related to the East Asia Summit.
+Japan provided official development assistance.
+The United States is related to Japan.
+Free And Open Indo-Pacific Vision is related to Japan.
+The Quadrilateral Security Dialogue is a component of Japan.
+The Quadrilateral Security Dialogue is part of the United States.
+The Quadrilateral Security Dialogue is part of Australia.
+The Quadrilateral Security Dialogue is part of India.
+The Quadrilateral Security Dialogue is part of Japan.
+The Quadrilateral Security Dialogue is related to China.
+The Indo-Pacific Region is related to Japan.
+Japan is related to the Southern Kuril Islands.
+The Southern Kuril Islands are related to Russia.
+Liancourt Rocks are related to Japan.
+The Liancourt Rocks are related to South Korea.
+The Senkaku Islands are related to Japan.
+The Senkaku Islands are related to China.
+The Senkaku Islands are related to Taiwan.
+Okinotorishima is related to Japan.
+Japan is related to the Global Peace Index.
+The Japan Self-Defense Forces are related to Article 9 of the Japanese Constitution.
+The Prefectural Police Departments are related to the National Police Agency.
+The Japan is related to the Firearm And Sword Possession Control Law.
+The Japan is related to the United Nations Office On Drugs And Crime.
+The Japanese Constitution is related to Japan.
+Human rights treaties are related to Japan.
+Same-sex marriage is related to Japan.
+The G7 countries are related to Japan.
+The Japanese Yen is related to Japan.
+Public Debt is related to Japan.
+Keiretsu Enterprises is related to Japan.
+Lifetime employment in Japan is related to.
+A career in Japan is based on seniority.
+A person is part of Lifetime Employment in the Japanese Work Environment.
+A career advancement based on seniority is part of the Japanese work environment.
+The Cooperative Sector is related to Japan.
+The Cooperative Sector is part of the World's Largest Consumer Cooperative.
+The World's Largest Agricultural Cooperative is a part of the Cooperative Sector.
+The World's Largest Consumer Cooperative is contained in 2018.
+The World's Largest Agricultural Cooperative is contained in 2018.
+Japan influenced Competitiveness.
+Economic freedom is related to Japan.
+International Tourism is related to Japan.
+The concept International Tourism is contained in 2024.
+Japan is related to inbound tourism.
+The Inbound Tourism is contained within the year 2019.
+The Japan is related to the Travel and Tourism Competitiveness Report.
+The Travel And Tourism Competitiveness Report is contained within the year 2024.
+Tourists are related to Japan.
+Tourism receipts are related to Japan.
+The 2019 dataset is contained within Tourism Receipts.
+Japan influenced GDP.
+The Japanese Agricultural Sector is related to GDP.
+Japan is related to arable land.
+The terraces are arable land.
+Crop yields in Japan are related to.
+Japan is related to agricultural self-sufficiency.
+Subsidies are related to Japan.
+Protection of agriculture in Japan is being implemented.
+Farmers are related to Japan.
+Aging population is related to farmers.
+Fish Catch is related to Japan.
+Fishing Fleets are related to Japan.
+Fishing Fleets are related to the Global Catch.
+Fish Stock Depletion is related to Japan.
+Tuna is related to fish stock depletion.
+Commercial whaling is related to Japan.
+Industrial Sector is related to Japan.
+Motor Vehicles are related to Japan.
+Machine Tools are related to Japan.
+Steel and Nonferrous Metals are related to Japan.
+Ships are related to Japan.
+Chemical substances are related to Japan.
+Textiles are related to Japan.
+Processed foods are related to Japan.
+Manufacturing output of Japan is related to.
+The manufacturing output is contained in 2023.
+Japan influenced automobile production.
+Automobiles are exported from Japan.
+Toyota was formed in Japan.
+Toyota is related to automobile production.
+The Shipbuilding Industry is related to Japan.
+The Shipbuilding Industry is related to South Korea.
+The Shipbuilding Industry is related to China.
+The Government Initiative of 2020 is related to Japan.
+The Government Initiative of 2020 is related to the Shipbuilding Industry.
+The Shipbuilding Industry is related to Exports.
+The Consumer Electronics Industry is related to Japan.
+The Consumer Electronics Industry is related to South Korea.
+The Consumer Electronics Industry is related to China.
+The video game sector is related to Japan.
+The video game sector is contained in 2014.
+The video game sector is related to mobile gaming.
+Pc Game Market is related to Japan.
+The PC Game Market is contained within the year 2015.
+The PC Game Market is related to China.
+The Pc Game Market is related to the United States.
+Pc Game Market is related to South Korea.
+The service sector is related to Japan.
+Japan influenced banking.
+Retail is related to Japan.
+Transportation is related to Japan.
+Telecommunications is related to Japan.
+Mitsubishi Ufj is related to Japan.
+Japan was influenced by Ntt.
+Aeon was related to Japan.
+Softbank is related to Japan.
+Hitachi was founded in Japan.
+Itochu is related to Japan.
+Research and Development Budget is related to Japan.
+Researchers from Japan are related to each other.
+Science And Technology is related to Japan.
+Nobel laureates from Japan are related to them.
+Fields Medalists are related to Japan.
+Robotics production and use is related to Japan.
+The Japan Aerospace Exploration Agency is related to Japan.
+The Japan Aerospace Exploration Agency is related to the Space Agency.
+The Japan Aerospace Exploration Agency is related to Rockets And Satellites Development.
+The Japan Aerospace Exploration Agency is related to the International Space Station.
+The Japan Aerospace Exploration Agency is related to the Japanese Experiment Module (Kibō).
+The Japanese Experiment Module Kibō is contained within the Space Shuttle Assembly Flights in 2008.
+The Japan Aerospace Exploration Agency is related to the Akatsuki.
+Akatsuki is related to Venus.
+The Japan Aerospace Exploration Agency is related to the Moon Base Plan.
+The Moon Base Plan was contained in 2030.
+The Japan Aerospace Exploration Agency is related to the Lunar Explorer Selene.
+The Lunar Explorer Selene is related to the Tanegashima Space Center.
+The Lunar Explorer Selene is related to the Apollo Program.
+The Lunar Explorer Selene is related to the Moon.
+Japan influenced Transportation Infrastructure.
+There is no direct information about a person or entity related to roads in Japan.
+Railway companies are related to Japan.
+Privatization in 1987 is related to Japan.
+Jr Enterprises is part of Railway Companies.
+Kintetsu is part of Railway Companies.
+Seibu Railway is part of Railway Companies.
+Keio Corporation is part of Railway Companies.
+The Shinkansen is related to Japan.
+The Shinkansen is related to bullet trains.
+There are no additional sentences to create for a triple that doesn't have specific objects or predicates with clear implications on the relationship.
+Haneda Airport is related to Japan.
+Tokyo is contained within Haneda Airport.
+Keihin Superport Hub is related to Japan.
+Hanshin Superport Hub is related to Japan.
+Energy production in Japan is related to energy production.
+Petroleum is related to energy production.
+Coal is related to energy production.
+Natural Gas is related to Energy Production.
+Hydropower is related to energy production.
+Nuclear power is related to energy production.
+Fukushima Daiichi Nuclear Disaster is related to nuclear power.
+The Fukushima Daiichi Nuclear Disaster is contained in March 2011.
+The Sendai Nuclear Power Plant was contained within the year 2015.
+Japan was influenced by energy imports.
+Japan is related to energy efficiency.
+The population of Japan is related to itself.
+The Population is part of the Japanese Nationals.
+Foreign Residents are part of the Population.
+Japan is related to aging population.
+The post–world war ii baby boom is related to the aging population.
+The Aging Population is related to Life Expectancy.
+The Aging Population is related to birth rates.
+Japan's fertility rate is 1.42.
+Median Age is related to Japan.
+Working age population of Japan is related to its population within the working age range.
+Immigration is related to Japan.
+Japan is related to birth incentives.
+The Government of Japan is related to Japan.
+The Government of Japan influenced the Revised Immigration Law (2019).
+City population of Japan is related to.
+Tokyo is contained within Japan.
+The Greater Tokyo Area is part of Tokyo.
+Greater Tokyo Area is related to Japan.
+The Japanese people are related to Japan.
+The Ainu are related to Japanese people.
+The Japanese people are related to the Ryukyuan people.
+The Zainichi Koreans are related to Japan.
+Japanese people are related to ethnic Japanese people of minority background originating in China.
+The Filipinos in Japan are related to the Japanese people.
+Brazilians mostly of Japanese descent are related to Japan.
+Peruvians (Mostly Of Japanese Descent) are related to Japan.
+The Burakumin are related to Japan.
+The Japanese Language is related to Japan.
+The Japanese language is related to the national language.
+The Japanese language is related to Kanji.
+The Japanese language is related to Kana.
+The Japanese Language is related to the Latin Alphabet.
+The Japanese language is related to the Arabic numerals.
+English is related to Japan.
+English is related to Business Link Language.
+English is related to International Link Language.
+English was influenced by Junior High Schools.
+English was influenced by Senior High Schools.
+Japan is related to Japanese Sign Language.
+Japan is related to Japanese.
+The Ryukyuan languages are contained in Japan.
+The Ainu language is contained within Japan.
+Japan is related to Korean.
+China and Japan are related.
+The Portuguese is related to Japan.
+Japan is related to Shinto.
+Buddhism is related to Japan.
+Japan is related to Taoism.
+Japan is related to Confucianism.
+Islam was influenced by Japan.
+Japan is related to Hinduism.
+Japan is related to Judaism.
+The Bahá'í Faith is related to Japan.
+The Ainu have beliefs related to Japan.
+Japan is related to Fundamental Law Of Education.
+Elementary School is part of Japan.
+Junior High School is part of Japan.
+Senior High School is part of Japan.
+The University of Tokyo is part of Japan.
+MEXT is part of Japan.
+The Oecd is related to Japan.
+The OECD is related to South Korea.
+The National Health Insurance Program is part of Japan.
+Japan is related to Health Care in Japan.
+Japan is related to Cancer.
+Cardiovascular diseases are related to Japan.
+Japan is related to suicide.
+Japanese men are related to smoking in Japan.
+Japan is related to heart disease.
+Japan is related to Dementia.
+Japan is related to the Unesco World Heritage List.
+Japan is related to Japonism.
+World War II was related to Japan.
+Kenzō Tange was related to Japan.
+Metabolism of Architecture is related to Japan.
+The Kojiki is related to Japan.
+The Nihon Shoki is related to Japan.
+Man'Yōshū is related to Japan.
+Kana is related to Japan.
+The Tale of the Bamboo Cutter is related to Japan.
+The Pillow Book is related to Japan.
+Sei Shōnagon wrote The Pillow Book.
+The Tale Of Genji is related to Japan.
+Murasaki Shikibu wrote The Tale Of Genji.
+The Edo Period is related to Japan.
+A Chōnin is related to Japan.
+The Samurai Aristocracy is related to Japan.
+Saikaku is related to Japan.
+Bashō is related to Japan.
+Kokinshū is related to Japan.
+Bashō is related to Haikai.
+Bashō is related to Oku No Hosomichi.
+The Meiji Era is related to Japan.
+Natsume Sōseki is related to Japan.
+Mori Ōgai is related to Japan.
+Akutagawa Ryūnosuke was related to Japan.
+Tanizaki is related to Japan.
+Kafū Nagai is related to Japan.
+Haruki Murakami is related to Japan.
+Kenji Nakagami is related to Japan.
+Yasunari Kawabata is related to Japan.
+Kenzaburō Ōe is related to Japan.
+Japan is related to Japanese Philosophy.
+Japanese music is related to Japan.
+Koto is related to Japanese music.
+The shamisen is related to Japanese music.
+Kumi-Daiko is related to Japan.
+J-Pop is related to Japan.
+Karaoke was influenced by Japan.
+Noh is related to Japan.
+Kyōgen is related to Japan.
+Kabuki is related to Japan.
+Bunraku is related to Japan.
+NHK is related to Japan.
+Ishirō Honda is related to Godzilla.
+Godzilla is related to Japan.
+Godzilla is related to Kaiju Films.
+Manga is related to Japan.
+Anime is related to Japan.
+Anime and Manga are related.
+National Holiday is related to Japan.
+The Public Holiday Law is related to National Holiday.
+Japan is part of the Public Holiday Law.
+Happy Monday System is related to National Holiday.
+Japanese cuisine is related to Japan.
+Japanese Cuisine is part of Seafood.
+Japanese Cuisine is part of Japanese Rice.
+Japanese Cuisine is part of Noodles.
+Japanese Cuisine is related to Japanese Curry.
+Japanese Cuisine is related to Ramen.
+Japanese Cuisine is related to sushi.
+Wagashi is related to Japanese Cuisine.
+Wagashi is related to red bean paste.
+Wagashi is related to Mochi.
+Japanese Cuisine is related to Green Tea Ice Cream.
+Sake is related to Japan.
+Beer is related to Japan.
+Green Tea was influenced by Japan.
+Matcha is related to green tea.
+Matcha influenced Japanese Tea Ceremony.
+Sumo is related to Japan.
+Judo was influenced by Japan.
+Kendo is related to Japan.
+Karate is related to Japan.
+Karate is related to Ryukyu Kingdom.
+Karate is related to the Olympic Games.
+Baseball is related to Japan.
+Baseball is related to Nippon Professional Baseball.
+Japan is related to Nippon Professional Baseball.
+The Japan Professional Football League is related to Japan.
+The Japan Professional Football League is related to Association Football.
+Association Football is related to Japan.
+The 2002 FIFA World Cup occurred in Japan.
+The 2002 Fifa World Cup occurred in South Korea.
+The Japan Men's National Football Team is related to Japan.
+The Japan Men's National Football Team is related to the Asian Cup.
+The Japan Men's National Football Team is related to the Fifa Women's World Cup 2011.
+Golf is related to Japan.
+Motorsport is related to Japan.
+The Japanese automotive manufacturers are related to motorsport.
+Japanese Automotive Manufacturers influenced Formula One.
+Japanese Automotive Manufacturers influenced Motogp.
+Several Japanese automotive manufacturers are related to the World Rally Championship.
+Japanese Automotive Manufacturers are related to Indianapolis 500.
+The Japanese automotive manufacturers are related to the 24 Hours of Le Mans.
+Super Gt is related to Japan.
+Super Formula is related to Japan.
+The Japanese Grand Prix is related to Japan.
+The Summer Olympics in 1964 occurred in Tokyo.
+The Summer Olympics in 1964 are related to Japan.
+The Winter Olympics in 1972 occurred in Sapporo.
+The Winter Olympics in 1972 are related to Japan.
+The Winter Olympics in 1998 occurred in Nagano.
+The Winter Olympics took place in Japan.
+The 2006 Basketball World Championship occurred in Japan.
+The 2023 Basketball World Championship occurred in Japan.
+The 2020 Summer Olympics occurred in Tokyo in 2021.
+The 2020 Summer Olympics are related to Japan.
+The Women's Volleyball World Championship occurred in Japan.
+The Asian Rugby Union is related to Japan.
+The 2019 Irb Rugby World Cup occurred in Japan.
+The Prime Minister of Japan is related to Japan.
+The Imperial Household Agency is related to Japan.
+The National Diet Library is related to Japan.
+Japan is contained within 36°N 138°E.

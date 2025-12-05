@@ -1,0 +1,202 @@
+S:Croatia | P:is part of | O:Zagreb
+S:Croatia | P:is part of | O:Split
+S:Croatia | P:is part of | O:Rijeka
+S:Croatia | P:is part of | O:Osijek
+S:Duke Branimir | P:was present at | O:Croatia
+S:Tomislav | P:was present at | O:Croatia
+S:Ferdinand I Of Austria | P:was present at | O:Croatia
+S:Kingdom Of Yugoslavia | P:is related to | O:Croatia
+S:Socialist Federal Republic Of Yugoslavia | P:is related to | O:Croatia
+S:Croatia | P:is part of | O:European Union
+S:Croatia | P:is part of | O:Nato
+S:Croatia | P:is part of | O:United Nations
+S:Croatia | P:is part of | O:Council Of Europe
+S:Croatia | P:is part of | O:World Trade Organization
+S:Croatia | P:is part of | O:Union For The Mediterranean
+S:Croatia | P:is part of | O:Oecd
+S:Croatia | P:is part of | O:Ottoman Empire
+S:Croatia | P:is part of | O:Habsburgs
+S:Croatia | P:was present at | O:Battle Of Sisak
+S:Croatia | P:was present at | O:Great Turkish War
+S:Burgenland Croats | P:is related to | O:Croatia
+S:King Charles Iii | P:is part of | O:Croatia
+S:Queen Maria Theresa | P:is part of | O:Croatia
+S:First French Empire | P:is related to | O:Croatia
+S:Battle Of Vis | P:was present at | O:Croatia
+S:Austrian Empire | P:is related to | O:Croatia
+S:Congress Of Vienna | P:was present at | O:Croatia
+S:Kingdom Of Dalmatia | P:is part of | O:Croatia
+S:Croatian National Revival | P:is related to | O:Croatia
+S:Hungarian Revolution Of 1848 | P:was present at | O:Croatia
+S:Ban Josip Jelačić | P:is part of | O:Croatia
+S:Nikola Tesla | P:is part of | O:Smiljin
+S:Austro-Hungarian Compromise Of 1867 | P:was present at | O:Croatia
+S:Croatian–Hungarian Settlement Of 1868 | P:was present at | O:Croatia
+S:World War I | P:was present at | O:Croatia
+S:Croatian Parliament (Sabor) | P:is related to | O:Croatia
+S:State Of Slovenes, Croats, And Serbs | P:is related to | O:Croatia
+S:Kingdom Of Serbia | P:is related to | O:Croatia
+S:Croatian Peasant Party (Hss) | P:is part of | O:Croatia
+S:Stjepan Radić | P:is part of | O:Croatia
+S:Puniša Račić | P:is part of | O:Croatia
+S:King Alexander I | P:is part of | O:Croatia
+S:Cvetković–Maček Agreement | P:was present at | O:Croatia
+S:Banovina Of Croatia | P:was present at | O:Croatia
+S:Nazi Germany | P:is related to | O:Croatia
+S:Fascist Italy | P:is related to | O:Croatia
+S:Independent State Of Croatia (Ndh) | P:is related to | O:Croatia
+S:Ante Pavelić | P:is related to | O:Independent State Of Croatia (Ndh)
+S:Ustaše | P:is related to | O:Independent State Of Croatia (Ndh)
+S:Jasenovac Complex | P:was present at | O:Independent State Of Croatia (Ndh)
+S:Yugoslav Royalist And Serbian Nationalists | P:is related to | O:Croatia
+S:Chetniks | P:is related to | O:Croatia
+S:1St Sisak Partisan Detachment | P:was present at | O:Croatia
+S:Josip Broz Tito | P:is part of | O:Croatia
+S:Tehran Conference | P:was present at | O:Croatia
+S:Belgrade Offensive | P:was present at | O:Croatia
+S:State Anti-Fascist Council For The National Liberation Of Croatia | P:is related to | O:Croatia
+S:Avnoj | P:is related to | O:Croatia
+S:Vladimir Žerjavić | P:is related to | O:Croatia
+S:Bogoljub Kočović | P:is related to | O:Croatia
+S:Sfr Yugoslavia | P:is part of | O:Croatia
+S:Declaration On The Status And Name Of The Croatian Standard Language | P:was present at | O:Croatia
+S:Croatian Spring Of 1971 | P:was present at | O:Croatia
+S:Tito | P:is related to | O:Yugoslavia
+S:1986 Sanu Memorandum | P:is related to | O:Yugoslavia
+S:1989 Coups In Vojvodina | P:is related to | O:Yugoslavia
+S:January 1990 Communist Party Fragmentation | P:is related to | O:Yugoslavia
+S:Croatia | P:is related to | O:Franjo Tuđman
+S:Republic Of Serbian Krajina | P:is related to | O:Croatia
+S:25 June 1991 Independence Declaration | P:is related to | O:Croatia
+S:8 October 1991 Implementation Of Declaration | P:is related to | O:Croatia
+S:Yugoslav People'S Army | P:is related to | O:Croatia
+S:1991 High-Intensity Conflict | P:is related to | O:Croatia
+S:15 January 1992 Recognition By Eec | P:is related to | O:Croatia
+S:August 1995 War End | P:is related to | O:Croatia
+S:5 August Victory And Homeland Thanksgiving | P:is related to | O:Croatia
+S:Erdut Agreement November 1995 | P:is related to | O:Croatia
+S:2000S | P:is related to | O:Croatia
+S:November 2000 Constitution Amendment | P:is related to | O:Croatia
+S:Partnership For Peace | P:is related to | O:Croatia
+S:30 November 2000 Wto Membership | P:is related to | O:Croatia
+S:29 October 2001 Stabilisation And Association Agreement | P:is related to | O:Croatia
+S:2011 Anti-Government Protests | P:is related to | O:Croatia
+S:30 June 2011 Eu Accession Negotiations Completion | P:is related to | O:Croatia
+S:9 December 2011 Accession Treaty | P:is related to | O:Croatia
+S:22 January 2012 Eu Membership Referendum | P:is related to | O:Croatia
+S:1 July 2013 Eu Membership | P:is related to | O:Croatia
+S:2015 European Migrant Crisis | P:is related to | O:Croatia
+S:Andrej Plenković | P:is related to | O:Croatia
+S:5 January 2020 Presidential Elections | P:is related to | O:Zoran Milanović
+S:25 January 2022 Oecd Negotiations | P:is related to | O:Croatia
+S:1 January 2023 Euro Adoption | P:is related to | O:Croatia
+S:Schengen Area | P:is related to | O:Croatia
+S:Adriatic Sea | P:is part of | O:Croatia
+S:Hungary | P:is part of | O:Croatia
+S:Serbia | P:is part of | O:Croatia
+S:Bosnia And Herzegovina | P:is part of | O:Croatia
+S:Montenegro | P:is part of | O:Croatia
+S:Slovenia | P:is part of | O:Croatia
+S:Dinaric Alps | P:is part of | O:Croatia
+S:Dinara Peak | P:is part of | O:Croatia
+S:Vukovar | P:is part of | O:Danube
+S:Plitvice Lakes | P:is part of | O:Croatia
+S:Čakovec | P:is part of | O:Croatia
+S:Ploče | P:is part of | O:Croatia
+S:Hvar | P:is part of | O:Croatia
+S:Korčula | P:is part of | O:Croatia
+S:Zrmanja | P:is part of | O:Croatia
+S:Krka | P:is part of | O:Croatia
+S:Velebit | P:is part of | O:Croatia
+S:Biokovo | P:is part of | O:Croatia
+S:Dinaric Mountains Mixed Forests | P:is part of | O:Croatia
+S:Pannonian Mixed Forests | P:is part of | O:Croatia
+S:Illyrian Deciduous Forests | P:is part of | O:Croatia
+S:Plitvice Lakes National Park | P:is part of | O:Croatia
+S:Banski Dvori | P:is part of | O:Croatia
+S:Zagreb | P:is part of | O:Banski Dvori
+S:Croatian Democratic Union | P:is related to | O:Croatia
+S:Social Democratic Party Of Croatia | P:is related to | O:Croatia
+S:European Union | P:is related to | O:Croatia
+S:Nato | P:is related to | O:Croatia
+S:Security And Intelligence Agency | P:is related to | O:Croatia
+S:Croatia | P:is related to | O:Caf
+S:Croatia | P:is related to | O:Hs2000
+S:Croatia | P:is related to | O:Đuro Đaković
+S:Croatia | P:is part of | O:Zagreb
+S:Croatia | P:is related to | O:European Union
+S:Pelješac Bridge | P:occurs at | O:Croatia
+S:Global Peace Index | P:is related to | O:Croatia
+S:Corruption Perceptions Index | P:is related to | O:Croatia
+S:International Monetary Fund | P:is related to | O:Croatia
+S:Eurostat | P:is related to | O:Croatia
+S:Croatian Railways | P:is related to | O:Croatia
+S:Pelješac Bridge | P:was present at | O:China Road And Bridge Corporation
+S:Franjo Tuđman Airport | P:is part of | O:Zagreb
+S:Croatia Airlines | P:is part of | O:Zagreb
+S:Croatia Airlines | P:is related to | O:Tirana
+S:Croatia Airlines | P:is related to | O:Berlin
+S:Croatia Airlines | P:is related to | O:Stockholm
+S:Croatia Airlines | P:is related to | O:Hamburg
+S:Port Of Rijeka | P:is part of | O:Rijeka
+S:Vukovar | P:is contained in | O:Danube
+S:Vukovar | P:is part of | O:Croatia
+S:Croatia | P:is part of | O:European Union
+S:Krško Nuclear Power Plant | P:is related to | O:Croatia
+S:Hrvatska Elektroprivreda | P:is related to | O:Croatia
+S:Music_And_Art_Schools | P:is related to | O:Elementary_Schools_For_Disabled_Children
+S:Elementary_Schools_For_Disabled_Children | P:is related to | O:Secondary_Schools_For_Disabled_Children
+S:Elementary_Schools_For_Adults | P:is related to | O:Secondary_Schools_For_Adults
+S:Leaving_Exams | P:is part of | O:University_Of_Zadar
+S:Leaving_Exams | P:is part of | O:University_Of_Zagreb
+S:University_Of_Zadar | P:is related to | O:University_Of_Zagreb
+S:Polytechnics | P:is part of | O:Higher_Education_Institutions
+S:Research_And_Development_Expenditure | P:is related to | O:Ruđer_Bošković_Institute
+S:Research_And_Development_Expenditure | P:is related to | O:Croatian_Academy_Of_Sciences_And_Arts
+S:Global_Innovation_Index_2024 | P:is related to | O:Croatian_Academy_Of_Sciences_And_Arts
+S:European_Investment_Bank | P:is part of | O:City_Of_Zagreb
+S:European_Investment_Bank | P:is part of | O:City_Of_Split
+S:Health_Care_System | P:is related to | O:Healthcare_Expenditures
+S:Healthcare_Expenditures | P:is related to | O:Life_Expectancy_2025
+S:Healthcare_Institutions | P:is part of | O:Health_Care_System
+S:Healthcare_Institutions | P:is related to | O:Cardiovascular_Disease
+S:Healthcare_Institutions | P:is related to | O:Smoking_Statistics_2022
+S:Healthcare_Institutions | P:is related to | O:Obesity_Statistics_2022
+S:Cultural_Influences_In_Croatia | P:is part of | O:Ministry_Of_Culture
+S:Unesco_World_Heritage_List | P:is part of | O:Ministry_Of_Culture
+S:Professional_Theatres | P:is part of | O:Professional_Artists
+S:Professional_Theatres | P:is related to | O:Orchestras_And_Ensembles
+S:Cinemas | P:is related to | O:Professional_Theatres
+S:Museums | P:is part of | O:Libraries
+S:Publishing_Market | P:is related to | O:Museums
+S:Croatian_Architecture | P:is related to | O:Cultural_Influences_In_Croatia
+S:Middle_Ages_Artists | P:is related to | O:Croatian_Architecture
+S:Croatian_Literature | P:is related to | O:Croatian_Music
+S:Press_Freedom | P:is related to | O:European_Investment_Bank
+S:Hrt | P:is part of | O:Croatia
+S:Rtl Televizija | P:is part of | O:Croatia
+S:Nova Tv | P:is part of | O:Croatia
+S:Croatian Olympic Committee | P:is part of | O:Croatia
+S:Kapital Net D.O.O. | P:is part of | O:Croatia
+S:Author D.O.O. | P:is part of | O:Croatia
+S:Hanza Media | P:is part of | O:Croatia
+S:Styria Media Group | P:is part of | O:Croatia
+S:Riva | P:is part of | O:Croatia
+S:Dušan Vukotić | P:is part of | O:Croatia
+S:Branko Lustig | P:is part of | O:Croatia
+S:Nebojša Slijepčević | P:is part of | O:Croatia
+S:Pula Film Festival | P:is part of | O:Croatia
+S:Animafest Zagreb | P:is part of | O:Croatia
+S:Game Of Thrones | P:is part of | O:Croatia
+S:Star Wars: The Last Jedi | P:is part of | O:Croatia
+S:Robin Hood | P:is part of | O:Croatia
+S:Mamma Mia! Here We Go Again | P:is part of | O:Croatia
+S:Croatian Cuisine | P:is part of | O:Croatia
+S:Croatian Wine Regions | P:is part of | O:Croatia
+S:Franjo Bučar | P:is part of | O:Croatia
+S:Football | P:is part of | O:Croatia
+S:Basketball | P:is part of | O:Croatia
+S:Handball | P:is part of | O:Croatia
+S:Water Polo | P:is part of | O:Croatia
+S:Rowing | P:is part of | O:Croatia
+S:Tennis | P:is part of | O:Croatia

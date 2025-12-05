@@ -1,0 +1,435 @@
+naruhito ascends throne japan is related to
+abdication of emperor akihito japan is related to
+tokyo earthquake japan is related to
+great hanshin earthquake japan occurs at
+fukushima nuclear disaster japan is related to
+tohoku earthquake japan is related to
+japan joins un japan occurs at
+allied occupation ends japan occurs at
+new constitution adoption japan occurs at
+japan unconditional surrender japan occurs at
+nagasaki atomic bombing japan is related to
+hiroshima atomic bombing japan is related to
+41.8c temperature record japan occurs at
+japan inbound tourism record japan occurs at
+abe's security policy statement japan occurs at
+quad is reformed japan occurs at
+free and open indo-pacific announced japan occurs at
+cancer accounts 2018 deaths japan occurs at
+cancer as top cause japan occurs at
+japan surrenders wwii japan occurs at
+attack on pearl harbor japan is related to
+['second sino-japanese war begins', 'invasion of china'] japan is related to
+annexation of korea japan is related to
+fifa women's world cup win japan is related to
+['2002 fifa world cup japan', '2002 fifa world cup'] japan occurs at
+sendai plant restarted japan is related to
+all nuclear plants offline japan occurs at
+fukushima daiichi nuclear disaster japan is related to
+unesco world heritage list japan is contained in
+global peace index japan is part of
+quadrilateral security dialogue japan is part of
+east asia summit japan is part of
+asean plus three japan is part of
+apec japan is part of
+g7 japan is part of
+g4 countries japan is part of
+government of japan japan is part of
+jr enterprises japan is part of
+kintetsu japan is part of
+seibu railway japan is part of
+keio corporation japan is part of
+toyota japan is part of
+japan aerospace exploration agency japan is part of
+international space station japan is contained in
+mitsubishi ufj japan is part of
+ntt japan is part of
+aeon japan is part of
+softbank japan is part of
+hitachi japan is part of
+itochu japan is part of
+nhk japan is part of
+nippon professional baseball japan is part of
+japan professional football league japan is part of
+kamakura shogunate japan is part of
+ashikaga shogunate japan is part of
+national and local governments japan is part of
+imperial court japan is part of
+mext japan is part of
+university of tokyo japan is part of
+sendai nuclear power plant japan is contained in
+fukushima daiichi nuclear power plant japan is contained in
+greater tokyo area japan is contained in
+tanegashima space center japan is contained in
+ryukyu kingdom japan is contained in
+nara japan is contained in
+heian-kyo japan is contained in
+kamakura japan is contained in
+ashikaga japan is contained in
+hiroshima japan is contained in
+nagasaki japan is contained in
+sapporo japan is contained in
+nagano japan is contained in
+edo japan is contained in
+osaka japan is contained in
+uraga japan is contained in
+kanagawa japan is contained in
+heijo-kyo japan is contained in
+ryukyu islands japan is contained in
+senkaku islands japan is contained in
+okinotorishima japan is contained in
+honshu japan is contained in
+shikoku japan is contained in
+pacific coast japan is contained in
+nanpo islands japan is contained in
+ryukyu japan is contained in
+hokkaido japan is contained in
+kyushu japan is contained in
+lake biwa japan is contained in
+yasunari kawabata japan is related to
+kenzaburo oe japan is related to
+ishiro honda japan is related to
+marco polo japan is related to
+sei shonagon japan is related to
+murasaki shikibu japan is related to
+natsume soseki japan is related to
+mori ogai japan is related to
+ryunosuke akutagawa japan is related to
+junichiro tanizaki japan is related to
+kafu nagai japan is related to
+haruki murakami japan is related to
+kenji nakagami japan is related to
+kenzo tange japan is related to
+go daigo japan was present at
+ashikaga takauji japan was present at
+oda nobunaga japan was present at
+toyotomi hideyoshi japan was present at
+toyotomi hideyori japan was present at
+tokugawa ieyasu japan was present at
+go yozei japan was present at
+jimmu emperor japan is related to
+shotoku prince japan was present at
+naka no ooe japan was present at
+fujiwara no kamatari japan was present at
+oama prince japan was present at
+ootomo prince japan was present at
+go-daigo emperor japan was present at
+sanae takaichi japan is related to
+shinzo abe japan is related to
+fumio kishida japan is related to
+naruhito unspecified japan is related to
+akihito unspecified japan is related to
+revised immigration law enacted japan occurs at
+american fleet opens japan japan occurs at
+imperial restoration japan occurs at
+jleague established japan occurs at
+2011 women's world cup win japan occurs at
+basketball world championship 2006 japan occurs at
+basketball world championship 2023 japan occurs at
+2019 rugby world cup japan occurs at
+mongol invasion repelled japan occurs at
+['ashikaga defeats go-daigo', 'go-daigo defeated'] japan occurs at
+onset of sengoku period japan occurs at
+death of oda nobunaga japan occurs at
+['battle of sekigahara', 'tokugawa unification'] japan occurs at
+sakoku policy enacted japan occurs at
+convention of kanagawa japan occurs at
+meiji constitution introduced japan occurs at
+japan resigns from league japan occurs at
+['anti-comintern pact signed', 'npb established'] japan occurs at
+tripartite pact signed japan occurs at
+introduction of buddhism japan occurs at
+taika reforms japan occurs at
+jinshin war japan occurs at
+genpei war ends japan occurs at
+['second mongol invasion repelled', 'mongol invasion repelled'] japan occurs at
+2014 ainu language report japan occurs at
+2016 muslim population report japan occurs at
+['2018 mosques and muslims report', '2018 christian population report'] japan occurs at
+2016 integrated schooling start japan occurs at
+2021 education gdp report japan occurs at
+2023 tertiary education ranking japan occurs at
+takaichi becomes prime minister japan occurs at
+kishida orders budget increase japan occurs at
+abe responsibilities speech japan occurs at
+kishida defense spending instruction japan occurs at
+un violent crime statistics report japan occurs at
+takaichi becomes prime minister japan occurs at
+tokyo naruhito ascends throne occurs at
+tokyo abdication of emperor akihito occurs at
+tokyo tokyo earthquake occurs at
+fukushima daiichi nuclear disaster fukushima nuclear disaster occurs at
+tohoku tohoku earthquake occurs at
+korea japan unconditional surrender is related to
+taiwan japan unconditional surrender is related to
+united states nagasaki atomic bombing is related to
+nagasaki nagasaki atomic bombing occurs at
+united states hiroshima atomic bombing is related to
+hiroshima hiroshima atomic bombing occurs at
+unesco 41.8c temperature record is related to
+environment ministry 41.8c temperature record is related to
+ramsar 41.8c temperature record is related to
+naruhito unspecified 41.8c temperature record is related to
+g7 japan inbound tourism record is related to
+china japan inbound tourism record is related to
+united states japan inbound tourism record is related to
+australia japan inbound tourism record is related to
+shinzo abe abe's security policy statement is related to
+quadrilateral security dialogue quad is reformed is related to
+axis power attack on pearl harbor is related to
+united states attack on pearl harbor occurs at
+empire of japan ['second sino-japanese war begins', 'invasion of china'] is related to
+china ['second sino-japanese war begins', 'invasion of china'] occurs at
+empire of japan annexation of korea is related to
+korea annexation of korea occurs at
+asia fifa women's world cup win occurs at
+japan professional football league ['2002 fifa world cup japan', '2002 fifa world cup'] is related to
+fifa ['2002 fifa world cup japan', '2002 fifa world cup'] is related to
+asian cup ['2002 fifa world cup japan', '2002 fifa world cup'] is related to
+ishiro honda ['2002 fifa world cup japan', '2002 fifa world cup'] is related to
+south korea ['2002 fifa world cup japan', '2002 fifa world cup'] occurs at
+government of japan sendai plant restarted is related to
+sendai nuclear power plant sendai plant restarted occurs at
+fukushima daiichi nuclear power plant fukushima daiichi nuclear disaster occurs at
+takaichi becomes prime minister government of japan is related to
+kishida orders budget increase government of japan is related to
+revised immigration law enacted government of japan is related to
+prime minister of japan and his cabinet government of japan is part of
+imperial household agency government of japan is part of
+national diet library government of japan is part of
+national security council government of japan is part of
+environment ministry government of japan is part of
+sanae takaichi government of japan is related to
+shinzo abe government of japan is related to
+fumio kishida government of japan is related to
+national diet takaichi becomes prime minister is related to
+liberal democratic party takaichi becomes prime minister is related to
+ishin takaichi becomes prime minister is related to
+house of representatives takaichi becomes prime minister is related to
+house of councillors takaichi becomes prime minister is related to
+sanae takaichi takaichi becomes prime minister is related to
+fumio kishida kishida orders budget increase is related to
+jr enterprises japanese railway companies is part of
+kintetsu japanese railway companies is part of
+seibu railway japanese railway companies is part of
+keio corporation japanese railway companies is part of
+selene crashed on moon japan aerospace exploration agency is related to
+selene enters lunar orbit japan aerospace exploration agency is related to
+selene lunar launch japan aerospace exploration agency is related to
+international space station japan aerospace exploration agency is part of
+moon selene crashed on moon occurs at
+moon selene enters lunar orbit occurs at
+tanegashima space center selene lunar launch occurs at
+['anti-comintern pact signed', 'npb established'] nippon professional baseball is related to
+empire of japan ['anti-comintern pact signed', 'npb established'] is related to
+nazi germany ['anti-comintern pact signed', 'npb established'] is related to
+anti-comintern pact ['anti-comintern pact signed', 'npb established'] is related to
+jleague established japan professional football league is related to
+house of representatives national diet is part of
+house of councillors national diet is part of
+american fleet opens japan shogunate is related to
+tokugawa shogunate shogunate is part of
+kamakura shogunate shogunate is part of
+ashikaga shogunate shogunate is part of
+tokugawa shogunate american fleet opens japan is related to
+['battle of sekigahara', 'tokugawa unification'] tokugawa shogunate is related to
+sakoku policy enacted tokugawa shogunate is related to
+tokugawa made shogun tokugawa shogunate is related to
+imperial restoration tokugawa shogunate is related to
+tokugawa ieyasu tokugawa shogunate is related to
+kamakura shogunate ['battle of sekigahara', 'tokugawa unification'] is related to
+ashikaga shogunate ['battle of sekigahara', 'tokugawa unification'] is related to
+daimyo ['battle of sekigahara', 'tokugawa unification'] is related to
+samurai ['battle of sekigahara', 'tokugawa unification'] is related to
+council of five elders ['battle of sekigahara', 'tokugawa unification'] is related to
+toyotomi hideyori ['battle of sekigahara', 'tokugawa unification'] is related to
+tokugawa ieyasu ['battle of sekigahara', 'tokugawa unification'] is related to
+tokugawa ieyasu sakoku policy enacted is related to
+tokugawa ieyasu tokugawa made shogun is related to
+go yozei tokugawa made shogun is related to
+edo tokugawa made shogun occurs at
+['second mongol invasion repelled', 'mongol invasion repelled'] kamakura shogunate is related to
+genpei war ends kamakura shogunate is related to
+mongol invasion repelled kamakura shogunate is related to
+go daigo kamakura shogunate is related to
+yoritomo minamoto kamakura shogunate is related to
+go-daigo emperor kamakura shogunate is related to
+yoritomo minamoto genpei war ends is related to
+['ashikaga defeats go-daigo', 'go-daigo defeated'] ashikaga shogunate is related to
+onset of sengoku period ashikaga shogunate is related to
+go daigo ashikaga shogunate is related to
+ashikaga takauji ashikaga shogunate is related to
+takauji ashikaga ashikaga shogunate is related to
+go daigo ['ashikaga defeats go-daigo', 'go-daigo defeated'] is related to
+ashikaga takauji ['ashikaga defeats go-daigo', 'go-daigo defeated'] is related to
+go-daigo emperor ['ashikaga defeats go-daigo', 'go-daigo defeated'] is related to
+takauji ashikaga ['ashikaga defeats go-daigo', 'go-daigo defeated'] is related to
+2011 women's world cup win fifa women's world cup is related to
+tokyo summer olympics 2020 olympics is related to
+nagano winter olympics olympics is related to
+sapporo winter olympics olympics is related to
+tokyo summer olympics 1964 olympics is related to
+tokyo tokyo summer olympics 2020 occurs at
+nagano nagano winter olympics occurs at
+sapporo sapporo winter olympics occurs at
+women's volleyball world championship tokyo summer olympics 1964 is related to
+tokyo tokyo summer olympics 1964 occurs at
+2019 rugby world cup irb rugby world cup is related to
+basketball world championship 2023 basketball world championship is related to
+basketball world championship 2006 basketball world championship is related to
+government committee national and local governments is part of
+local governments national and local governments is part of
+government-sponsored insurance national and local governments is part of
+2014 ainu language report local governments is related to
+yasunari kawabata unesco is related to
+kenzaburo oe unesco is related to
+kenzo tange unesco is related to
+['attack on british malaya', 'malaya singapore hong kong attack'] empire of japan is related to
+['attack on pearl harbor', 'pearl harbor attack'] empire of japan is related to
+soviet invasion of manchuria empire of japan is related to
+attack on hong kong empire of japan is related to
+attack on singapore empire of japan is related to
+japan invades french indochina empire of japan is related to
+tripartite pact signed empire of japan is related to
+japan resigns from league empire of japan is related to
+manchukuo established empire of japan is related to
+japan invades manchuria empire of japan is related to
+great tokyo earthquake empire of japan is related to
+russo-japanese war ends empire of japan is related to
+russo-japanese war begins empire of japan is related to
+end of first sino-japanese war empire of japan is related to
+first sino-japanese war empire of japan is related to
+cabinet empire of japan is part of
+privy council empire of japan is part of
+imperial diet empire of japan is part of
+allies empire of japan is part of
+axis powers empire of japan is part of
+korea empire of japan is part of
+taiwan empire of japan is part of
+britain ['attack on british malaya', 'malaya singapore hong kong attack'] is related to
+hong kong ['attack on british malaya', 'malaya singapore hong kong attack'] occurs at
+malaya ['attack on british malaya', 'malaya singapore hong kong attack'] occurs at
+singapore ['attack on british malaya', 'malaya singapore hong kong attack'] occurs at
+pearl harbor ['attack on pearl harbor', 'pearl harbor attack'] occurs at
+soviet union soviet invasion of manchuria is related to
+manchuria soviet invasion of manchuria occurs at
+hong kong attack on hong kong occurs at
+singapore attack on singapore occurs at
+french indochina japan invades french indochina occurs at
+axis powers tripartite pact signed is related to
+league of nations japan resigns from league is related to
+manchukuo manchukuo established occurs at
+manchuria japan invades manchuria occurs at
+edo great tokyo earthquake occurs at
+china russo-japanese war ends occurs at
+china russo-japanese war begins occurs at
+china end of first sino-japanese war occurs at
+allies first sino-japanese war is related to
+china first sino-japanese war occurs at
+toyotomi hideyori council of five elders is related to
+tokugawa ieyasu council of five elders is related to
+meiji constitution introduced cabinet is related to
+privy council meiji constitution introduced is related to
+imperial diet meiji constitution introduced is related to
+international military tribunal far east allies is related to
+international military tribunal for the far east international military tribunal far east is related to
+tokyo international military tribunal far east occurs at
+nazi germany axis powers is part of
+anti-comintern pact axis powers is part of
+taika reforms china is related to
+introduction of buddhism china is related to
+manchuria china is contained in
+hong kong china is contained in
+marco polo china is related to
+imperial court taika reforms is related to
+naka no ooe taika reforms is related to
+fujiwara no kamatari taika reforms is related to
+baekje introduction of buddhism is related to
+korea introduction of buddhism is related to
+shotoku prince introduction of buddhism is related to
+shotoku prince baekje was present at
+toyotomi hideyoshi korea was present at
+toyotomi hideyoshi korean invasion korea occurs at
+toyotomi hideyoshi second korean invasion korea occurs at
+move to heian kyo imperial court is related to
+murasaki shikibu imperial court is related to
+shotoku prince imperial court is related to
+naka no ooe imperial court is related to
+fujiwara no kamatari imperial court is related to
+oama prince imperial court is related to
+ootomo prince imperial court is related to
+kanmu emperor imperial court is related to
+murasaki shikibu move to heian kyo is related to
+kanmu emperor move to heian kyo is related to
+heian-kyo move to heian kyo occurs at
+2016 integrated schooling start mext is related to
+2023 tertiary education ranking programme for international student assessment is related to
+2021 education gdp report programme for international student assessment is related to
+university of tokyo 2023 tertiary education ranking is related to
+takaichi becomes prime minister liberal democratic party is related to
+sanae takaichi liberal democratic party is related to
+ishin takaichi becomes prime minister is related to
+sanae takaichi takaichi becomes prime minister is related to
+sanae takaichi ishin is related to
+pearl harbor united states is contained in
+kuril islands russia is contained in
+liancourt rocks south korea is contained in
+ministry of defense japan self-defense forces is part of
+japan ground self-defense force japan self-defense forces is part of
+japan maritime self-defense force japan self-defense forces is part of
+japan air self-defense force japan self-defense forces is part of
+kishida defense spending instruction jsdf is related to
+fumio kishida kishida defense spending instruction is related to
+un violent crime statistics report prefectural police departments is related to
+national police agency prefectural police departments is part of
+anti-firearms squads prefectural police departments is part of
+counter-nbc terrorism squads prefectural police departments is part of
+national police agency un violent crime statistics report is related to
+national public safety commission un violent crime statistics report is related to
+special assault team un violent crime statistics report is related to
+anti-firearms squads un violent crime statistics report is related to
+counter-nbc terrorism squads un violent crime statistics report is related to
+japan coast guard un violent crime statistics report is related to
+united nations office on drugs and crime un violent crime statistics report is related to
+un un violent crime statistics report is related to
+national public safety commission national police agency is part of
+special assault team national police agency is part of
+un united nations office on drugs and crime is part of
+tokyo haneda airport is contained in
+honshu tokyo is contained in
+greater tokyo area tokyo is contained in
+sea of japan honshu is contained in
+kyoto honshu is contained in
+chugoku honshu is contained in
+seto inland sea honshu is contained in
+tohoku honshu is contained in
+central highland honshu is contained in
+murasaki shikibu heian-kyo was present at
+kanmu emperor heian-kyo was present at
+go daigo kamakura was present at
+yoritomo minamoto kamakura was present at
+go-daigo emperor kamakura was present at
+jimmu emperor yamato was present at
+tokugawa ieyasu edo was present at
+matthew c perry uraga was present at
+perry expedition arrives uraga occurs at
+matthew c perry kanagawa was present at
+manchukuo manchuria is contained in
+san francisco pearl harbor is contained in
+marco polo cipangu was present at
+takauji ashikaga muromachi was present at
+okinawa ryukyu islands is contained in
+shinzo abe afghanistan was present at
+shinzo abe iraq was present at
+seto inland sea shikoku is contained in
+kyushu seto inland sea is contained in
+bonin islands nanpo islands is contained in
+fukushima daiichi nuclear disaster tohoku is contained in
+death of oda nobunaga oda nobunaga is related to
+toyotomi hideyoshi second korean invasion toyotomi hideyoshi is related to
+toyotomi hideyoshi korean invasion toyotomi hideyoshi is related to
+convention of kanagawa matthew c perry is related to
+perry expedition arrives matthew c perry is related to
+jinshin war oama prince is related to
+ootomo prince jinshin war is related to
+abe responsibilities speech shinzo abe is related to

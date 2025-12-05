@@ -1,0 +1,198 @@
+S:Japan | P:is part of | O:Tokyo
+S:Japan | P:was present at | O:Upper Paleolithic
+S:Japan | P:was present at | O:Japanese Paleolithic
+S:Japan | P:is part of | O:Nara
+S:Japan | P:is part of | O:Heian-Kyō
+S:Shōgun | P:is related to | O:Japan
+S:Daimyō | P:is related to | O:Japan
+S:Samurai | P:is related to | O:Japan
+S:Tokugawa Shogunate | P:is related to | O:Japan
+S:1853 Opening Trade | P:was present at | O:Japan
+S:Meiji Period | P:was present at | O:Japan
+S:Korea | P:is related to | O:Japan
+S:China | P:is related to | O:Japan
+S:World War Ii | P:was present at | O:Japan
+S:Hiroshima | P:is related to | O:Japan
+S:Nagasaki | P:is related to | O:Japan
+S:Allied Occupation | P:was present at | O:Japan
+S:Lost Decades | P:was present at | O:Japan
+S:National Diet | P:is part of | O:Japan
+S:G7 | P:is part of | O:Japan
+S:Automotive Industry | P:is part of | O:Japan
+S:Electronics Industry | P:is part of | O:Japan
+S:Robotics Industry | P:is part of | O:Japan
+S:Japanese Culture | P:is related to | O:Japan
+S:日本 | P:is related to | O:Japan
+S:Wa | P:is related to | O:Japan
+S:Yamato | P:is related to | O:Japan
+S:Nippon | P:is related to | O:Japan
+S:Cipangu | P:is related to | O:Japan
+S:Jōmon Period | P:was present at | O:Japan
+S:Yayoi Period | P:was present at | O:Japan
+S:Emperor Jimmu | P:is related to | O:Japan
+S:Chinese Book Of Han | P:was present at | O:Japan
+S:Book Of Wei | P:was present at | O:Japan
+S:Buddhism Introduction | P:was present at | O:Japan
+S:Prince Shōtoku | P:is related to | O:Japan
+S:Taika Reforms | P:was present at | O:Japan
+S:Taihō Code | P:was present at | O:Japan
+S:Nara Period | P:was present at | O:Japan
+S:Heijō-Kyō | P:is part of | O:Japan
+S:Heian Period | P:was present at | O:Japan
+S:Murasaki Shikibu | P:is related to | O:Japan
+S:Kimigayo | P:is related to | O:Japan
+S:Minamoto No Yoritomo | P:is related to | O:Japan
+S:Kamakura Shogunate | P:is related to | O:Japan
+S:Oda Nobunaga | P:is related to | O:Japan
+S:Toyotomi Hideyoshi | P:is related to | O:Japan
+S:Tokugawa Ieyasu | P:is part of | O:Toyotomi Hideyori
+S:Tokugawa Ieyasu | P:is related to | O:Council Of Five Elders
+S:Tokugawa Ieyasu | P:was present at | O:Battle Of Sekigahara
+S:Tokugawa Ieyasu | P:was present at | O:Emperor Go-Yōzei
+S:Tokugawa Ieyasu | P:is related to | O:Tokugawa Shogunate
+S:Tokugawa Shogunate | P:is part of | O:Edo (Tokyo)
+S:Tokugawa Shogunate | P:is related to | O:Edo Period
+S:Matthew C. Perry | P:is related to | O:Perry Expedition
+S:Perry Expedition | P:was present at | O:Convention Of Kanagawa
+S:Boshin War | P:is related to | O:Meiji Restoration
+S:Boshin War | P:is related to | O:Japan
+S:Meiji Restoration | P:was present at | O:Privy Council
+S:Meiji Restoration | P:is related to | O:Meiji Constitution
+S:Meiji Restoration | P:was present at | O:Imperial Diet
+S:First Sino-Japanese War | P:is related to | O:Japan
+S:Russo-Japanese War | P:is related to | O:Japan
+S:Japan | P:is part of | O:Taiwan
+S:Japan | P:is part of | O:Korea
+S:Japan | P:is part of | O:Manchukuo
+S:Japan | P:is related to | O:Anti-Comintern Pact
+S:Japan | P:is related to | O:Tripartite Pact
+S:Japan | P:is related to | O:Second Sino-Japanese War
+S:Great Tokyo Earthquake | P:is related to | O:Japan
+S:Japan | P:is related to | O:League Of Nations
+S:Hiroshima | P:is part of | O:Japan
+S:Nagasaki | P:is part of | O:Japan
+S:Treaty Of San Francisco | P:was present at | O:Japan
+S:Japan | P:is related to | O:United Nations
+S:Fukushima Daiichi Nuclear Disaster | P:is related to | O:Japan
+S:Emperor Akihito | P:is related to | O:Reiwa Era
+S:Emperor Naruhito | P:is related to | O:Reiwa Era
+S:Japanese Archipelago | P:is part of | O:Hokkaido
+S:Japanese Archipelago | P:is part of | O:Honshu
+S:Japanese Archipelago | P:is part of | O:Shikoku
+S:Japanese Archipelago | P:is part of | O:Kyushu
+S:Japanese Archipelago | P:is part of | O:Okinawa
+S:Ryukyu Islands | P:is part of | O:Okinawa
+S:Japanese Archipelago | P:is part of | O:Nanpō Islands
+S:Japan | P:is part of | O:Lake Biwa
+S:Japan | P:is part of | O:Pacific Ring Of Fire
+S:Great Hanshin Earthquake | P:is related to | O:Japan
+S:Japan | P:is related to | O:Naruhito
+S:Naruhito | P:is related to | O:Akihito
+S:Japan | P:is part of | O:Sanae Takaichi
+S:Japan | P:is part of | O:National Diet
+S:Japan | P:is part of | O:Government Of Japan
+S:Japan | P:is part of | O:National Police Agency
+S:Japan | P:is part of | O:Japan Coast Guard
+S:Japan | P:was present at | O:International Human Rights Treaties
+S:Japan | P:is part of | O:United Nations
+S:Japan | P:is part of | O:G4
+S:Japan | P:is part of | O:G7
+S:Japan | P:is part of | O:Apec
+S:Japan | P:is part of | O:Asean Plus Three
+S:Japan | P:was present at | O:East Asia Summit
+S:Japan | P:was present at | O:Kyoto Protocol
+S:Japan | P:is related to | O:Keiretsu Enterprises
+S:Japan | P:is related to | O:Cooperatives
+S:Japan | P:is related to | O:International Tourism
+S:Japan | P:is related to | O:Agricultural Sector
+S:Japan | P:is related to | O:Fishing Sector
+S:Japan | P:is related to | O:Industrial Sector
+S:Japan | P:is related to | O:Automobile Production
+S:Japan | P:is related to | O:Consumer Electronics Industry
+S:Japan | P:is related to | O:Service Sector
+S:Japan | P:is related to | O:Research And Development
+S:Japan | P:is related to | O:Japan Aerospace Exploration Agency
+S:Japan | P:is related to | O:Transportation Infrastructure
+S:Japan | P:is related to | O:Energy Production
+S:Japan | P:is related to | O:Population
+S:Tokyo | P:is part of | O:Greater Tokyo Area
+S:Japanese Language | P:is related to | O:Japanese Culture
+S:Ryukyuan Languages | P:is related to | O:Japanese
+S:Japanese | P:is related to | O:Ainu Language
+S:Korean | P:is related to | O:Japan
+S:Chinese | P:is related to | O:Japan
+S:Portuguese | P:is related to | O:Japan
+S:Japan | P:is related to | O:Shinto
+S:Japan | P:is related to | O:Buddhism
+S:Japan | P:is related to | O:Christianity
+S:Japan | P:is related to | O:Islam
+S:Japan | P:is related to | O:Hinduism
+S:Japan | P:is related to | O:Judaism
+S:Japan | P:is related to | O:BaháʼÍ Faith
+S:Fundamental Law Of Education | P:is part of | O:Japan
+S:University Of Tokyo | P:is part of | O:Japan
+S:Pisa | P:occurs at | O:Japan
+S:Health Care In Japan | P:is part of | O:Japan
+S:Japanese Women | P:is related to | O:Japan
+S:Japanese Men | P:is related to | O:Japan
+S:Japanese Culture | P:is part of | O:Japan
+S:Japanese Painting | P:is part of | O:Japan
+S:Japanese Architecture | P:is part of | O:Japan
+S:Japanese Literature | P:is part of | O:Japan
+S:Japanese Philosophy | P:is part of | O:Japan
+S:Japanese Music | P:is part of | O:Japan
+S:Japanese Theater | P:is part of | O:Japan
+S:Japanese Television | P:is part of | O:Japan
+S:Japanese Film Industry | P:is part of | O:Japan
+S:Manga | P:is part of | O:Japan
+S:Anime | P:is part of | O:Japan
+S:Public Holiday Law | P:is part of | O:Japan
+S:New Year'S Day | P:is part of | O:Japan
+S:Coming Of Age Day | P:is part of | O:Japan
+S:National Foundation Day | P:is part of | O:Japan
+S:The Emperor'S Birthday | P:is part of | O:Japan
+S:Vernal Equinox Day | P:is part of | O:Japan
+S:Shōwa Day | P:is part of | O:Japan
+S:Constitution Memorial Day | P:is part of | O:Japan
+S:Greenery Day | P:is part of | O:Japan
+S:Children'S Day | P:is part of | O:Japan
+S:Marine Day | P:is part of | O:Japan
+S:Mountain Day | P:is part of | O:Japan
+S:Respect For The Aged Day | P:is part of | O:Japan
+S:Autumnal Equinox | P:is part of | O:Japan
+S:Health And Sports Day | P:is part of | O:Japan
+S:Culture Day | P:is part of | O:Japan
+S:Labor Thanksgiving Day | P:is part of | O:Japan
+S:Japanese Cuisine | P:is part of | O:Japan
+S:Japanese Curry | P:is part of | O:Japan
+S:Wagashi | P:is part of | O:Japan
+S:Green Tea Ice Cream | P:is part of | O:Japan
+S:Sake | P:is part of | O:Japan
+S:Beer | P:is part of | O:Japan
+S:Matcha | P:is part of | O:Japan
+S:Sumo | P:is part of | O:Japan
+S:Judo | P:is part of | O:Japan
+S:Kendo | P:is part of | O:Japan
+S:Karate | P:is part of | O:Japan
+S:Baseball | P:is part of | O:Japan
+S:Nippon Professional Baseball | P:is part of | O:Japan
+S:Japan Professional Football League | P:is part of | O:Japan
+S:Fifa World Cup 2002 | P:is part of | O:Japan
+S:Asian Cup | P:is part of | O:Japan
+S:Fifa Women'S World Cup | P:is part of | O:Japan
+S:Golf | P:is part of | O:Japan
+S:Motorsport | P:is part of | O:Japan
+S:Formula One | P:is part of | O:Japan
+S:Motogp | P:is part of | O:Japan
+S:World Rally Championship | P:is part of | O:Japan
+S:Super Gt | P:is part of | O:Japan
+S:Super Formula | P:is part of | O:Japan
+S:Japanese Grand Prix | P:is part of | O:Japan
+S:Summer Olympics 1964 | P:is part of | O:Japan
+S:Winter Olympics 1972 | P:is part of | O:Japan
+S:Winter Olympics 1998 | P:is part of | O:Japan
+S:Basketball World Championship 2006 | P:is part of | O:Japan
+S:Basketball World Championship 2023 | P:is part of | O:Japan
+S:Tokyo Summer Olympics 2020 | P:is part of | O:Japan
+S:Women'S Volleyball World Championship | P:is part of | O:Japan
+S:Rugby Union World Cup 2019 | P:is part of | O:Japan

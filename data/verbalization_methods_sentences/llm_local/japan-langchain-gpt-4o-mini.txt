@@ -1,0 +1,199 @@
+Tokyo is part of Japan.
+Japan was present at Upper Paleolithic.
+Japan was present at the Japanese Paleolithic.
+Nara is part of Japan.
+Heian-Kyō is part of Japan.
+The Shōgun is related to Japan.
+A Daimyō is related to Japan.
+The Samurai was related to Japan.
+The Tokugawa Shogunate was related to Japan.
+The 1853 Opening of Trade was present in Japan.
+I was present at Japan during the Meiji Period.
+Japan is related to Korea.
+China is related to Japan.
+He was present at Japan during World War II.
+Hiroshima is related to Japan.
+Nagasaki is related to Japan.
+The Allied Occupation was present in Japan.
+The Lost Decades were present in Japan.
+The National Diet is part of Japan.
+The G7 is part of Japan.
+The Automotive Industry is part of Japan.
+The Electronics Industry is part of Japan.
+The Robotics Industry is part of Japan.
+Japanese culture is related to Japan.
+Japan is related to Japan.
+(Note: I used the exact subject and object names as given in the RDF triple) Wa was influenced by Japan.
+Yamato is related to Japan.
+Japan is related to Nippon.
+Cipangu is related to Japan.
+The Jōmon Period was present in Japan.
+The Yayoi Period was present in Japan.
+Emperor Jimmu is related to Japan.
+The Chinese Book of Han was present at Japan.
+The Book of Wei was present at Japan.
+Buddhism was introduced in Japan.
+Prince Shōtoku is related to Japan.
+Taika Reforms was present at Japan.
+The Taihō Code was present in Japan.
+People during the Nara Period were present in Japan.
+Heijō-Kyō is part of Japan.
+The Heian Period was present at Japan.
+Murasaki Shikibu is related to Japan.
+Kimigayo is related to Japan.
+Minamoto No Yoritomo is related to Japan.
+The Kamakura Shogunate is related to Japan.
+Oda Nobunaga is related to Japan.
+Toyotomi Hideyoshi is related to Japan.
+Tokugawa Ieyasu was the father of Toyotomi Hideyori.
+Tokugawa Ieyasu was related to the Council of Five Elders.
+Tokugawa Ieyasu was present at the Battle of Sekigahara.
+Tokugawa Ieyasu was present at the coronation of Emperor Go-Yōzei.
+Tokugawa Ieyasu was related to the Tokugawa Shogunate.
+The Tokugawa Shogunate is part of Edo (Tokyo).
+The Tokugawa Shogunate is related to the Edo Period.
+Matthew C.
+Perry was a member of the Perry Expedition.
+The Perry Expedition was present at the Convention of Kanagawa.
+The Boshin War is related to the Meiji Restoration.
+The Boshin War was related to Japan.
+I was present at the Privy Council during the Meiji Restoration.
+The Meiji Restoration is related to the Meiji Constitution.
+I was present at the Imperial Diet during the Meiji Restoration.
+Japan is related to the First Sino-Japanese War.
+Japan was related to the Russo-Japanese War.
+Taiwan is part of Japan.
+Korea is part of Japan.
+Manchukuo is part of Japan.
+Japan is related to the Anti-Comintern Pact.
+The Tripartite Pact is related to Japan.
+The Second Sino-Japanese War is related to Japan.
+The Great Tokyo Earthquake is related to Japan.
+Japan was a member of the League Of Nations.
+Hiroshima is part of Japan.
+Nagasaki is part of Japan.
+The Treaty of San Francisco was present at Japan.
+The United Nations is related to Japan.
+The Fukushima Daiichi Nuclear Disaster is related to Japan.
+Akihito is related to the Reiwa Era.
+Emperor Naruhito is related to the Reiwa Era.
+The Japanese Archipelago is part of Hokkaido.
+The Japanese Archipelago is part of Honshu.
+The Japanese Archipelago is part of Shikoku.
+The Japanese Archipelago is part of Kyushu.
+The Japanese Archipelago is part of Okinawa.
+The Ryukyu Islands are part of Okinawa.
+The Japanese Archipelago is part of the Nanpō Islands.
+Lake Biwa is part of Japan.
+Japan is part of the Pacific Ring Of Fire.
+The Great Hanshin Earthquake is related to Japan.
+Naruhito is related to Japan.
+Naruhito is related to Akihito.
+Sanae Takaichi is a part of Japan.
+The National Diet is a part of Japan.
+The Government of Japan is part of Japan.
+The National Police Agency is part of Japan.
+The Japan Coast Guard is part of Japan.
+Japan was present at International Human Rights Treaties.
+Japan is part of the United Nations.
+Japan is part of G4.
+G7 is a part of Japan.
+Japan is part of ASEAN.
+Japan is a part of Asean Plus Three.
+Japan was present at the East Asia Summit.
+The Japan was present at the Kyoto Protocol.
+Keiretsu Enterprises is related to Japan.
+Cooperatives are related to Japan.
+International Tourism is related to Japan.
+Agricultural sector is related to Japan.
+Fishing Sector is related to Japan.
+Japan influenced Industrial Sector.
+Automobile production is related to Japan.
+The Japan is related to the Consumer Electronics Industry.
+The Service Sector is related to Japan.
+Research And Development is related to Japan.
+The Japan Aerospace Exploration Agency is related to Japan.
+Japan influenced Transportation Infrastructure.
+Energy production in Japan is related.
+Japan's population is related to.
+The Greater Tokyo Area is part of Tokyo.
+The Japanese Language is related to Japanese Culture.
+The Ryukyuan languages are related to the Japanese language.
+The Japanese language is related to the Ainu Language.
+Japan is related to Korean.
+China and Japan are related.
+The Portuguese are related to Japan.
+Shinto is related to Japan.
+Buddhism is related to Japan.
+Japan is related to Christianity.
+Islam is related to Japan.
+Hinduism is related to Japan.
+Japan was influenced by Judaism.
+The BaháʼÍ Faith is related to Japan.
+Japan is part of the Fundamental Law Of Education.
+The University of Tokyo is part of Japan.
+Pisa occurred in Japan.
+Health care in Japan is part of Japan.
+Japanese Women are related to Japan.
+Japanese Men are related to Japan.
+Japanese culture is a part of Japan.
+Japanese painting is a part of Japanese art.
+Japanese architecture is part of Japan.
+Japan is part of Japanese Literature.
+Japanese philosophy is part of Japan.
+Japanese music is a part of Japanese culture.
+The Japanese Theater is part of Japan.
+Japanese Television is a part of Japan.
+The Japanese Film Industry is part of Japan.
+Japan is part of Manga.
+Anime is part of Japan.
+Japan is part of Public Holiday Law.
+Japan is part of New Year's Day.
+Japan is part of Coming Of Age Day.
+Japan is part of National Foundation Day.
+The Emperor's birthday is part of Japan.
+The Vernal Equinox Day is part of Japan.
+Japan is a part of Shōwa Day.
+Constitution Memorial Day is part of Japan.
+Greenery Day is part of Japan.
+Japan is a part of Children's Day.
+Japan is part of Marine Day.
+Mountain Day is a part of Japan.
+Respect For The Aged Day is part of Japan.
+Japan is part of the Autumnal Equinox.
+Japan is part of Health And Sports Day.
+Japan is part of Culture Day.
+Japan is part of Labor Thanksgiving Day.
+Japanese cuisine is part of Japan.
+Japanese Curry is part of Japan.
+Japan is part of Wagashi.
+Green Tea Ice Cream is part of Japan.
+Sake is part of Japan.
+Japan is part of Beer.
+Matcha is part of Japan.
+Sumo is part of Japan.
+Judo is part of Japan.
+Kendo is a part of Japan.
+Japan is part of Karate.
+Baseball is part of Japan.
+Japan is part of Nippon Professional Baseball.
+The Japan Professional Football League is part of Japan.
+The Fifa World Cup 2002 is part of Japan.
+Japan is part of the Asian Cup.
+The Fifa Women's World Cup is part of the Japan tournament.
+Golf is part of Japan.
+MotoGP is a part of Japanese motorsport.
+Japan is part of Formula One.
+Motorcycle GP is part of Japan.
+The World Rally Championship is part of Japan.
+Super Gt is part of Japan.
+The Super Formula is part of Japan.
+The Japanese Grand Prix is part of Japan.
+The Summer Olympics in 1964 were part of Japan.
+The Winter Olympics in 1972 were part of the Japan games.
+The Winter Olympics in 1998 are part of the Japan games.
+The Basketball World Championship 2006 is part of the 2006 Summer Olympics.
+The Basketball World Championship 2023 is part of the Japan tournament.
+The Tokyo Summer Olympics took place in Japan.
+The Women's Volleyball World Championship is part of the I Spartacus Festival.
+The Rugby Union World Cup 2019 was held in Japan.

@@ -1,0 +1,317 @@
+is contained in european union croatia
+occurs at schengen area schengen accession
+occurs at eurozone eurozone accession
+occurs at erm ii erm ii entry
+is contained in zagreb transleithania
+is contained in zagreb northwest croatia
+is contained in zagreb banski dvori
+is contained in zagreb franjo tudman airport
+occurs at zagreb hamburg–zagreb launch
+is contained in zagreb ruder boskovic institute
+is contained in zagreb croatian academy of sciences and arts
+is contained in transleithania osijek
+is contained in transleithania vukovar
+is contained in transleithania bjelovar
+is contained in transleithania gospic
+is contained in transleithania ogulin
+is contained in transleithania pozega
+is contained in transleithania varazdin
+is contained in northwest croatia croatia
+is contained in northwest croatia koprivnica-krizevci county
+is contained in northwest croatia krapina-zagorje county
+is contained in northwest croatia medimurje county
+is contained in northwest croatia varazdin county
+is contained in northwest croatia zagreb county
+is contained in plitvice lakes national park croatia
+is contained in croatia lika
+is contained in croatia gorski kotar
+is contained in croatia pannonian mixed forests
+is contained in croatia dinaric mountains mixed forests
+is contained in croatia illyrian deciduous forests
+is contained in croatia istria
+is contained in croatia dalmatia
+is contained in croatia split
+is contained in croatia slavonia
+is contained in croatia rijeka
+is contained in croatia peljesac bridge
+is contained in croatia korcula
+is contained in croatia lastovo
+is contained in croatia osijek
+is contained in croatia vukovar
+is contained in croatia a1
+is contained in croatia a3
+is contained in croatia croatian military frontier
+is contained in croatia western bosnia
+is contained in croatia western slavonia
+is contained in croatia vis
+is contained in croatia hvar
+is contained in croatia varazdin
+is contained in croatia university of zadar
+is contained in croatia dinara
+is contained in croatia hrvatsko zagorje
+is contained in croatia plitvice lakes
+is contained in croatia cakovec
+is contained in croatia ploce
+is contained in croatia bisevo
+is contained in croatia svetac
+is contained in croatia insular croatia
+is contained in croatia sibenik
+is contained in croatia republic of serbian krajina
+is contained in croatia eastern slavonia
+is contained in croatia krajina
+is contained in croatia karlovac
+is related to croatia independence recognition 879
+occurs at croatia national debt level
+occurs at croatia branimir recognition
+is related to croatia constitution adopted
+is related to croatia pfp membership
+is related to croatia wto membership
+is related to croatia saa signed
+is related to croatia nato membership
+is related to croatia eu negotiations completed
+is related to croatia mp vote to dissolve
+occurs at croatia president dissolves parliament
+is related to croatia eu accession treaty signed
+is related to croatia eu referendum
+is related to croatia eu membership
+occurs at croatia plenkovic becomes prime minister
+is related to croatia 2020 presidential election
+is related to croatia ['schengen membership', 'euro adopted']
+is related to croatia croatia eurovision debut 1993
+is related to croatia croatia 4th place 1996
+is related to croatia croatia 4th place 1999
+is related to croatia croatia 2nd place 2024
+is related to croatia ['independence declaration', 'independence declared']
+is related to croatia independence implemented
+is related to croatia eec recognition
+is related to croatia croatian victory
+is related to croatia independence declaration
+is related to croatia yugoslavia esc debut 1961
+is related to croatia highest temperature recorded
+is related to croatia lowest temperature recorded
+is related to croatia oecd accession talks opened
+is related to croatia lng terminal opening
+is related to croatia erm ii entry
+is related to croatia eurozone accession
+is related to croatia schengen accession
+is contained in croatia boreal kingdom
+is contained in croatia illyrian province
+is contained in croatia central european province
+is contained in croatia adriatic province
+is part of croatia socialist federal republic of yugoslavia (sfr yugoslavia)
+is part of croatia united nations security council
+is part of croatia partnership for peace
+is part of croatia kingdom of serbs, croats and slovenes
+is part of croatia kingdom of yugoslavia
+is part of croatia yugoslavia
+is part of croatia roman empire
+is part of croatia union for the mediterranean
+is part of croatia world trade organization
+is part of croatia osce
+is part of croatia council of europe
+is part of croatia nato
+is part of croatia constitutional court
+is part of croatia supreme court
+is part of croatia administrative courts
+is part of croatia commercial courts
+is part of croatia county courts
+is part of croatia misdemeanor courts
+is part of croatia municipal courts
+is part of croatia state's attorney office
+is part of croatia ministry of the interior
+is part of croatia security and intelligence agency (soa)
+is part of croatia croatian ministry of foreign affairs and european integration
+is part of croatia government of croatia
+is part of croatia croatian parliament (sabor)
+is part of croatia croatian armed forces
+is part of croatia croatian railways
+is part of croatia hrvatske ceste
+is part of croatia hrvatska elektroprivreda
+is part of croatia croatian government
+is part of croatia city of zagreb
+is part of croatia city of split
+is part of croatia ministry of culture
+is part of croatia state anti-fascist council for the national liberation of croatia
+is part of croatia sabor (croatian parliament)
+is part of croatia hina
+is part of croatia croatian radiotelevision (hrt)
+is related to croatia franjo bucar
+is related to croatia franjo tudman
+is related to croatia ivo josipovic
+was present at croatia andrej plenkovic
+is related to croatia zoran milanovic
+is related to croatia dusan vukotic
+is related to croatia branko lustig
+is related to croatia nebojsa slijepcevic
+is related to croatia vladimir zerjavic
+is related to croatia bogoljub kocovic
+is related to croatia josip juraj strossmayer
+is related to croatia vlaho bukovac
+is related to croatia ivan mestrovic
+is related to croatia ivan generalic
+is related to croatia marko marulic
+is related to croatia marin drzic
+is related to croatia ivan gundulic
+is related to croatia ivan mazuranic
+is related to croatia august senoa
+is related to croatia ivana brlic-mazuranic
+is related to croatia marija juric zagorka
+is related to croatia antun gustav matos
+is related to croatia antun branko simic
+is related to croatia miroslav krleza
+is related to croatia tin ujevic
+is related to croatia ivo andric
+is related to croatia vatroslav lisinski
+is related to croatia ivan zajc
+is related to croatia ivo pogorelic
+is contained in gorski kotar risnjak
+is contained in gorski kotar snjeznik
+is contained in krk insular croatia
+is contained in insular croatia cres
+is contained in dalmatia dubrovnik
+is contained in split diocletian's palace
+is contained in slavonia pannonian basin
+is contained in rijeka refinery in rijeka
+occurs at belgrade union with serbia
+occurs at belgrade six january dictatorship
+occurs at dubrovnik end ragusan republic
+is contained in osijek tvrda
+is contained in zadar church of st donatus
+occurs at lng hrvatska terminal lng terminal opening
+is contained in krsko nuclear power plant slovenia
+occurs at lng hrvatska lng terminal opening
+is contained in north-western bosnia bosnia and herzegovina
+is contained in bosnia and herzegovina neum
+is part of bosnia and herzegovina austria-hungary
+occurs at vienna illyrian provinces created
+occurs at vienna congress of vienna
+occurs at krbava field battle of krbava
+occurs at mohacs battle of mohacs
+occurs at mohacs louis ii death
+occurs at cetin cetin election
+occurs at sisak battle of sisak
+occurs at sisak sisak partisan formation
+is contained in illyrian provinces austrian empire
+is part of austrian empire austria-hungary
+is related to austrian empire congress of vienna
+is related to austrian empire josip jelacic
+occurs at vis battle of vis
+is contained in croatian littoral kingdom of croatia
+is related to kingdom of croatia battle of sisak
+is related to kingdom of croatia cetin election
+is related to kingdom of croatia battle of mohacs
+is related to kingdom of croatia battle of krbava
+is part of kingdom of croatia sabor
+is related to kingdom of croatia josip jelacic
+was present at smiljan nikola tesla
+was present at diocletian's palace julius nepos
+is contained in central and eastern (pannonian) croatia bjelovar-bilogora county
+is contained in central and eastern (pannonian) croatia brod-posavina county
+is contained in central and eastern (pannonian) croatia karlovac county
+is contained in central and eastern (pannonian) croatia osijek-baranja county
+is contained in central and eastern (pannonian) croatia pozega-slavonia county
+is contained in central and eastern (pannonian) croatia sisak-moslavina county
+is contained in central and eastern (pannonian) croatia virovitica-podravina county
+is contained in central and eastern (pannonian) croatia vukovar-syrmia county
+is contained in vojvodina yugoslavia
+is related to yugoslavia yugoslavia esc debut 1961
+is related to yugoslavia riva eurovision win 1989
+is related to yugoslavia six january dictatorship
+is part of yugoslavia yugoslav government
+is part of yugoslavia avnoj
+is related to yugoslavia josip broz
+occurs at cakovec lowest temperature recorded
+occurs at ploce highest temperature recorded
+is contained in sibenik cathedral of st james
+is contained in syrmia independent state of croatia
+is contained in baranja hungary
+is contained in hungary medimurje
+is related to hamburg–zagreb launch croatia airlines
+is related to battle of krbava ottoman empire
+is related to battle of mohacs ottoman empire
+is related to battle of mohacs kingdom of hungary
+is related to louis ii death kingdom of hungary
+is related to cetin election sabor
+is related to cetin election house of habsburg
+is related to battle of sisak ottoman empire
+is related to end venetian republic republic of venice
+is related to end venetian republic first french empire
+is related to end ragusan republic republic of ragusa
+is related to end ragusan republic first french empire
+is related to illyrian provinces created first french empire
+is related to battle of vis first french empire
+is related to battle of vis royal navy
+is related to treaty of berlin austria-hungary
+is related to constitution adopted croatian parliament (sabor)
+is related to pfp membership partnership for peace
+is related to pfp membership north atlantic treaty organization (nato)
+is related to wto membership world trade organization
+is related to nato membership north atlantic treaty organization (nato)
+is related to mp vote to dissolve croatian parliament (sabor)
+is related to president dissolves parliament croatian parliament (sabor)
+is related to president dissolves parliament ivo josipovic
+is related to plenkovic becomes prime minister government of croatia
+is related to plenkovic becomes prime minister andrej plenkovic
+is related to 2020 presidential election zoran milanovic
+is related to oecd accession talks opened organisation for economic co-operation and development (oecd)
+is related to oecd accession talks opened oecd council
+is related to riva eurovision win 1989 riva
+is related to eec recognition european economic community
+is related to independence declaration croatian parliament (sabor)
+is related to independence declaration state of slovenes, croats, and serbs
+is part of croatian parliament (sabor) republic of croatia
+is related to croatian parliament (sabor) union with serbia
+is related to croatian parliament (sabor) ivo josipovic
+is related to union with serbia state of slovenes, croats, and serbs
+is related to union with serbia kingdom of serbia
+is related to union with serbia kingdom of serbs, croats, and slovenes
+is related to sisak partisan formation yugoslav partisans
+is related to sisak partisan formation 1st sisak partisan detachment
+is part of socialist federal republic of yugoslavia (sfr yugoslavia) montenegro
+is part of socialist federal republic of yugoslavia (sfr yugoslavia) kosovo
+is part of socialist federal republic of yugoslavia (sfr yugoslavia) yugoslav people's army (jna)
+is related to socialist federal republic of yugoslavia (sfr yugoslavia) vladimir zerjavic
+is related to socialist federal republic of yugoslavia (sfr yugoslavia) bogoljub kocovic
+is related to socialist federal republic of yugoslavia (sfr yugoslavia) josip broz
+is part of united nations security council united nations
+is part of partnership for peace north atlantic treaty organization (nato)
+is part of ministry of the interior national police force
+is part of austria-hungary kingdom of hungary
+is part of croatian armed forces (caf) croatian air force
+is part of croatian armed forces (caf) croatian army
+is part of croatian armed forces (caf) croatian navy
+is part of croatian armed forces (caf) education and training command
+is part of croatian armed forces (caf) support command
+is part of croatian armed forces (caf) general staff
+is part of republic of croatia european union language association
+is part of republic of croatia government of croatia
+is part of republic of croatia croatian armed forces
+is related to government of croatia andrej plenkovic
+is part of unesco unesco man and the biosphere programme
+was present at italy julius nepos
+is related to italy ante pavelic
+is part of croatian olympic committee olympic movement
+is part of united nations united nations transitional administration for eastern slavonia, baranja and western sirmium (untaes)
+is part of international security assistance force north atlantic treaty organization
+is part of north atlantic treaty organization kosovo force
+is part of croatian government office of displaced persons and refugees
+is related to kingdom of hungary josip jelacic
+is part of croats slavs
+is related to ruder boskovic institute ruder boskovic
+is part of organisation for economic co-operation and development (oecd) oecd council
+is part of hanza media jutarnji list
+is part of styria media group vecernji list
+is part of yugoslav partisans 1st sisak partisan detachment
+is related to yugoslav partisans josip broz
+is part of kingdom of serbs, croats, and slovenes national assembly
+is related to national assembly stjepan radic
+was present at national assembly punisa racic
+is related to croatian peasant party stjepan radic
+is related to croatian peasant party vladko macek
+is related to nrs punisa racic
+is related to nazi germany ante pavelic
+is part of independent state of croatia (ndh) ustase
+is related to independent state of croatia (ndh) ante pavelic
+is related to ustase ante pavelic
+is related to allies josip broz
+is related to soviet troops josip broz

@@ -1,0 +1,406 @@
+East Asia is contained within Japan.
+The Pacific Ocean is contained within Japan.
+The Sea of Japan is related to Japan.
+The Sea of Okhotsk is related to Japan.
+The East China Sea is related to Japan.
+The Japanese Archipelago is part of Japan.
+Hokkaido is part of the Japanese Archipelago.
+Honshu is part of the Japanese Archipelago.
+Shikoku is part of the Japanese Archipelago.
+Kyushu is part of the Japanese Archipelago.
+Okinawa is part of the Japanese Archipelago.
+The Ryukyu Islands are part of Japan.
+Okinawa is part of the Ryukyu Islands.
+The Nanpō Islands are part of Japan.
+Tokyo is part of Japan.
+Nara is part of Japan.
+Heijō-Kyō is related to Nara.
+Kyoto is related to Heian-Kyō.
+Kyoto is part of Japan.
+Kamakura is part of Japan.
+Edo is part of Japan.
+Edo is related to Tokyo.
+Osaka is part of Japan.
+Nagasaki is part of Japan.
+Hiroshima is part of Japan.
+Uraga is part of Japan.
+Kanagawa is part of Japan.
+Lake Biwa is part of Japan.
+The Fukushima Daiichi nuclear power plant is part of Japan.
+Manchuria is part of China.
+Manchuria is contained within Manchukuo.
+Korea is part of East Asia.
+Taiwan is part of East Asia.
+Karafuto is related to Sakhalin.
+The Kurils are related to Japan.
+The Pacific Ring of Fire is related to Japan.
+The G7 is a part of Japan.
+The National Diet is contained in Japan.
+The Imperial Diet is contained in Japan.
+The Privy Council is contained in Japan.
+The Cabinet is contained within Japan.
+The Kamakura Shogunate is contained within Japan.
+The Ashikaga Shogunate was contained in Japan.
+The Tokugawa Shogunate was contained within Japan.
+The Council of Five Elders is contained in Japan.
+The Hōjō Clan is contained in Japan.
+The Minamoto Clan is contained within Japan.
+The Taira Clan was contained within Japan.
+The Empire of Japan is related to Japan.
+The League of Nations is related to Japan.
+Nazi Germany was part of the Axis Powers.
+The Axis Powers are part of Japan.
+Japan is related to Allies.
+The United Nations is related to Japan.
+The International Military Tribunal For The Far East is related to Japan.
+The United States is contained within the United States Navy.
+The Environment Ministry is contained within Japan.
+The World Risk Index is related to Japan.
+The Environmental Performance Index is related to Japan.
+The Portuguese Traders are related to Japan.
+The United States is part of the Allies.
+The Upper Paleolithic era occurred in the Japanese Archipelago.
+The Japanese Paleolithic occurred in the Japanese Archipelago.
+The Jōmon Period occurred in Japan.
+The Yayoi Period occurred in Japan.
+The Asuka Period occurred in Japan.
+Heijō-Kyō occurred during the Nara Period.
+The Heian Period occurred at Heian-Kyō.
+The Kamakura Period occurred at Kamakura.
+The Muromachi Period occurred at Japan.
+The Sengoku Period occurred in Japan.
+The Azuchi-Momoyama Period occurred in Japan.
+The Edo Period occurred at Edo.
+The Meiji Period occurred in Japan.
+Japan occurred as Taishō Democracy.
+Taika Reforms occurred in Japan.
+Taika Reforms is related to China.
+The Taihō Code occurred in Japan.
+The Jinshin War occurred in Japan.
+The Jinshin War was influenced by the Taihō Code.
+The capital of Japan was moved to Heian-Kyō in 794.
+The capital of Japan was moved to Heian-Kyō in 794.
+The Genpei War occurred in Japan.
+The Mongol Invasions of Japan occurred at some point.
+The Establishment of the Kamakura Shogunate occurred in 1185.
+The establishment of the Kamakura Shogunate is related to the Kamakura Shogunate.
+The Overthrow of the Kamakura Shogunate occurred in Japan.
+The overthrow of the Kamakura Shogunate is related to it.
+The Defeat of Go-Daigo occurred in Japan.
+The Defeat of Go-Daigo is related to the Muromachi Period.
+The Defeat of Go-Daigo in 1336 is related to the Ashikaga Shogunate.
+Toyotomi Hideyoshi unified Japan with Occursat.
+The Japanese Invasions Of Korea lasted from 1592 to 1598.
+The Battle of Sekigahara occurred in Japan.
+The Tokugawa shogunate was established on October 17.
+The Tokugawa Shogunate was established.
+Buke Shohatto was enacted in Japan.
+The Sakoku Policy was enacted in 1639.
+The Perry Expedition occurred at Uraga.
+The Perry Expedition is related to the United States Navy.
+The Convention of Kanagawa occurred at Kanagawa.
+The Convention of Kanagawa is related to Japan.
+The Convention of Kanagawa is related to the United States.
+The Boshin War occurred in Japan.
+The Meiji Restoration occurred in Japan.
+The Boshin War was related to the Meiji Restoration.
+The Meiji Constitution occurred in Japan.
+The Meiji Constitution was influenced by the Imperial Diet.
+The Meiji Constitution is related to the Privy Council.
+The Meiji Constitution is related to the Cabinet.
+The First Sino-Japanese War occurred in East Asia.
+The Russo-Japanese War occurred in East Asia.
+Korea was annexed in 1910.
+Korea was annexed by Japan in 1910.
+Japan occurred during World War I.
+Manchuria occurred on Establishment of Manchukuo in 1932.
+The Establishment of Manchukuo in 1932 is related to Manchukuo.
+The Establishment of Manchukuo in 1932 is related to Japan.
+The Anti-Comintern Pact of 1936 is related to Japan.
+The Anti-Comintern Pact of 1936 is related to Nazi Germany.
+The Tripartite Pact of 1940 is related to Japan.
+The Tripartite Pact of 1940 is related to the Axis Powers.
+The Axis Powers were present at World War II.
+The Allies were present at World War II.
+The Empire of Japan was present at World War II.
+The Invasion of China took place in 1937.
+Japan invaded China in 1937.
+The Invasion of French Indochina in 1940 occurred.
+Japan is related to the Invasion of French Indochina in 1940.
+The Attack on Pearl Harbor occurred at Pearl Harbor.
+The Attack on Pearl Harbor was related to Japan.
+The Pacific War occurred in the Pacific Ocean.
+The Pacific War was part of World War II.
+The Second Sino-Japanese War occurred in China.
+The Second Sino-Japanese War was part of World War II.
+The Atomic Bombings of Hiroshima and Nagasaki occurred.
+The Atomic Bombings of Hiroshima and Nagasaki occurred in Nagasaki.
+The Atomic Bombings Of Hiroshima And Nagasaki were part of World War II.
+The Soviet Invasion of Manchuria occurred in 1931.
+The Soviet invasion of Manchuria was part of World War II.
+The Surrender of Japan in 1945 occurred at Japan.
+Japan surrendered to the Allies in 1945.
+Japan was occupied by Allied powers.
+The Allies occupied Japan.
+The Allied occupation of Japan was related to the United States.
+The 1947 Constitution occurred in Japan.
+The Treaty of San Francisco occurred in San Francisco.
+The Treaty of San Francisco influenced the Allied Occupation of Japan.
+The Treaty of San Francisco is related to Japan.
+The United Nations joined in 1956.
+The United Nations joined in 1956.
+The Collapse of Japanese Asset Price Bubble occurred in Japan.
+The Lost Decades occurred in Japan.
+The Collapse of Japanese Asset Price Bubble is related to the Lost Decades.
+The 1923 Great Tokyo Earthquake occurred in Tokyo.
+The 1995 Great Hanshin Earthquake occurred in Japan.
+The 2011 Tōhoku Earthquake occurred in Japan.
+The 2011 Tōhoku Earthquake is related to the Fukushima Daiichi Nuclear Disaster.
+The Fukushima Daiichi Nuclear Disaster occurred at Fukushima Daiichi.
+Emperor Akihito abdicated in 2019.
+Japan occurred as Beginning Of Reiwa Era in 2019.
+Emperor Akihito abdicated in 2019.
+The temperature in Record Temperature In Japan on 2025-08-05 occurred at Japan.
+Japan was passed the Environmental Protection Laws in 1970.
+The 1973 oil crisis is related to Japan.
+The Kyoto Protocol occurred in 1997.
+The Kyoto Protocol of 1997 is related to Japan.
+OCCURSAT occurred in 2020 regarding Japan's 2050 Carbon-Neutrality Target.
+Buddhism was introduced to Japan in 552.
+Baekje is related to the introduction of Buddhism to Japan in 552.
+Buddhism was introduced to Japan in 552 by its relations with China.
+Prince Shōtoku was present at the introduction of Buddhism to Japan in 552.
+Prince Shōtoku was present at the Asuka period.
+Prince Naka No Ōe was present at the Taika Reforms.
+Fujiwara No Kamatari was present at the Taika Reforms.
+Prince Ōama was at the Jinshin War.
+Prince Ōtomo was present at the Jinshin War.
+Emperor Kanmu was present at the move of capital to Heian-Kyō in 794.
+Murasaki Shikibu was present at the Heian Period.
+The Minamoto Clan was present at the Genpei War.
+The Taira Clan was present at the Genpei War.
+Minamoto No Yoritomo was present at the Genpei War.
+Minamoto No Yoritomo was present at the establishment of Kamakura Shogunate.
+The Hōjō Clan was present at the Kamakura Period.
+Emperor Go-Daigo was present at the overthrow of the Kamakura Shogunate.
+Emperor Go-Daigo was present at the defeat in 1336.
+Ashikaga Takauji was present at the defeat of Go-Daigo in 1336.
+Oda Nobunaga was present at the Azuchi-Momoyama period.
+Toyotomi Hideyoshi was present at unification by Toyotomi Hideyoshi.
+Toyotomi Hideyoshi was present at the Japanese Invasions of Korea in 1592–1598.
+Tokugawa Ieyasu was present at the Battle of Sekigahara.
+Tokugawa Ieyasu was present at the establishment of the Tokugawa shogunate.
+Toyotomi Hideyori is related to the Council of Five Elders.
+Tokugawa Ieyasu was part of the Council Of Five Elders.
+Emperor Go-Yōzei was at the establishment of Tokugawa Shogunate.
+Matthew C.
+Perry was present at the Perry Expedition.
+The United States Navy was present at the Perry Expedition.
+Emperor Jimmu founded Japan in 660 BC.
+Emperor Jimmu was present at the legendary founding by Emperor Jimmu in 660 BC.
+Emperor Jimmu is related to Amaterasu.
+Emperor Akihito was present at the abdication of Emperor Akihito in 2019.
+Naruhito was present at the beginning of the Reiwa era in 2019.
+The National Diet was present at the adoption of the 1947 constitution.
+The United Nations was present at its own membership since 1956.
+The Completion of Kojiki occurred in 712.
+The Completion of Nihon Shoki took place in 720.
+The 735–737 smallpox epidemic occurred in Japan.
+Japan wrote the lyrics of Kimigayo.
+The Heian Period is related to the writing of Kimigayo lyrics.
+The creation of The Tale of Genji occurred in Japan.
+Heian Period created The Tale of Genji.
+Murasaki Shikibu was present at the creation of The Tale of Genji.
+The Empire of Japan is related to the Meiji Period.
+The Meiji Period influenced the First Sino-Japanese War.
+The Meiji Period influenced the Russo-Japanese War.
+The Treaty of San Francisco is related to the United States.
+The Portuguese Traders were influenced by Southeast Asia.
+The Portuguese Traders were influenced by Europe.
+Japan is contained in the Government of Japan.
+The National Diet is part of the Government of Japan.
+The Cabinet is part of the Government of Japan.
+The Supreme Court is part of the Government of Japan.
+The Ministry of Defense is part of the Government of Japan.
+The Japan Self-Defense Forces are part of the Ministry of Defense.
+The Japan Ground Self-Defense Force is part of the Japan Self-Defense Forces (Sjdf).
+The Japan Maritime Self-Defense Force is part of the Japan Self-Defense Forces.
+The Japan Air Self-Defense Force is part of the Japan Self-Defense Forces (Sjdf).
+The Japan Self-Defense Forces are related to Article 9 of the Constitution of Japan.
+The Article 9 of the Constitution of Japan is part of the Constitution of Japan.
+The National Security Council is part of the Government of Japan.
+The Prefectural Police Departments are related to the National Police Agency.
+The National Police Agency is related to the National Public Safety Commission.
+The Special Assault Team is related to the National Police Agency.
+The Special Assault Team is related to the Anti-Firearms Squads.
+The Special Assault Team is related to the Counter-NBC Terrorism Squads.
+The Japan Coast Guard is part of the Government of Japan.
+The Japan Coast Guard is contained within Japan.
+The United Nations is part of Japan.
+Japan is part of G4.
+The G4 is related to the United Nations Security Council.
+The United Nations Security Council is part of the United Nations.
+Japan is a part of the G7.
+Apec is part of Japan.
+Japan is part of the ASEAN Plus Three.
+The Japan is part of the East Asia Summit.
+The Quadrilateral Security Dialogue is part of Japan.
+The United States is part of the Quadrilateral Security Dialogue.
+The Australia is part of the Quadrilateral Security Dialogue.
+India is part of the Quadrilateral Security Dialogue.
+The United States is related to Japan.
+The Fukushima Daiichi Nuclear Disaster occurred in Japan.
+All Nuclear Power Plants Were Taken Offline in May 2012.
+The Sendai Nuclear Power Plant restarted in 2015.
+Troop deployment to Iraq and Afghanistan occurred in Iraq.
+Troop deployments to Iraq and Afghanistan occurred in Afghanistan.
+The Japan Self-Defense Forces were present at the deployment of troops to Iraq and Afghanistan.
+Tokyo is contained within Japan.
+The Greater Tokyo Area is a part of Tokyo.
+Tokyo is contained within Haneda Airport.
+The Keihin region is contained within the country of Japan.
+Hanshin is contained in Japan.
+The Tanegashima Space Center is contained in Japan.
+The Japan Aerospace Exploration Agency is contained within Japan.
+The Japan Aerospace Exploration Agency is related to the International Space Station.
+The Japanese Experiment Module Kibō is part of the International Space Station.
+Kibō was added to the International Space Station in 2008.
+The Japanese Experiment Module Kibō was present at the International Space Station in 2008.
+The Akatsuki is related to the Japan Aerospace Exploration Agency.
+The Akatsuki Launch in 2010 occurred at the Tanegashima Space Center.
+The crew of the Akatsuki was present at the Akatsuki Launch in 2010.
+The Akatsuki orbit around Venus occurred in 2015.
+Akatsuki was present at Akatsuki orbit around Venus in 2015.
+The Selenological And Engineering Explorer is related to the Japan Aerospace Exploration Agency.
+The Selene spacecraft was launched in 2007 from the Tanegashima Space Center.
+Selene was present at the 2007 launch.
+Selene entered into lunar orbit in 2007.
+Selene was present at the Selene Lunar Orbit Insertion in 2007.
+The Selene Impact On Moon in 2009 occurred on the Moon.
+Selene was present at the Selene Impact On Moon in 2009.
+Japan is contained within Jr Enterprises.
+The Kintetsu is contained in Japan.
+Seibu Railway is contained in Japan.
+Keio Corporation is contained in Japan.
+The Shinkansen is contained in Japan.
+The Shinkansen is related to Jr Enterprises.
+Toyota was established in Japan.
+Japan is contained within Mitsubishi Ufj.
+Japan is contained in Ntt.
+Japan contains Aeon.
+Softbank is contained in Japan.
+Japan is contained within Hitachi.
+Itochu is contained in Japan.
+The Southern Kuril Islands are related to Japan.
+The Southern Kuril Islands are related to Russia.
+The Liancourt Rocks are related to Japan.
+The Liancourt Rocks are related to South Korea.
+The Senkaku Islands are related to Japan.
+The Senkaku Islands are related to China.
+The Senkaku Islands are related to Taiwan.
+Okinotorishima is related to Japan.
+Okinotorishima is related to China.
+Okinotorishima is related to Taiwan.
+The United Nations Office On Drugs And Crime is related to Japan.
+World War II occurred in Japan.
+The Emperor of Japan is related to the Constitution of Japan.
+The National Diet is related to the Constitution of Japan.
+The House of Representatives is part of the National Diet.
+The House of Councillors is part of the National Diet.
+The Liberal Democratic Party is contained in Japan.
+Ishin is contained in Japan.
+Sanae Takaichi is related to the Government of Japan.
+Sanae Takaichi is related to the Liberal Democratic Party.
+Sanae Takaichi was present at the 2025 Liberal Democratic Party leadership election.
+The 2025 Liberal Democratic Party Leadership Election occurred in Japan.
+Ishin is related to Sanae Takaichi.
+Cabinet is related to Sanae Takaichi.
+Naruhito is related to the Emperor of Japan.
+Naruhito is related to Akihito.
+The film "Accession to the Chrysanthemum Throne" occurred in Japan in 2019.
+Naruhito was present at the Accession to The Chrysanthemum Throne in 2019.
+The 2019 film Accession to the Chrysanthemum Throne is related to Chrysanthemum Throne.
+Naruhito is contained in Japan.
+Akihito is contained within Japan.
+Shinzo Abe is related to the Government of Japan.
+Fumio Kishida is related to the Government of Japan.
+The Japan Revised Immigration Law was enacted in 2019.
+Tokyo is contained within Japan.
+Sapporo is contained within Japan.
+Nagano is contained within Japan.
+The Government of Japan is contained within Japan.
+The Imperial Household Agency is contained within Japan.
+The Imperial House of Japan is contained in Japan.
+The National Diet Library is contained in Japan.
+Japangov is part of the Government Of Japan.
+Japan is contained in Japangov.
+The Government of Japan is part of the Prime Minister's cabinet.
+The Prime Minister of Japan and his cabinet is contained in Japan.
+Mext is contained in Japan.
+The University of Tokyo is contained within Tokyo.
+Japan is contained in Nippon Professional Baseball.
+The J.League is contained in Japan.
+Super Gt is contained in Japan.
+The Super Formula is contained in Japan.
+The Unesco World Heritage List is part of the Unesco.
+The Programme for International Student Assessment (Pisa) is part of the OECD.
+The Oecd is related to Japan.
+UNESCO is related to Japan.
+Japan is related to UNESCO World Heritage List.
+The Programme For International Student Assessment (Pisa) is related to Japan.
+The University of Tokyo is related to Japan.
+Japan is related to Formula One.
+Motogp is related to Japan.
+The World Rally Championship is related to Japan.
+The Ucb Libraries are related to publications issued by the Government of Japan.
+Bbc News is related to Japan.
+OpenStreetMap is related to Japan.
+Japan is related to Asia.
+Japan is related to Europe.
+Japan is related to North America.
+The Ryukyu Kingdom is related to Japan.
+Kenzō Tange is related to Japan.
+Natsume Sōseki is related to Japan.
+Mori Ōgai is related to Japan.
+Ryūnosuke Akutagawa is related to Japan.
+Jun'Ichirō Tanizaki is related to Japan.
+Kafū Nagai is related to Japan.
+Haruki Murakami is related to Japan.
+Kenji Nakagami is related to Japan.
+Yasunari Kawabata is related to Japan.
+Kenzaburō Ōe was related to Japan.
+Sei Shōnagon is related to Japan.
+Murasaki Shikibu is related to Japan.
+Bashō was related to Japan.
+Saikaku is related to Japan.
+Ishirō Honda is related to Japan.
+Yasunari Kawabata was awarded the Nobel Prize.
+Kenzaburō Ōe was awarded the Nobel Prize.
+The Japanese Grand Prix occurs at Japan.
+The Japanese Grand Prix is related to Formula One.
+The 1964 Summer Olympics occurred in Tokyo.
+The 1972 Winter Olympics occurred in Sapporo.
+The 1998 Winter Olympics occurred in Nagano.
+The 2002 FIFA World Cup occurred in Japan.
+The 2002 FIFA World Cup occurred in South Korea.
+The 2020 Summer Olympics occurred in Tokyo.
+The 2019 Irb Rugby World Cup occurred in Japan.
+The 2006 Basketball World Championship occurred in Japan.
+The 2023 Basketball World Championship occurred in Japan.
+The integration of nine-year compulsory schooling in April 2016 occurred in Japan.
+New Year's Day occurs on Japan.
+Coming of age day occurs in Japan.
+Japan Occurs on National Foundation Day.
+The Emperor's birthday occurred in Japan.
+The Vernal Equinox occurs on Japan.
+Japan occurred as Shōwa Day.
+Constitution Memorial Day occurs in Japan.
+Japan occured on Greenery Day.
+Children's Day occurs in Japan.
+Marine Day occurs at Japan.
+Japan occurs on Mountain Day.
+Japan is the day Respect For The Aged occurs.
+The Autumnal Equinox occurs in Japan.
+Health And Sports Day occurred in Japan.
+Culture Day occurs in Japan.
+Labor Thanksgiving Day occurs on October 12th in Japan.

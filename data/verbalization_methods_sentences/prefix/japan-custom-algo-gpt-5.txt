@@ -1,0 +1,177 @@
+S:tokyo | P:is contained in | O:japan
+S:tokyo | P:is contained in | O:greater tokyo area
+S:tokyo | P:is contained in | O:haneda airport
+S:japan | P:is contained in | O:japanese archipelago
+S:japan | P:is contained in | O:heian-kyo
+S:japan | P:is contained in | O:kamakura
+S:japan | P:is contained in | O:sapporo
+S:japan | P:is contained in | O:nagano
+S:japan | P:is contained in | O:central japan
+S:japan | P:is contained in | O:heijo-kyo
+S:japan | P:is contained in | O:university of tokyo
+S:japan | P:is contained in | O:karafuto
+S:japan | P:is contained in | O:kurils
+S:japan | P:is contained in | O:lake biwa
+S:japan | P:occurs at | O:naruhito accession
+S:japan | P:occurs at | O:temperature record 2025
+S:japan | P:occurs at | O:japan surrender
+S:japan | P:is related to | O:nagasaki bombing
+S:japan | P:is related to | O:hiroshima bombing
+S:japan | P:is related to | O:pearl harbor attack
+S:japan | P:is related to | O:marco polo incident
+S:japan | P:is related to | O:korea annexation
+S:japan | P:is related to | O:meiji restoration
+S:japan | P:occurs at | O:perry fleet arrival
+S:japan | P:occurs at | O:battle of sekigahara
+S:japan | P:occurs at | O:immigration law enacted
+S:japan | P:is contained in | O:asia
+S:japan | P:is part of | O:quadrilateral security dialogue
+S:japan | P:is part of | O:east asia summit
+S:japan | P:is part of | O:asean plus three
+S:japan | P:is part of | O:apec
+S:japan | P:is part of | O:g4
+S:japan | P:is part of | O:united nations
+S:japan | P:is part of | O:league of nations
+S:japan | P:is part of | O:allies
+S:japan | P:is part of | O:oecd
+S:japan | P:is part of | O:axis powers
+S:japan | P:is part of | O:g7
+S:japan | P:is part of | O:government of japan
+S:japan | P:is part of | O:japan aerospace exploration agency
+S:japan | P:is part of | O:nhk
+S:japan | P:is part of | O:nippon professional baseball (npb)
+S:japan | P:is part of | O:japan professional football league (j.league)
+S:japan | P:is part of | O:kamakura shogunate
+S:japan | P:is part of | O:ashikaga shogunate
+S:japan | P:is part of | O:tokugawa shogunate
+S:japan | P:is part of | O:korea
+S:japan | P:is part of | O:taiwan
+S:japan | P:is part of | O:yamato
+S:japan | P:is part of | O:imperial court of japan
+S:japan | P:is part of | O:ritsuryo state
+S:japan | P:is part of | O:taira clan
+S:japan | P:is part of | O:minamoto clan
+S:japan | P:is part of | O:hojo clan
+S:japan | P:is part of | O:mext
+S:japan | P:occurs at | O:meiji constitution
+S:japan | P:is related to | O:yasunari kawabata
+S:japan | P:is related to | O:kenzaburo oe
+S:japan | P:is related to | O:ishiro honda
+S:japan | P:is related to | O:marco polo
+S:japan | P:is related to | O:kenzo tange
+S:japan | P:is related to | O:sei shonagon
+S:japan | P:is related to | O:murasaki shikibu
+S:japan | P:is related to | O:soseki natsume
+S:japan | P:is related to | O:ogai mori
+S:japan | P:is related to | O:ryunosuke akutagawa
+S:japan | P:is related to | O:junichiro tanizaki
+S:japan | P:is related to | O:kafu nagai
+S:japan | P:is related to | O:haruki murakami
+S:japan | P:is related to | O:kenji nakagami
+S:japan | P:was present at | O:takauji ashikaga
+S:japan | P:is related to | O:matthew perry
+S:japan | P:was present at | O:kamatari fujiwara
+S:japan | P:is related to | O:sanae takaichi
+S:japan | P:is related to | O:shinzo abe
+S:japan | P:is related to | O:fumio kishida
+S:moon | P:occurs at | O:selene lunar orbit
+S:moon | P:occurs at | O:selene moon impact
+S:japanese archipelago | P:is contained in | O:ryukyu islands
+S:japanese archipelago | P:is contained in | O:honshu
+S:japanese archipelago | P:is contained in | O:shikoku
+S:japanese archipelago | P:is contained in | O:nanpo islands
+S:japanese archipelago | P:is contained in | O:hokkaido
+S:japanese archipelago | P:is contained in | O:kyushu
+S:heian-kyo | P:occurs at | O:meiji restoration
+S:kamakura | P:was present at | O:yoritomo minamoto
+S:hiroshima | P:occurs at | O:hiroshima bombing
+S:nagasaki | P:occurs at | O:nagasaki bombing
+S:edo | P:was present at | O:ieyasu tokugawa
+S:sekigahara | P:was present at | O:ieyasu tokugawa
+S:uraga | P:was present at | O:matthew perry
+S:kanagawa | P:was present at | O:matthew perry
+S:pearl harbor | P:occurs at | O:pearl harbor attack
+S:ryukyu islands | P:is contained in | O:okinawa
+S:southern kuril islands | P:is contained in | O:russia
+S:liancourt rocks | P:is contained in | O:south korea
+S:south korea | P:is part of | O:asean plus three
+S:south korea | P:is part of | O:oecd
+S:japan surrender | P:is related to | O:allies
+S:nagasaki bombing | P:is related to | O:united states
+S:hiroshima bombing | P:is related to | O:united states
+S:pearl harbor attack | P:occurs at | O:united states
+S:marco polo incident | P:occurs at | O:china
+S:korea annexation | P:occurs at | O:korea
+S:meiji restoration | P:is related to | O:tokugawa shogunate
+S:perry fleet arrival | P:is related to | O:united states
+S:perry fleet arrival | P:is related to | O:tokugawa shogunate
+S:battle of sekigahara | P:is related to | O:tokugawa shogunate
+S:immigration law enacted | P:is related to | O:government of japan
+S:quadrilateral security dialogue | P:is part of | O:united states
+S:quadrilateral security dialogue | P:is part of | O:australia
+S:quadrilateral security dialogue | P:is part of | O:india
+S:asean plus three | P:is part of | O:china
+S:united nations | P:is part of | O:united nations security council
+S:united nations | P:is part of | O:united nations office on drugs and crime
+S:allies | P:is part of | O:united states
+S:allies | P:is part of | O:soviet union
+S:allies | P:is part of | O:international military tribunal for the far east
+S:oecd | P:is part of | O:programme for international student assessment (pisa)
+S:axis powers | P:is part of | O:nazi germany
+S:government of japan | P:is part of | O:national diet
+S:government of japan | P:is part of | O:prime minister of japan and his cabinet
+S:government of japan | P:is part of | O:imperial household agency
+S:government of japan | P:is part of | O:national diet library
+S:government of japan | P:is part of | O:cabinet of japan
+S:government of japan | P:is part of | O:national security council (japan)
+S:government of japan | P:is part of | O:ministry of the environment of japan
+S:government of japan | P:is related to | O:sanae takaichi
+S:government of japan | P:is related to | O:shinzo abe
+S:government of japan | P:is related to | O:fumio kishida
+S:china | P:is part of | O:hong kong
+S:china | P:is related to | O:marco polo
+S:united states | P:is related to | O:pearl harbor attack
+S:united states | P:is part of | O:united states navy
+S:pearl harbor attack | P:is related to | O:japanese forces
+S:japan aerospace exploration agency | P:is related to | O:selene moon impact
+S:japan aerospace exploration agency | P:is related to | O:selene lunar orbit
+S:japan aerospace exploration agency | P:is part of | O:international space station
+S:national diet | P:is part of | O:house of representatives of japan
+S:national diet | P:is part of | O:house of councillors of japan
+S:national diet | P:is related to | O:sanae takaichi
+S:kamakura shogunate | P:is related to | O:yoritomo minamoto
+S:ashikaga shogunate | P:is related to | O:takauji ashikaga
+S:tokugawa shogunate | P:is related to | O:ieyasu tokugawa
+S:korea | P:is part of | O:empire of japan
+S:korea | P:is related to | O:hideyoshi toyotomi
+S:empire of japan | P:is part of | O:cabinet of japan
+S:empire of japan | P:is part of | O:privy council of japan
+S:empire of japan | P:is part of | O:imperial diet of japan
+S:empire of japan | P:is part of | O:taiwan
+S:empire of japan | P:is part of | O:japanese forces
+S:council of five elders | P:is related to | O:hideyori toyotomi
+S:council of five elders | P:is related to | O:ieyasu tokugawa
+S:cabinet of japan | P:is related to | O:meiji constitution
+S:cabinet of japan | P:is related to | O:sanae takaichi
+S:meiji constitution | P:is related to | O:imperial diet of japan
+S:united states navy | P:is related to | O:matthew perry
+S:british forces | P:is related to | O:hong kong attack
+S:british forces | P:is related to | O:singapore attack
+S:british forces | P:is related to | O:malaya attack
+S:hong kong attack | P:is related to | O:japanese forces
+S:hong kong attack | P:occurs at | O:hong kong
+S:singapore attack | P:is related to | O:japanese forces
+S:singapore attack | P:occurs at | O:singapore
+S:malaya attack | P:is related to | O:japanese forces
+S:malaya attack | P:occurs at | O:malaya
+S:imperial court of japan | P:is related to | O:kamatari fujiwara
+S:minamoto clan | P:is related to | O:yoritomo minamoto
+S:liberal democratic party | P:is related to | O:sanae takaichi
+S:ishin | P:is related to | O:sanae takaichi
+S:japan self-defense forces | P:is part of | O:japan ground self-defense force
+S:japan self-defense forces | P:is part of | O:japan maritime self-defense force
+S:japan self-defense forces | P:is part of | O:japan air self-defense force
+S:japan self-defense forces | P:is related to | O:shinzo abe
+S:japan self-defense forces | P:is related to | O:fumio kishida
+S:prefectural police departments | P:is part of | O:national police agency
+S:national police agency | P:is part of | O:national public safety commission

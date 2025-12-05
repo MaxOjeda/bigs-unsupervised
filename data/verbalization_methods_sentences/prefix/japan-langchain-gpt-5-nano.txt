@@ -1,0 +1,212 @@
+S:Japan | P:is related to | O:East Asia
+S:Tokyo | P:is part of | O:Japan
+S:Nara | P:is part of | O:Japan
+S:Heian-Kyō | P:is part of | O:Japan
+S:Korea | P:is contained in | O:East Asia
+S:Baekje | P:is part of | O:Korea
+S:Minamoto No Yoritomo | P:is related to | O:Kamakura Shogunate
+S:Kamakura Shogunate | P:occurs at | O:Japan
+S:Ashikaga Takauji | P:is related to | O:Ashikaga Shogunate
+S:Fujiwara No Kamatari | P:is related to | O:Taika Reforms
+S:Prince Naka No Ōe | P:is related to | O:Taika Reforms
+S:Meiji Period | P:occurs at | O:Japan
+S:World War Ii | P:occurs at | O:Japan
+S:Pacific War | P:is related to | O:World War Ii
+S:Allied Occupation | P:occurs at | O:Japan
+S:1853 American Fleet Opens Trade | P:occurs at | O:Japan
+S:1868 Restoration Of Imperial Power | P:occurs at | O:Japan
+S:1910 Annexation Of Korea | P:occurs at | O:Korea
+S:1937 Invasion Of China | P:occurs at | O:China
+S:1941 Attack On Us And European Powers | P:occurs at | O:Japan
+S:1945 Surrender | P:occurs at | O:Japan
+S:Atomic Bombing Of Hiroshima | P:occurs at | O:Hiroshima
+S:Atomic Bombing Of Nagasaki | P:occurs at | O:Nagasaki
+S:Hiroshima | P:is related to | O:World War Ii
+S:Nagasaki | P:is related to | O:World War Ii
+S:World War Ii | P:is related to | O:Pacific War
+S:Lost Decades | P:occurs at | O:Japan
+S:National Diet | P:is part of | O:Japan
+S:G7 | P:is related to | O:Japan
+S:Upper Paleolithic In Japan | P:occurs at | O:Japan
+S:Jinshin War | P:occurs at | O:Japan
+S:Kamakura Period | P:occurs at | O:Japan
+S:Tokugawa_Ieyasu | P:is part of | O:Council_Of_Five_Elders
+S:Tokugawa_Ieyasu | P:is related to | O:Toyotomi_Hideyori
+S:Toyotomi_Hideyori | P:is related to | O:Toyotomi_Hideyoshi
+S:Battle_Of_Sekigahara | P:occurs at | O:Sekigahara
+S:Tokugawa_Ieyasu | P:was present at | O:Battle_Of_Sekigahara
+S:Emperor_Go_Yozei | P:is related to | O:Tokugawa_Ieyasu
+S:Tokugawa_Shogunate | P:is related to | O:Edo
+S:Tokugawa_Shogunate | P:is related to | O:Buke_Shohato
+S:Sakoku | P:is related to | O:Edo_Period
+S:Edo | P:is related to | O:Edo_Period
+S:Rangaku | P:is related to | O:Nagasaki
+S:Matthew_C_Perry | P:was present at | O:Perry_Expedition
+S:Perry_Expedition | P:occurs at | O:Uraga
+S:Perry_Expedition | P:is related to | O:Convention_Of_Kanagawa
+S:Convention_Of_Kanagawa | P:occurs at | O:Uraga
+S:Meiji_Restoration | P:is related to | O:Empire_Of_Japan
+S:Cabinet | P:is related to | O:Privy_Council
+S:Meiji_Constitution | P:is related to | O:Imperial_Diet
+S:Imperial_Diet | P:is related to | O:Meiji_Constitution
+S:Empire_Of_Japan | P:is related to | O:Japan
+S:First_Sino_Japanese_War | P:is related to | O:Empire_Of_Japan
+S:Russo_Japanese_War | P:is related to | O:Empire_Of_Japan
+S:Korea | P:is related to | O:First_Sino_Japanese_War
+S:Taiwan | P:is related to | O:First_Sino_Japanese_War
+S:Sakhalin | P:is related to | O:Russo_Japanese_War
+S:Manchukuo | P:is related to | O:Russo_Japanese_War
+S:League_Of_Nations | P:is related to | O:Empire_Of_Japan
+S:Anti_Comintern_Pact | P:is related to | O:Empire_Of_Japan
+S:Tripartite_Pact | P:is related to | O:Empire_Of_Japan
+S:Pearl_Harbor | P:is related to | O:Empire_Of_Japan
+S:Great_Tokyo_Earthquake_1923 | P:occurs at | O:Tokyo
+S:Naruhito | P:is related to | O:Reiwa_Era_Begins
+S:Reiwa_Era_Begins | P:is related to | O:Japan
+S:Emperor_Akihito | P:is related to | O:Naruhito
+S:Tohoku_Earthquake_2011 | P:occurs at | O:Japan
+S:Tohoku_Earthquake_2011 | P:is related to | O:Fukushima_Daiichi
+S:Great_Tokyo_Earthquake_1923 | P:is related to | O:Tokyo
+S:Perry_Expedition | P:occurs at | O:Uraga
+S:Perry_Expedition | P:is related to | O:Convention_Of_Kanagawa
+S:Meiji_Restoration | P:is related to | O:Meiji_Constitution
+S:Empire_Of_Japan | P:is related to | O:United_Nations
+S:World War Ii | P:is related to | O:Japan
+S:Environmental Protection Laws (1970) | P:occurs at | O:Japan
+S:Oil Crisis (1973) | P:occurs at | O:Japan
+S:Energy Efficiency | P:is related to | O:Oil Crisis (1973)
+S:Environmental Performance Index (2018) | P:is related to | O:Japan
+S:Kyoto Protocol | P:is related to | O:Japan
+S:Carbon Neutrality By 2050 | P:occurs at | O:Japan
+S:Nox And Urban Air Pollutants | P:occurs at | O:Japan
+S:Environmental Issues In Japan | P:occurs at | O:Japan
+S:Naruhito | P:is related to | O:Japan
+S:Akihito | P:is related to | O:Japan
+S:Sanae Takaichi | P:is related to | O:Liberal Democratic Party
+S:House Of Representatives | P:is part of | O:National Diet
+S:House Of Councillors | P:is part of | O:National Diet
+S:Sanae Takaichi | P:is related to | O:House Of Representatives
+S:Senkaku Islands | P:is related to | O:Japan
+S:Liancourt Rocks | P:is related to | O:Japan
+S:Southern Kuril Islands | P:is related to | O:Japan
+S:Okinotorishima | P:is related to | O:Japan
+S:Quad | P:is related to | O:Japan
+S:G7 | P:is related to | O:Japan
+S:Apec | P:is related to | O:Japan
+S:East Asia Summit | P:is related to | O:Japan
+S:United States | P:is related to | O:Japan
+S:Japan Self-Defense Forces | P:is related to | O:United States
+S:Constitution Of Japan (1947) | P:is related to | O:Article 9 Of The Constitution
+S:Kujikata Osadamegaki | P:is related to | O:Bürgerliches Gesetzbuch
+S:Six Codes | P:is related to | O:Bürgerliches Gesetzbuch
+S:Japan | P:is related to | O:Keiretsu
+S:Japan | P:is related to | O:Lifetime_Employment
+S:Japan | P:is related to | O:Seniority_Based_Career_Advancement
+S:Cooperative_Sector_In_Japan | P:is related to | O:Largest_Consumer_Cooperative
+S:Cooperative_Sector_In_Japan | P:is related to | O:Largest_Agricultural_Cooperative
+S:Largest_Consumer_Cooperative | P:is related to | O:Three_Largest_Cooperatives
+S:Largest_Agricultural_Cooperative | P:is related to | O:Three_Largest_Cooperatives
+S:Japan | P:is related to | O:Toyota
+S:Japan | P:is related to | O:Mitsubishi_Ufj
+S:Japan | P:is related to | O:Ntt
+S:Japan | P:is related to | O:Aeon
+S:Japan | P:is related to | O:Softbank
+S:Japan | P:is related to | O:Hitachi
+S:Japan | P:is related to | O:Itochu
+S:Japan | P:is related to | O:Kintetsu
+S:Japan | P:is related to | O:Seibu_Railway
+S:Japan | P:is related to | O:Keio_Corporation
+S:Japan | P:is related to | O:Jr_Enterprises
+S:Jr_Enterprises | P:is part of | O:Privatization_Of_Jr_1987
+S:Jaxa | P:is related to | O:Japan
+S:Selene | P:was present at | O:Moon
+S:Akatsuki | P:is related to | O:Jaxa
+S:Privatization_Of_Jr_1987 | P:is related to | O:Jr_Enterprises
+S:Privatization_Of_Jr_1987 | P:is related to | O:Japan
+S:Greater_Tokyo_Area | P:is related to | O:Tokyo
+S:Tokyo | P:is related to | O:Haneda_Airport
+S:Airports_In_Japan | P:is related to | O:Japan
+S:Travelandtourismreport2024 | P:is related to | O:Japan
+S:Inbound_Tourism_2019_Rank11 | P:is related to | O:Japan
+S:Ryukyuan Languages | P:is related to | O:Japonic Language Family
+S:Amami | P:is part of | O:Ryukyuan Languages
+S:Kunigami | P:is part of | O:Ryukyuan Languages
+S:Okinawan | P:is part of | O:Ryukyuan Languages
+S:Miyako | P:is part of | O:Ryukyuan Languages
+S:Yaeyama | P:is part of | O:Ryukyuan Languages
+S:Yonaguni | P:is part of | O:Ryukyuan Languages
+S:Amami | P:was present at | O:Ryukyu Islands Chain
+S:Kunigami | P:was present at | O:Ryukyu Islands Chain
+S:Okinawan | P:was present at | O:Ryukyu Islands Chain
+S:Miyako | P:was present at | O:Ryukyu Islands Chain
+S:Yaeyama | P:was present at | O:Ryukyu Islands Chain
+S:Yonaguni | P:was present at | O:Ryukyu Islands Chain
+S:Ainu | P:is related to | O:Language Isolate
+S:Shinto | P:is related to | O:Japan
+S:Buddhism | P:is related to | O:Japan
+S:Taoism | P:is related to | O:Japan
+S:Confucianism | P:is related to | O:Japan
+S:Christianity | P:is related to | O:Japan
+S:Islam | P:is related to | O:Japan
+S:Hinduism | P:is related to | O:Japan
+S:Judaism | P:is related to | O:Japan
+S:Bahá'Í Faith | P:is related to | O:Japan
+S:Ainu Animist Beliefs | P:is related to | O:Ainu
+S:University Of Tokyo | P:is related to | O:Japan
+S:Pisa | P:is related to | O:Oecd
+S:Pisa | P:is related to | O:Japan
+S:Oecd | P:is related to | O:Japan
+S:Mext | P:is related to | O:Japan
+S:Kenzō Tange | P:is related to | O:Japanese Architecture
+S:Ishirō Honda | P:is related to | O:Godzilla
+S:Godzilla | P:is related to | O:Godzilla Film Franchise
+S:Noh | P:is related to | O:Japanese Theater
+S:Kyōgen | P:is related to | O:Japanese Theater
+S:Kabuki | P:is related to | O:Japanese Theater
+S:Bunraku | P:is related to | O:Japanese Theater
+S:Kojiki | P:is related to | O:Japanese Literature
+S:Nihon Shoki | P:is related to | O:Japanese Literature
+S:Man'Yōshū | P:is related to | O:Japanese Literature
+S:Tale Of The Bamboo Cutter | P:is related to | O:Japanese Literature
+S:Pillow Book | P:is related to | O:Japanese Literature
+S:Tale Of Genji | P:is related to | O:Japanese Literature
+S:Haruki Murakami | P:is related to | O:Japanese Literature
+S:Kenji Nakagami | P:is related to | O:Japanese Literature
+S:Natsume Soseki | P:is related to | O:Japanese Literature
+S:Mori Ogai | P:is related to | O:Japanese Literature
+S:Ryūnosuke Akutagawa | P:is related to | O:Japanese Literature
+S:Yasunari Kawabata | P:is related to | O:Japanese Literature
+S:Kenzaburō Ōe | P:is related to | O:Japanese Literature
+S:Unesco World Heritage List | P:is related to | O:Japan
+S:Twenty-Two Sites Inscribed On Unesco World Heritage List | P:is related to | O:Japan
+S:Korean | P:is related to | O:Zainichi Korean Dialect
+S:Korean | P:is related to | O:Korean Language
+S:New Year'S Day | P:is related to | O:Public Holiday Law
+S:Coming Of Age Day | P:is related to | O:Public Holiday Law
+S:National Foundation Day | P:is related to | O:Public Holiday Law
+S:The Emperor'S Birthday | P:is related to | O:Public Holiday Law
+S:Vernal Equinox Day | P:is related to | O:Public Holiday Law
+S:Shōwa Day | P:is related to | O:Public Holiday Law
+S:Constitution Memorial Day | P:is related to | O:Public Holiday Law
+S:Greenery Day | P:is related to | O:Public Holiday Law
+S:Children'S Day | P:is related to | O:Public Holiday Law
+S:Marine Day | P:is related to | O:Public Holiday Law
+S:Mountain Day | P:is related to | O:Public Holiday Law
+S:Respect For The Aged Day | P:is related to | O:Public Holiday Law
+S:Autumnal Equinox | P:is related to | O:Public Holiday Law
+S:Health And Sports Day | P:is related to | O:Public Holiday Law
+S:Culture Day | P:is related to | O:Public Holiday Law
+S:Labor Thanksgiving Day | P:is related to | O:Public Holiday Law
+S:Coming Of Age Day | P:is related to | O:Happy Monday System
+S:Marine Day | P:is related to | O:Happy Monday System
+S:Respect For The Aged Day | P:is related to | O:Happy Monday System
+S:Health And Sports Day | P:is related to | O:Happy Monday System
+S:Summer Olympics 1964 | P:occurs at | O:Tokyo
+S:Winter Olympics 1972 | P:occurs at | O:Sapporo
+S:Winter Olympics 1998 | P:occurs at | O:Nagano
+S:2002 Fifa World Cup | P:occurs at | O:Japan
+S:2002 Fifa World Cup | P:occurs at | O:South Korea
+S:2011 Fifa Women'S World Cup | P:occurs at | O:Japan
+S:2019 Rugby World Cup | P:occurs at | O:Japan
+S:2006 Basketball World Championship | P:occurs at | O:Japan
+S:2023 Basketball World Championship | P:occurs at | O:Japan

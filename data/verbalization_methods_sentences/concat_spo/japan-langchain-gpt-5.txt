@@ -1,0 +1,409 @@
+Japan is contained in East Asia
+Japan is contained in Pacific Ocean
+Sea Of Japan is related to Japan
+Sea Of Okhotsk is related to Japan
+East China Sea is related to Japan
+Japanese Archipelago is part of Japan
+Hokkaido is part of Japanese Archipelago
+Honshu is part of Japanese Archipelago
+Shikoku is part of Japanese Archipelago
+Kyushu is part of Japanese Archipelago
+Okinawa is part of Japanese Archipelago
+Ryukyu Islands is part of Japan
+Okinawa is part of Ryukyu Islands
+Nanpō Islands is part of Japan
+Tokyo is part of Japan
+Nara is part of Japan
+Heijō-Kyō is related to Nara
+Heian-Kyō is related to Kyoto
+Kyoto is part of Japan
+Kamakura is part of Japan
+Edo is part of Japan
+Edo is related to Tokyo
+Osaka is part of Japan
+Nagasaki is part of Japan
+Hiroshima is part of Japan
+Uraga is part of Japan
+Kanagawa is part of Japan
+Lake Biwa is part of Japan
+Fukushima Daiichi is part of Japan
+Manchuria is part of China
+Manchukuo is contained in Manchuria
+Korea is part of East Asia
+Taiwan is part of East Asia
+Karafuto is related to Sakhalin
+Kurils is related to Japan
+Pacific Ring Of Fire is related to Japan
+Japan is part of G7
+National Diet is contained in Japan
+Imperial Diet is contained in Japan
+Privy Council is contained in Japan
+Cabinet is contained in Japan
+Kamakura Shogunate is contained in Japan
+Ashikaga Shogunate is contained in Japan
+Tokugawa Shogunate is contained in Japan
+Council Of Five Elders is contained in Japan
+Hōjō Clan is contained in Japan
+Minamoto Clan is contained in Japan
+Taira Clan is contained in Japan
+Empire Of Japan is related to Japan
+League Of Nations is related to Japan
+Nazi Germany is part of Axis Powers
+Japan is part of Axis Powers
+Allies is related to Japan
+United Nations is related to Japan
+International Military Tribunal For The Far East is related to Japan
+United States Navy is contained in United States
+Environment Ministry is contained in Japan
+World Risk Index is related to Japan
+Environmental Performance Index is related to Japan
+Portuguese Traders is related to Japan
+United States is part of Allies
+Upper Paleolithic occurs at Japanese Archipelago
+Japanese Paleolithic occurs at Japanese Archipelago
+Jōmon Period occurs at Japan
+Yayoi Period occurs at Japan
+Asuka Period occurs at Japan
+Nara Period occurs at Heijō-Kyō
+Heian Period occurs at Heian-Kyō
+Kamakura Period occurs at Kamakura
+Muromachi Period occurs at Japan
+Sengoku Period occurs at Japan
+Azuchi–Momoyama Period occurs at Japan
+Edo Period occurs at Edo
+Meiji Period occurs at Japan
+Taishō Democracy occurs at Japan
+Taika Reforms occurs at Japan
+Taika Reforms is related to China
+Taihō Code occurs at Japan
+Jinshin War occurs at Japan
+Jinshin War is related to Taihō Code
+Move Of Capital To Heian-Kyō (794) occurs at Heian-Kyō
+Move Of Capital To Heian-Kyō (794) is related to Heian Period
+Genpei War occurs at Japan
+Mongol Invasions Of Japan occurs at Japan
+Establishment Of Kamakura Shogunate occurs at Kamakura
+Establishment Of Kamakura Shogunate is related to Kamakura Shogunate
+Overthrow Of Kamakura Shogunate occurs at Japan
+Overthrow Of Kamakura Shogunate is related to Kamakura Shogunate
+Defeat Of Go-Daigo (1336) occurs at Japan
+Defeat Of Go-Daigo (1336) is related to Muromachi Period
+Defeat Of Go-Daigo (1336) is related to Ashikaga Shogunate
+Unification By Toyotomi Hideyoshi occurs at Japan
+Japanese Invasions Of Korea (1592–1598) occurs at Korea
+Battle Of Sekigahara occurs at Japan
+Establishment Of Tokugawa Shogunate occurs at Edo
+Establishment Of Tokugawa Shogunate is related to Tokugawa Shogunate
+Enactment Of Buke Shohatto occurs at Japan
+Sakoku Policy (1639) occurs at Japan
+Perry Expedition occurs at Uraga
+Perry Expedition is related to United States Navy
+Convention Of Kanagawa occurs at Kanagawa
+Convention Of Kanagawa is related to Japan
+Convention Of Kanagawa is related to United States
+Boshin War occurs at Japan
+Meiji Restoration occurs at Japan
+Boshin War is related to Meiji Restoration
+Meiji Constitution occurs at Japan
+Meiji Constitution is related to Imperial Diet
+Meiji Constitution is related to Privy Council
+Meiji Constitution is related to Cabinet
+First Sino-Japanese War occurs at East Asia
+Russo-Japanese War occurs at East Asia
+Annexation Of Korea (1910) occurs at Korea
+Annexation Of Korea (1910) is related to Japan
+World War I occurs at Japan
+Establishment Of Manchukuo (1932) occurs at Manchuria
+Establishment Of Manchukuo (1932) is related to Manchukuo
+Establishment Of Manchukuo (1932) is related to Japan
+Anti-Comintern Pact (1936) is related to Japan
+Anti-Comintern Pact (1936) is related to Nazi Germany
+Tripartite Pact (1940) is related to Japan
+Tripartite Pact (1940) is related to Axis Powers
+Axis Powers was present at World War Ii
+Allies was present at World War Ii
+Empire Of Japan was present at World War Ii
+Invasion Of China (1937) occurs at China
+Invasion Of China (1937) is related to Japan
+Invasion Of French Indochina (1940) occurs at French Indochina
+Invasion Of French Indochina (1940) is related to Japan
+Attack On Pearl Harbor occurs at Pearl Harbor
+Attack On Pearl Harbor is related to Japan
+Attacks On Malaya, Singapore, And Hong Kong (1941) occurs at Malaya
+Attacks On Malaya, Singapore, And Hong Kong (1941) occurs at Singapore
+Attacks On Malaya, Singapore, And Hong Kong (1941) occurs at Hong Kong
+Attacks On Malaya, Singapore, And Hong Kong (1941) is related to Japan
+Pacific War occurs at Pacific Ocean
+Pacific War is part of World War Ii
+Second Sino-Japanese War occurs at China
+Second Sino-Japanese War is part of World War Ii
+Atomic Bombings Of Hiroshima And Nagasaki occurs at Hiroshima
+Atomic Bombings Of Hiroshima And Nagasaki occurs at Nagasaki
+Atomic Bombings Of Hiroshima And Nagasaki is part of World War Ii
+Soviet Invasion Of Manchuria occurs at Manchuria
+Soviet Invasion Of Manchuria is part of World War Ii
+Surrender Of Japan (1945) occurs at Japan
+Surrender Of Japan (1945) is part of World War Ii
+Allied Occupation Of Japan occurs at Japan
+Allied Occupation Of Japan is related to Allies
+Allied Occupation Of Japan is related to United States
+Adoption Of 1947 Constitution occurs at Japan
+Treaty Of San Francisco occurs at San Francisco
+Treaty Of San Francisco is related to Allied Occupation Of Japan
+Treaty Of San Francisco is related to Japan
+United Nations Membership (1956) occurs at Japan
+United Nations Membership (1956) is related to United Nations
+Collapse Of Japanese Asset Price Bubble occurs at Japan
+Lost Decades occurs at Japan
+Collapse Of Japanese Asset Price Bubble is related to Lost Decades
+1923 Great Tokyo Earthquake occurs at Tokyo
+1995 Great Hanshin Earthquake occurs at Japan
+2011 Tōhoku Earthquake occurs at Japan
+2011 Tōhoku Earthquake is related to Fukushima Daiichi Nuclear Disaster
+Fukushima Daiichi Nuclear Disaster occurs at Fukushima Daiichi
+Abdication Of Emperor Akihito (2019) occurs at Japan
+Beginning Of Reiwa Era (2019) occurs at Japan
+Abdication Of Emperor Akihito (2019) is related to Beginning Of Reiwa Era (2019)
+Record Temperature In Japan (2025-08-05) occurs at Japan
+Environmental Protection Laws (1970) occurs at Japan
+1973 Oil Crisis is related to Japan
+Kyoto Protocol (1997) occurs at Kyoto
+Kyoto Protocol (1997) is related to Japan
+Japan 2050 Carbon-Neutrality Target (2020) occurs at Japan
+Introduction Of Buddhism To Japan (552) occurs at Japan
+Introduction Of Buddhism To Japan (552) is related to Baekje
+Introduction Of Buddhism To Japan (552) is related to China
+Prince Shōtoku was present at Introduction Of Buddhism To Japan (552)
+Prince Shōtoku was present at Asuka Period
+Prince Naka No Ōe was present at Taika Reforms
+Fujiwara No Kamatari was present at Taika Reforms
+Prince Ōama was present at Jinshin War
+Prince Ōtomo was present at Jinshin War
+Emperor Kanmu was present at Move Of Capital To Heian-Kyō (794)
+Murasaki Shikibu was present at Heian Period
+Minamoto Clan was present at Genpei War
+Taira Clan was present at Genpei War
+Minamoto No Yoritomo was present at Genpei War
+Minamoto No Yoritomo was present at Establishment Of Kamakura Shogunate
+Hōjō Clan was present at Kamakura Period
+Emperor Go-Daigo was present at Overthrow Of Kamakura Shogunate
+Emperor Go-Daigo was present at Defeat Of Go-Daigo (1336)
+Ashikaga Takauji was present at Defeat Of Go-Daigo (1336)
+Oda Nobunaga was present at Azuchi–Momoyama Period
+Toyotomi Hideyoshi was present at Unification By Toyotomi Hideyoshi
+Toyotomi Hideyoshi was present at Japanese Invasions Of Korea (1592–1598)
+Tokugawa Ieyasu was present at Battle Of Sekigahara
+Tokugawa Ieyasu was present at Establishment Of Tokugawa Shogunate
+Toyotomi Hideyori is related to Council Of Five Elders
+Tokugawa Ieyasu is part of Council Of Five Elders
+Emperor Go-Yōzei was present at Establishment Of Tokugawa Shogunate
+Matthew C. Perry was present at Perry Expedition
+United States Navy was present at Perry Expedition
+Legendary Founding By Emperor Jimmu (660 Bc) occurs at Japan
+Emperor Jimmu was present at Legendary Founding By Emperor Jimmu (660 Bc)
+Amaterasu is related to Emperor Jimmu
+Emperor Akihito was present at Abdication Of Emperor Akihito (2019)
+Naruhito was present at Beginning Of Reiwa Era (2019)
+National Diet was present at Adoption Of 1947 Constitution
+United Nations was present at United Nations Membership (1956)
+Completion Of Kojiki (712) occurs at Heijō-Kyō
+Completion Of Nihon Shoki (720) occurs at Heijō-Kyō
+735–737 Smallpox Epidemic In Japan occurs at Japan
+Writing Of Kimigayo Lyrics occurs at Japan
+Writing Of Kimigayo Lyrics is related to Heian Period
+Creation Of The Tale Of Genji occurs at Japan
+Creation Of The Tale Of Genji is related to Heian Period
+Murasaki Shikibu was present at Creation Of The Tale Of Genji
+Meiji Period is related to Empire Of Japan
+Meiji Period is related to First Sino-Japanese War
+Meiji Period is related to Russo-Japanese War
+Treaty Of San Francisco is related to United States
+Portuguese Traders is related to Southeast Asia
+Portuguese Traders is related to Europe
+Government Of Japan is contained in Japan
+National Diet is part of Government Of Japan
+Cabinet is part of Government Of Japan
+Supreme Court is part of Government Of Japan
+Ministry Of Defense is part of Government Of Japan
+Japan Self-Defense Forces (Sjdf) is part of Ministry Of Defense
+Japan Ground Self-Defense Force is part of Japan Self-Defense Forces (Sjdf)
+Japan Maritime Self-Defense Force is part of Japan Self-Defense Forces (Sjdf)
+Japan Air Self-Defense Force is part of Japan Self-Defense Forces (Sjdf)
+Japan Self-Defense Forces (Sjdf) is related to Article 9 Of The Constitution Of Japan
+Article 9 Of The Constitution Of Japan is part of Constitution Of Japan
+National Security Council is part of Government Of Japan
+Prefectural Police Departments is related to National Police Agency
+National Police Agency is related to National Public Safety Commission
+Special Assault Team is related to National Police Agency
+Special Assault Team is related to Anti-Firearms Squads
+Special Assault Team is related to Counter-Nbc Terrorism Squads
+Japan Coast Guard is part of Government Of Japan
+Japan Coast Guard is contained in Japan
+Japan is part of United Nations
+Japan is part of G4
+G4 is related to United Nations Security Council
+United Nations Security Council is part of United Nations
+Japan is part of G7
+Japan is part of Apec
+Japan is part of Asean Plus Three
+Japan is part of East Asia Summit
+Japan is part of Quadrilateral Security Dialogue
+United States is part of Quadrilateral Security Dialogue
+Australia is part of Quadrilateral Security Dialogue
+India is part of Quadrilateral Security Dialogue
+Japan is related to United States
+Fukushima Daiichi Nuclear Disaster occurs at Japan
+All Nuclear Power Plants Taken Offline (May 2012) occurs at Japan
+Sendai Nuclear Power Plant Restart (2015) occurs at Sendai Nuclear Power Plant
+Deployment Of Troops To Iraq And Afghanistan occurs at Iraq
+Deployment Of Troops To Iraq And Afghanistan occurs at Afghanistan
+Japan Self-Defense Forces (Sjdf) was present at Deployment Of Troops To Iraq And Afghanistan
+Tokyo is contained in Japan
+Tokyo is part of Greater Tokyo Area
+Haneda Airport is contained in Tokyo
+Keihin is contained in Japan
+Hanshin is contained in Japan
+Tanegashima Space Center is contained in Japan
+Japan Aerospace Exploration Agency is contained in Japan
+Japan Aerospace Exploration Agency is related to International Space Station
+Japanese Experiment Module (Kibō) is part of International Space Station
+Kibō Added To International Space Station (2008) occurs at International Space Station
+Japanese Experiment Module (Kibō) was present at Kibō Added To International Space Station (2008)
+Akatsuki is related to Japan Aerospace Exploration Agency
+Akatsuki Launch (2010) occurs at Tanegashima Space Center
+Akatsuki was present at Akatsuki Launch (2010)
+Akatsuki Orbit Around Venus (2015) occurs at Venus
+Akatsuki was present at Akatsuki Orbit Around Venus (2015)
+Selene (Selenological And Engineering Explorer) is related to Japan Aerospace Exploration Agency
+Selene Launch (2007) occurs at Tanegashima Space Center
+Selene (Selenological And Engineering Explorer) was present at Selene Launch (2007)
+Selene Lunar Orbit Insertion (2007) occurs at Moon
+Selene (Selenological And Engineering Explorer) was present at Selene Lunar Orbit Insertion (2007)
+Selene Impact On Moon (2009) occurs at Moon
+Selene (Selenological And Engineering Explorer) was present at Selene Impact On Moon (2009)
+Jr Enterprises is contained in Japan
+Kintetsu is contained in Japan
+Seibu Railway is contained in Japan
+Keio Corporation is contained in Japan
+Shinkansen is contained in Japan
+Shinkansen is related to Jr Enterprises
+Toyota is contained in Japan
+Mitsubishi Ufj is contained in Japan
+Ntt is contained in Japan
+Aeon is contained in Japan
+Softbank is contained in Japan
+Hitachi is contained in Japan
+Itochu is contained in Japan
+Southern Kuril Islands is related to Japan
+Southern Kuril Islands is related to Russia
+Liancourt Rocks is related to Japan
+Liancourt Rocks is related to South Korea
+Senkaku Islands is related to Japan
+Senkaku Islands is related to China
+Senkaku Islands is related to Taiwan
+Okinotorishima is related to Japan
+Okinotorishima is related to China
+Okinotorishima is related to Taiwan
+United Nations Office On Drugs And Crime is related to Japan
+World War Ii occurs at Japan
+Emperor Of Japan is related to Constitution Of Japan
+National Diet is related to Constitution Of Japan
+House Of Representatives is part of National Diet
+House Of Councillors is part of National Diet
+Liberal Democratic Party is contained in Japan
+Ishin is contained in Japan
+Sanae Takaichi is related to Government Of Japan
+Sanae Takaichi is related to Liberal Democratic Party
+Sanae Takaichi was present at 2025 Liberal Democratic Party Leadership Election
+2025 Liberal Democratic Party Leadership Election occurs at Japan
+Ishin is related to Sanae Takaichi
+Cabinet is related to Sanae Takaichi
+Naruhito is related to Emperor Of Japan
+Naruhito is related to Akihito
+Accession To The Chrysanthemum Throne (2019) occurs at Japan
+Naruhito was present at Accession To The Chrysanthemum Throne (2019)
+Accession To The Chrysanthemum Throne (2019) is related to Chrysanthemum Throne
+Naruhito is contained in Japan
+Akihito is contained in Japan
+Shinzo Abe is related to Government Of Japan
+Fumio Kishida is related to Government Of Japan
+Japan Revised Immigration Law Enacted (2019) occurs at Japan
+Tokyo is contained in Japan
+Sapporo is contained in Japan
+Nagano is contained in Japan
+Government Of Japan is contained in Japan
+Imperial Household Agency is contained in Japan
+Imperial House Of Japan is contained in Japan
+National Diet Library is contained in Japan
+Japangov is part of Government Of Japan
+Japangov is contained in Japan
+Prime Minister Of Japan And His Cabinet is part of Government Of Japan
+Prime Minister Of Japan And His Cabinet is contained in Japan
+Mext is contained in Japan
+University Of Tokyo is contained in Tokyo
+Nippon Professional Baseball is contained in Japan
+Japan Professional Football League (J.League) is contained in Japan
+Super Gt is contained in Japan
+Super Formula is contained in Japan
+Unesco World Heritage List is part of Unesco
+Programme For International Student Assessment (Pisa) is part of Oecd
+Oecd is related to Japan
+Unesco is related to Japan
+Unesco World Heritage List is related to Japan
+Programme For International Student Assessment (Pisa) is related to Japan
+University Of Tokyo is related to Japan
+Formula One is related to Japan
+Motogp is related to Japan
+World Rally Championship is related to Japan
+Ucb Libraries Govpubs is related to Japan
+Bbc News is related to Japan
+Openstreetmap is related to Japan
+Asia is related to Japan
+Europe is related to Japan
+North America is related to Japan
+Ryukyu Kingdom is related to Japan
+Kenzō Tange is related to Japan
+Natsume Sōseki is related to Japan
+Mori Ōgai is related to Japan
+Ryūnosuke Akutagawa is related to Japan
+Jun'Ichirō Tanizaki is related to Japan
+Kafū Nagai is related to Japan
+Haruki Murakami is related to Japan
+Kenji Nakagami is related to Japan
+Yasunari Kawabata is related to Japan
+Kenzaburō Ōe is related to Japan
+Sei Shōnagon is related to Japan
+Murasaki Shikibu is related to Japan
+Bashō is related to Japan
+Saikaku is related to Japan
+Ishirō Honda is related to Japan
+Yasunari Kawabata is related to Nobel Prize
+Kenzaburō Ōe is related to Nobel Prize
+Japanese Grand Prix occurs at Japan
+Japanese Grand Prix is related to Formula One
+1964 Summer Olympics occurs at Tokyo
+1972 Winter Olympics occurs at Sapporo
+1998 Winter Olympics occurs at Nagano
+2002 Fifa World Cup occurs at Japan
+2002 Fifa World Cup occurs at South Korea
+2020 Summer Olympics occurs at Tokyo
+2019 Irb Rugby World Cup occurs at Japan
+2006 Basketball World Championship occurs at Japan
+2023 Basketball World Championship occurs at Japan
+April 2016 Nine-Year Compulsory Schooling Integration occurs at Japan
+New Year'S Day occurs at Japan
+Coming Of Age Day occurs at Japan
+National Foundation Day occurs at Japan
+The Emperor'S Birthday occurs at Japan
+Vernal Equinox Day occurs at Japan
+Shōwa Day occurs at Japan
+Constitution Memorial Day occurs at Japan
+Greenery Day occurs at Japan
+Children'S Day occurs at Japan
+Marine Day occurs at Japan
+Mountain Day occurs at Japan
+Respect For The Aged Day occurs at Japan
+Autumnal Equinox occurs at Japan
+Health And Sports Day occurs at Japan
+Culture Day occurs at Japan
+Labor Thanksgiving Day occurs at Japan

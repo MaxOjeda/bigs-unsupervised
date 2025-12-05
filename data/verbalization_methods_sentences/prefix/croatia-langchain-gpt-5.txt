@@ -1,0 +1,653 @@
+S:Croatia | P:is contained in | O:Europe
+S:Croatia | P:is contained in | O:Central Europe
+S:Croatia | P:is contained in | O:Southeast Europe
+S:Croatia | P:is related to | O:Adriatic Sea
+S:Zagreb | P:is contained in | O:Croatia
+S:Split | P:is contained in | O:Croatia
+S:Rijeka | P:is contained in | O:Croatia
+S:Osijek | P:is contained in | O:Croatia
+S:Croatia | P:is related to | O:Slovenia
+S:Croatia | P:is related to | O:Hungary
+S:Croatia | P:is related to | O:Serbia
+S:Croatia | P:is related to | O:Bosnia And Herzegovina
+S:Croatia | P:is related to | O:Montenegro
+S:Croatia | P:is related to | O:Italy
+S:Hvar | P:is contained in | O:Croatia
+S:Korčula | P:is contained in | O:Croatia
+S:Vis | P:is contained in | O:Croatia
+S:Krk Island | P:is contained in | O:Croatia
+S:Dubrovnik | P:is contained in | O:Croatia
+S:Sisak | P:is contained in | O:Croatia
+S:Cetin | P:is contained in | O:Croatia
+S:Krapina | P:is contained in | O:Croatia
+S:Dalmatia | P:is contained in | O:Croatia
+S:Slavonia | P:is contained in | O:Croatia
+S:Croatian Littoral | P:is part of | O:Kingdom Of Croatia
+S:Croatia | P:is part of | O:European Union
+S:Croatia | P:is part of | O:Eurozone
+S:Croatia | P:is part of | O:Schengen Area
+S:Croatia | P:is part of | O:Nato
+S:Croatia | P:is part of | O:United Nations
+S:Croatia | P:is part of | O:Council Of Europe
+S:Croatia | P:is part of | O:Osce
+S:Croatia | P:is part of | O:World Trade Organization
+S:Croatia | P:is part of | O:Union For The Mediterranean
+S:Croatia | P:is related to | O:Oecd
+S:Croatia | P:is related to | O:International Security Assistance Force
+S:United Nations Security Council 2008–2009 Croatian Membership | P:occurs at | O:United Nations
+S:Croatia | P:was present at | O:United Nations Security Council 2008–2009 Croatian Membership
+S:Lng Hrvatska | P:is related to | O:Krk Island
+S:Croatia | P:is related to | O:Lng Hrvatska
+S:Lng Hrvatska | P:is related to | O:Europe
+S:Croats | P:is related to | O:Croatia
+S:Croatia | P:is part of | O:Roman Illyria
+S:Croatia | P:is part of | O:Roman Empire
+S:Papal Recognition Of Branimir On 7 June 879 | P:occurs at | O:Croatia
+S:Duke Branimir | P:was present at | O:Papal Recognition Of Branimir On 7 June 879
+S:Pope John Viii | P:was present at | O:Papal Recognition Of Branimir On 7 June 879
+S:Coronation Of Tomislav 925 | P:occurs at | O:Croatia
+S:Tomislav | P:was present at | O:Coronation Of Tomislav 925
+S:Personal Union With Hungary 1102 | P:occurs at | O:Croatia
+S:Coloman | P:was present at | O:Personal Union With Hungary 1102
+S:Kingdom Of Hungary | P:was present at | O:Personal Union With Hungary 1102
+S:Kingdom Of Croatia | P:was present at | O:Personal Union With Hungary 1102
+S:Election Of Ferdinand I 1527 | P:occurs at | O:Cetin
+S:Croatian Parliament | P:was present at | O:Election Of Ferdinand I 1527
+S:Ferdinand I Of Austria | P:was present at | O:Election Of Ferdinand I 1527
+S:House Of Habsburg | P:was present at | O:Election Of Ferdinand I 1527
+S:Proclamation Of State Of Slovenes, Croats, And Serbs In Zagreb 1918 | P:occurs at | O:Zagreb
+S:State Of Slovenes, Croats, And Serbs | P:was present at | O:Proclamation Of State Of Slovenes, Croats, And Serbs In Zagreb 1918
+S:Proclamation Of State Of Slovenes, Croats, And Serbs In Zagreb 1918 | P:is related to | O:Habsburg Empire
+S:Merger Into Kingdom Of Yugoslavia December 1918 | P:was present at | O:State Of Slovenes, Croats, And Serbs
+S:Merger Into Kingdom Of Yugoslavia December 1918 | P:was present at | O:Kingdom Of Yugoslavia
+S:Axis Invasion Of Yugoslavia April 1941 | P:occurs at | O:Kingdom Of Yugoslavia
+S:Nazi Germany | P:was present at | O:Axis Invasion Of Yugoslavia April 1941
+S:Fascist Italy | P:was present at | O:Axis Invasion Of Yugoslavia April 1941
+S:Creation Of Independent State Of Croatia 1941 | P:occurs at | O:Croatia
+S:Ante Pavelić | P:was present at | O:Creation Of Independent State Of Croatia 1941
+S:Ustaše | P:was present at | O:Creation Of Independent State Of Croatia 1941
+S:Independent State Of Croatia | P:is related to | O:Nazi Germany
+S:Independent State Of Croatia | P:is related to | O:Fascist Italy
+S:Ustaše | P:is related to | O:Serbs
+S:Ustaše | P:is related to | O:Jews
+S:Ustaše | P:is related to | O:Roma
+S:Chetniks | P:is related to | O:Croats
+S:Chetniks | P:is related to | O:Muslims
+S:Jasenovac | P:is contained in | O:Croatia
+S:1944 Lipa Massacre | P:occurs at | O:Lipa
+S:Nazi Germany | P:was present at | O:1944 Lipa Massacre
+S:1944 Kamešnica Crimes | P:occurs at | O:Kamešnica
+S:Nazi Germany | P:was present at | O:1944 Kamešnica Crimes
+S:Formation Of 1St Sisak Partisan Detachment 22 June 1941 | P:occurs at | O:Sisak
+S:1St Sisak Partisan Detachment | P:was present at | O:Formation Of 1St Sisak Partisan Detachment 22 June 1941
+S:Yugoslav Partisans | P:was present at | O:Tehran Conference
+S:Belgrade Offensive 1944 | P:was present at | O:Soviet Troops
+S:State Anti-Fascist Council For The National Liberation Of Croatia | P:is related to | O:Croatian Parliament
+S:Socialist Republic Of Croatia | P:is part of | O:Socialist Federal Republic Of Yugoslavia
+S:Croatia Declaration Of Independence 25 June 1991 | P:occurs at | O:Croatia
+S:Croatia | P:was present at | O:Croatia Declaration Of Independence 25 June 1991
+S:Croatian War Of Independence | P:occurs at | O:Croatia
+S:Avar And Croat Invasions (Late 6Th–7Th Century) | P:occurs at | O:Croatia
+S:Avars | P:was present at | O:Avar And Croat Invasions (Late 6Th–7Th Century)
+S:Croats | P:was present at | O:Avar And Croat Invasions (Late 6Th–7Th Century)
+S:White Croats | P:is related to | O:White Croatia
+S:Croats | P:is related to | O:White Croats
+S:Migration Period | P:is related to | O:Croats
+S:Duchy Of Croatia | P:is part of | O:Francia
+S:Borna | P:is related to | O:Duchy Of Croatia
+S:Principality Of Lower Pannonia | P:is related to | O:Duchy Of Croatia
+S:Ljudevit | P:is related to | O:Principality Of Lower Pannonia
+S:Ljudevit | P:is related to | O:Sisak
+S:Archon Porga Of Croatia | P:is related to | O:Croatia
+S:Trpimir I | P:is related to | O:Trpimirović Dynasty
+S:Trpimirović Dynasty | P:is related to | O:Croatia
+S:Petar Krešimir Iv | P:is related to | O:Kingdom Of Croatia
+S:Dmitar Zvonimir | P:is related to | O:Kingdom Of Croatia
+S:Frankopan Family | P:is related to | O:Kingdom Of Croatia
+S:Šubić Family | P:is related to | O:Kingdom Of Croatia
+S:Battle Of Krbava Field 1493 | P:occurs at | O:Krbava Field
+S:Battle Of Mohács 1526 | P:occurs at | O:Mohács
+S:Battle Of Sisak 1593 | P:occurs at | O:Sisak
+S:Ottoman Empire | P:was present at | O:Battle Of Sisak 1593
+S:Great Turkish War (1683–1698) | P:was present at | O:Ottoman Empire
+S:Slavonia | P:is related to | O:Great Turkish War (1683–1698)
+S:Fifth Ottoman–Venetian War | P:was present at | O:Republic Of Venice
+S:Fifth Ottoman–Venetian War | P:was present at | O:Ottoman Empire
+S:Seventh Ottoman–Venetian War | P:was present at | O:Republic Of Venice
+S:Seventh Ottoman–Venetian War | P:was present at | O:Ottoman Empire
+S:Dalmatia | P:is related to | O:Republic Of Venice
+S:Bosnians | P:is related to | O:Croatian Military Frontier
+S:Croatian Parliament | P:was present at | O:Pragmatic Sanction Of 1712
+S:Maria Theresa | P:is related to | O:Croatia
+S:Battle Of Vis 1811 | P:occurs at | O:Vis
+S:Royal Navy | P:was present at | O:Battle Of Vis 1811
+S:Austrian Capture Of Illyrian Provinces 1813 | P:occurs at | O:Illyrian Provinces
+S:Austrian Empire | P:was present at | O:Austrian Capture Of Illyrian Provinces 1813
+S:Croatian National Revival | P:occurs at | O:Croatia
+S:Hungarian Revolution Of 1848 | P:occurs at | O:Croatia
+S:Croatia | P:was present at | O:Hungarian Revolution Of 1848
+S:Josip Jelačić | P:was present at | O:Hungarian Revolution Of 1848
+S:Birth Of Nikola Tesla | P:occurs at | O:Smiljin
+S:Nikola Tesla | P:was present at | O:Birth Of Nikola Tesla
+S:Austro-Hungarian Compromise Of 1867 | P:occurs at | O:Austria-Hungary
+S:Croatian–Hungarian Settlement Of 1868 | P:occurs at | O:Kingdom Of Croatia
+S:Kingdom Of Slavonia | P:is part of | O:Kingdom Of Croatia
+S:Croatian Military Frontier | P:is part of | O:Croatia
+S:Treaty Of Berlin 1878 | P:occurs at | O:Bosnia And Herzegovina
+S:Austria-Hungary | P:was present at | O:Treaty Of Berlin 1878
+S:Croatian Independence Declaration 29 October 1918 | P:occurs at | O:Croatia
+S:Croatian Parliament | P:was present at | O:Croatian Independence Declaration 29 October 1918
+S:Formation Of Kingdom Of Serbs, Croats, And Slovenes (4 December 1918) | P:was present at | O:Kingdom Of Serbia
+S:Formation Of Kingdom Of Serbs, Croats, And Slovenes (4 December 1918) | P:was present at | O:State Of Slovenes, Croats, And Serbs
+S:Formation Of Kingdom Of Serbs, Croats, And Slovenes (4 December 1918) | P:was present at | O:Kingdom Of Serbs, Croats, And Slovenes
+S:1921 Constitution Of The Kingdom Of Serbs, Croats, And Slovenes | P:occurs at | O:Kingdom Of Yugoslavia
+S:Croatian Peasant Party (Hss) | P:is related to | O:Stjepan Radić
+S:Assassination Of Stjepan Radić 1928 | P:occurs at | O:National Assembly
+S:Stjepan Radić | P:was present at | O:Assassination Of Stjepan Radić 1928
+S:Puniša Račić | P:was present at | O:Assassination Of Stjepan Radić 1928
+S:Nrs | P:was present at | O:Assassination Of Stjepan Radić 1928
+S:6 January Dictatorship | P:occurs at | O:Kingdom Of Yugoslavia
+S:King Alexander I | P:was present at | O:6 January Dictatorship
+S:1931 Constitution | P:occurs at | O:Kingdom Of Yugoslavia
+S:Cvetković–Maček Agreement (August 1939) | P:occurs at | O:Kingdom Of Yugoslavia
+S:Vladko Maček | P:was present at | O:Cvetković–Maček Agreement (August 1939)
+S:Banovina Of Croatia | P:is part of | O:Kingdom Of Yugoslavia
+S:Julius Nepos | P:is related to | O:Split
+S:Julius Nepos | P:is related to | O:Italy
+S:Diocletian | P:is related to | O:Split
+S:Diocletian | P:is related to | O:Croatia
+S:Founding Of Dubrovnik | P:occurs at | O:Dubrovnik
+S:Founding Of Dubrovnik | P:is related to | O:Epidaurum
+S:United Nations Security Council 2008–2009 Croatian Membership | P:is related to | O:United Nations Security Council
+S:1986 Sanu Memorandum | P:occurs at | O:Socialist Federal Republic Of Yugoslavia
+S:1989 Coups In Vojvodina, Kosovo, And Montenegro | P:occurs at | O:Vojvodina
+S:1989 Coups In Vojvodina, Kosovo, And Montenegro | P:occurs at | O:Kosovo
+S:1989 Coups In Vojvodina, Kosovo, And Montenegro | P:occurs at | O:Montenegro
+S:1990 Croatian Multi-Party Elections | P:occurs at | O:Croatia
+S:Franjo Tuđman | P:was present at | O:1990 Croatian Multi-Party Elections
+S:Declaration Of Autonomy Of Republic Of Serbian Krajina | P:occurs at | O:Croatia
+S:Republic Of Serbian Krajina | P:was present at | O:Declaration Of Autonomy Of Republic Of Serbian Krajina
+S:Burgenland Croats | P:is related to | O:Croats
+S:Greeks | P:is related to | O:Hvar
+S:Greeks | P:is related to | O:Korčula
+S:Greeks | P:is related to | O:Vis
+S:Illyrians | P:is related to | O:Croatia
+S:Liburnians | P:is related to | O:Croatia
+S:Allies | P:was present at | O:Tehran Conference
+S:Vladimir Žerjavić | P:is related to | O:Croatia
+S:Bogoljub Kočović | P:is related to | O:Croatia
+S:1974 Yugoslav Constitution | P:occurs at | O:Socialist Federal Republic Of Yugoslavia
+S:Death Of Josip Broz Tito 1980 | P:was present at | O:Josip Broz Tito
+S:Death Of Josip Broz Tito 1980 | P:occurs at | O:Socialist Federal Republic Of Yugoslavia
+S:Communists | P:is related to | O:Socialist Federal Republic Of Yugoslavia
+S:1990 Communist Party Fragmentation | P:occurs at | O:Socialist Federal Republic Of Yugoslavia
+S:Communist Party | P:was present at | O:1990 Communist Party Fragmentation
+S:United Nations Security Council 2008–2009 Croatian Membership | P:is related to | O:United Nations Security Council
+S:Louis Ii | P:was present at | O:Battle Of Mohács 1526
+S:Croatia | P:is contained in | O:Central Europe
+S:Croatia | P:is contained in | O:Southeast Europe
+S:Croatia | P:is related to | O:Adriatic Sea
+S:Croatia | P:is related to | O:Hungary
+S:Croatia | P:is related to | O:Serbia
+S:Croatia | P:is related to | O:Bosnia And Herzegovina
+S:Croatia | P:is related to | O:Montenegro
+S:Croatia | P:is related to | O:Slovenia
+S:Dubrovnik | P:is contained in | O:Croatia
+S:Neum | P:is contained in | O:Bosnia And Herzegovina
+S:Pelješac Bridge | P:is related to | O:Dubrovnik
+S:Pelješac Bridge | P:is related to | O:Croatia
+S:Eastern Slavonia | P:is contained in | O:Slavonia
+S:Western Slavonia | P:is contained in | O:Slavonia
+S:Slavonia | P:is contained in | O:Croatia
+S:Hrvatsko Zagorje | P:is contained in | O:Croatia
+S:Vukovar | P:is contained in | O:Croatia
+S:Vojvodina | P:is contained in | O:Serbia
+S:Dinaric Alps | P:is contained in | O:Croatia
+S:Dinara | P:is contained in | O:Dinaric Alps
+S:Dinara | P:is related to | O:Bosnia And Herzegovina
+S:Insular Croatia | P:is contained in | O:Croatia
+S:Cres | P:is contained in | O:Croatia
+S:Krk | P:is contained in | O:Croatia
+S:Hvar | P:is contained in | O:Croatia
+S:Korčula | P:is contained in | O:Croatia
+S:Biševo | P:is contained in | O:Croatia
+S:Lastovo | P:is contained in | O:Croatia
+S:Svetac | P:is contained in | O:Croatia
+S:Vis | P:is contained in | O:Croatia
+S:Velebit | P:is contained in | O:Croatia
+S:Biokovo | P:is contained in | O:Croatia
+S:Lika | P:is contained in | O:Croatia
+S:Gorski Kotar | P:is contained in | O:Croatia
+S:Risnjak | P:is contained in | O:Gorski Kotar
+S:Snježnik | P:is contained in | O:Gorski Kotar
+S:Plitvice Lakes | P:is contained in | O:Croatia
+S:Plitvice Lakes National Park | P:is contained in | O:Croatia
+S:Velebit Nature Park | P:is contained in | O:Croatia
+S:Zrmanja | P:is contained in | O:Croatia
+S:Krka | P:is contained in | O:Croatia
+S:Danube | P:is related to | O:Croatia
+S:Drava | P:is related to | O:Croatia
+S:Kupa | P:is related to | O:Croatia
+S:Sava | P:is related to | O:Croatia
+S:Danube | P:is related to | O:Vukovar
+S:Danube | P:is related to | O:Vojvodina
+S:Zagreb | P:is contained in | O:Croatia
+S:Banski Dvori | P:is contained in | O:Zagreb
+S:Croatian Government | P:is related to | O:Banski Dvori
+S:Krajina | P:is contained in | O:Croatia
+S:Plitvice Lakes National Park | P:is part of | O:Unesco World Heritage Site
+S:Unesco World Heritage Site | P:is part of | O:Unesco
+S:Velebit Nature Park | P:is part of | O:Unesco Man And The Biosphere Programme
+S:Croatian Armed Forces | P:is related to | O:General Staff
+S:Air Force | P:is part of | O:Croatian Armed Forces
+S:Army | P:is part of | O:Croatian Armed Forces
+S:Navy | P:is part of | O:Croatian Armed Forces
+S:Education And Training Command | P:is part of | O:Croatian Armed Forces
+S:Support Command | P:is part of | O:Croatian Armed Forces
+S:General Staff | P:is part of | O:Croatian Armed Forces
+S:Security And Intelligence Agency (Soa) | P:is related to | O:Croatia
+S:Ministry Of The Interior | P:is related to | O:Croatia
+S:Constitutional Court | P:is related to | O:Croatia
+S:Supreme Court | P:is related to | O:Croatia
+S:Sabor | P:is related to | O:Croatia
+S:Croatian Democratic Union | P:is related to | O:Croatia
+S:Social Democratic Party Of Croatia | P:is related to | O:Croatia
+S:European Bank For Reconstruction And Development (Ebrd) | P:is related to | O:Croatia
+S:International Organization For Migration (Iom) | P:is related to | O:Croatia
+S:Organization For Security And Co-Operation In Europe (Osce) | P:is related to | O:Croatia
+S:World Bank | P:is related to | O:Croatia
+S:World Health Organization (Who) | P:is related to | O:Croatia
+S:International Criminal Tribunal For The Former Yugoslavia (Icty) | P:is related to | O:Croatia
+S:United Nations Development Programme (Undp) | P:is related to | O:Croatia
+S:United Nations High Commissioner For Refugees (Unhcr) | P:is related to | O:Croatia
+S:Unicef | P:is related to | O:Croatia
+S:Hs Produkt | P:is related to | O:Croatian Armed Forces
+S:Đuro Đaković | P:is related to | O:Croatian Armed Forces
+S:Oecd Council | P:is part of | O:Oecd
+S:United Nations Security Council | P:is part of | O:United Nations
+S:Croatia | P:is part of | O:European Union
+S:Croatia | P:is part of | O:Nato
+S:Croatia | P:is part of | O:World Trade Organization
+S:Croatia | P:is part of | O:Partnership For Peace
+S:Croatia | P:is part of | O:Eurozone
+S:Croatia | P:is part of | O:Schengen Area
+S:Croatia | P:is part of | O:Erm Ii
+S:Croatia | P:is part of | O:United Nations
+S:Croatia Independence Declaration (25 June 1991) | P:occurs at | O:Croatia
+S:Full Implementation Of Croatia'S Independence Declaration (8 October 1991) | P:occurs at | O:Croatia
+S:War In Croatia Escalation (1991) | P:occurs at | O:Croatia
+S:War In Croatia Escalation (1991) | P:was present at | O:Yugoslav People'S Army (Jna)
+S:War In Croatia Escalation (1991) | P:was present at | O:Serb Paramilitary Groups
+S:War In Croatia Ended (August 1995) | P:occurs at | O:Croatia
+S:Victory And Homeland Thanksgiving Day And The Day Of Croatian Defenders (5 August Annually) | P:occurs at | O:Croatia
+S:Erdut Agreement (November 1995) | P:occurs at | O:Croatia
+S:Untaes Mission Concluded (January 1998) | P:occurs at | O:Croatia
+S:Untaes Mission Concluded (January 1998) | P:was present at | O:Untaes
+S:Eec Recognition Of Croatia (15 January 1992) | P:occurs at | O:Croatia
+S:Eec Recognition Of Croatia (15 January 1992) | P:was present at | O:European Economic Community
+S:Un Recognition Of Croatia | P:occurs at | O:Croatia
+S:Un Recognition Of Croatia | P:was present at | O:United Nations
+S:Constitution Adopted (22 December 1990) | P:occurs at | O:Croatia
+S:Constitutional Amendments (November 2000) | P:occurs at | O:Croatia
+S:Constitutional Amendments (November 2000) | P:was present at | O:Sabor
+S:Constitutional Amendments (March 2001) | P:occurs at | O:Croatia
+S:Constitutional Amendments (March 2001) | P:was present at | O:Sabor
+S:Joined Partnership For Peace (25 May 2000) | P:occurs at | O:Croatia
+S:Joined Partnership For Peace (25 May 2000) | P:was present at | O:Partnership For Peace
+S:Joined World Trade Organization (30 November 2000) | P:occurs at | O:Croatia
+S:Joined World Trade Organization (30 November 2000) | P:was present at | O:World Trade Organization
+S:Stabilisation And Association Agreement Signed With The European Union (29 October 2001) | P:occurs at | O:Croatia
+S:Stabilisation And Association Agreement Signed With The European Union (29 October 2001) | P:was present at | O:European Union
+S:Eu Membership Application Submitted (2003) | P:occurs at | O:Croatia
+S:Eu Membership Application Submitted (2003) | P:was present at | O:European Union
+S:Eu Candidate Status Granted (2004) | P:occurs at | O:Croatia
+S:Eu Candidate Status Granted (2004) | P:was present at | O:European Union
+S:Eu Accession Negotiations Began (2005) | P:occurs at | O:Croatia
+S:Eu Accession Negotiations Began (2005) | P:was present at | O:European Union
+S:Eu Accession Negotiations Completed (30 June 2011) | P:occurs at | O:Croatia
+S:Eu Accession Negotiations Completed (30 June 2011) | P:was present at | O:European Union
+S:Accession Treaty With The European Union Signed (9 December 2011) | P:occurs at | O:Croatia
+S:Accession Treaty With The European Union Signed (9 December 2011) | P:was present at | O:European Union
+S:Eu Membership Referendum (22 January 2012) | P:occurs at | O:Croatia
+S:Joined The European Union (1 July 2013) | P:occurs at | O:Croatia
+S:Joined The European Union (1 July 2013) | P:was present at | O:European Union
+S:Served On The United Nations Security Council (2008–2009 Term; Seat Assumed December 2008) | P:occurs at | O:Croatia
+S:Served On The United Nations Security Council (2008–2009 Term; Seat Assumed December 2008) | P:was present at | O:United Nations Security Council
+S:Served On The United Nations Security Council (2008–2009 Term; Seat Assumed December 2008) | P:was present at | O:United Nations
+S:Joined Nato (1 April 2009) | P:occurs at | O:Croatia
+S:Joined Nato (1 April 2009) | P:was present at | O:Nato
+S:2008 Financial Crisis Spending Cuts In Croatia | P:occurs at | O:Croatia
+S:Anti-Government Protests (2011) | P:occurs at | O:Croatia
+S:Parliament Dissolution Vote (28 October 2011) | P:occurs at | O:Croatia
+S:Parliament Dissolution Vote (28 October 2011) | P:was present at | O:Sabor
+S:Dissolution Of Sabor Agreed By President (31 October 2011) | P:occurs at | O:Croatia
+S:Dissolution Of Sabor Agreed By President (31 October 2011) | P:was present at | O:Ivo Josipović
+S:Elections (4 December 2011) | P:occurs at | O:Croatia
+S:2015 European Migrant Crisis In Croatia | P:occurs at | O:Croatia
+S:Andrej Plenković Became Prime Minister (19 October 2016) | P:occurs at | O:Croatia
+S:Andrej Plenković Became Prime Minister (19 October 2016) | P:was present at | O:Andrej Plenković
+S:Presidential Elections (5 January 2020) | P:occurs at | O:Croatia
+S:Presidential Elections (5 January 2020) | P:was present at | O:Zoran Milanović
+S:Joined Erm Ii (10 July 2020) | P:occurs at | O:Croatia
+S:Joined Erm Ii (10 July 2020) | P:was present at | O:Erm Ii
+S:Adopted The Euro And Joined Eurozone (1 January 2023) | P:occurs at | O:Croatia
+S:Adopted The Euro And Joined Eurozone (1 January 2023) | P:was present at | O:Eurozone
+S:Joined Schengen Area (1 January 2023) | P:occurs at | O:Croatia
+S:Joined Schengen Area (1 January 2023) | P:was present at | O:Schengen Area
+S:Oecd Council Opened Accession Negotiations With Croatia (25 January 2022) | P:occurs at | O:Croatia
+S:Oecd Council Opened Accession Negotiations With Croatia (25 January 2022) | P:was present at | O:Oecd Council
+S:Oecd Accession Roadmap (June 2022) | P:occurs at | O:Croatia
+S:Oecd Accession Roadmap (June 2022) | P:was present at | O:Oecd
+S:Joined Nato (1 April 2009) | P:was present at | O:Nato
+S:Lowest Temperature Recorded In Čakovec (3 February 1919) | P:occurs at | O:Čakovec
+S:Highest Temperature Recorded In Ploče (4 August 1981) | P:occurs at | O:Ploče
+S:Serb Paramilitary Campaign Against Croats In Occupied Territories (1991) | P:occurs at | O:Croatia
+S:Serb Paramilitary Campaign Against Croats In Occupied Territories (1991) | P:was present at | O:Serb Paramilitary Groups
+S:Displacement Of Croatian Serbs In Eastern And Western Slavonia And Parts Of Krajina | P:occurs at | O:Eastern Slavonia
+S:Displacement Of Croatian Serbs In Eastern And Western Slavonia And Parts Of Krajina | P:occurs at | O:Western Slavonia
+S:Displacement Of Croatian Serbs In Eastern And Western Slavonia And Parts Of Krajina | P:occurs at | O:Krajina
+S:Displacement Of Croatian Serbs In Eastern And Western Slavonia And Parts Of Krajina | P:was present at | O:Croatian Armed Forces
+S:Displacement Of Croatian Serbs In Eastern And Western Slavonia And Parts Of Krajina | P:was present at | O:Croatian Government
+S:Post-1995 Exodus And Killings Of Serb Civilians | P:occurs at | O:Krajina
+S:Post-1995 Exodus And Killings Of Serb Civilians | P:occurs at | O:Croatia
+S:Post-1995 Exodus And Killings Of Serb Civilians | P:was present at | O:Republic Of Serbian Krajina
+S:Settlement Of Serb Homes By Croat Refugees From Bosnia And Herzegovina | P:occurs at | O:Croatia
+S:Settlement Of Serb Homes By Croat Refugees From Bosnia And Herzegovina | P:is related to | O:Bosnia And Herzegovina
+S:National Ecological Network Set Up (2005) | P:occurs at | O:Croatia
+S:National Ecological Network Set Up (2005) | P:was present at | O:National Ecological Network
+S:Croatian Troops Served In Isaf In Afghanistan (2019) | P:occurs at | O:Afghanistan
+S:Croatian Troops Served In Isaf In Afghanistan (2019) | P:was present at | O:Croatian Armed Forces
+S:Croatian Troops Served In Isaf In Afghanistan (2019) | P:was present at | O:Isaf
+S:Croatian Troops Served With Kfor In Kosovo (2019) | P:occurs at | O:Kosovo
+S:Croatian Troops Served With Kfor In Kosovo (2019) | P:was present at | O:Croatian Armed Forces
+S:Croatian Troops Served With Kfor In Kosovo (2019) | P:was present at | O:Kfor
+S:Compulsory Conscription Abolished (January 2008) | P:occurs at | O:Croatia
+S:Compulsory Conscription Abolished (January 2008) | P:was present at | O:Croatian Armed Forces
+S:Compulsory Conscription Reintroduction Planned (January 2025) | P:occurs at | O:Croatia
+S:Compulsory Conscription Reintroduction Planned (January 2025) | P:was present at | O:Croatian Armed Forces
+S:2024 Global Peace Index Ranking | P:occurs at | O:Croatia
+S:2024 Global Peace Index Ranking | P:was present at | O:Global Peace Index
+S:Zagreb | P:is contained in | O:Croatia
+S:Zagreb County | P:is contained in | O:Croatia
+S:Koprivnica-Križevci County | P:is contained in | O:Croatia
+S:Krapina-Zagorje County | P:is contained in | O:Croatia
+S:Međimurje County | P:is contained in | O:Croatia
+S:Varaždin County | P:is contained in | O:Croatia
+S:Bjelovar-Bilogora County | P:is contained in | O:Croatia
+S:Brod-Posavina County | P:is contained in | O:Croatia
+S:Karlovac County | P:is contained in | O:Croatia
+S:Osijek-Baranja County | P:is contained in | O:Croatia
+S:Požega-Slavonia County | P:is contained in | O:Croatia
+S:Sisak-Moslavina County | P:is contained in | O:Croatia
+S:Virovitica-Podravina County | P:is contained in | O:Croatia
+S:Vukovar-Syrmia County | P:is contained in | O:Croatia
+S:Dalmatia | P:is contained in | O:Croatia
+S:Dubrovnik | P:is contained in | O:Croatia
+S:Istria | P:is contained in | O:Croatia
+S:Opatija | P:is contained in | O:Croatia
+S:Dubrovnik-Neretva County | P:is contained in | O:Croatia
+S:Pelješac Bridge | P:is contained in | O:Croatia
+S:Pelješac Peninsula | P:is contained in | O:Croatia
+S:Korčula | P:is contained in | O:Croatia
+S:Lastovo | P:is contained in | O:Croatia
+S:Franjo Tuđman Airport | P:is contained in | O:Zagreb
+S:Split | P:is contained in | O:Croatia
+S:Zadar | P:is contained in | O:Croatia
+S:Rijeka | P:is contained in | O:Croatia
+S:Osijek | P:is contained in | O:Croatia
+S:Pula | P:is contained in | O:Croatia
+S:Vukovar | P:is contained in | O:Croatia
+S:Port Of Rijeka | P:is contained in | O:Rijeka
+S:Krk | P:is contained in | O:Croatia
+S:Lng Hrvatska | P:is contained in | O:Krk
+S:Okoli Natural Gas Storage Facility | P:is contained in | O:Croatia
+S:Rijeka Oil Terminal | P:is contained in | O:Rijeka
+S:Rijeka Refinery | P:is contained in | O:Rijeka
+S:Sisak | P:is contained in | O:Croatia
+S:Sisak Refinery | P:is contained in | O:Sisak
+S:Krško Nuclear Power Plant | P:is contained in | O:Slovenia
+S:Croatian Motorway Network | P:is contained in | O:Croatia
+S:Koprivnica-Križevci County | P:is part of | O:Northwest Croatia
+S:Krapina-Zagorje County | P:is part of | O:Northwest Croatia
+S:Međimurje County | P:is part of | O:Northwest Croatia
+S:Varaždin County | P:is part of | O:Northwest Croatia
+S:Zagreb | P:is part of | O:Northwest Croatia
+S:Zagreb County | P:is part of | O:Northwest Croatia
+S:Bjelovar-Bilogora County | P:is part of | O:Central And Eastern (Pannonian) Croatia
+S:Brod-Posavina County | P:is part of | O:Central And Eastern (Pannonian) Croatia
+S:Karlovac County | P:is part of | O:Central And Eastern (Pannonian) Croatia
+S:Osijek-Baranja County | P:is part of | O:Central And Eastern (Pannonian) Croatia
+S:Požega-Slavonia County | P:is part of | O:Central And Eastern (Pannonian) Croatia
+S:Sisak-Moslavina County | P:is part of | O:Central And Eastern (Pannonian) Croatia
+S:Virovitica-Podravina County | P:is part of | O:Central And Eastern (Pannonian) Croatia
+S:Vukovar-Syrmia County | P:is part of | O:Central And Eastern (Pannonian) Croatia
+S:Nomenclature Of Territorial Units For Statistics (Nuts) | P:is related to | O:Croatia
+S:Lau | P:is related to | O:Croatia
+S:Pan-European Corridor Vb | P:is related to | O:Rijeka
+S:Pan-European Corridor Vb | P:is related to | O:Budapest
+S:Pan-European Corridor Vb | P:is related to | O:Zagreb
+S:Pan-European Corridor X | P:is related to | O:Ljubljana
+S:Pan-European Corridor X | P:is related to | O:Belgrade
+S:Pan-European Corridor X | P:is related to | O:Zagreb
+S:Vukovar | P:is related to | O:Pan-European Transport Corridor Vii
+S:Vukovar | P:is related to | O:Danube
+S:A1 Motorway | P:is related to | O:Zagreb
+S:A1 Motorway | P:is related to | O:Split
+S:A3 Motorway | P:is related to | O:Northwest Croatia
+S:A3 Motorway | P:is related to | O:Slavonia
+S:Eurotap | P:is related to | O:Croatian Motorway Network
+S:Eurotest | P:is related to | O:Croatian Motorway Network
+S:Hrvatske Ceste (Hc) | P:is related to | O:Pelješac Bridge
+S:China Road And Bridge Corporation (Crbc) | P:is related to | O:Pelješac Bridge
+S:European Union | P:is related to | O:Pelješac Bridge
+S:Pelješac Bridge | P:is related to | O:Dubrovnik-Neretva County
+S:Pelješac Bridge | P:is related to | O:Pelješac Peninsula
+S:Pelješac Bridge | P:is related to | O:Korčula
+S:Pelješac Bridge | P:is related to | O:Lastovo
+S:European Investment Bank | P:is related to | O:Croatian Railways
+S:Croatian Railways | P:is related to | O:Croatia
+S:Croatia Airlines | P:is related to | O:Zagreb
+S:Croatia Airlines | P:is related to | O:Tirana
+S:Croatia Airlines | P:is related to | O:Berlin
+S:Croatia Airlines | P:is related to | O:Stockholm
+S:Croatia Airlines | P:is related to | O:Hamburg
+S:Rijeka Oil Terminal | P:is related to | O:Rijeka Refinery
+S:Rijeka Oil Terminal | P:is related to | O:Sisak Refinery
+S:Lng Hrvatska | P:is related to | O:Croatia
+S:Okoli Natural Gas Storage Facility | P:is related to | O:Croatia
+S:Krško Nuclear Power Plant | P:is related to | O:Hrvatska Elektroprivreda
+S:Krško Nuclear Power Plant | P:is related to | O:Croatia
+S:Hrvatska Elektroprivreda | P:is related to | O:Croatia
+S:Croatia | P:is related to | O:Germany
+S:Croatia | P:is related to | O:Italy
+S:Croatia | P:is related to | O:Slovenia
+S:Croatia | P:is related to | O:United Kingdom
+S:Croatia | P:is related to | O:Czechia
+S:Croatia | P:is related to | O:Poland
+S:Croatia | P:is related to | O:Hungary
+S:Croatia | P:is related to | O:France
+S:Croatia | P:is related to | O:Netherlands
+S:Croatia | P:is related to | O:Slovakia
+S:Croatia | P:is related to | O:2024 Global Peace Index
+S:International Monetary Fund | P:is related to | O:Croatia
+S:Eurostat | P:is related to | O:Croatia
+S:World Tourism Organization | P:is related to | O:Croatia
+S:European Environmental Agency | P:is related to | O:Croatia
+S:Transparency International | P:is related to | O:2022 Corruption Perceptions Index
+S:Croatia | P:is related to | O:2022 Corruption Perceptions Index
+S:Bounce | P:is related to | O:2023 Bounce Solo Travel Index
+S:Croatia | P:is related to | O:2023 Bounce Solo Travel Index
+S:Pinterest | P:is related to | O:2023 Pinterest And Zola Wedding Trends Report
+S:Zola | P:is related to | O:2023 Pinterest And Zola Wedding Trends Report
+S:Croatia | P:is related to | O:2023 Pinterest And Zola Wedding Trends Report
+S:European Union Language Association | P:is related to | O:Croatia
+S:Croatia | P:is part of | O:Kingdom Of Serbs, Croats And Slovenes
+S:Croatia | P:is part of | O:Kingdom Of Yugoslavia
+S:Croatia | P:is part of | O:Sfr Yugoslavia
+S:War For Independence | P:occurs at | O:Croatia
+S:Operation Storm | P:occurs at | O:Croatia
+S:Zagreb | P:is contained in | O:Croatia
+S:Split | P:is contained in | O:Croatia
+S:Šibenik | P:is contained in | O:Croatia
+S:Zadar | P:is contained in | O:Croatia
+S:Osijek | P:is contained in | O:Croatia
+S:Varaždin | P:is contained in | O:Croatia
+S:Karlovac | P:is contained in | O:Croatia
+S:Dalmatia | P:is contained in | O:Croatia
+S:Istria | P:is contained in | O:Croatia
+S:Slavonia | P:is contained in | O:Croatia
+S:Krk | P:is contained in | O:Croatia
+S:Dubrovnik | P:is contained in | O:Croatia
+S:Vis | P:is contained in | O:Croatia
+S:Korčula | P:is contained in | O:Croatia
+S:Pula | P:is contained in | O:Croatia
+S:Trogir | P:is contained in | O:Croatia
+S:Tvrđa | P:is contained in | O:Osijek
+S:Zagreb Fair | P:is contained in | O:Zagreb
+S:Cathedral Of St. James In Šibenik | P:is contained in | O:Šibenik
+S:Church Of St. Donatus In Zadar | P:is contained in | O:Zadar
+S:Trogir Cathedral | P:is contained in | O:Trogir
+S:Ruđer Bošković Institute | P:is contained in | O:Zagreb
+S:Croatian Academy Of Sciences And Arts | P:is contained in | O:Zagreb
+S:Croatian Radiotelevision (Hrt) | P:is contained in | O:Croatia
+S:Hina | P:is contained in | O:Croatia
+S:Rtl Televizija | P:is contained in | O:Croatia
+S:Nova Tv | P:is contained in | O:Croatia
+S:Kapital Net D.O.O. | P:is contained in | O:Croatia
+S:Author D.O.O. | P:is contained in | O:Croatia
+S:Hanza Media | P:is contained in | O:Croatia
+S:Croatian Olympic Committee | P:is contained in | O:Croatia
+S:Ministry Of Culture | P:is contained in | O:Croatia
+S:City Of Zagreb | P:is contained in | O:Croatia
+S:City Of Split | P:is contained in | O:Croatia
+S:European Investment Bank | P:is related to | O:Croatia
+S:Unesco | P:is related to | O:Croatia
+S:Freedom House | P:is related to | O:Croatia
+S:Reporters Without Borders | P:is related to | O:Croatia
+S:Styria Media Group | P:is related to | O:Croatia
+S:Jutarnji List | P:is related to | O:Croatia
+S:Večernji List | P:is related to | O:Croatia
+S:24Sata | P:is related to | O:Croatia
+S:Novi List | P:is related to | O:Croatia
+S:Slobodna Dalmacija | P:is related to | O:Croatia
+S:Riva | P:is related to | O:Croatia
+S:Hungarian-Croatian Parliament | P:is related to | O:Croatia
+S:Cathedral Of St. James In Šibenik | P:is related to | O:Giorgio Da Sebenico
+S:Cathedral Of St. James In Šibenik | P:is related to | O:Nicolas Of Florence
+S:Trogir Cathedral | P:is related to | O:Radovan
+S:Croatia | P:is related to | O:Central Europe
+S:Croatia | P:is related to | O:Mediterranean
+S:Croatia | P:is related to | O:Western Roman Empire
+S:Croatia | P:is related to | O:Byzantine Empire
+S:Dalmatia | P:is related to | O:Venice
+S:Istria | P:is related to | O:Venice
+S:Croatia | P:is related to | O:Austria
+S:Croatia | P:is related to | O:Hungary
+S:Croatia | P:is related to | O:Adriatic Sea
+S:Global Innovation Index 2024 | P:is related to | O:Croatia
+S:Eib Loan To The City Of Zagreb 2024 | P:occurs at | O:Zagreb
+S:Eib Loan To The City Of Zagreb 2024 | P:is related to | O:European Investment Bank
+S:Eib Loan To The City Of Zagreb 2024 | P:is related to | O:City Of Zagreb
+S:Eib Loan To The City Of Split 2024 | P:occurs at | O:Split
+S:Eib Loan To The City Of Split 2024 | P:is related to | O:European Investment Bank
+S:Eib Loan To The City Of Split 2024 | P:is related to | O:City Of Split
+S:Eib Provision Of Digital Infrastructure To Schools In Croatia | P:occurs at | O:Croatia
+S:Eib Provision Of Digital Infrastructure To Schools In Croatia | P:is related to | O:European Investment Bank
+S:Interliber Exhibition | P:occurs at | O:Zagreb Fair
+S:2019 Press Freedom Index | P:is related to | O:Reporters Without Borders
+S:2019 Press Freedom Index | P:is related to | O:Croatia
+S:Freedom In The World 2019 | P:is related to | O:Freedom House
+S:Freedom In The World 2019 | P:is related to | O:Croatia
+S:Eurovision Song Contest 1989 | P:is related to | O:Yugoslavia
+S:Riva | P:was present at | O:Eurovision Song Contest 1989
+S:Eurovision Song Contest 1996 | P:is related to | O:Croatia
+S:Eurovision Song Contest 1999 | P:is related to | O:Croatia
+S:Eurovision Song Contest 2024 | P:is related to | O:Croatia
+S:Pula Film Festival | P:occurs at | O:Pula
+S:Animafest Zagreb | P:occurs at | O:Zagreb
+S:1961 Academy Award For Best Animated Short Film | P:is related to | O:Dušan Vukotić
+S:1961 Academy Award For Best Animated Short Film | P:is related to | O:Ersatz (Surogat)
+S:Academy Award For Best Picture For Schindler'S List | P:is related to | O:Branko Lustig
+S:Academy Award For Best Picture For Gladiator | P:is related to | O:Branko Lustig
+S:97Th Academy Awards | P:is related to | O:The Man Who Could Not Remain Silent
+S:97Th Academy Awards | P:is related to | O:Nebojša Slijepčević
+S:The Man Who Could Not Remain Silent | P:is related to | O:Nebojša Slijepčević
+S:Ersatz (Surogat) | P:is related to | O:Dušan Vukotić
+S:Hungarian-Croatian Parliament Act Of 1891 | P:is related to | O:Hungarian-Croatian Parliament
+S:Hungarian-Croatian Parliament Act Of 1891 | P:is related to | O:Croatia
+S:National Sport Programme 2019 | P:is related to | O:Croatia
+S:2009 World Men'S Handball Championship | P:occurs at | O:Croatia
+S:2007 World Table Tennis Championships | P:occurs at | O:Croatia
+S:2000 World Rowing Championships | P:occurs at | O:Croatia
+S:1987 Summer Universiade | P:occurs at | O:Croatia
+S:1979 Mediterranean Games | P:occurs at | O:Croatia
+S:2000 World Men'S Handball Championship | P:occurs at | O:Croatia
+S:2018 World Men'S Handball Championship | P:occurs at | O:Croatia
+S:2025 World Men'S Handball Championship | P:occurs at | O:Croatia
+S:2024 Men'S European Water Polo Championship | P:occurs at | O:Croatia
+S:Love And Malice | P:is related to | O:Vatroslav Lisinski
+S:Love And Malice | P:is related to | O:Croatia
+S:Game Of Thrones | P:occurs at | O:Croatia
+S:Star Wars: The Last Jedi | P:occurs at | O:Croatia
+S:Robin Hood | P:occurs at | O:Dubrovnik
+S:Speak No Evil | P:occurs at | O:Croatia
+S:Season Of The Witch | P:occurs at | O:Istria
+S:Titius | P:occurs at | O:Istria
+S:Infinity Pool | P:occurs at | O:Šibenik
+S:Canary Black | P:occurs at | O:Croatia
+S:Hitman'S Wife'S Bodyguard | P:occurs at | O:Croatia
+S:Sophie'S Choice | P:occurs at | O:Zagreb
+S:Armour Of God | P:occurs at | O:Zagreb
+S:Fiddler On The Roof | P:occurs at | O:Zagreb
+S:Mamma Mia! Here We Go Again | P:occurs at | O:Vis
+S:Succession | P:occurs at | O:Korčula
+S:Hercules | P:occurs at | O:Croatia
+S:The Weekend Away | P:occurs at | O:Croatia
+S:Bliss | P:occurs at | O:Split
+S:The Peacemaker | P:occurs at | O:Croatia
+S:Filming In Croatia | P:is related to | O:Croatia
+S:2022 R&D Expenditure In Croatia | P:is related to | O:Croatia
+S:2017 Healthcare Related Expenditures In Croatia | P:is related to | O:Croatia
+S:2022 Healthcare Spending In Croatia | P:is related to | O:Croatia
+S:2025 Life Expectancy In Croatia | P:is related to | O:Croatia
+S:2025 Infant Mortality In Croatia | P:is related to | O:Croatia
+S:2022 Principal Cause Of Death In Croatia | P:is related to | O:Croatia
+S:2022 Smoking In Croatia | P:is related to | O:Croatia
+S:2022 Obesity In Croatia | P:is related to | O:Croatia
+S:Illyrian Movement | P:is related to | O:Croatia
+S:World Heritage List | P:is related to | O:Unesco
+S:World Heritage List | P:is related to | O:Croatia
+S:Intangible Cultural Heritage Of Croatia | P:is related to | O:Unesco
+S:Intangible Cultural Heritage Of Croatia | P:is related to | O:Croatia
+S:Necktie | P:is related to | O:Croatia
+S:Necktie | P:is related to | O:France
+S:Renaissance | P:is related to | O:Croatia
+S:Baroque | P:is related to | O:Croatia
+S:Rococo | P:is related to | O:Croatia
+S:Art Nouveau | P:is related to | O:Croatia
+S:Giorgio Da Sebenico | P:is related to | O:Croatia
+S:Nicolas Of Florence | P:is related to | O:Croatia
+S:Radovan | P:is related to | O:Croatia
+S:Josip Juraj Strossmayer | P:is related to | O:Croatia
+S:Vlaho Bukovac | P:is related to | O:Croatia
+S:Ivan Meštrović | P:is related to | O:Croatia
+S:Ivan Generalić | P:is related to | O:Croatia
+S:Marko Marulić | P:is related to | O:Croatia
+S:Marin Držić | P:is related to | O:Croatia
+S:Ivan Gundulić | P:is related to | O:Croatia
+S:Ivan Mažuranić | P:is related to | O:Croatia
+S:August Šenoa | P:is related to | O:Croatia
+S:Ivana Brlić-Mažuranić | P:is related to | O:Croatia
+S:Marija Jurić Zagorka | P:is related to | O:Croatia
+S:Antun Gustav Matoš | P:is related to | O:Croatia
+S:Antun Branko Šimić | P:is related to | O:Croatia
+S:Miroslav Krleža | P:is related to | O:Croatia
+S:Tin Ujević | P:is related to | O:Croatia
+S:Ivo Andrić | P:is related to | O:Croatia
+S:Vatroslav Lisinski | P:is related to | O:Croatia
+S:Ivan Zajc | P:is related to | O:Croatia
+S:Ivo Pogorelić | P:is related to | O:Croatia
+S:Dušan Vukotić | P:is related to | O:Croatia
+S:Branko Lustig | P:is related to | O:Croatia
+S:Nebojša Slijepčević | P:is related to | O:Croatia
+S:Franjo Bučar | P:is related to | O:Croatia

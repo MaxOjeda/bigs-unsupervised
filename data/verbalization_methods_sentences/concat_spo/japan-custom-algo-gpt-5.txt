@@ -1,0 +1,177 @@
+tokyo is contained in japan
+tokyo is contained in greater tokyo area
+tokyo is contained in haneda airport
+japan is contained in japanese archipelago
+japan is contained in heian-kyo
+japan is contained in kamakura
+japan is contained in sapporo
+japan is contained in nagano
+japan is contained in central japan
+japan is contained in heijo-kyo
+japan is contained in university of tokyo
+japan is contained in karafuto
+japan is contained in kurils
+japan is contained in lake biwa
+japan occurs at naruhito accession
+japan occurs at temperature record 2025
+japan occurs at japan surrender
+japan is related to nagasaki bombing
+japan is related to hiroshima bombing
+japan is related to pearl harbor attack
+japan is related to marco polo incident
+japan is related to korea annexation
+japan is related to meiji restoration
+japan occurs at perry fleet arrival
+japan occurs at battle of sekigahara
+japan occurs at immigration law enacted
+japan is contained in asia
+japan is part of quadrilateral security dialogue
+japan is part of east asia summit
+japan is part of asean plus three
+japan is part of apec
+japan is part of g4
+japan is part of united nations
+japan is part of league of nations
+japan is part of allies
+japan is part of oecd
+japan is part of axis powers
+japan is part of g7
+japan is part of government of japan
+japan is part of japan aerospace exploration agency
+japan is part of nhk
+japan is part of nippon professional baseball (npb)
+japan is part of japan professional football league (j.league)
+japan is part of kamakura shogunate
+japan is part of ashikaga shogunate
+japan is part of tokugawa shogunate
+japan is part of korea
+japan is part of taiwan
+japan is part of yamato
+japan is part of imperial court of japan
+japan is part of ritsuryo state
+japan is part of taira clan
+japan is part of minamoto clan
+japan is part of hojo clan
+japan is part of mext
+japan occurs at meiji constitution
+japan is related to yasunari kawabata
+japan is related to kenzaburo oe
+japan is related to ishiro honda
+japan is related to marco polo
+japan is related to kenzo tange
+japan is related to sei shonagon
+japan is related to murasaki shikibu
+japan is related to soseki natsume
+japan is related to ogai mori
+japan is related to ryunosuke akutagawa
+japan is related to junichiro tanizaki
+japan is related to kafu nagai
+japan is related to haruki murakami
+japan is related to kenji nakagami
+japan was present at takauji ashikaga
+japan is related to matthew perry
+japan was present at kamatari fujiwara
+japan is related to sanae takaichi
+japan is related to shinzo abe
+japan is related to fumio kishida
+moon occurs at selene lunar orbit
+moon occurs at selene moon impact
+japanese archipelago is contained in ryukyu islands
+japanese archipelago is contained in honshu
+japanese archipelago is contained in shikoku
+japanese archipelago is contained in nanpo islands
+japanese archipelago is contained in hokkaido
+japanese archipelago is contained in kyushu
+heian-kyo occurs at meiji restoration
+kamakura was present at yoritomo minamoto
+hiroshima occurs at hiroshima bombing
+nagasaki occurs at nagasaki bombing
+edo was present at ieyasu tokugawa
+sekigahara was present at ieyasu tokugawa
+uraga was present at matthew perry
+kanagawa was present at matthew perry
+pearl harbor occurs at pearl harbor attack
+ryukyu islands is contained in okinawa
+southern kuril islands is contained in russia
+liancourt rocks is contained in south korea
+south korea is part of asean plus three
+south korea is part of oecd
+japan surrender is related to allies
+nagasaki bombing is related to united states
+hiroshima bombing is related to united states
+pearl harbor attack occurs at united states
+marco polo incident occurs at china
+korea annexation occurs at korea
+meiji restoration is related to tokugawa shogunate
+perry fleet arrival is related to united states
+perry fleet arrival is related to tokugawa shogunate
+battle of sekigahara is related to tokugawa shogunate
+immigration law enacted is related to government of japan
+quadrilateral security dialogue is part of united states
+quadrilateral security dialogue is part of australia
+quadrilateral security dialogue is part of india
+asean plus three is part of china
+united nations is part of united nations security council
+united nations is part of united nations office on drugs and crime
+allies is part of united states
+allies is part of soviet union
+allies is part of international military tribunal for the far east
+oecd is part of programme for international student assessment (pisa)
+axis powers is part of nazi germany
+government of japan is part of national diet
+government of japan is part of prime minister of japan and his cabinet
+government of japan is part of imperial household agency
+government of japan is part of national diet library
+government of japan is part of cabinet of japan
+government of japan is part of national security council (japan)
+government of japan is part of ministry of the environment of japan
+government of japan is related to sanae takaichi
+government of japan is related to shinzo abe
+government of japan is related to fumio kishida
+china is part of hong kong
+china is related to marco polo
+united states is related to pearl harbor attack
+united states is part of united states navy
+pearl harbor attack is related to japanese forces
+japan aerospace exploration agency is related to selene moon impact
+japan aerospace exploration agency is related to selene lunar orbit
+japan aerospace exploration agency is part of international space station
+national diet is part of house of representatives of japan
+national diet is part of house of councillors of japan
+national diet is related to sanae takaichi
+kamakura shogunate is related to yoritomo minamoto
+ashikaga shogunate is related to takauji ashikaga
+tokugawa shogunate is related to ieyasu tokugawa
+korea is part of empire of japan
+korea is related to hideyoshi toyotomi
+empire of japan is part of cabinet of japan
+empire of japan is part of privy council of japan
+empire of japan is part of imperial diet of japan
+empire of japan is part of taiwan
+empire of japan is part of japanese forces
+council of five elders is related to hideyori toyotomi
+council of five elders is related to ieyasu tokugawa
+cabinet of japan is related to meiji constitution
+cabinet of japan is related to sanae takaichi
+meiji constitution is related to imperial diet of japan
+united states navy is related to matthew perry
+british forces is related to hong kong attack
+british forces is related to singapore attack
+british forces is related to malaya attack
+hong kong attack is related to japanese forces
+hong kong attack occurs at hong kong
+singapore attack is related to japanese forces
+singapore attack occurs at singapore
+malaya attack is related to japanese forces
+malaya attack occurs at malaya
+imperial court of japan is related to kamatari fujiwara
+minamoto clan is related to yoritomo minamoto
+liberal democratic party is related to sanae takaichi
+ishin is related to sanae takaichi
+japan self-defense forces is part of japan ground self-defense force
+japan self-defense forces is part of japan maritime self-defense force
+japan self-defense forces is part of japan air self-defense force
+japan self-defense forces is related to shinzo abe
+japan self-defense forces is related to fumio kishida
+prefectural police departments is part of national police agency
+national police agency is part of national public safety commission

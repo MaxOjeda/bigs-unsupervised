@@ -1,0 +1,122 @@
+S:revised immigration law enacted | P:is related to | O:japan
+S:revised immigration law enacted | P:is related to | O:government of japan
+S:japan | P:occurs at | O:buddhism introduced japan
+S:japan | P:occurs at | O:taika reforms
+S:japan | P:occurs at | O:jinshin war
+S:japan | P:occurs at | O:taiho code promulgation
+S:japan | P:occurs at | O:kojiki completion
+S:japan | P:occurs at | O:nihon shoki completion
+S:japan | P:occurs at | O:smallpox epidemic
+S:japan | P:occurs at | O:heian period begins
+S:japan | P:occurs at | O:mongol invasion repelled 1274
+S:japan | P:occurs at | O:mongol invasion repelled 1281
+S:japan | P:occurs at | O:sengoku period begins
+S:japan | P:occurs at | O:genpei war
+S:japan | P:occurs at | O:['muromachi period begins', 'go-daigo defeat ashikaga']
+S:japan | P:occurs at | O:nine-year schooling start
+S:japan | P:occurs at | O:record temperature high
+S:japan | P:is contained in | O:tokyo
+S:japan | P:is contained in | O:fukushima daiichi nuclear power plant
+S:japan | P:is contained in | O:sendai nuclear power plant
+S:japan | P:is contained in | O:keihin superport hub
+S:japan | P:is contained in | O:hanshin superport hub
+S:japan | P:is contained in | O:tanegashima space center
+S:japan | P:is contained in | O:nara
+S:japan | P:is contained in | O:kamakura
+S:japan | P:is contained in | O:ashikaga
+S:japan | P:is contained in | O:hiroshima
+S:japan | P:is contained in | O:nagasaki
+S:japan | P:is contained in | O:okinotorishima
+S:japan | P:was present at | O:fumio kishida
+S:japan | P:is related to | O:yasunari kawabata
+S:japan | P:is related to | O:kenzaburo oe
+S:japan | P:is related to | O:ryunosuke akutagawa
+S:japan | P:is related to | O:junichiro tanizaki
+S:japan | P:is related to | O:kafu nagai
+S:japan | P:is related to | O:haruki murakami
+S:japan | P:is related to | O:kenji nakagami
+S:japan | P:is related to | O:natsume soseki
+S:japan | P:is related to | O:mori ogai
+S:japan | P:is related to | O:murasaki shikibu
+S:japan | P:is related to | O:sei shonagon
+S:japan | P:was present at | O:shinzo abe
+S:japan | P:is part of | O:united nations
+S:japan | P:is part of | O:g4
+S:japan | P:is part of | O:g7
+S:japan | P:is part of | O:apec
+S:japan | P:is part of | O:asean plus three
+S:japan | P:is part of | O:east asia summit
+S:japan | P:is part of | O:quadrilateral security dialogue
+S:japan | P:is part of | O:ministry of education, culture, sports, science and technology
+S:japan | P:is part of | O:local governments
+S:selene orbit insertion | P:occurs at | O:moon
+S:selene orbit insertion | P:is related to | O:japan aerospace exploration agency
+S:moon | P:occurs at | O:selene moon crash
+S:moon | P:is contained in | O:moon base
+S:selene moon crash | P:is related to | O:japan aerospace exploration agency
+S:meiji constitution | P:is related to | O:privy council
+S:great tokyo earthquake | P:occurs at | O:edo
+S:edo | P:was present at | O:tokugawa ieyasu
+S:japan in book of han | P:occurs at | O:china
+S:china | P:is contained in | O:hong kong
+S:nara period begins | P:occurs at | O:nara
+S:capital move to heian-kyoto | P:occurs at | O:heian-kyo
+S:heian-kyo | P:was present at | O:murasaki shikibu
+S:kamakura shogunate established | P:occurs at | O:kamakura
+S:kamakura shogunate established | P:is related to | O:kamakura shogunate
+S:kamakura | P:was present at | O:go daigo
+S:genpei war | P:is related to | O:minamoto clan
+S:genpei war | P:is related to | O:taira clan
+S:['muromachi period begins', 'go-daigo defeat ashikaga'] | P:is related to | O:ashikaga shogunate
+S:nine-year schooling start | P:is related to | O:ministry of education, culture, sports, science and technology
+S:record temperature high | P:is related to | O:environment ministry
+S:['pearl harbor attack'] | P:occurs at | O:pearl harbor
+S:['pearl harbor attack'] | P:occurs at | O:hong kong
+S:['pearl harbor attack'] | P:occurs at | O:singapore
+S:['pearl harbor attack'] | P:occurs at | O:malaya
+S:['pearl harbor attack'] | P:is related to | O:empire of japan
+S:tokyo | P:is contained in | O:greater tokyo area
+S:tokyo | P:is contained in | O:haneda airport
+S:south korea | P:is contained in | O:liancourt rocks
+S:europe | P:was present at | O:yasunari kawabata
+S:europe | P:was present at | O:kenzaburo oe
+S:muromachi | P:was present at | O:ashikaga takauji
+S:azuchi | P:was present at | O:oda nobunaga
+S:azuchi | P:was present at | O:toyotomi hideyoshi
+S:uraga | P:is contained in | O:kanagawa
+S:manchuria | P:is contained in | O:manchukuo
+S:ryukyu islands | P:is contained in | O:amami
+S:ryukyu islands | P:is contained in | O:okinawa
+S:southern kuril islands | P:is contained in | O:russia
+S:fumio kishida | P:is related to | O:government of japan
+S:government of japan | P:is related to | O:sanae takaichi
+S:government of japan | P:is related to | O:shinzo abe
+S:murasaki shikibu | P:is related to | O:imperial court
+S:tokugawa ieyasu | P:is related to | O:council of five elders
+S:go daigo | P:is related to | O:kamakura shogunate
+S:kamakura shogunate | P:is part of | O:hojo clan
+S:takauji ashikaga | P:is related to | O:ashikaga shogunate
+S:sanae takaichi | P:is related to | O:national diet
+S:sanae takaichi | P:is related to | O:ishin
+S:sanae takaichi | P:is related to | O:liberal democratic party
+S:shinzo abe | P:is related to | O:united nations office on drugs and crime
+S:shinzo abe | P:is related to | O:japan coast guard
+S:shinzo abe | P:is related to | O:counter-nbc terrorism squads
+S:shinzo abe | P:is related to | O:anti-firearms squads
+S:shinzo abe | P:is related to | O:special assault team
+S:shinzo abe | P:is related to | O:national public safety commission
+S:shinzo abe | P:is related to | O:prefectural police departments
+S:shinzo abe | P:is related to | O:national police agency
+S:national public safety commission | P:is part of | O:national police agency
+S:prefectural police departments | P:is part of | O:national police agency
+S:united nations | P:is part of | O:empire of japan
+S:the government of japan | P:is part of | O:the imperial household agency
+S:privy council | P:is part of | O:empire of japan
+S:empire of japan | P:is part of | O:imperial diet
+S:empire of japan | P:is part of | O:axis powers
+S:empire of japan | P:is part of | O:manchukuo
+S:axis powers | P:is part of | O:nazi germany
+S:league of nations | P:is part of | O:manchukuo
+S:japan self-defense forces | P:is part of | O:japan ground self-defense force
+S:japan self-defense forces | P:is part of | O:japan maritime self-defense force
+S:japan self-defense forces | P:is part of | O:japan air self-defense force

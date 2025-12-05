@@ -1,0 +1,302 @@
+croatia is contained in zagreb
+zagreb county is contained in zagreb
+banski dvori is contained in zagreb
+rudjer boskovic institute is contained in zagreb
+croatian academy of sciences and arts is contained in zagreb
+zagreb fair is contained in zagreb
+franjo tudman airport is contained in zagreb
+hamburg zagreb service occurs at zagreb
+plitvice lakes national park is contained in croatia
+zrmanja canyon is contained in croatia
+krka canyon is contained in croatia
+drava is contained in croatia
+adriatic islands is contained in croatia
+dinaric mountains is contained in croatia
+pannonian mixed forests is contained in croatia
+illyrian deciduous forests is contained in croatia
+istrian is contained in croatia
+krk is contained in croatia
+dalmatia is contained in croatia
+slavonia is contained in croatia
+dubrovnik is contained in croatia
+rijeka is contained in croatia
+osijek is contained in croatia
+zadar is contained in croatia
+lastovo is contained in croatia
+peljesac bridge is contained in croatia
+trogir is contained in croatia
+benkovac is contained in croatia
+bijaci is contained in croatia
+vis is contained in croatia
+hvar is contained in croatia
+korcula is contained in croatia
+sava is contained in croatia
+university of zadar is contained in croatia
+dinara peak is contained in croatia
+cres is contained in croatia
+hrvatsko zagorje is contained in croatia
+dinaric alps is contained in croatia
+plitvice lakes is contained in croatia
+bisevo is contained in croatia
+svetac is contained in croatia
+risnjak is contained in croatia
+sneznik is contained in croatia
+dinaric mountains mixed forests is contained in croatia
+andrej plenkovic is related to croatia
+ivo josipovic is related to croatia
+zoran milanovic is related to croatia
+vatroslav lisinski was present at croatia
+sabor is contained in croatia
+independence recognized is related to croatia
+independence declared occurs at croatia
+conscription abolished occurs at croatia
+conscription reintroduced 2025 occurs at croatia
+global peace index 2024 is related to croatia
+counties abolished 1920s occurs at croatia
+counties reintroduced 1992 occurs at croatia
+eight counties 1918 is related to croatia
+counties borders revised 2006 occurs at croatia
+conscription duration reduced 2001 occurs at croatia
+eu referendum occurs at croatia
+constitution adopted occurs at croatia
+record low temperature occurs at croatia
+record high temperature occurs at croatia
+croatia independence occurs at croatia
+european union is part of croatia
+eurozone is part of croatia
+schengen area is part of croatia
+nato is part of croatia
+united nations is part of croatia
+council of europe is part of croatia
+organization for security and cooperation in europe is part of croatia
+world trade organization is part of croatia
+union for the mediterranean is part of croatia
+partnership for peace is part of croatia
+socialist federal republic of yugoslavia is part of croatia
+croatian military is part of croatia
+city of zagreb is contained in croatia
+join erm ii occurs at croatia
+1991 croatia displacements occurs at croatia
+un report 2013 occurs at croatia
+debt to gdp 2020 occurs at croatia
+trade 2018 occurs at croatia
+motorway mileage 2020 occurs at croatia
+tourist visits 2017 occurs at croatia
+['wedding trends 2023', 'bounce index 2023'] occurs at croatia
+['stays 2019', 'tourism 2019 income'] occurs at croatia
+territorial split occurs at croatia
+parliament pragmatic sanction occurs at croatia
+jelacic defeats hungarians occurs at croatia
+croatia hungary settlement occurs at croatia
+frontier return croatia occurs at croatia
+trpimir charter occurs at croatia
+duchy croatia attested occurs at croatia
+christianisation begins croats occurs at croatia
+christianisation completes croats occurs at croatia
+petar kresimir iv reign occurs at croatia
+dmitar zvonimir reign occurs at croatia
+stjepan ii death occurs at croatia
+arms exports 2020 occurs at croatia
+['literacy rate 2021', '2021 census', 'census 2021'] occurs at croatia
+ec language survey 2005 occurs at croatia
+foreign language survey 2011 occurs at croatia
+education law 2007 occurs at croatia
+['r&d expenditure 2022', 'corruption index 2022'] occurs at croatia
+partnership for peace occurs at croatia
+wto membership occurs at croatia
+eu-saa signing occurs at croatia
+eu accession completed occurs at croatia
+acc treaty signed occurs at croatia
+eu membership occurs at croatia
+nato accession occurs at croatia
+dec 2011 elections occurs at croatia
+plenkovic prime minister occurs at croatia
+presidential election 2020 occurs at croatia
+oecd accession opened occurs at croatia
+['schengen membership', 'join schengen eurozone', 'euro adoption'] occurs at croatia
+moratorium on indecision occurs at croatia
+eec recognition occurs at croatia
+war end 1995 occurs at croatia
+independence declaration occurs at croatia
+italy is contained in dalmatia
+split is contained in dalmatia
+dalmatia venetian control occurs at dalmatia
+dalmatia formed occurs at dalmatia
+roman annexation croatia occurs at dalmatia
+rijeka corpus separatum occurs at rijeka
+osijek-baranja is contained in osijek
+tvrdja fortress is contained in osijek
+julius nepos was present at split
+julius nepos rule occurs at split
+church of st donatus in zadar is contained in zadar
+adriatic sea is contained in krk island
+baska is contained in krk island
+vukovar-syrmia is contained in vukovar
+union with serbia occurs at belgrade
+6 january dictatorship occurs at belgrade
+treaty of berlin occurs at berlin
+hamburg zagreb service occurs at hamburg
+krsko nuclear power plant is contained in krsko
+trogir cathedral is contained in trogir
+bosnia and herzegovina is contained in north-western bosnia
+neum is contained in bosnia and herzegovina
+great turkish war begins occurs at bosnia and herzegovina
+austria is contained in vienna
+vienna literary agreement occurs at vienna
+medimurje is contained in austria
+baranja is contained in austria
+1848 revolution occurs at austria
+austro-hungarian compromise occurs at austria
+world war i halts reforms occurs at austria
+krbava field battle occurs at krbava field
+louis ii was present at mohacs
+battle mohacs occurs at mohacs
+ferdinand i was present at cetin
+cetin election occurs at cetin
+illyrian provinces established occurs at ragusa
+illyrian provinces captured occurs at ragusa
+battle of vis occurs at vis
+nikola tesla was present at smiljin
+josip tito was present at sisak
+first sisak detachment occurs at sisak
+bjelovar-bilogora is contained in bjelovar
+pozega-slavonia is contained in pozega
+isaf troops afghanistan 2019 occurs at afghanistan
+kfor troops kosovo 2019 occurs at kosovo
+zadar university founded occurs at university of zadar
+zadar renewed university occurs at university of zadar
+southeast europe is contained in university of zagreb
+zagreb university founded occurs at university of zagreb
+rudjer boskovic was present at rudjer boskovic institute
+['r&d expenditure 2022', 'corruption index 2022'] occurs at rudjer boskovic institute
+croatian academy inception occurs at croatian academy of sciences and arts
+interliber was present at zagreb fair
+cathedral of st james in sibenik is contained in sibenik
+josip tito was present at tehran
+giorgio da sebenico was present at cathedral of st james in sibenik
+nicolas of florence was present at cathedral of st james in sibenik
+croatian olympic committee is related to franjo bucar
+croatian sports association is part of croatian olympic committee
+croatian government is related to franjo tudman
+franjo tudman airport is related to franjo tudman
+1991 croatia displacements is related to croatian government
+independence declared is related to croatian government
+office of displaced persons and refugees is part of croatian government
+kingdom of croatia is related to petar kresimir iv
+dmitar zvonimir is related to kingdom of croatia
+louis ii is related to kingdom of croatia
+ferdinand i is related to kingdom of croatia
+stjepan ii is related to kingdom of croatia
+ladislaus crown claim is related to kingdom of croatia
+croatia hungary union is related to kingdom of croatia
+dmitar zvonimir reign is related to kingdom of croatia
+petar kresimir iv reign is related to kingdom of croatia
+tomislav king recognition is related to kingdom of croatia
+jelacic defeats hungarians is related to kingdom of croatia
+hungary croatia union is related to kingdom of croatia
+tomislav recognized as king is related to kingdom of croatia
+hungary croatia union is related to ladislaus i
+hungary occurs at hungary croatia union
+battle mohacs is related to louis ii
+ottoman empire is related to battle mohacs
+cetin election is related to ferdinand i
+house of habsburg is related to ferdinand i
+sabor is related to cetin election
+military frontier is part of house of habsburg
+austrian empire is related to maria theresa
+1848 revolution is related to austrian empire
+dalmatia formed is related to austrian empire
+illyrian provinces captured is related to austrian empire
+rijeka corpus separatum is related to austrian empire
+parliament pragmatic sanction is related to charles iii
+sabor is related to charles iii
+sabor is related to parliament pragmatic sanction
+parliament dissolution occurs at sabor
+sabor dissolution occurs at sabor
+jelacic defeats hungarians is related to josip jelacic
+julius nepos rule is related to julius nepos
+roman empire is related to julius nepos
+roman empire is related to julius nepos rule
+roman annexation croatia is related to roman empire
+plenkovic prime minister is related to andrej plenkovic
+dec 2011 elections is related to ivo josipovic
+sabor dissolution is related to ivo josipovic
+presidential election 2020 is related to zoran milanovic
+state anti-fascist council for the national liberation of croatia is related to vladimir zerjavic
+bogoljub kocovic is related to state anti-fascist council for the national liberation of croatia
+croatian peasant party is related to stjepan radic
+vladko macek is related to croatian peasant party
+narodna radikalna stranka is related to punisa racic
+independent state of croatia is related to ante pavelic
+yugoslav partisan movement is related to josip tito
+first sisak detachment is related to yugoslav partisan movement
+first sisak partisan detachment is part of yugoslav partisan movement
+security and intelligence agency is part of ministry of the interior
+education and training command is part of croatian armed forces
+support command is part of croatian armed forces
+croatian air force is part of croatian armed forces
+croatian army is part of croatian armed forces
+croatian navy is part of croatian armed forces
+['schengen membership', 'join schengen eurozone', 'euro adoption'] is related to european union
+eu membership is related to european union
+acc treaty signed is related to european union
+eu accession completed is related to european union
+eu-saa signing is related to european union
+croatia joins eu is related to european union
+eurostat is part of european union
+european environment agency is part of european union
+ministry of foreign affairs and european integration is related to ['schengen membership', 'join schengen eurozone', 'euro adoption']
+join erm ii is related to ministry of foreign affairs and european integration
+['literacy rate 2021', '2021 census', 'census 2021'] is related to republic of croatia
+education law 2007 is related to republic of croatia
+foreign language survey 2011 is related to republic of croatia
+ec language survey 2005 is related to republic of croatia
+european union language association is part of republic of croatia
+motorway mileage 2020 is related to eurotap
+eurotest is related to motorway mileage 2020
+hamburg zagreb service is related to croatia airlines
+krsko nuclear power plant is part of hrvatska elektroprivreda
+croatian parliament is related to independence declared
+yugoslav people's army is related to croatia independence
+nato accession is related to nato
+isaf troops afghanistan 2019 is related to nato
+peacekeeping deployments may 2019 is related to united nations
+wto membership is related to world trade organization
+partnership for peace is related to partnership for peace
+office of displaced persons and refugees is related to 1991 croatia displacements
+serb forces is related to 1991 croatia displacements
+croatian military is related to isaf troops afghanistan 2019
+croatian military is related to peacekeeping deployments may 2019
+['r&d expenditure 2022', 'corruption index 2022'] is related to transparency international
+['wedding trends 2023', 'bounce index 2023'] is related to bounce
+dalmatia venetian control is related to republic of venice
+territorial split is related to military frontier
+great turkish war begins is related to ottoman empire
+battle sisak is related to ottoman empire
+krbava field battle is related to ottoman empire
+world war i halts reforms is related to austro-hungarian empire
+frontier return croatia is related to austro-hungarian empire
+treaty berlin 1878 is related to austro-hungarian empire
+croatia hungary settlement is related to austro-hungarian empire
+austro-hungarian compromise is related to austro-hungarian empire
+illyrian provinces established is related to illyrian provinces
+battle of vis is related to royal navy
+croatian national revival is related to croatian national revival
+branimir papal recognition is related to duchy of croatia
+duchy croatia attested is related to duchy of croatia
+trpimir charter is related to duchy of croatia
+francia is part of duchy of croatia
+stjepan ii death is related to trpimirovic dynasty
+kfor troops kosovo 2019 is related to croatian military
+kfor is related to kfor troops kosovo 2019
+arms exports 2020 is related to hs produkt
+djuro djakovic factory is related to arms exports 2020
+oecd accession opened is related to organization for economic co-operation and development
+eec recognition is related to european economic community
+union with serbia is related to state of slovenes, croats, and serbs
+kingdom of serbs, croats, and slovenes is part of state of slovenes, croats, and serbs
+kingdom of serbia is related to union with serbia
+kingdom of serbia is part of kingdom of serbs, croats, and slovenes
+6 january dictatorship is related to croatian parliament (sabor)
+independence declaration is related to croatian parliament (sabor)
+first sisak partisan detachment is related to first sisak detachment
