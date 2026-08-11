@@ -1,0 +1,2 @@
+threshold,risk_limit_percent,tail_population,sample_size,related,unrelated,observed_related_percent,bootstrap_repetitions,ci_level_percent,ci_low_percent,ci_high_percent
+0.43,30.0,111743,11175,3791,7384,33.9239,10000,95,33.0470,34.8009

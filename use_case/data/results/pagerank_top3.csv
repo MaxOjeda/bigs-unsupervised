@@ -1,0 +1,13 @@
+program,rank,node,pagerank,node_type,in_degree,out_degree
+graphify,1,Carabineros,0.001599,concept,2931,113
+graphify,2,Chile,0.001221,concept,1823,98
+graphify,3,Jeannette Jara,0.001101,concept,2585,418
+graphrag,1,Chile,0.018286,location,11626,2980
+graphrag,2,Santiago,0.004028,location,2941,536
+graphrag,3,Estados Unidos,0.003718,organization,2910,1505
+lightrag,1,EmolTV,0.000096,organization,344,450
+lightrag,2,Cooperativa Deportes,0.000061,organization,148,107
+lightrag,3,Artículos 1 al 45,0.000060,content,45,0
+neo4j,1,Chile,0.006738,organization,24555,1836
+neo4j,2,Estados Unidos,0.002448,organization,9977,1092
+neo4j,3,Santiago,0.001921,organization,6322,424

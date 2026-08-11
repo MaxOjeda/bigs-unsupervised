@@ -1,0 +1,7 @@
+query,neo4j,graphrag,graphify,lightrag
+entity_lookup_and_neighbors,direct,direct,direct,direct
+filter_by_node_type_or_property,direct,direct,limited,direct
+filter_by_relation_label,direct,none,limited,none
+multi_edge_labeled_patterns,direct,none,limited,none
+path_finding,direct,direct,direct,direct
+paths_restricted_by_relation_label,direct,none,limited,none

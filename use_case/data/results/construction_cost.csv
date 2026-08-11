@@ -1,0 +1,5 @@
+program,runtime_hours,runtime_display,average_units_per_hour,peak_rss_gib,disk_read_gib,disk_written_gib,output_gb,measurement_note
+graphrag,22.4667,22h 28m,3430,33.4,6.2,4.5,2.7,complete selected corpus
+graphify,42.0333,42h 02m,1833,9.1,9.3,1.8,1.1,cache reused for 37947 inputs
+lightrag,42.7667,42h 46m,1802,30.6,64.5,217.3,5.6,complete selected corpus
+neo4j,174.8500,174h 51m,441,21.7,21.0,41.7,6.1,run covered a larger corpus and reached 125350 inputs

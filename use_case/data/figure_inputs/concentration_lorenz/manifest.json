@@ -1,0 +1,14 @@
+{
+  "schema_version": "bigs-concentration-lorenz-v1",
+  "definition": "Lorenz curves over positive nearest-match selection counts, ordered from least to most selected",
+  "entries": [
+    {"program": "graphify", "direction": "right", "query_count": 1083279, "distinct_targets": 252273, "singleton_targets": 116520, "max_count": 1755, "curve": "graphify-right.csv"},
+    {"program": "graphrag", "direction": "right", "query_count": 1083279, "distinct_targets": 338224, "singleton_targets": 187032, "max_count": 1161, "curve": "graphrag-right.csv"},
+    {"program": "lightrag", "direction": "right", "query_count": 1083279, "distinct_targets": 516547, "singleton_targets": 316357, "max_count": 1482, "curve": "lightrag-right.csv"},
+    {"program": "neo4j", "direction": "right", "query_count": 1083279, "distinct_targets": 210192, "singleton_targets": 101099, "max_count": 2259, "curve": "neo4j-right.csv"},
+    {"program": "graphify", "direction": "left", "query_count": 786238, "distinct_targets": 200866, "singleton_targets": 94666, "max_count": 16994, "curve": "graphify-left.csv"},
+    {"program": "graphrag", "direction": "left", "query_count": 1070331, "distinct_targets": 319997, "singleton_targets": 157673, "max_count": 64212, "curve": "graphrag-left.csv"},
+    {"program": "lightrag", "direction": "left", "query_count": 1456043, "distinct_targets": 532700, "singleton_targets": 214646, "max_count": 578, "curve": "lightrag-left.csv"},
+    {"program": "neo4j", "direction": "left", "query_count": 734650, "distinct_targets": 130866, "singleton_targets": 76142, "max_count": 48043, "curve": "neo4j-left.csv"}
+  ]
+}

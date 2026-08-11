@@ -1,0 +1,87 @@
+\documentclass[tikz,border=2pt]{standalone}
+\usepackage{pgfplots}
+\usepgfplotslibrary{groupplots}
+\pgfplotsset{compat=1.18}
+\input{colorscheme.tex}
+
+\begin{document}
+\begin{tikzpicture}
+\begin{groupplot}[
+  group style={group size=2 by 1, horizontal sep=1.05cm},
+  width=7.25cm,
+  height=6.0cm,
+  xmin=0,
+  xmax=100,
+  ymin=0,
+  ymax=100,
+  xtick={0,20,40,60,80,100},
+  ytick={0,20,40,60,80,100},
+  xlabel={Cumulative selected targets (\%)},
+  grid=major,
+  grid style={draw=paperSurfaceZero, line width=0.35pt},
+  axis line style={draw=paperText},
+  tick style={draw=paperText},
+  tick label style={font=\small, text=paperText},
+  label style={font=\small, text=paperText},
+  title style={font=\small, text=paperText},
+  legend style={
+    font=\scriptsize,
+    draw=none,
+    fill=none,
+    at={(0.5,-0.27)},
+    anchor=north,
+    legend columns=2,
+    column sep=5pt,
+  },
+  every axis plot/.append style={line width=1.25pt, no marks},
+]
+
+\nextgroupplot[
+  title={(a) BIGS$\rightarrow$: documents to graph},
+  ylabel={Cumulative assignments (\%)},
+]
+\addplot[draw=paperOverlayOne, dashed, line width=0.8pt, forget plot]
+  coordinates {(0,0) (100,100)};
+\addplot[draw=paperBlue]
+  table[x=cumulative_targets_percent,y=cumulative_assignments_percent,col sep=comma]
+  {../data/figure_inputs/concentration_lorenz/graphify-right.csv};
+\addlegendentry{Graphify}
+\addplot[draw=paperMauve]
+  table[x=cumulative_targets_percent,y=cumulative_assignments_percent,col sep=comma]
+  {../data/figure_inputs/concentration_lorenz/graphrag-right.csv};
+\addlegendentry{GraphRAG}
+\addplot[draw=paperTeal]
+  table[x=cumulative_targets_percent,y=cumulative_assignments_percent,col sep=comma]
+  {../data/figure_inputs/concentration_lorenz/lightrag-right.csv};
+\addlegendentry{LightRAG}
+\addplot[draw=paperRed]
+  table[x=cumulative_targets_percent,y=cumulative_assignments_percent,col sep=comma]
+  {../data/figure_inputs/concentration_lorenz/neo4j-right.csv};
+\addlegendentry{Neo4j}
+
+\nextgroupplot[
+  title={(b) BIGS$\leftarrow$: graph to documents},
+  yticklabels=\empty,
+]
+\addplot[draw=paperOverlayOne, dashed, line width=0.8pt, forget plot]
+  coordinates {(0,0) (100,100)};
+\addplot[draw=paperBlue]
+  table[x=cumulative_targets_percent,y=cumulative_assignments_percent,col sep=comma]
+  {../data/figure_inputs/concentration_lorenz/graphify-left.csv};
+\addlegendentry{Graphify}
+\addplot[draw=paperMauve]
+  table[x=cumulative_targets_percent,y=cumulative_assignments_percent,col sep=comma]
+  {../data/figure_inputs/concentration_lorenz/graphrag-left.csv};
+\addlegendentry{GraphRAG}
+\addplot[draw=paperTeal]
+  table[x=cumulative_targets_percent,y=cumulative_assignments_percent,col sep=comma]
+  {../data/figure_inputs/concentration_lorenz/lightrag-left.csv};
+\addlegendentry{LightRAG}
+\addplot[draw=paperRed]
+  table[x=cumulative_targets_percent,y=cumulative_assignments_percent,col sep=comma]
+  {../data/figure_inputs/concentration_lorenz/neo4j-left.csv};
+\addlegendentry{Neo4j}
+
+\end{groupplot}
+\end{tikzpicture}
+\end{document}

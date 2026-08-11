@@ -8,7 +8,7 @@
 
 ```bash
 # 1️⃣ Clone the repo and enter it
-git clone <repo-url> bigs-unsupervised
+git clone https://github.com/MaxOjeda/bigs-unsupervised.git
 cd bigs-unsupervised
 
 # 2️⃣ Create and activate a conda environment
@@ -45,6 +45,12 @@ export OPENAI_API_KEY="sk-..."
 ├── results/                      # auto-generated CSV files
 │   ├── scalability/
 │   └── CSV files
+│
+├── use_case/                    # Chilean-news case-study artifacts
+│   ├── data/                    # compact result and figure inputs
+│   ├── scripts/                 # figure-reproduction programs
+│   ├── figure_sources/          # canonical LaTeX figure sources
+│   └── tests/                   # consistency checks
 │
 └── README.md
 ```
@@ -96,3 +102,20 @@ Experiments on Japan and Croatia datasets:
 ```bash
 python run_bigs.py
 ```
+
+## Chilean news use case
+
+The `use_case/` directory contains the compact data, figures, and scripts that
+support the paper's Chilean-news comparison of Graphify, GraphRAG, LightRAG,
+and the Neo4j LLM Knowledge Graph Builder. Large source articles, graph stores,
+embeddings, and row-level nearest-neighbor outputs are intentionally excluded.
+
+```bash
+cd use_case
+uv sync
+uv run pytest -q
+uv run python scripts/reproduce_figures.py
+```
+
+See [`use_case/README.md`](use_case/README.md) for the included results and the
+reproducibility boundary.

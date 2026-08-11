@@ -14,6 +14,27 @@ import matplotlib.pyplot as plt
 from textwrap import dedent
 
 
+PDF_METADATA = {"Creator": "bigs_naive_vs_faiss.py"}
+
+PALETTE = {
+    "red": "#d20f39",
+    "maroon": "#e64553",
+    "teal": "#179299",
+    "sapphire": "#209fb5",
+    "blue": "#1e66f5",
+    "text": "#4c4f69",
+    "overlay1": "#8c8fa1",
+}
+
+COMPONENT_A = PALETTE["sapphire"]
+COMPONENT_B = PALETTE["maroon"]
+FIG5_EMBEDDING = PALETTE["red"]
+FIG5_SEARCH = PALETTE["blue"]
+FIG5_TOTAL = PALETTE["teal"]
+TEXT = PALETTE["text"]
+GRID = PALETTE["overlay1"]
+
+
 serialized_triples_list = []
 sentences_list = []
 
@@ -351,77 +372,102 @@ for use_faiss in [False, True]:
     
 ################### PLOTS #######################
 
-csv_path = Path("results/scalability/scalability_experiments.csv")
-df = pd.read_csv(csv_path)
-df = df.sort_values("samples")
-df["method"] = "hnsw"
+def setup_plot_style() -> None:
+    plt.rcParams.update(
+        {
+            "font.family": "serif",
+            "font.serif": ["Times New Roman", "Times", "DejaVu Serif"],
+            "mathtext.fontset": "dejavuserif",
+            "font.size": 11,
+            "axes.labelsize": 11,
+            "axes.titlesize": 10,
+            "xtick.labelsize": 9,
+            "ytick.labelsize": 9,
+            "legend.fontsize": 9,
+            "axes.spines.top": False,
+            "axes.spines.right": False,
+            "axes.grid": True,
+            "grid.color": GRID,
+            "grid.linewidth": 0.55,
+            "grid.alpha": 0.22,
+            "axes.axisbelow": True,
+            "savefig.dpi": 300,
+            "savefig.bbox": "tight",
+            "savefig.pad_inches": 0.08,
+            "pdf.fonttype": 42,
+            "ps.fonttype": 42,
+        }
+    )
 
-N = df["samples"].to_numpy()
 
-# ---------- helper: fit slope (scaling exponent) ----------
-def lin_slope(x, y):
-    x = np.asarray(x, float); y = np.asarray(y, float)
-    m = (x > 0) & (y > 0)
-    if m.sum() < 2:
-        return np.nan
-    return np.polyfit(x[m], y[m], 1)[0]
+def save_pdf_png(fig: plt.Figure, out_dir: Path, filename: str) -> None:
+    stem = Path(filename).with_suffix("").name
+    defaults = {"bbox_inches": "tight", "pad_inches": 0.08, "facecolor": "white"}
+    fig.savefig(out_dir / f"{stem}.pdf", metadata=PDF_METADATA, **defaults)
+    fig.savefig(out_dir / f"{stem}.png", dpi=300, **defaults)
+    print(f"Saved {out_dir / f'{stem}.pdf'}")
+    print(f"Saved {out_dir / f'{stem}.png'}")
 
-# ---------- 1) TIME PLOT (linear, by method) ----------
-plt.figure(figsize=(9,5))
-for method in df['method'].unique():
-    d = df[df['method'] == method]
-    N_m = d['samples'].to_numpy()
-    plt.plot(N_m, d['encode_time_s'], 'o-', label=f"Encode time ({method})")
-    plt.plot(N_m, d['search_time_s'], 'o-', label=f"Index+Search time ({method})")
-    plt.plot(N_m, d['total_time_s'],  'o-', label=f"Total time ({method})")
-    # Add text annotations for N
-    for i, txt in enumerate(N_m):
+
+def load_scalability_results(csv_path: Path) -> pd.DataFrame:
+    df = pd.read_csv(csv_path).sort_values("samples").reset_index(drop=True)
+    if "method" not in df.columns:
+        df["method"] = np.where(df["faiss"].astype(str).str.lower() == "true", "faiss", "naive")
+    df["method"] = df["method"].replace({"hnsw": "faiss"})
+    df = df.drop_duplicates(subset=["method", "samples"], keep="last")
+    return df
+
+
+def plot_hnsw_components(df: pd.DataFrame, out_dir: Path) -> None:
+    d = df[df["method"] == "faiss"].sort_values("samples")
+    samples = d["samples"].to_numpy(dtype=float)
+    encode = d["encode_time_s"].to_numpy(dtype=float)
+    search = d["search_time_s"].to_numpy(dtype=float)
+    total = d["total_time_s"].to_numpy(dtype=float)
+
+    fig, ax = plt.subplots(figsize=(9, 5), constrained_layout=True)
+    ax.plot(samples, encode, "o-", label="Embedding time", color=FIG5_EMBEDDING, linewidth=1.8, markersize=5)
+    ax.plot(samples, search, "o-", label="HNSW index + search time", color=FIG5_SEARCH, linewidth=1.8, markersize=5)
+    ax.plot(samples, total, "o-", label="Total efficient time", color=FIG5_TOTAL, linewidth=1.8, markersize=5)
+    for i in range(len(samples)):
         if i > 2:
-            plt.annotate(f"{d['encode_time_s'].iloc[i]:.0f}", (N_m[i], d["encode_time_s"].iloc[i]), textcoords="offset points", xytext=(0,10), ha='center', fontsize=8)
-            plt.annotate(f"{d['search_time_s'].iloc[i]:.0f}", (N_m[i], d["search_time_s"].iloc[i]), textcoords="offset points", xytext=(0,-15), ha='center', fontsize=8)
-            plt.annotate(f"{d['total_time_s'].iloc[i]:.0f}", (N_m[i], d["total_time_s"].iloc[i]), textcoords="offset points", xytext=(0,25), ha='center', fontsize=8)
+            ax.annotate(f"{encode[i]:.0f}", (samples[i], encode[i]), textcoords="offset points", xytext=(0, 10), ha="center", fontsize=8)
+            ax.annotate(f"{search[i]:.0f}", (samples[i], search[i]), textcoords="offset points", xytext=(0, -15), ha="center", fontsize=8)
+            ax.annotate(f"{total[i]:.0f}", (samples[i], total[i]), textcoords="offset points", xytext=(0, 25), ha="center", fontsize=8)
 
-plt.xlabel("Dataset size N")
-plt.ylabel("Time (seconds)")
-plt.title("Relationship Between Dataset Size and Runtime Components.")
-plt.ylim(0, 5500)
-plt.grid(True, which="both", ls="--", lw=0.5)
-plt.legend()
-plt.tight_layout()
+    ax.set_xlabel("Dataset size N")
+    ax.set_ylabel("Time (seconds)")
+    ax.set_ylim(0, 5500)
+    ax.grid(True, which="both", linestyle="--", linewidth=0.45, color=GRID, alpha=0.24)
+    ax.legend(loc="upper left", frameon=False)
+    save_pdf_png(fig, out_dir, "bigs_hnsw_components.pdf")
+    plt.close(fig)
 
-out_png_time = csv_path.with_name("results/scalability/bigs_hnsw_components.png")
-plt.savefig(out_png_time, dpi=160)
-print(f"Saved {out_png_time}")
 
-# ---------- 2) TOTAL TIME ONLY (log-log, by method) ----------
+def plot_naive_vs_hnsw(df: pd.DataFrame, out_dir: Path) -> None:
+    labels = {"naive": "Total time (normal)", "faiss": "Total time (hnsw)"}
+    colors = {"naive": COMPONENT_B, "faiss": COMPONENT_A}
+
+    fig, ax = plt.subplots(figsize=(7, 5), constrained_layout=True)
+    for method in ("naive", "faiss"):
+        d = df[df["method"] == method].sort_values("samples")
+        samples = d["samples"].to_numpy(dtype=float)
+        total = d["total_time_s"].to_numpy(dtype=float)
+        ax.loglog(samples, total, "o-", label=labels[method], color=colors[method], linewidth=1.8, markersize=5)
+        for x, y in zip(samples, total):
+            ax.annotate(f"{int(x):d}", (x, y), textcoords="offset points", xytext=(0, 10), ha="center", fontsize=8)
+
+    ax.set_xlabel("Dataset size N")
+    ax.set_ylabel("Total Time (seconds)")
+    ax.set_ylim((80, 9000))
+    ax.grid(True, which="both", linestyle="--", linewidth=0.45, color=GRID, alpha=0.24)
+    ax.legend(loc="lower right", frameon=False)
+    save_pdf_png(fig, out_dir, "bigs_naive_vs_hnsw.pdf")
+    plt.close(fig)
+
+
 csv_path = Path("results/scalability/scalability_experiments.csv")
-df = pd.read_csv(csv_path)
-naive = df.iloc[:3].copy()
-hnsw = df.iloc[3:].copy()
-
-naive["method"] = "naive"
-hnsw["method"] = "hnsw"
-
-df = pd.concat([naive, hnsw], ignore_index=True)
-
-N = df["samples"].to_numpy()
-
-plt.figure(figsize=(7,5))
-for method in df['method'].unique():
-    d = df[df['method'] == method]
-    N_m = d['samples'].to_numpy()
-    plt.loglog(N_m, d['total_time_s'], 'o-', label=f"Total time ({method})")
-    for i, txt in enumerate(N_m):
-        plt.annotate(txt, (N_m[i], d["total_time_s"].iloc[i]), textcoords="offset points", xytext=(0,10), ha='center', fontsize=8)
-
-plt.xlabel("Dataset size N")
-plt.ylabel("Total Time (seconds)")
-plt.title("Total Runtime vs Dataset Size (Log–Log Scale)")
-plt.ylim((0, 9000))
-plt.grid(True, which="both", ls="--", lw=0.5)
-plt.legend()
-plt.tight_layout()
-
-out_png_total_time_log = csv_path.with_name("results/scalability/bigs_naive_vs_hnsw.png")
-plt.savefig(out_png_total_time_log, dpi=160)
-print(f"Saved {out_png_total_time_log}")
+setup_plot_style()
+scalability_df = load_scalability_results(csv_path)
+plot_hnsw_components(scalability_df, csv_path.parent)
+plot_naive_vs_hnsw(scalability_df, csv_path.parent)

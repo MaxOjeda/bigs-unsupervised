@@ -1,0 +1,9 @@
+program,direction,query_text,nearest_text,distance
+graphify,document_to_graph,¿Qué es la Listeria monocytogenes?,The principal suspect in the Madeleine McCann case was released from prison in Germany.,0.725
+graphrag,document_to_graph,El Ciudadano,A CIUDADANO is an INDIVIDUAL.,0.596
+lightrag,document_to_graph,France 24,France 24 se une a la petición conjunta.,0.600
+neo4j,document_to_graph,Agencia EFE,Fuentes Policiales confirmaron la información a EFE.,0.634
+graphify,graph_to_document,Daufer references J.C.C.M.,Lee más en El Mercurio.,0.645
+graphrag,graph_to_document,La Meseta de Loes es donde se desarrolló la cultura Longshan.,Lee más en El Mercurio.,0.710
+lightrag,graph_to_document,Joao Pedro nació en São Paulo.,Lee más en El Mercurio.,0.661
+neo4j,graph_to_document,Stathern Lodge is located in Melton.,Lee más en El Mercurio.,0.657

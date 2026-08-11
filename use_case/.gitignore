@@ -1,0 +1,31 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+.venv/
+dist/
+build/
+*.egg-info/
+
+# LaTeX build products
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.out
+*.synctex.gz
+
+# Large or non-redistributable source artifacts
+data/external/
+*.faiss
+*.sqlite
+*.db
+*.graphml
+*.parquet
+*.npy
+*.npz
+*.tar
+*.tar.gz
+*.zip

@@ -1,0 +1,10 @@
+statistic,value,unit
+news_articles,68569,articles
+document_units,1083279,sentences
+input_chunks,77048,chunks
+news_sources,6,sources
+language,Spanish,
+date_start,2025-06-01,date
+date_end,2025-12-24,date
+mean_sentence_length,166.88,characters
+median_sentence_length,154,characters

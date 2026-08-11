@@ -1,0 +1,9 @@
+program,direction,distance,item_label,item_text,evidence_label,evidence_text
+graphify,document_to_graph,0.507,Source sentence,¿Cuáles son los mayores riesgos que enfrenta Dignilife?,Nearest match,"The funeral of 'Baby Bandito' in Quilicura is considered a high-risk event."
+graphrag,document_to_graph,0.485,Source sentence,¿Qué críticas relevantes se hicieron antes de 1933?,Nearest match,The release of Arendt's book in 1963 was controversial.
+lightrag,document_to_graph,0.595,Source sentence,¿De qué trata Megalópolis?,Nearest match,La obra narra la historia de personajes enfrentando la situación.
+neo4j,document_to_graph,0.540,Source sentence,¿Por qué Valencia rechazó el reclamo de la familia de Julia Chuñil?,Nearest match,The proposal for sensitive subjects was rejected.
+graphify,graph_to_document,0.608,Graph content,Where to watch and what time is PSG vs Inter Miami for the World Club Championship quarterfinals?,Source evidence,"The match was in the round of 16, not the quarterfinals."
+graphrag,graph_to_document,0.650,Graph content,More than 50% of the Araucaria Araucana forests in Chile are located in the province of Malleco.,Source evidence,"Over half refers to La Araucanía's 83% share, not to all forests in Chile."
+lightrag,graph_to_document,0.625,Graph content,Carlos Alberto Mejía Hernández es conocido por el alias de Rey de Meiggs.,Source evidence,"The alias belongs to José Felipe Reyes Ossa; Mejía was an alleged killer."
+neo4j,graph_to_document,0.615,Graph content,The Teatro Del Puente is located in Pío Nono.,Source evidence,"The theater is between the Pío Nono and Purísima bridges, not inside Pío Nono."

@@ -1,0 +1,17 @@
+program,band,band_order,percentile_range,reviewed,noise,noise_rate
+graphify,body,0,P0--P90,500,3,0.006
+graphify,high,1,P90--P99,500,0,0.0
+graphify,very_high,2,P99--P99.9,500,0,0.0
+graphify,extreme,3,P99.9--P100,787,4,0.005082592121982211
+graphrag,body,0,P0--P90,500,1,0.002
+graphrag,high,1,P90--P99,500,0,0.0
+graphrag,very_high,2,P99--P99.9,500,0,0.0
+graphrag,extreme,3,P99.9--P100,1070,4,0.003738317757009346
+lightrag,body,0,P0--P90,499,3,0.006012024048096192
+lightrag,high,1,P90--P99,500,1,0.002
+lightrag,very_high,2,P99--P99.9,499,3,0.006012024048096192
+lightrag,extreme,3,P99.9--P100,1452,29,0.01997245179063361
+neo4j,body,0,P0--P90,500,0,0.0
+neo4j,high,1,P90--P99,500,0,0.0
+neo4j,very_high,2,P99--P99.9,500,0,0.0
+neo4j,extreme,3,P99.9--P100,735,1,0.0013605442176870747

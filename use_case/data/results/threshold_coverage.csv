@@ -1,0 +1,6 @@
+program,threshold,graph_units,covered_document_units,uncovered_document_units,covered_percent,uncovered_percent,uncovered_per_graph_unit_percent
+graphify,0.43,786238,1038105,45174,95.829883,4.170117,5.746
+graphrag,0.43,1070331,1055326,27953,97.419594,2.580406,2.612
+lightrag,0.43,1456043,1079023,4256,99.607119,0.392881,0.292
+neo4j,0.43,734650,1048919,34360,96.828149,3.171851,4.677
+uncovered_by_all_four,0.43,,,801,,0.073942,

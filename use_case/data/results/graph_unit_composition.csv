@@ -1,0 +1,5 @@
+program,triples,relation_descriptions,total_graph_units,description_share_percent,predicates,repeated_statements
+graphify,786238,0,786238,0.00,169,20623
+graphrag,466636,603695,1070331,56.40,2,0
+lightrag,493141,962902,1456043,66.13,1,0
+neo4j,734650,0,734650,0.00,35,0

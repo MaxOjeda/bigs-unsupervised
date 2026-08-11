@@ -1,0 +1,5 @@
+program,mean_degree,median_degree,p95_degree,p99_degree,max_degree
+graphify,3.64,2,9,22,19217
+graphrag,5.17,2,14,52,14606
+lightrag,3.91,1,11,39,15167
+neo4j,6.19,2,20,59,26391

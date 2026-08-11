@@ -1,0 +1,6 @@
+program,uncovered_document_sentences,hallucinated_graph_units
+graphify,13,17
+graphrag,11,6
+lightrag,5,5
+neo4j,16,32
+total,45,60

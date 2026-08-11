@@ -1,11 +1,12 @@
 from pathlib import Path
+import math
 from sentence_transformers import SentenceTransformer
 import faiss
 import numpy as np
 from tqdm.auto import tqdm
 import pandas as pd
-import seaborn as sns
 import matplotlib.pyplot as plt
+from matplotlib.colors import LinearSegmentedColormap
 from scipy import stats
 
 
@@ -227,94 +228,159 @@ japan_df = bigs_df[bigs_df["dataset"] == "japan"]
 croatia_df = bigs_df[bigs_df["dataset"] == "croatia"]
 
 
-# Size controls
-ANNOT_SIZE = 12
-TICK_SIZE = 12
-CBAR_TICK_SIZE = 12
+PDF_METADATA = {"Creator": "bigs_verbalization_comparison.py"}
+
+PALETTE = {
+    "teal": "#179299",
+    "sky": "#04a5e5",
+    "sapphire": "#209fb5",
+    "blue": "#1e66f5",
+    "text": "#4c4f69",
+    "overlay1": "#8c8fa1",
+}
+
+TEXT = PALETTE["text"]
+GRID = PALETTE["overlay1"]
+
+METHOD_ORDER = [
+    "llm",
+    "llm_local",
+    "prefix",
+    "random",
+    "concat_spo",
+    "concat_sop",
+    "concat_pos",
+    "concat_pso",
+    "concat_ops",
+    "concat_osp",
+]
+
+METHOD_LABELS = {
+    "llm": "LLM API",
+    "llm_local": "Llama",
+    "prefix": "S:P:O",
+    "random": "Random",
+    "concat_spo": "SPO",
+    "concat_sop": "SOP",
+    "concat_pos": "POS",
+    "concat_pso": "PSO",
+    "concat_ops": "OPS",
+    "concat_osp": "OSP",
+}
 
 
-def plot_method_correlations(df: pd.DataFrame, name: str, target: str, out_dir: Path):
-    """Spearman correlation between selected verbalization methods for a given metric."""
-    methods_of_interest = [
-        "llm",
-        "llm_local",
-        "prefix",
-        "random",
-        "concat_spo",
-        "concat_sop",
-        "concat_pos",
-        "concat_pso",
-        "concat_ops",
-        "concat_osp",
-    ]
+def setup_plot_style() -> None:
+    plt.rcParams.update(
+        {
+            "font.family": "serif",
+            "font.serif": ["Times New Roman", "Times", "DejaVu Serif"],
+            "mathtext.fontset": "dejavuserif",
+            "font.size": 11,
+            "axes.labelsize": 11,
+            "axes.titlesize": 10,
+            "xtick.labelsize": 9,
+            "ytick.labelsize": 9,
+            "legend.fontsize": 9,
+            "axes.spines.top": False,
+            "axes.spines.right": False,
+            "axes.grid": True,
+            "grid.color": GRID,
+            "grid.linewidth": 0.55,
+            "grid.alpha": 0.22,
+            "axes.axisbelow": True,
+            "savefig.dpi": 300,
+            "savefig.bbox": "tight",
+            "savefig.pad_inches": 0.08,
+            "pdf.fonttype": 42,
+            "ps.fonttype": 42,
+        }
+    )
 
+
+def save_pdf_png(fig: plt.Figure, out_dir: Path, filename: str) -> None:
+    stem = Path(filename).with_suffix("").name
+    defaults = {"bbox_inches": "tight", "pad_inches": 0.08, "facecolor": "white"}
+    fig.savefig(out_dir / f"{stem}.pdf", metadata=PDF_METADATA, **defaults)
+    fig.savefig(out_dir / f"{stem}.png", dpi=300, **defaults)
+
+
+def verbalization_correlation_matrix(df: pd.DataFrame, target: str) -> np.ndarray:
     if target not in df.columns:
-        print(f"{name}: column '{target}' missing; skipping")
-        return
+        raise KeyError(f"Missing column: {target}")
 
-    pivot = df[df["verbalization_method"].isin(methods_of_interest)].pivot_table(
+    pivot = df[df["verbalization_method"].isin(METHOD_ORDER)].pivot_table(
         index="filename",
         columns="verbalization_method",
         values=target,
         aggfunc="mean",
     )
+    pivot = pivot[[method for method in METHOD_ORDER if method in pivot.columns]]
 
-    # ensure consistent column order
-    pivot = pivot[[m for m in methods_of_interest if m in pivot.columns]]
-    pivot = pivot.dropna(how="all", axis=1)
-
-    if pivot.shape[1] < 2:
-        print(f"{name}: not enough methods with data for {target}")
-        return
-
-    methods = pivot.columns.tolist()
-    corr_mat = pd.DataFrame(index=methods, columns=methods, dtype=float)
-    pvals = pd.DataFrame(index=methods, columns=methods, dtype=float)
-
-    for i, ci in enumerate(methods):
-        for j, cj in enumerate(methods):
-            if i == j:
-                corr_mat.loc[ci, cj] = 1.0
-                pvals.loc[ci, cj] = 0.0
-                continue
-            if j < i:
-                continue
-            paired = pivot[[ci, cj]].dropna()
+    matrix = np.full((len(METHOD_ORDER), len(METHOD_ORDER)), np.nan)
+    index = {method: i for i, method in enumerate(METHOD_ORDER)}
+    for method_a in pivot.columns:
+        for method_b in pivot.columns:
+            paired = pivot[[method_a, method_b]].dropna()
             if len(paired) < 3:
-                r, p = float("nan"), float("nan")
+                continue
+            if method_a == method_b:
+                rho = 1.0
             else:
-                r, p = stats.spearmanr(paired[ci], paired[cj])
-            corr_mat.loc[ci, cj] = corr_mat.loc[cj, ci] = r
-            pvals.loc[ci, cj] = pvals.loc[cj, ci] = p
+                result = stats.spearmanr(paired[method_a], paired[method_b])
+                rho = float(getattr(result, "correlation", result[0]))
+            matrix[index[method_a], index[method_b]] = rho
 
-    print(f"{name} – {target} (Spearman)")
-    print("P-values: ", pvals)
+    return matrix
 
-    plt.figure(figsize=(8, 6))
-    ax = sns.heatmap(
-        corr_mat,
-        annot=True,
-        annot_kws={"size": ANNOT_SIZE},
-        cmap="mako",
-        vmin=-1,
-        vmax=1,
-        square=True,
-        cbar=True,
-        linewidths=0,
-        linecolor="white",
+
+def plot_verbalization_heatmap(df: pd.DataFrame, target: str, out_dir: Path, filename: str) -> None:
+    matrix = verbalization_correlation_matrix(df, target)
+    fig, ax = plt.subplots(figsize=(7.2, 6.1), constrained_layout=True)
+    cmap = LinearSegmentedColormap.from_list(
+        "correlation_strength",
+        [
+            PALETTE["teal"],
+            PALETTE["sapphire"],
+            PALETTE["sky"],
+            PALETTE["blue"],
+        ],
     )
-    plt.xticks(fontsize=TICK_SIZE)
-    plt.yticks(fontsize=TICK_SIZE)
-    cbar = ax.collections[0].colorbar if ax.collections else None
-    if cbar is not None:
-        cbar.ax.tick_params(labelsize=CBAR_TICK_SIZE)
-    plt.tight_layout()
-    filename = f"corr_{name.lower()}_{target}.png".replace(" ", "_")
-    out_path = out_dir / filename
-    plt.savefig(out_path, dpi=300, bbox_inches="tight")
-    plt.close()
+    im = ax.imshow(matrix, vmin=0.70, vmax=1.00, cmap=cmap)
+    for i in range(matrix.shape[0]):
+        for j in range(matrix.shape[1]):
+            value = matrix[i, j]
+            if not math.isnan(value):
+                label = "1.00" if value >= 0.995 else f"{value:.2f}"
+                red, green, blue, _alpha = cmap(im.norm(value))
+                luminance = 0.299 * red + 0.587 * green + 0.114 * blue
+                text_color = "white" if luminance < 0.58 else TEXT
+                ax.text(j, i, label, ha="center", va="center", color=text_color, fontsize=8.2)
 
-    print(f"Saved plot to {out_path}")
+    ax.set_xticks(range(len(METHOD_ORDER)))
+    ax.set_xticklabels(
+        [METHOD_LABELS[method] for method in METHOD_ORDER],
+        rotation=45,
+        ha="right",
+        rotation_mode="anchor",
+    )
+    ax.set_yticks(range(len(METHOD_ORDER)))
+    ax.set_yticklabels([METHOD_LABELS[method] for method in METHOD_ORDER])
+    ax.set_xticks(np.arange(-0.5, len(METHOD_ORDER), 1), minor=True)
+    ax.set_yticks(np.arange(-0.5, len(METHOD_ORDER), 1), minor=True)
+    ax.grid(which="minor", color="white", linewidth=0.8)
+    ax.tick_params(which="minor", bottom=False, left=False)
+    ax.tick_params(axis="both", labelsize=9, length=0)
+    ax.grid(False)
+    for spine in ax.spines.values():
+        spine.set_visible(False)
+    cbar = fig.colorbar(im, ax=ax, fraction=0.045, pad=0.035)
+    cbar.ax.tick_params(labelsize=8)
+    cbar.set_label("Spearman $\\rho$", fontsize=9)
+    save_pdf_png(fig, out_dir, filename)
+    plt.close(fig)
+
+    print(f"Saved plot to {out_dir / Path(filename).with_suffix('.pdf').name}")
+    print(f"Saved plot to {out_dir / Path(filename).with_suffix('.png').name}")
 
 
 if __name__ == "__main__":
@@ -322,10 +388,28 @@ if __name__ == "__main__":
     OUTPUT_DIR = Path("./results/verbalization")
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
 
-    for name, df in [
-        ("Japan", japan_df),
-        ("Croatia", croatia_df),
-        ("Combined", combined_df),
+    setup_plot_style()
+    for dataset_name, dataset_df in [
+        ("japan", japan_df),
+        ("croatia", croatia_df),
     ]:
-        for target in ["score_r_mean", "score_l_mean"]:
-            plot_method_correlations(df, name, target, OUTPUT_DIR)
+        for target in ["score_l_mean", "score_r_mean"]:
+            plot_verbalization_heatmap(
+                dataset_df,
+                target,
+                OUTPUT_DIR,
+                f"corr_{dataset_name}_{target}.pdf",
+            )
+
+    plot_verbalization_heatmap(
+        combined_df,
+        "score_l_mean",
+        OUTPUT_DIR,
+        "verbalization_bigs_l_full.pdf",
+    )
+    plot_verbalization_heatmap(
+        combined_df,
+        "score_r_mean",
+        OUTPUT_DIR,
+        "verbalization_bigs_r_full.pdf",
+    )

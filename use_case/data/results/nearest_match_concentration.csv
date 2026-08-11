@@ -1,0 +1,9 @@
+program,direction,queries,selected_targets,selected_once,largest_count
+graphify,document_to_graph,1083279,252273,116520,1755
+graphrag,document_to_graph,1083279,338224,187032,1161
+lightrag,document_to_graph,1083279,516547,316357,1482
+neo4j,document_to_graph,1083279,210192,101099,2259
+graphify,graph_to_document,786238,200866,94666,16994
+graphrag,graph_to_document,1070331,319997,157673,64212
+lightrag,graph_to_document,1456043,532700,214646,578
+neo4j,graph_to_document,734650,130866,76142,48043

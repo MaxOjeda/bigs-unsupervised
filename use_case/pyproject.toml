@@ -1,0 +1,18 @@
+[project]
+name = "bigs-news-use-case-artifacts"
+version = "1.0.0"
+description = "Compact results and figure code for the BIGS Chilean news use case"
+requires-python = ">=3.11"
+dependencies = [
+  "matplotlib>=3.8",
+  "numpy>=1.26",
+]
+
+[dependency-groups]
+dev = [
+  "pytest>=8",
+]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"

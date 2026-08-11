@@ -1,0 +1,7 @@
+program_a,program_b,a_wins,a_wins_percent,b_wins,b_wins_percent,ties,ties_percent,total_document_units,tie_tolerance
+graphify,graphrag,345750,31.92,543222,50.15,194307,17.94,1083279,0.01
+graphify,lightrag,98866,9.13,907171,83.74,77242,7.13,1083279,0.01
+graphify,neo4j,428793,39.58,477464,44.08,177022,16.34,1083279,0.01
+graphrag,lightrag,115230,10.64,877902,81.04,90147,8.32,1083279,0.01
+graphrag,neo4j,504239,46.55,364718,33.67,214322,19.78,1083279,0.01
+lightrag,neo4j,883970,81.60,118766,10.96,80543,7.44,1083279,0.01

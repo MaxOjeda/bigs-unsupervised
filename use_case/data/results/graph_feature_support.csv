@@ -1,0 +1,7 @@
+feature,neo4j,graphrag,graphify,lightrag
+labeled_edges,direct,none,limited,none
+controlled_schema,direct,limited,limited,limited
+entity_merging,limited,limited,none,limited
+descriptions_and_properties,direct,direct,limited,direct
+knowledge_graph_embeddings,direct,limited,limited,limited
+rule_learning,direct,none,limited,none
